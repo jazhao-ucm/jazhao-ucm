@@ -16,7 +16,7 @@ when i’m not coding or designing, you’ll find me café-hopping, blogging abo
 • **AI DEVELOPMENT**: agentic ai for healthcare, education, and small business workflows. built tools that cut admin workload by 25-40% and increased student engagement by 45%.
 • **USER-CENTERED DESIGN**: redesigned websites for accessibility (e.g., middle way house for domestic violence survivors) and created responsive platforms with ai-driven personalization.
 • **TEAM LEADERSHIP**: coordinated cross-functional teams, accelerated project delivery by 20%, and led ai career guide projects with 50,000+ impressions.
-• **RESEARCH**: undergraduate research assistant at iu luddy—hipaa-compliant databases, real-time patient monitoring, and ethical ai safeguards.
+• **RESEARCH**: undergraduate research assistant at iu luddy...hipaa-compliant databases, real-time patient monitoring, and ethical ai safeguards.
 • **MENTORSHIP**: peer mentor at iu office of student life and handshake influencer at iu luddy career services. developed ai-integrated career guides and resume workshops for 150+ students.
 
 ---
@@ -61,7 +61,7 @@ english (fluent), spanish (learning...ask me in 6 months), mandarin (conversatio
 ---
 
 ## LET’S CONNECT
-i’m always open to collaborations, feedback, or just chatting about ethical tech, ai, or the best cafés in madrid. find me on [linkedin](yourlinkedin.com) or email me at [your email].
+i’m always open to collaborations, feedback, or just chatting about ethical tech, ai, or the best cafés in madrid. find me on [linkedin](www.linkedin.com/in/jadexzhao) or email me at [mailto:jazhao@ucm.es].
 
 ---
 **LAST UPDATED**: january 2026
