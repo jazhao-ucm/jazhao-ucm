@@ -16,7 +16,7 @@ when i’m not coding or designing, i’m probably café hopping, blogging about
 • ai development: agentic ai for healthcare, education, and small business workflows. built tools that cut admin workload by 25 40% and increased student engagement by 45%
 • user centered design: redesigned websites for accessibility (e.g., middle way house) and created responsive platforms with ai driven personalization
 • team leadership: coordinated cross functional teams, accelerated project delivery by 20%, and led ai career guide projects with 50000+ impressions
-• research: undergraduate research assistant at iu luddy—hipaa compliant databases, real time patient monitoring, and ethical ai safeguards
+• research: undergraduate research assistant at iu luddy...hipaa compliant databases, real time patient monitoring, and ethical ai safeguards
 • mentorship: peer mentor at iu office of student life and handshake influencer at iu luddy career services. developed ai integrated career guides and resume workshops for 150+ students
 
 ---
