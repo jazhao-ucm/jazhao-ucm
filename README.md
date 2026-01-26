@@ -1,103 +1,67 @@
-# Hola, soy Jade Zhao
-**Informática Student · AI Builder · Designer**
-
-Building ethical, accessible AI that helps people live and work better.
+# JADE ZHAO
+**INFORMATICS STUDENT | AI BUILDER | DESIGNER**
 
 ---
 
-## About Me
-Hola! I’m **Jade**, an informática student at **Indiana University** (graduating **Spring 2027**) and a **Hudson & Holland Scholar**. I design and build **AI-powered, user-centered tools** for healthcare, education, and small businesses, with a strong focus on accessibility and ethical technology.
+## ABOUT ME
+i’m jade, an informatics student at indiana university (graduating spring 2027) and a hudson and holland scholar. i build ai tools, design user-centered tech, and help small businesses/organizations adapt to digital challenges. my work focuses on the intersection of people, technology, and innovation—creating solutions that improve how people live, connect, and thrive.
 
-I’m currently studying abroad in **Madrid** at **Universidad Complutense de Madrid**, supported by the **Luddy Study Abroad Scholarship** and the **Hutton International Experiences Program Grant**. Through this experience, I’m exploring how different communities approach technology and incorporating global perspectives into my AI and design work.
+currently studying abroad in madrid at universidad complutense de madrid (supported by the luddy study abroad scholarship and hutton international experiences program grant). here to explore how different communities approach tech, challenge my assumptions, and bring global perspectives back to my work.
 
-Outside of academics and projects, I enjoy café-hopping, writing about ethical tech, and trying (and sometimes failing) to keep my jade plants alive.
-
----
-
-## What I Do
-
-### AI Development
-- Build agentic AI systems for healthcare, education, and small business workflows  
-- Reduced administrative workload by **25 - 40%**  
-- Increased student engagement by **45%**
-
-### User-Centered Design
-- Design accessible, responsive digital experiences  
-- Led accessibility-focused website redesigns (e.g., *Middle Way House*)  
-- Created platforms with AI-driven personalization
-
-### Team Leadership
-- Coordinated cross-functional teams, accelerating project delivery by **20%**  
-- Led AI career guide initiatives with **50,000+ impressions**
-
-### Research
-- Undergraduate Research Assistant at **IU Luddy School of Informatics**  
-- Worked on HIPAA-compliant databases, real-time patient monitoring systems, and ethical AI safeguards
-
-### Mentorship & Outreach
-- Peer Mentor at **IU Office of Student Life**  
-- Handshake Influencer for **IU Luddy Career Services**  
-- Developed AI-integrated career guides and resume workshops for **150+ students**
+when i’m not coding or designing, you’ll find me café-hopping, blogging about ethical tech, or trying (and sometimes failing) to keep my jade plants alive.
 
 ---
 
-## Skills
-
-### Technical
-- SQL · Python · Microsoft Access  
-- HTML · Git/GitHub  
-- Agentic AI · LLM Ops · AI Engineering  
-- Adobe Illustrator & Photoshop  
-
-### Design & Professional
-- User Experience Design (UXD)  
-- Project Management  
-- Cross-Functional Collaboration  
-- Presentation Design  
-- Content Strategy  
-- Accessibility Advocacy  
-
-### Languages
-- English (Fluent)  
-- Spanish (Learning)  
-- Mandarin (Conversational)
+## WHAT I DO
+• **AI DEVELOPMENT**: agentic ai for healthcare, education, and small business workflows. built tools that cut admin workload by 25-40% and increased student engagement by 45%.
+• **USER-CENTERED DESIGN**: redesigned websites for accessibility (e.g., middle way house for domestic violence survivors) and created responsive platforms with ai-driven personalization.
+• **TEAM LEADERSHIP**: coordinated cross-functional teams, accelerated project delivery by 20%, and led ai career guide projects with 50,000+ impressions.
+• **RESEARCH**: undergraduate research assistant at iu luddy—hipaa-compliant databases, real-time patient monitoring, and ethical ai safeguards.
+• **MENTORSHIP**: peer mentor at iu office of student life and handshake influencer at iu luddy career services. developed ai-integrated career guides and resume workshops for 150+ students.
 
 ---
 
-## Projects
+## SKILLS
+**TECHNICAL**:
+sql, python, microsoft access, adobe illustrator/photoshop, html, git/github, agentic ai, llm ops, ai engineering
 
-### AI Career Guide
-- Led development of an AI-integrated career guide and resume workshop for **150+ IU students**  
-- Increased engagement by **45%** and generated **50,000+ impressions**  
-- Designed to support first-generation students through accessibility and confidence-building
+**SOFT**:
+user experience design (ued), project management, cross-functional collaboration, presentation design, content strategy, accessibility advocacy
 
-### HIPAA-Compliant Healthcare Databases
-- Designed secure, real-time patient monitoring systems using agentic AI  
-- Reduced administrative workload by **25 - 40%** through automated alerts and role-based access control
-
-### Small Business Digital Transition
-- Supported **10+ small businesses** in transitioning online  
-- Delivered web development, marketing, and AI workflow automation  
-- Improved turnaround time and reduced operational costs
-
-### Domestic Violence Survivor Website Redesign
-- Redesigned the *Middle Way House* website using accessibility, privacy, and trauma-informed design principles  
-- Conducted survivor interviews to guide empathetic, user-centered design
+**LANGUAGES**:
+english (fluent), spanish (learning—ask me in 6 months), mandarin (conversational)
 
 ---
 
-## Current Focus
-- Studying **Strategic Management, Product Management, and Beginner Spanish** at UCM Madrid  
-- Exploring Spain’s fintech ecosystem and startup culture  
-- Improving presentation skills through clearer slides, slower pacing, and stronger audience engagement
+## PROJECTS
+### **AI CAREER GUIDE**
+• led a team to develop an ai-integrated career guide and resume workshop for 150+ iu students.
+• increased student engagement by 45% and generated 50,000+ impressions.
+• focused on accessibility and first-gen student confidence.
+
+### **HIPAA-COMPLIANT HEALTHCARE DATABASES**
+• designed secure, real-time patient monitoring systems using agentic ai.
+• reduced admin workload by 25-40% with automated alerts and role-based access.
+
+### **SMALL BUSINESS DIGITAL TRANSITION**
+• helped 10+ small businesses pivot online during covid: web dev, marketing, and ai workflows.
+• automated scheduling and creative processes to cut costs and improve turnaround time.
+
+### **DOMESTIC VIOLENCE SURVIVOR WEBSITE REDESIGN**
+• redesigned middle way house website with accessibility and user privacy in mind.
+• conducted interviews with survivors to inform design choices.
 
 ---
 
-## Let’s Connect ☕
-I’m always open to collaborations, feedback, or conversations about ethical AI, user-centered design, or great cafés in Madrid.
-
-📧 **jlzhao@iu.edu**
+## CURRENT FOCUS
+• studying **strategic management, product management, and digital marketing** at ucm madrid.
+• exploring spain’s fintech innovations and how they bridge tradition with startup culture.
+• working on presentation skills: slowing down speech, simplifying slides, and engaging audiences better (duck memes included).
 
 ---
 
-*Last updated: January 2026*
+## LET’S CONNECT
+i’m always open to collaborations, feedback, or just chatting about ethical tech, ai, or the best cafés in madrid. find me on [linkedin](yourlinkedin.com) or email me at [your email].
+
+---
+**LAST UPDATED**: january 2026
