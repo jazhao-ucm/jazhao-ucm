@@ -64,7 +64,7 @@ English (Fluent) · Spanish (Learning) · Mandarin (Conversational)
 ---
 
 ## Current Focus
-- Studying **Strategic Management, Product Management, and Spanish** at UCM Madrid  
+- Studying **Strategic Management, Product Management, and Beginner Spanish** at UCM Madrid  
 - Exploring Spain’s fintech ecosystem and how it blends tradition with startup culture  
 - Improving presentation skills: slowing speech, simplifying slides, and increasing audience engagement
 
