@@ -4,7 +4,7 @@
 ---
 
 ## ABOUT ME
-i’m jade, an informatics student at indiana university (graduating spring 2027) and a hudson and holland scholar. i build ai tools, design user-centered tech, and help small businesses/organizations adapt to digital challenges. my work focuses on the intersection of people, technology, and innovation—creating solutions that improve how people live, connect, and thrive.
+i’m jade, an informatics student at indiana university (graduating spring 2027) and a hudson and holland scholar. i build ai tools, design user-centered tech, and help small businesses/organizations adapt to digital challenges. my work focuses on the intersection of people, technology, and innovation...creating solutions that improve how people live, connect, and thrive.
 
 currently studying abroad in madrid at universidad complutense de madrid (supported by the luddy study abroad scholarship and hutton international experiences program grant). here to explore how different communities approach tech, challenge my assumptions, and bring global perspectives back to my work.
 
@@ -29,7 +29,7 @@ sql, python, microsoft access, adobe illustrator/photoshop, html, git/github, ag
 user experience design (ued), project management, cross-functional collaboration, presentation design, content strategy, accessibility advocacy
 
 **LANGUAGES**:
-english (fluent), spanish (learning—ask me in 6 months), mandarin (conversational)
+english (fluent), spanish (learning...ask me in 6 months), mandarin (conversational)
 
 ---
 
