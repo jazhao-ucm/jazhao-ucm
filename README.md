@@ -61,7 +61,7 @@ english (fluent), spanish (learning...ask me in 6 months), mandarin (conversatio
 ---
 
 ## LET’S CONNECT
-i’m always open to collaborations, feedback, or just chatting about ethical tech, ai, or the best cafés in madrid. find me on [linkedin](www.linkedin.com/in/jadexzhao) or email me at [mailto:jazhao@ucm.es].
+i’m always open to collaborations, feedback, or just chatting about ethical tech, ai, or the best cafés in madrid. find me on [linkedin](www.linkedin.com/in/jadexzhao/) or email me at [jazhao@ucm.es].
 
 ---
 **LAST UPDATED**: january 2026
