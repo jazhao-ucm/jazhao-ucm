@@ -1,62 +1,77 @@
-# jade zhao
-informatics student | ai builder | designer
+# Jade Zhao
+**Informatics Student · AI Builder · Designer**
 
 ---
 
-## about
-i’m jade, an informatics student at indiana university graduating spring 2027. hudson and holland scholar. i build ai tools, design user centered tech, and help small businesses/organizations adapt to digital challenges. my work focuses on creating solutions that improve how people live, connect, and thrive.
+## About
+Hi! I’m Jade — an informatics student at Indiana University, graduating **Spring 2027**, and a **Hudson & Holland Scholar**. I build AI-powered tools, design user-centered technology, and help small businesses and organizations navigate digital transformation. My work focuses on creating ethical, accessible solutions that improve how people live, connect, and thrive.
 
-currently studying abroad in madrid at universidad complutense de madrid, supported by the luddy study abroad scholarship and hutton international experiences program grant. here to explore how different communities approach tech and bring global perspectives back to my work.
+I’m currently studying abroad in **Madrid** at *Universidad Complutense de Madrid*, supported by the **Luddy Study Abroad Scholarship** and the **Hutton International Experiences Program Grant**. I’m exploring how different communities approach technology and bringing global perspectives back into my design and AI work.
 
-when i’m not coding or designing, i’m probably café hopping, blogging about ethical tech, or trying to keep my jade plants alive.
-
----
-
-## what i do
-• ai development: agentic ai for healthcare, education, and small business workflows. built tools that cut admin workload by 25 40% and increased student engagement by 45%
-• user centered design: redesigned websites for accessibility (e.g., middle way house) and created responsive platforms with ai driven personalization
-• team leadership: coordinated cross functional teams, accelerated project delivery by 20%, and led ai career guide projects with 50000+ impressions
-• research: undergraduate research assistant at iu luddy...hipaa compliant databases, real time patient monitoring, and ethical ai safeguards
-• mentorship: peer mentor at iu office of student life and handshake influencer at iu luddy career services. developed ai integrated career guides and resume workshops for 150+ students
+When I’m not coding or designing, you’ll probably find me café-hopping, blogging about ethical tech, or trying (and sometimes failing) to keep my jade plants alive 🌱
 
 ---
 
-## skills
-**technical**: sql, python, microsoft access, adobe illustrator/photoshop, html, git/github, agentic ai, llm ops, ai engineering
-**soft**: user experience design (ued), project management, cross functional collaboration, presentation design, content strategy, accessibility advocacy
-**languages**: english (fluent), spanish (learning), mandarin (conversational)
+## What I Do
+- **AI Development**  
+  Build agentic AI systems for healthcare, education, and small business workflows. Developed tools that reduced administrative workload by **25–40%** and increased student engagement by **45%**.
+
+- **User-Centered Design**  
+  Design and redesign accessible, responsive digital experiences. Led accessibility-focused website redesigns (e.g., *Middle Way House*) and created platforms with AI-driven personalization.
+
+- **Team Leadership**  
+  Coordinate cross-functional teams, accelerating project delivery by **20%**. Led AI career guide initiatives with **50,000+ impressions**.
+
+- **Research**  
+  Undergraduate Research Assistant at IU Luddy School of Informatics. Worked on HIPAA-compliant databases, real-time patient monitoring systems, and ethical AI safeguards.
+
+- **Mentorship & Outreach**  
+  Peer Mentor at IU Office of Student Life and Handshake Influencer for IU Luddy Career Services. Developed AI-integrated career guides and resume workshops for **150+ students**.
 
 ---
 
-## projects
+## Skills
+**Technical**  
+SQL · Python · Microsoft Access · HTML · Git/GitHub · Agentic AI · LLM Ops · AI Engineering · Adobe Illustrator & Photoshop  
 
-### ai career guide
-• led a team to develop an ai integrated career guide and resume workshop for 150+ iu students
-• increased student engagement by 45% and generated 50000+ impressions
-• focused on accessibility and first gen student confidence
+**Design & Professional**  
+User Experience Design (UXD) · Project Management · Cross-Functional Collaboration · Presentation Design · Content Strategy · Accessibility Advocacy  
 
-### hipaa compliant healthcare databases
-• designed secure, real time patient monitoring systems using agentic ai
-• reduced admin workload by 25 40% with automated alerts and role based access
-
-### small business digital transition
-• helped 10+ small businesses pivot online during covid: web dev, marketing, and ai workflows
-• automated scheduling and creative processes to cut costs and improve turnaround time
-
-### domestic violence survivor website redesign
-• redesigned middle way house website with accessibility and user privacy in mind
-• conducted interviews with survivors to inform design choices
+**Languages**  
+English (Fluent) · Spanish (Learning) · Mandarin (Conversational)
 
 ---
 
-## current focus
-• studying strategic management, product management, and digital marketing at ucm madrid
-• exploring spain’s fintech innovations and how they bridge tradition with startup culture
-• working on presentation skills: slowing down speech, simplifying slides, and engaging audiences better
+## Projects
+
+### AI Career Guide
+- Led a team to develop an AI-integrated career guide and resume workshop for **150+ IU students**
+- Increased student engagement by **45%** and generated **50,000+ impressions**
+- Centered accessibility and confidence-building for first-generation students
+
+### HIPAA-Compliant Healthcare Databases
+- Designed secure, real-time patient monitoring systems using agentic AI
+- Reduced administrative workload by **25–40%** through automated alerts and role-based access control
+
+### Small Business Digital Transition
+- Helped **10+ small businesses** pivot online during COVID through web development, marketing, and AI workflows
+- Automated scheduling and creative processes to reduce costs and improve turnaround time
+
+### Domestic Violence Survivor Website Redesign
+- Redesigned the *Middle Way House* website with accessibility, privacy, and trauma-informed design principles
+- Conducted user interviews with survivors to guide design decisions
 
 ---
 
-## let’s connect
-i’m always open to collaborations, feedback, or just chatting about ethical tech, ai, or the best cafés in madrid. find me at jlzhao@iu.edu.
+## Current Focus
+- Studying **Strategic Management, Product Management, and Spanish** at UCM Madrid  
+- Exploring Spain’s fintech ecosystem and how it blends tradition with startup culture  
+- Improving presentation skills: slowing speech, simplifying slides, and increasing audience engagement
 
-last updated: january 2026
+---
+
+## Let’s Connect
+I’m always open to collaborations, feedback, or conversations about ethical tech, AI, or the best cafés in Madrid ☕  
+📧 **jlzhao@iu.edu**
+
+*Last updated: January 2026*
