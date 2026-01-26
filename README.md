@@ -1,5 +1,5 @@
-# Hola, I’m Jade Zhao  
-**Informatics Student · AI Builder · Designer**
+# Hola, soy Jade Zhao
+**Informática Student · AI Builder · Designer**
 
 Building ethical, accessible AI that helps people live and work better.
 
