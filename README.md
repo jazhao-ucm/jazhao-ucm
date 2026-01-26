@@ -54,7 +54,7 @@ english (fluent), spanish (learning...ask me in 6 months), mandarin (conversatio
 ---
 
 ## CURRENT FOCUS
-• studying **strategic management, product management, and digital marketing** at ucm madrid.
+• studying **strategic management, product management, and beginner spanish** at ucm madrid.
 • exploring spain’s fintech innovations and how they bridge tradition with startup culture.
 • working on presentation skills: slowing down speech, simplifying slides, and engaging audiences better (duck memes included).
 
