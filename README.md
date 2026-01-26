@@ -4,7 +4,7 @@
 ---
 
 ## About
-Hi! I’m Jade — an informatics student at Indiana University, graduating **Spring 2027**, and a **Hudson & Holland Scholar**. I build AI-powered tools, design user-centered technology, and help small businesses and organizations navigate digital transformation. My work focuses on creating ethical, accessible solutions that improve how people live, connect, and thrive.
+Hi! I’m Jade...an informatics student at Indiana University, graduating **Spring 2027**, and a **Hudson & Holland Scholar**. I build AI-powered tools, design user-centered technology, and help small businesses and organizations navigate digital transformation. My work focuses on creating ethical, accessible solutions that improve how people live, connect, and thrive.
 
 I’m currently studying abroad in **Madrid** at *Universidad Complutense de Madrid*, supported by the **Luddy Study Abroad Scholarship** and the **Hutton International Experiences Program Grant**. I’m exploring how different communities approach technology and bringing global perspectives back into my design and AI work.
 
@@ -14,7 +14,7 @@ When I’m not coding or designing, you’ll probably find me café-hopping, blo
 
 ## What I Do
 - **AI Development**  
-  Build agentic AI systems for healthcare, education, and small business workflows. Developed tools that reduced administrative workload by **25–40%** and increased student engagement by **45%**.
+  Build agentic AI systems for healthcare, education, and small business workflows. Developed tools that reduced administrative workload by **25 - 40%** and increased student engagement by **45%**.
 
 - **User-Centered Design**  
   Design and redesign accessible, responsive digital experiences. Led accessibility-focused website redesigns (e.g., *Middle Way House*) and created platforms with AI-driven personalization.
@@ -51,7 +51,7 @@ English (Fluent) · Spanish (Learning) · Mandarin (Conversational)
 
 ### HIPAA-Compliant Healthcare Databases
 - Designed secure, real-time patient monitoring systems using agentic AI
-- Reduced administrative workload by **25–40%** through automated alerts and role-based access control
+- Reduced administrative workload by **25 - 40%** through automated alerts and role-based access control
 
 ### Small Business Digital Transition
 - Helped **10+ small businesses** pivot online during COVID through web development, marketing, and AI workflows
