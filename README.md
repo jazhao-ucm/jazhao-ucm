@@ -4,7 +4,7 @@
 ---
 
 ## about me
-i’m jade, an informatics student at indiana university (graduating spring 2027) and a hudson and holland scholar. happy year of the dragon. i build ai tools, design user-centered tech, and help small businesses/organizations adapt to digital challenges. my work focuses on the intersection of people, technology, and innovation—creating solutions that improve how people live, connect, and thrive.
+i’m jade, an informatics student at indiana university (graduating spring 2027) and a hudson and holland scholar. happy year of the dragon. i build ai tools, design user-centered tech, and help small businesses/organizations adapt to digital challenges. my work focuses on the intersection of people, technology, and innovation...creating solutions that improve how people live, connect, and thrive.
 
 as a first-gen student, i’m inspired by the lunar new year’s themes of renewal and community. this year, i’m studying abroad in madrid at universidad complutense de madrid (supported by the luddy study abroad scholarship and hutton international experiences program grant). here to explore how different communities approach tech, challenge my assumptions, and bring global perspectives back to my work.
 
@@ -61,7 +61,7 @@ developed digital solutions to enhance local business connectivity and resource 
 ## current focus
 this year of the dragon, i’m focusing on:
 - **strategic growth**: studying product management at ucm madrid to bring global perspectives to tech solutions.
-- **community impact**: exploring how spain’s fintech innovations can inspire scalable, ethical tech for small businesses—especially those rooted in tradition.
+- **community impact**: exploring how spain’s fintech innovations can inspire scalable, ethical tech for small businesses...especially those rooted in tradition.
 - **personal development**: improving my spanish (ask me in 6 months!) and embracing the dragon’s energy for bold, creative projects.
 
 ---
