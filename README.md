@@ -4,7 +4,7 @@
 ---
 
 ## about me
-i’m jade, an informatics student at indiana university (graduating spring 2027) and a hudson and holland scholar. happy year of the dragon. i build ai tools, design user-centered tech, and help small businesses/organizations adapt to digital challenges. my work focuses on the intersection of people, technology, and innovation...creating solutions that improve how people live, connect, and thrive.
+i’m jade, an informatics student at indiana university (graduating spring 2027) and a hudson and holland scholar. happy year of the dragon. i build ai tools, design user-centered tech, and help small businesses/organizations adapt to digital challenges. my work focuses on the intersection of people, technology, and innovation—creating solutions that improve how people live, connect, and thrive.
 
 as a first-gen student, i’m inspired by the lunar new year’s themes of renewal and community. this year, i’m studying abroad in madrid at universidad complutense de madrid (supported by the luddy study abroad scholarship and hutton international experiences program grant). here to explore how different communities approach tech, challenge my assumptions, and bring global perspectives back to my work.
 
@@ -15,7 +15,7 @@ when i’m not coding or designing, you’ll find me café-hopping, blogging abo
 ## what i do
 **ai development**: agentic ai for healthcare, education, and small business workflows. built tools that cut admin workload by 25-40% and increased student engagement by 45%.
 
-**user-centered design**: redesigned websites for accessibility (e.g., middle way house for domestic violence survivors) and created responsive platforms with ai-driven personalization.
+**user-centered design**: redesigned websites for accessibility (e.g., middle way house, indiana phenology lab, bloomington chamber of commerce) and created responsive platforms with ai-driven personalization.
 
 **team leadership**: coordinated cross-functional teams, accelerated project delivery by 20%, and led ai career guide projects with 50,000+ impressions.
 
@@ -47,15 +47,21 @@ designed secure, real-time patient monitoring systems using agentic ai. reduced 
 ### small business digital transition
 helped 10+ small businesses pivot online during covid: web dev, marketing, and ai workflows. automated scheduling and creative processes to cut costs and improve turnaround time.
 
-### domestic violence survivor website redesign
+### middle way house website redesign
 redesigned middle way house website with accessibility and user privacy in mind. conducted interviews with survivors to inform design choices.
+
+### indiana phenology lab
+collaborated on digital tools and platforms to support ecological research and community engagement. focused on data visualization and user-friendly interfaces for researchers and volunteers.
+
+### bloomington chamber of commerce
+developed digital solutions to enhance local business connectivity and resource accessibility. worked on projects to streamline member engagement and promote economic growth in bloomington.
 
 ---
 
 ## current focus
 this year of the dragon, i’m focusing on:
 - **strategic growth**: studying product management at ucm madrid to bring global perspectives to tech solutions.
-- **community impact**: exploring how spain’s fintech innovations can inspire scalable, ethical tech for small businesses...especially those rooted in tradition.
+- **community impact**: exploring how spain’s fintech innovations can inspire scalable, ethical tech for small businesses—especially those rooted in tradition.
 - **personal development**: improving my spanish (ask me in 6 months!) and embracing the dragon’s energy for bold, creative projects.
 
 ---
