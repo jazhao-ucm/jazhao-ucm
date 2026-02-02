@@ -9,7 +9,8 @@
 
 
 ## Date: Jan 26-27, 2026
-## Topic: [Fill in]
+## Topic 1: Globalization, Glocalization, Slowbalization
+## Topic 2: The Silent Language in Business – Cross-Cultural Competence
 
 ---
 
