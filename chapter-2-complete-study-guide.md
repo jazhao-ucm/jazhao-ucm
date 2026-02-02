@@ -1,12 +1,18 @@
+
 # Chapter 2: The Silent Language in Business – Cross-Cultural Competence
 
-**Lecture Date:** January 27, 2026  
-**Course:** Management in a Global Market - Group A2  
-**Professors:** Geoffrey Ditta & Maria Isabel Labrado Antolin
+**Quick Study Guide – Jan 27, 2026**
 
 ---
 
-## 📌 INTRODUCTION TO CROSS-CULTURAL COMPETENCE
+## At a Glance
+- What is culture? Why it matters in business
+- Hofstede’s 6 dimensions & cultural distance
+- Cross-cultural management skills & simulation tips
+
+---
+
+## Introduction to Cross-Cultural Competence
 
 ### What is Culture?
 **Definition:** "The set of shared beliefs, values, and other norms that distinguish one group of people from another."

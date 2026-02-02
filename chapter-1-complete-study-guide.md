@@ -1,35 +1,24 @@
-# Chapter 1: Globalization, Glocalization, and Slowbalization
-## Complete Study Guide
 
-**Course:** Management in a Global Market - Group A2  
-**Instructors:** PR.DR Geoffrey Ditta & Prof. Maria Isabel Labrado Antolin  
-**Lecture Date:** January 26, 2026
+# Chapter 1: Globalization, Glocalization, and Slowbalization
+
+**Quick Study Guide – Jan 26, 2026**
 
 ---
 
-## 📌 CORE DEFINITIONS
+## At a Glance
+- Key definitions: Globalization, Slowbalization, Glocalization
+- Major global players: China, India, USA, Indonesia
+- Economic complexity, G20, demographics, supply chain, risk
 
-### Globalization
-- **Free movement** of goods, services, and capital across borders
-- Characterized by **high production + high exportation**
-- **Interconnected economies** working together
-- **Winners:** China, India, Indonesia
-- Creates global supply chains and integrated markets
+---
 
-### Slowbalization
-- The **slowing down of globalization**
-- Countries becoming more **protectionist**
-- **Reduced exports and imports**
-- Focus shifting from **globalization to localization**
-- **Current trend** we're experiencing now (2025-2026)
-- Driven by trade tensions, tariffs, and national security concerns
+## Core Definitions
 
-### Glocalization
-- Moving from **global to local**
-- Companies **adapting products/services** for specific local markets
-- Necessary step **before internationalization**
-- Balance between global presence and local adaptation
-- "Think global, act local" approach
+**Globalization:** Free movement of goods, services, capital; high production/export; interconnected economies (China, India, Indonesia = winners)
+
+**Slowbalization:** Slowing globalization, more protectionism, reduced trade, focus on localization (current trend)
+
+**Glocalization:** Adapting global products/services for local markets (“Think global, act local”); step before internationalization
 
 ---
 
