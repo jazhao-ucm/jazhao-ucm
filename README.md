@@ -1,72 +1,91 @@
 # jade zhao
+
 **informatics student | ai builder | designer**
 
 ---
 
-## about me
-i’m jade, an informatics student at indiana university (graduating spring 2027) and a hudson and holland scholar. happy year of the dragon. i build ai tools, design user-centered tech, and help small businesses/organizations adapt to digital challenges. my work focuses on the intersection of people, technology, and innovation...creating solutions that improve how people live, connect, and thrive.
+## hey, i'm jade 👋
 
-as a first-gen student, i’m inspired by the lunar new year’s themes of renewal and community. this year, i’m studying abroad in madrid at universidad complutense de madrid (supported by the luddy study abroad scholarship and hutton international experiences program grant). here to explore how different communities approach tech, challenge my assumptions, and bring global perspectives back to my work.
+i'm an informatics student at indiana university (graduating spring 2027) and a hudson and holland scholar. i build ai tools, design human-centered tech, and help small businesses and organizations navigate digital challenges.
 
-when i’m not coding or designing, you’ll find me café-hopping, blogging about ethical tech, or trying (and sometimes failing) to keep my jade plants alive.
+right now i'm studying abroad in madrid at universidad complutense de madrid, supported by the luddy study abroad scholarship and the hutton international experiences program grant. i came here to explore how different communities approach technology, to challenge my own assumptions, and to bring a more global perspective back to my work.
 
----
+as a first-gen student, i think a lot about who technology is built for—and who gets left out. that question shapes everything i make.
 
-## what i do
-**ai development**: agentic ai for healthcare, education, and small business workflows. built tools that cut admin workload by 25-40% and increased student engagement by 45%.
-
-**user-centered design**: redesigned websites for accessibility (e.g., middle way house, indiana phenology lab, bloomington chamber of commerce) and created responsive platforms with ai-driven personalization.
-
-**team leadership**: coordinated cross-functional teams, accelerated project delivery by 20%, and led ai career guide projects with 50,000+ impressions.
-
-**research**: undergraduate research assistant at iu luddy. worked on hipaa-compliant databases, real-time patient monitoring, and ethical ai safeguards.
-
-**mentorship**: peer mentor at iu office of student life and handshake influencer at iu luddy career services. developed ai-integrated career guides and resume workshops for 150+ students.
+when i'm not coding or designing, you'll find me café-hopping through madrid's historic center, writing about ethical tech, or trying (with mixed success) to keep my jade plants alive.
 
 ---
 
-## skills
-**technical**:
-sql, python, microsoft access, adobe illustrator/photoshop, html, git/github, agentic ai, llm ops, ai engineering
+## what i build
 
-**soft**:
-user experience design (ued), project management, cross-functional collaboration, presentation design, content strategy, accessibility advocacy
+**ai development**
+agentic ai for healthcare, education, and small business workflows. i've built tools that cut admin workload by 25–40% and increased student engagement by 45%.
 
-**languages**:
-english (fluent), spanish (learning...ask me in 6 months), mandarin (conversational)
+**user-centered design**
+redesigned websites for accessibility and real human needs—middle way house, indiana phenology lab, bloomington chamber of commerce. responsive platforms with ai-driven personalization that actually makes sense.
+
+**research**
+undergraduate research assistant at iu luddy. worked on hipaa-compliant databases, real-time patient monitoring, and ethical ai safeguards.
+
+**mentorship**
+peer mentor at iu office of student life and handshake influencer at iu luddy career services. developed ai-integrated career guides and resume workshops for 150+ students.
 
 ---
 
 ## projects
-### ai career guide
-led a team to develop an ai-integrated career guide and resume workshop for 150+ iu students. increased student engagement by 45% and generated 50,000+ impressions. focused on accessibility and first-gen student confidence.
 
-### hipaa-compliant healthcare databases
-designed secure, real-time patient monitoring systems using agentic ai. reduced admin workload by 25-40% with automated alerts and role-based access.
+### ai career guide
+led a team to build an ai-integrated career guide and resume workshop for 150+ iu students. increased engagement by 45% and reached 50,000+ impressions. focused on accessibility and helping first-gen students feel confident.
+
+### healthcare monitoring systems
+designed secure, real-time patient monitoring using agentic ai. built systems that safely pull together health data from different sources—protected so only the right people can see it—and flag what matters first so care teams can act faster.
 
 ### small business digital transition
-helped 10+ small businesses pivot online during covid: web dev, marketing, and ai workflows. automated scheduling and creative processes to cut costs and improve turnaround time.
+helped 10+ small businesses get online during covid. built websites, set up marketing, and created smart tools that handle the repetitive stuff automatically—freeing up owners to focus on their customers and craft.
 
-### middle way house website redesign
-redesigned middle way house website with accessibility and user privacy in mind. conducted interviews with survivors to inform design choices.
+### middle way house
+redesigned their website with accessibility and user privacy at the center. conducted interviews with survivors to inform design choices.
 
 ### indiana phenology lab
-collaborated on digital tools and platforms to support ecological research and community engagement. focused on data visualization and user-friendly interfaces for researchers and volunteers.
+collaborated on digital tools to support ecological research and community engagement. focused on data visualization and user-friendly interfaces for researchers and volunteers.
 
 ### bloomington chamber of commerce
-developed digital solutions to enhance local business connectivity and resource accessibility. worked on projects to streamline member engagement and promote economic growth in bloomington.
+developed digital solutions to enhance local business connectivity. worked on projects to streamline member engagement and support economic growth in bloomington.
 
 ---
 
-## current focus
-this year of the dragon, i’m focusing on:
-- **strategic growth**: studying product management at ucm madrid to bring global perspectives to tech solutions.
-- **community impact**: exploring how spain’s fintech innovations can inspire scalable, ethical tech for small businesses...especially those rooted in tradition.
-- **personal development**: improving my spanish (ask me in 6 months!) and embracing the dragon’s energy for bold, creative projects.
+## skills
+
+**technical**
+python, sql, html/css, git/github, agentic ai, llm ops, microsoft access, adobe illustrator & photoshop
+
+**design & strategy**
+user experience design, accessibility advocacy, project management, cross-functional collaboration, content strategy
+
+**languages**
+english (fluent) · spanish (learning—ask me in a few months) · mandarin (conversational)
 
 ---
 
-## let’s connect
-i’m always open to collaborations, feedback, or just chatting about ethical tech, ai, or the best cafés in madrid. find me on [linkedin](https://www.linkedin.com/in/jadexzhao) or email me at jazhao@ucm.es.
+## what i'm focused on
 
-**last updated**: january 2026
+this semester in madrid, i'm:
+
+- studying product management and strategic thinking to bring global perspectives to how i build
+- exploring how spain's fintech innovations can inspire ethical, scalable tech for small businesses
+- improving my spanish (slowly but surely)
+- embracing bold, creative projects
+
+---
+
+## let's connect
+
+i'm always open to collaborations, feedback, or just chatting about ethical tech, ai, or the best cafés in madrid.
+
+**linkedin:** [linkedin.com/in/jadexzhao](https://www.linkedin.com/in/jadexzhao)  
+**email:** jazhao@ucm.es  
+**github:** [github.com/jadewowgreen](https://github.com/jadewowgreen)
+
+---
+
+*last updated: february 2026*
