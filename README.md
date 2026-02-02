@@ -125,10 +125,40 @@ This course provides students with:
 ## 📁 Repository Contents
 
 ```
-├── Globalization_Study_Notes.md    # Comprehensive study notes for midterm
-├── README.md                        # This file
-└── [Additional materials to be added]
+├── chapter-1-complete-study-guide.md    # Globalization, Glocalization, Slowbalization
+├── chapter-2-complete-study-guide.md    # Cross-Cultural Competence & Silent Language in Business
+├── README.md                             # This file
+└── [Additional chapters to be added]
 ```
+
+### 📖 Chapter Guides
+
+**Chapter 1: Globalization, Glocalization, and Slowbalization**
+- Core definitions and differences
+- Major global players (China, India, USA, Indonesia)
+- Economic complexity and GDP analysis
+- Demographics and population projections (2024-2100)
+- Supply chain management (5 components + 3 flows)
+- Transportation modes comparison (Road, Rail, Air, Sea)
+- Container types and usage
+- Project risk management (4 phases)
+- G20 and international trade
+- Key statistics and exam prep questions
+
+**Chapter 2: The Silent Language in Business – Cross-Cultural Competence**
+- Hofstede's 6 Cultural Dimensions framework
+- Power Distance (high vs. low)
+- Individualism vs. Collectivism
+- Masculinity vs. Femininity
+- Uncertainty Avoidance
+- Long-Term vs. Short-Term Orientation
+- Indulgence vs. Restraint
+- Cultural distance calculations
+- International Business Simulation: Market Entry
+- Market attractiveness factors (GDP, population, indulgence)
+- Country risk factors (risk, tariffs, competition)
+- Cross-cultural management skills
+- Crisis management strategies
 
 ---
 
