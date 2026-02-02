@@ -5,14 +5,36 @@ Welcome! This repository is your **study guide, TL;DR, and sitemap** for the cou
 
 ---
 
-## 📖 Quick Navigation & Study Guide
 
-- [Combined Memo: Jan 26 & 27](combined-memo-jan26-27.md) – Key concepts, trends, and cross-cultural competence (one-stop summary)
-- [Physical Notes](physical-notes.md) – Your space for personal notes, diagrams, and reflections
-- [Chapter 1: Globalization, Glocalization, Slowbalization](chapter-1-complete-study-guide.md) – Definitions, global trends, economic complexity, G20, supply chain, and more
-- [Chapter 2: Cross-Cultural Competence](chapter-2-complete-study-guide.md) – Hofstede’s dimensions, cultural distance, and management skills
+## 📖 Course Topics & Study Guide
 
-*More chapters and resources will be added as the course progresses!*
+### 1. Globalization, Glocalization, Slowbalization
+- Definitions: Globalization (free movement, interconnected economies), Slowbalization (protectionism, localization), Glocalization (adapting global products for local markets)
+- Major global players: China, India, USA, Indonesia
+- Economic complexity: Transforming raw materials into complex products via tech, innovation, R&D
+- G20: 20 countries, ~50% of global economic activity
+- Demographics: Africa rising, Europe aging, Asia peaking then declining
+- Value chain & supply chain: Raw materials → Tech/Innovation → Complex products; Suppliers → Procurement → Manufacturing → Distribution → Consumers
+- Transport modes: Road, Rail, Air, Sea; container types: dry, refrigerated, special
+- Project risk: Highest during execution phase
+
+### 2. The Silent Language in Business – Cross-Cultural Competence
+- What is culture? Why it matters in business
+- Hofstede’s 6 dimensions: Power Distance, Individualism, Masculinity, Uncertainty Avoidance, Long-Term Orientation, Indulgence
+- Cultural distance: Sum of differences in Hofstede scores; greater distance = more management complexity
+- Cross-cultural management skills: Language, empathy, respect, adaptability, communication
+- Simulation tips: Review country data, balance attractiveness with risk, use cultural distance for adaptation, monitor news/crises, choose entry mode based on context
+
+---
+
+## 🗺️ How to Use This Guide
+- Use the sections above for fast review before exams or assignments
+- All key frameworks, definitions, and actionable tips are included here
+- For detailed examples, see the chapter files:
+  - [Chapter 1: Globalization, Glocalization, Slowbalization](chapter-1-complete-study-guide.md)
+  - [Chapter 2: Cross-Cultural Competence](chapter-2-complete-study-guide.md)
+
+---
 
 ---
 
