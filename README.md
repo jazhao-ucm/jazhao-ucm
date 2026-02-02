@@ -190,4 +190,4 @@ This repository contains study materials, notes, and project work for Group A2. 
 
 ---
 
-*Last Updated: February 2025*
+*Last Updated: February 2026*
