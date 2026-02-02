@@ -5,7 +5,7 @@ Study materials and notes for **Management in Global Markets** course at Univers
 ## 📋 Course Information
 
 **Course:** Management in Global Markets  
-**Quarter:** 2nd Semester 2025  
+**Quarter:** 2nd Semester 2026  
 **Schedule:** Monday & Tuesday, 16:00-17:30  
 **Group:** A2
 
@@ -190,4 +190,4 @@ This repository contains study materials, notes, and project work for Group A2. 
 
 ---
 
-*Last Updated: February 2025*
+*Last Updated: February 2026*
