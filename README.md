@@ -8,6 +8,7 @@ Welcome! This repository is your **study guide, TL;DR, and sitemap** for the cou
 ## 📖 Quick Navigation & Study Guide
 
 - [Combined Memo: Jan 26 & 27](combined-memo-jan26-27.md) – **All-in-one summary of key concepts, trends, and cross-cultural competence**
+- [Physical Notes (your own space)](physical-notes.md) – **Jot down your own notes, sketches, and reflections**
 - [Chapter 1: Globalization, Glocalization, Slowbalization](chapter-1-complete-study-guide.md) – Definitions, global players, economic complexity, demographics, supply chain, G20, risk, and more
 - [Chapter 2: Cross-Cultural Competence & The Silent Language in Business](chapter-2-complete-study-guide.md) – Hofstede’s dimensions, cultural distance, international management, simulation tips
 
