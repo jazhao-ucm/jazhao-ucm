@@ -1,61 +1,69 @@
-# Global Management: Key Concepts, Trends & Cross-Cultural Competence
 
-**Combined Memo: January 26 & 27, 2026**
+# Global Management: Key Concepts & Cross-Cultural Competence
 
----
-
-## 1. Globalization, Slowbalization & Glocalization
-
-- **Globalization:** Free movement of goods, services, and capital; high production and exportation; interconnected economies. Major winners: China, India, Indonesia.
-- **Slowbalization:** Slowing of globalization; rise of protectionism; reduced exports/imports; focus on localization. Driven by trade tensions, tariffs, and national security.
-- **Glocalization:** Adapting global products/services for local markets; necessary before internationalization; "Think global, act local."
+**Quick Reference Memo – Jan 26 & 27, 2026**
 
 ---
 
-## 2. Economic Complexity & Major Global Players
+## How to Use This Memo
+- Use as a fast review for exams, assignments, or simulation prep
+- Each section is a summary of the most actionable and tested concepts
 
-- **Economic Complexity:** Ability to transform raw materials into complex products using technology, innovation, and R&D. Complex products = higher value.
-- **Top Countries:** USA, UK, Netherlands, Britain (strong innovation/tech sectors). Africa lags behind.
-- **China & India:** Massive populations, high production, and exports. China: world’s biggest exporter; cheap labor; single-party system.
-- **USA:** World’s largest importer; strong in software and technology.
-- **Indonesia:** Top 3 in GDP.
+---
+
+## 1. Globalization, Glocalization, Slowbalization
+**Globalization:** Free movement of goods, services, capital; high production/export; interconnected economies (China, India, Indonesia = winners)
+
+**Slowbalization:** Slowing globalization, more protectionism, reduced trade, focus on localization
+
+**Glocalization:** Adapting global products/services for local markets (“Think global, act local”)
+
+---
+
+## 2. Economic Complexity & Major Players
+**Economic Complexity:** Transforming raw materials into complex products via tech, innovation, R&D (higher complexity = higher value)
+
+**Top Countries:** USA, UK, Netherlands, Britain (innovation/tech leaders); Africa lags
+
+**China & India:** Massive populations, high production/export; China = world’s biggest exporter
+
+**USA:** World’s largest importer, strong in software/tech
+
+**Indonesia:** Top 3 in GDP
 
 ---
 
 ## 3. Geopolitical & Economic Shifts
-
-- Production/business shifting from Europe/USA to Asia.
-- Middle East (esp. Saudi Arabia) is increasingly important.
-- Venezuela: 2x Saudi oil reserves but faces economic issues.
-- Saudi Arabia: Led by Crown Prince Mohammed bin Salman (MBS), dominant in the region.
+- Production/business shifting from Europe/USA to Asia
+- Middle East (esp. Saudi Arabia) rising in importance
+- Venezuela: 2x Saudi oil reserves but economic issues
+- Saudi Arabia: Led by MBS, regionally dominant
 
 ---
 
 ## 4. Trade, Tariffs & Protectionism
-
-- US uses tariffs to protect domestic companies and jobs, especially against China and Indonesia.
-- Strategy: “If we can’t stop China, we slow them down.”
-- France vs. Brazil: French food exports struggle to compete with cheaper Brazilian products.
+- US uses tariffs to protect domestic companies/jobs (esp. vs. China, Indonesia)
+- “If we can’t stop China, we slow them down”
+- France vs. Brazil: French food exports struggle vs. cheaper Brazilian products
 
 ---
 
-## 5. The G20 & Demographics
+## 5. G20 & Demographics
+**G20:** 20 countries, ~50% of global economic activity, most important for trade/industry (Spain is a member)
 
-- **G20:** 20 countries with highest GDP, most important for exports/imports, best industrialization; ~50% of global economic activity. Spain is a member.
-- **Demographics:**
-  - Asia: largest population, will peak then decline.
-  - Africa: rapid growth, especially Nigeria; will become dominant demographic region.
-  - Europe: aging population; by ~2032, 400M people, 60% over age 60.
-- Labor force size affects production and pricing.
+**Demographics:**
+- Asia: largest population, will peak then decline
+- Africa: rapid growth (esp. Nigeria), will become dominant
+- Europe: aging population; by ~2032, 400M people, 60% over 60
+- Labor force size affects production/pricing
 
 ---
 
 ## 6. Value Chain, Supply Chain & Logistics
-
-- **Value Chain:** Raw materials → Technology/Innovation/R&D → Complex products (e.g., computers, iPhones).
-- **Supply Chain:** 5 components (Suppliers, Procurement, Manufacturing, Distribution, Consumers) + 3 flows (Physical, Information, Financial).
-- **Transport Modes:** Road, Rail, Air, Sea (90% of world shipments by sea). Container types: dry, refrigerated, special.
-- **Project Risk:** Highest during execution phase.
+- **Value Chain:** Raw materials → Tech/Innovation → Complex products
+- **Supply Chain:** Suppliers, Procurement, Manufacturing, Distribution, Consumers; flows: Physical, Information, Financial
+- **Transport Modes:** Road, Rail, Air, Sea (90% of world shipments by sea); container types: dry, refrigerated, special
+- **Project Risk:** Highest during execution phase
 
 ---
 
