@@ -32,6 +32,7 @@ Welcome! This is your **easy study guide** for the course "Management in Global 
 3. **Use the chapter files for examples and details:**
    - [Chapter 1: Globalization, Glocalization, Slowbalization](chapter-1-complete-study-guide.md)
    - [Chapter 2: Cross-Cultural Competence](chapter-2-complete-study-guide.md)
+   - [Chapter 3: Business Strategies in International contexts](chapter-3-complete-study-guide.md)
 4. **Make flashcards** or draw simple diagrams to help remember
 5. **Quiz yourself** with the self-check questions in each chapter
 6. **Ask for help** if you get stuck—professors and classmates want you to succeed!
