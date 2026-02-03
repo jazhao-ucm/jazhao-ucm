@@ -8,11 +8,11 @@
 
 Hi, I'm Jade.
 
-I'm an Informatics researcher and AI builder focused on accessible, ethical, practical technology that works for everyone—not just people who already understand it.
+I'm an Informatics researcher and AI builder focused on accessible, ethical, practical technology that works for everyone...not just people who already understand it.
 
 I've helped small businesses go online during the pandemic, developed AI tools for education, and redesigned websites for organizations like Middle Way House and Bloomington Chamber of Commerce. Across everything: does this solve a real problem for real people?
 
-I work full stack—research, product design, development—and I'm currently expanding globally. Based in Madrid studying Strategic Management and Product Management at UCM, which has shaped how I approach building products with a broader perspective.
+I work full stack...research, product design, development...and I'm currently expanding globally. Based in Madrid studying Strategic Management and Product Management at UCM, which has shaped how I approach building products with a broader perspective.
 
 Outside work, I explore Madrid's cafés, write about ethical tech and AI's future, and keep my jade plants alive (still working on that last one).
 
