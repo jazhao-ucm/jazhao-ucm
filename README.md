@@ -1,6 +1,6 @@
 # jade zhao
 
-**informatics researcher | ai builder | designer**
+**informatics student | ai builder | designer**
 
 ---
 
@@ -14,11 +14,21 @@ I've helped small businesses go online during the pandemic, developed AI tools f
 
 I work full stack...research, product design, development...and I'm currently expanding globally. Based in Madrid studying Strategic Management and Product Management at UCM, which has shaped how I approach building products with a broader perspective.
 
-Outside work, I explore Madrid's cafés, write about ethical tech and AI's future, and keep my jade plants alive (still working on that last one).
+As a first-generation student, I think deeply about who technology gets built for...and who gets left out. That shapes everything.
+
+Outside work, you'll find me café-hopping through Madrid's historic center, writing about ethical tech and AI's future, or attempting (with mixed success) to keep my jade plants alive 
 
 ---
 
-## what i build
+## iu life 
+
+i'm an informatics student at indiana university (graduating spring 2027) and a hudson and holland scholar. i'm here because i care deeply about building technology that serves people...especially those who might feel left out by the tech world.
+
+as a peer mentor at the office of student life, i love helping students find their footing and building confidence. as a handshake influencer, i work with iu luddy career services to create resources that make career planning feel less scary and more achievable.
+
+the luddy study abroad scholarship and hutton international experiences program grant brought me to madrid this semester, where i'm soaking up new perspectives on how communities approach technology, challenging my own assumptions, and bringing it all back home.
+
+---
 
 **ai development**
 • Developed adaptive learning tools that adjust pace and difficulty in real time, with AI tutoring that simplifies concepts for English language learners and students with disabilities at no cost.
@@ -40,8 +50,8 @@ Outside work, I explore Madrid's cafés, write about ethical tech and AI's futur
 
 • Freed advisors from repetitive information tasks so they can spend more time actually helping students move forward.
 
-**mentorship & impact**
-peer mentor at iu office of student life and handshake influencer at iu luddy career services. developed ai-integrated career guides and resume workshops for 150+ students.
+**student life & mentorship**
+peer mentor at iu office of student life, supporting students navigate college and build confidence. handshake influencer at iu luddy career services. developed ai-integrated career guides and resume workshops for 150+ students, with a focus on helping first-gen and underrepresented students feel empowered. hudson and holland scholar.
 
 ---
 
@@ -82,20 +92,19 @@ english (fluent) · spanish (learning...ask me in a few months) · mandarin (con
 
 ---
 
-## what i'm focused on
+## what i'm focused on rn 
 
-this semester in madrid, i'm:
+this semester in madrid, i'm diving into product management and strategic thinking to bring a more global lens to how i build. i'm fascinated by spain's fintech innovations and how they could inspire ethical, scalable solutions for small businesses everywhere.
 
-- studying product management and strategic thinking to bring global perspectives to how i build
-- exploring how spain's fintech innovations can inspire ethical, scalable tech for small businesses
-- improving my spanish (slowly but surely)
-- embracing bold, creative projects
+also slowly improving my spanish (muy lentamente, but we're getting there) and embracing bold, creative projects that scare me a little.
+
+mostly though? learning, growing, and building things that actually matter.
 
 ---
 
-## let's connect
+## let's connect 
 
-i'm always open to collaborations, feedback, or just chatting about ethical tech, ai, or the best cafés in madrid.
+i'm always open to collaborations, wild ideas, feedback, or just chatting about ethical tech, ai, or the best cafés in madrid (there are...so many).
 
 **linkedin:** [linkedin.com/in/jadexzhao](https://www.linkedin.com/in/jadexzhao)  
 **email:** jazhao@ucm.es  
