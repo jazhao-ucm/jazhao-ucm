@@ -8,103 +8,105 @@
 
 Hi, I'm Jade.
 
-I'm an Informatics researcher and AI builder focused on accessible, ethical, practical technology that works for everyone...not just people who already understand it.
+I'm an Informatics researcher and AI builder obsessed with creating technology that's accessible, ethical, and real...technology built *with* people, not *at* them.
 
-I've helped small businesses go online during the pandemic, developed AI tools for education, and redesigned websites for organizations like Middle Way House and Bloomington Chamber of Commerce. Across everything: does this solve a real problem for real people?
+I've spent my time helping small businesses find their footing online, building AI tools that actually help students learn, and redesigning websites for organizations that matter (Middle Way House, Bloomington Chamber of Commerce, and others). The question that drives everything: **does this solve a real problem for real people?**
 
-I work full stack...research, product design, development...and I'm currently expanding globally. Based in Madrid studying Strategic Management and Product Management at UCM, which has shaped how I approach building products with a broader perspective.
+I work across the full stack...research, product design, development...and I'm constantly learning. Right now I'm in Madrid studying Strategic Management and Product Management at UCM, soaking up new perspectives on how different communities approach technology.
 
-As a first-generation student, I think deeply about who technology gets built for...and who gets left out. That shapes everything.
+As a first-generation student, I think a lot about who gets left out of the tech world. That awareness shapes everything I build.
 
-Outside work, you'll find me café-hopping through Madrid's historic center, writing about ethical tech and AI's future, or attempting (with mixed success) to keep my jade plants alive 
+When I'm not coding or designing, you'll find me exploring Madrid's café scene, writing about ethical tech, or keeping my jade plants alive (it's an ongoing journey).
+
+If you're working on something where human-centered technology matters, I'd love to connect.
 
 ---
 
 ## iu life 
 
-i'm an informatics student at indiana university (graduating spring 2027) and a hudson and holland scholar. i'm here because i care deeply about building technology that serves people...especially those who might feel left out by the tech world.
+I'm an informatics student at Indiana University (graduating spring 2027) and a Hudson and Holland Scholar. I'm here because I genuinely care about building technology that serves *everyone*...especially those who might feel like the tech world wasn't built with them in mind.
 
-as a peer mentor at the office of student life, i love helping students find their footing and building confidence. as a handshake influencer, i work with iu luddy career services to create resources that make career planning feel less scary and more achievable.
+As a peer mentor at the Office of Student Life, I get to help students find their footing and build confidence. There's something really special about being that person who believes in someone when they're doubting themselves. As a Handshake influencer, I work with IU Luddy career services to create resources that make career planning feel less scary and more achievable.
 
-the luddy study abroad scholarship and hutton international experiences program grant brought me to madrid this semester, where i'm soaking up new perspectives on how communities approach technology, challenging my own assumptions, and bringing it all back home.
+The Luddy Study Abroad Scholarship and Hutton International Experiences Program Grant brought me to Madrid this semester. I came here to challenge my own assumptions, learn how different communities approach technology, and bring those perspectives home.
 
 ---
 
-**ai development**
-• Developed adaptive learning tools that adjust pace and difficulty in real time, with AI tutoring that simplifies concepts for English language learners and students with disabilities at no cost.
+## what i build
 
-• Freed advisors from repetitive information tasks so they can spend more time actually helping students move forward.
+**ai for education** 
+I develop adaptive learning tools that meet students where they are...adjusting pace and difficulty in real time based on actual progress. Built AI tutoring systems that simplify concepts for English language learners and students with learning disabilities at no cost, because access matters.
 
-**healthcare & monitoring**
-• Consolidated health data from multiple sources (doctor visits, fitness trackers, lab results) into one secure platform, enabling care teams to access what matters without manual data entry or security risks.
+I also designed systems that help advisors spend less time on paperwork and more time doing what actually matters: sitting down with students and helping them move forward.
 
-• Built real-time monitoring that surfaces priority alerts and designed the system with women's health in focus, making health data understandable and actionable for people with limited healthcare access or health literacy.
+**healthcare systems** 
+I've designed secure, real-time patient monitoring that brings together health data from different sources (doctor visits, fitness trackers, lab results) into one accessible platform. Everything's protected so only the right people see it, and the system flags what matters first so care teams can act faster.
 
-**small business solutions**
-• Helped small businesses get online during the pandemic by building websites and setting up marketing channels, then created automation tools to handle routine tasks like scheduling and paperwork so owners could focus on their actual work.
+I built these with women's health in focus, making sure people with limited healthcare access or unfamiliarity with their own data still feel empowered to understand and own their health information.
 
-• Developed affordable AI systems that helped businesses generate ideas and work faster while keeping that personal touch that makes small businesses special.
+**small business solutions** 
+During the pandemic, I helped small businesses stay alive by building websites, setting up marketing channels, and creating automation tools that handle the repetitive stuff (scheduling, paperwork, follow-ups). This freed owners to focus on what they actually love...their customers and their craft.
 
-**user-centered design**
-• Mapped friction points in student advising and built guides that give students a clear, independent path forward, consolidating scattered campus resources into one accessible tool designed for first-generation and low-income students.
+I also developed affordable AI systems that help businesses generate ideas and work faster while keeping that personal, human touch that makes small businesses special.
 
-• Freed advisors from repetitive information tasks so they can spend more time actually helping students move forward.
+**student support & advising** 
+I mapped the friction points where students get stuck...in advising, in finding resources, in figuring out what comes next...and built guides that give them a clear, independent path forward. I consolidated scattered campus resources into one accessible tool, designed specifically with first-generation and low-income students in mind.
 
-**student life & mentorship**
-peer mentor at iu office of student life, supporting students navigate college and build confidence. handshake influencer at iu luddy career services. developed ai-integrated career guides and resume workshops for 150+ students, with a focus on helping first-gen and underrepresented students feel empowered. hudson and holland scholar.
+Because I know what it's like to navigate without a support system at home.
+
+**mentorship & community** 
+As a peer mentor at the Office of Student Life, I support students in building confidence and finding their place. As a Handshake influencer, I developed AI-integrated career guides and resume workshops for 150+ students, with a focus on helping first-gen and underrepresented students feel truly empowered.
 
 ---
 
 ## recent projects
 
-### ai career guide
-led a team to build an ai-integrated career guide and resume workshop for 150+ iu students. increased engagement by 45% and reached 50,000+ impressions. focused on accessibility and helping first-gen students feel confident.
+**ai career guide**
+Led a team to build an AI-integrated career guide and resume workshop for 150+ IU students. We increased engagement by 45% and reached 50,000+ impressions. The goal was always accessibility...making sure every student, especially first-gen students, felt confident and supported.
 
-### healthcare monitoring systems
-designed secure, real-time patient monitoring using agentic ai. built systems that safely pull together health data from different sources...protected so only the right people can see it...and flag what matters first so care teams can act faster.
+**healthcare monitoring systems**
+Designed secure, real-time patient monitoring using agentic AI. Built systems that safely pull together health data from different sources, protected so only the right people can see it, and flag what matters first so care teams can act faster and help their patients better.
 
-### small business digital transition
-grew up drawn to stem and creative technology, driven to build solutions for first-generation students and young people. during the pandemic, helped small businesses stay open with contactless solutions (online menus, qr codes, checkout systems) and built websites that adapt to visitor behavior and automatically surface what's most relevant.
+**small business digital transition**
+Helped 10+ small businesses get online during COVID. Built websites, set up marketing, and created smart tools that handle the repetitive stuff automatically...freeing up owners to focus on their customers and their craft.
 
-developed marketing tools that generate and test email and social media content, letting business owners reach more people without the time investment.
+**middle way house**
+Redesigned their website with accessibility and user privacy at the center. I conducted interviews with survivors to inform every design choice, because their voices matter most.
 
-### middle way house
-redesigned their website with accessibility and user privacy at the center. conducted interviews with survivors to inform design choices.
+**indiana phenology lab**
+Collaborated on digital tools to support ecological research and community engagement. Focused on data visualization and user-friendly interfaces so researchers and volunteers could actually use and enjoy the tools.
 
-### indiana phenology lab
-collaborated on digital tools to support ecological research and community engagement. focused on data visualization and user-friendly interfaces for researchers and volunteers.
-
-### bloomington chamber of commerce
-developed digital solutions to enhance local business connectivity. worked on projects to streamline member engagement and support economic growth in bloomington.
+**bloomington chamber of commerce**
+Developed digital solutions to enhance local business connectivity and streamline member engagement. Supported economic growth in a community I care about.
 
 ---
 
 ## skills
 
 **technical**
-python, sql, html/css, git/github, agentic ai, llm ops, microsoft access, adobe illustrator & photoshop
+Python, SQL, HTML/CSS, Git/GitHub, Agentic AI, LLM ops, Microsoft Access, Adobe Illustrator & Photoshop
 
 **design & strategy**
-user experience design, accessibility advocacy, project management, cross-functional collaboration, content strategy
+User experience design, Accessibility advocacy, Project management, Cross-functional collaboration, Content strategy, Human-centered design
 
 **languages**
-english (fluent) · spanish (learning...ask me in a few months) · mandarin (conversational)
+English (fluent) · Spanish (learning, muy lentamente but with love) · Mandarin (conversational)
 
 ---
 
 ## what i'm focused on rn 
 
-this semester in madrid, i'm diving into product management and strategic thinking to bring a more global lens to how i build. i'm fascinated by spain's fintech innovations and how they could inspire ethical, scalable solutions for small businesses everywhere.
+This semester in Madrid, I'm diving deep into product management and strategic thinking to bring a more global lens to how I build. I'm fascinated by Spain's fintech innovations and how they could inspire ethical, scalable solutions for small businesses everywhere.
 
-also slowly improving my spanish (muy lentamente, but we're getting there) and embracing bold, creative projects that scare me a little.
+I'm also slowly improving my Spanish (muy lentamente, but we're getting there) and embracing bold, creative projects that scare me a little.
 
-mostly though? learning, growing, and building things that actually matter.
+Mostly though? I'm learning, growing, and building things that actually matter to real people.
 
 ---
 
 ## let's connect 
 
-i'm always open to collaborations, wild ideas, feedback, or just chatting about ethical tech, ai, or the best cafés in madrid (there are...so many).
+I'm always open to collaborations, wild ideas, feedback, or just chatting about ethical tech, AI, the future we're building, or the best cafés in Madrid (spoiler: there are so many).
 
 **linkedin:** [linkedin.com/in/jadexzhao](https://www.linkedin.com/in/jadexzhao)  
 **email:** jazhao@ucm.es  
@@ -112,4 +114,4 @@ i'm always open to collaborations, wild ideas, feedback, or just chatting about 
 
 ---
 
-*last updated: february 2026*
+*last updated: february 2026 ... built with love from madrid ✨*
