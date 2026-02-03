@@ -1,6 +1,6 @@
 # jade zhao
 
-**informatics student | ai builder | designer**
+**informatics researcher | ai builder | designer**
 
 ---
 
