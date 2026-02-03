@@ -398,6 +398,13 @@ A strategy tool used to analyze internal firm activities to identify:
 ### Critical Flows in SCM
 - **Physical flows:** Actual movement of goods (materials management)
 - **Information flows:** Data systems, tracking, tracing, IS
+
+---
+
+## Notes — Feb 3, 2026
+
+- Added slide notes: emphasized increasing regionalization and supply-chain resilience; recommended mapping and diversifying suppliers, and prioritizing markets with higher economic complexity when planning expansion.
+
 - **Financial flows:** E-commerce, payments, transactions
 
 ---
