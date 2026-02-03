@@ -114,4 +114,4 @@ I'm always open to collaborations, wild ideas, feedback, or just chatting about 
 
 ---
 
-*last updated: february 2026 ... built with love from madrid ✨*
+*last updated: february 2026 ... built with love from madrid*
