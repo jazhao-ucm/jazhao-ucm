@@ -6,9 +6,22 @@ Welcome! This is your **easy study guide** for the course "Management in Global 
 
 ---
 
+## 🗺️ Sitemap - Quick Navigation
 
+### 📅 Class Notes by Week
+- **[January 26, 2026](2026-01-26-class-notes.md)** - Globalization, Economic Complexity & Demographics
+- **[January 27, 2026](2026-01-27-class-notes.md)** - Cross-Cultural Competence in Business  
+- **[February 2, 2026](2026-02-02-class-notes.md)** - International Business Strategy & Culture
+- **[February 3, 2026](2026-02-03-class-notes.md)** - Power Distance, Culture Shock & Communication
 
-## 📖 Super Simple Study Guide
+### 📚 Chapter Study Guides
+- **[Chapter 1: Globalization, Glocalization, Slowbalization](chapter-1-complete-study-guide.md)**
+- **[Chapter 2: Cross-Cultural Competence](chapter-2-complete-study-guide.md)**
+- **[Chapter 3: Business Strategies in International Contexts](chapter-3-complete-study-guide.md)**
+
+---
+
+## 📖 Super Simple Study Guide (TLDR)
 
 ### 1. Globalization, Glocalization, Slowbalization
 - **Globalization:** Countries working together, trading, sharing ideas
@@ -23,11 +36,19 @@ Welcome! This is your **easy study guide** for the course "Management in Global 
 - **Why it matters:** Working with people from other cultures is tricky but important
 - **Key skills:** Language, empathy, respect, communication
 
+### 3. International Business Strategy
+- **Market Entry:** Choosing countries, entry modes, managing risks
+- **Competition:** Go where competitors are (don't avoid them!)
+- **Supply Chain:** Global manufacturing, containerization, logistics
+- **Quality vs. Cost:** Japan = quality, China = volume/repetition
+
 ---
 
 
 ## 🗺️ How to Use This Guide (Step-by-Step)
-1. **Skim the green summary boxes** for quick understanding
+1. **Start with the sitemap above** - click on any class notes or chapter to jump there
+2. **Review class notes by week** - see what was covered each day
+3. **Skim the green summary boxes** for quick understanding
 2. **Look for bolded words**—these are the most important ideas
 3. **Use the chapter files for examples and details:**
    - [Chapter 1: Globalization, Glocalization, Slowbalization](chapter-1-complete-study-guide.md)
@@ -43,10 +64,10 @@ Welcome! This is your **easy study guide** for the course "Management in Global 
 
 ## 🗺️ How to Use This Repo
 
-1. Use the navigation above for quick access to any topic or week.
-2. The combined memo is your go-to for fast review before exams or assignments.
-3. Chapter files provide detailed study guides, frameworks, and exam tips.
-4. Use the Physical Notes file for your own summaries, diagrams, and questions.
+1. **Use the sitemap above** for quick access to any class notes or chapter by week.
+2. **Class notes** provide detailed summaries of each lecture - great for review!
+3. **Chapter study guides** provide comprehensive frameworks, examples, and exam tips.
+4. Use the class notes for your own summaries, diagrams, and questions.
 5. Find slides, syllabus, and extra resources in your course platform or as provided by instructors.
 
 ---
