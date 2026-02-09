@@ -6,7 +6,7 @@
 
 ## About
 
-Hi, I'm Jade. I'm studying Informatics at Indiana University and I build things—mostly tools for education and healthcare. I'm still learning (always will be), but I love working on projects that actually make a difference for people.
+Hi, I'm Jade. I'm studying Informatics at Indiana University and I build things ... mostly tools for education and healthcare. I'm still learning (always will be), but I love working on projects that actually make a difference for people.
 
 Being a first-generation student means I've seen firsthand who gets left behind in tech. That perspective shapes how I build things. When I'm designing something, I'm thinking about the person who might not have the same resources or support I did.
 
@@ -30,7 +30,7 @@ Right now I'm in Madrid studying Strategic Management and Product Management at 
 I build learning tools and tutoring systems, mostly for English language learners and students with learning disabilities. I've also built automation tools to help advisors cut down on paperwork so they can spend more time with students.
 
 ### Healthcare
-I build platforms that bring together health data from different sources—doctor visits, fitness trackers, lab results—into one place that actually makes sense. I focus a lot on women's health and making sure people who don't have great healthcare access can still understand and use their own health information.
+I build platforms that bring together health data from different sources ... doctor visits, fitness trackers, lab results ... into one place that actually makes sense. I focus a lot on women's health and making sure people who don't have great healthcare access can still understand and use their own health information.
 
 ### Small Business Solutions
 During COVID, I helped a bunch of small businesses figure out how to exist online. I built websites, set up marketing, and created automation tools for scheduling and follow-ups. The challenge was making things efficient without losing that personal touch that makes small businesses special.
@@ -77,8 +77,8 @@ English (fluent) · Spanish (learning) · Mandarin (conversational)
 
 ## Other Things
 
-- **Peer Mentor** at IU Office of Student Life — I help other students navigate college life, which I love because I remember how confusing everything was at first
-- **Handshake Influencer** at IU Luddy Career Services — I developed career guides and resume workshops for students, with a focus on first-gen and underrepresented students
+- **Peer Mentor** at IU Office of Student Life  ...  I help other students navigate college life, which I love because I remember how confusing everything was at first
+- **Handshake Influencer** at IU Luddy Career Services  ...  I developed career guides and resume workshops for students, with a focus on first-gen and underrepresented students
 
 ---
 
