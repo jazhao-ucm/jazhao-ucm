@@ -36,10 +36,12 @@ Upon completing this course, students will be able to:
 
 | Date | Topic | Link |
 |------|-------|------|
-| January 26, 2026 | Globalization, Economic Complexity & Demographics | [View Notes](notes/2026-01-26-class-notes.md) |
-| January 27, 2026 | Cross-Cultural Competence in Business | [View Notes](notes/2026-01-27-class-notes.md) |
-| February 2, 2026 | International Business Strategy & Culture | [View Notes](notes/2026-02-02-class-notes.md) |
-| February 3, 2026 | Power Distance, Culture Shock & Communication | [View Notes](notes/2026-02-03-class-notes.md) |
+| January 26, 2026 | Globalization, Economic Complexity & Demographics | [View Notes](notes/2026/01/2026-01-26-class-notes.md) |
+| January 27, 2026 | Cross-Cultural Competence in Business | [View Notes](notes/2026/01/2026-01-27-class-notes.md) |
+| February 2, 2026 | International Business Strategy & Culture | [View Notes](notes/2026/02/2026-02-02-class-notes.md) |
+| February 3, 2026 | Power Distance, Culture Shock & Communication | [View Notes](notes/2026/02/2026-02-03-class-notes.md) |
+
+*[View all notes →](notes/README.md)*
 
 ### 📚 Chapter Study Guides
 
@@ -75,11 +77,15 @@ Upon completing this course, students will be able to:
 ```
 management-global-market-notes/
 │
-├── notes/                          # Class notes organized chronologically
-│   ├── 2026-01-26-class-notes.md
-│   ├── 2026-01-27-class-notes.md
-│   ├── 2026-02-02-class-notes.md
-│   └── 2026-02-03-class-notes.md
+├── notes/                          # Class notes organized by year/month
+│   ├── 2026/
+│   │   ├── 01/                    # January 2026
+│   │   │   ├── 2026-01-26-class-notes.md
+│   │   │   └── 2026-01-27-class-notes.md
+│   │   └── 02/                    # February 2026
+│   │       ├── 2026-02-02-class-notes.md
+│   │       └── 2026-02-03-class-notes.md
+│   └── README.md                  # Notes index
 │
 ├── study-guides/                   # Comprehensive chapter study guides
 │   ├── chapter-1-complete-study-guide.md
@@ -91,11 +97,16 @@ management-global-market-notes/
 │   │   ├── chapter-1/              # Globalization topics
 │   │   ├── chapter-3/              # Business strategies
 │   │   └── chapter-4/              # Global business portfolio
-│   └── questions/                  # Practice questions in LaTeX format
-│       ├── chapter-1-questions.tex
-│       ├── chapter-2-questions.tex
-│       ├── chapter-3-questions.tex
-│       └── all-chapters-questions.tex
+│   ├── questions/                  # Practice questions in LaTeX format
+│   │   ├── chapter-1-questions.tex
+│   │   ├── chapter-2-questions.tex
+│   │   ├── chapter-3-questions.tex
+│   │   ├── all-chapters-questions.tex
+│   │   ├── compile-pdfs.sh        # Compilation script
+│   │   └── README.md              # Questions guide
+│   ├── docs/                      # Documentation
+│   │   └── .organization-guide.md
+│   └── README.md                  # Materials index
 │
 └── README.md                       # This file (navigation hub)
 ```
