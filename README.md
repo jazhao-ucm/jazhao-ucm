@@ -8,7 +8,7 @@
 
 Hi, I'm Jade. I'm studying Informatics at Indiana University and I build things—mostly tools for education and healthcare. I'm still learning (always will be), but I love working on projects that actually make a difference for people.
 
-Being a first-generation student means I've seen firsthand who gets left behind in tech. That perspective shapes everything I build. When I'm designing something, I'm thinking about the person who might not have the same resources or support I did. That's why accessibility isn't an afterthought for me—it's where I start.
+Being a first-generation student means I've seen firsthand who gets left behind in tech. That perspective shapes everything I build. When I'm designing something, I'm thinking about the person who might not have the same resources or support I did. That's why accessibility isn't an afterthought for me ... it's where I start.
 
 Right now I'm in Madrid studying Strategic Management and Product Management at UCM. It's been eye-opening to see how different cultures approach product design and business strategy. Plus, the tapas are incredible.
 
@@ -84,7 +84,7 @@ English (fluent) · Spanish (learning) · Mandarin (conversational)
 
 ## Currently
 
-I'm in Madrid studying Strategic Management and Product Management at UCM, which has been amazing. I'm learning a lot about product strategy and how different cultures approach business. I'm really interested in fintech innovation here—I've been exploring how some models emerging in Spain could translate to small businesses back home. There's something cool about taking ideas from one place and seeing if they work in another context.
+I'm in Madrid studying Strategic Management and Product Management at UCM, which has been amazing. I'm learning a lot about product strategy and how different cultures approach business. I'm really interested in fintech innovation here ... I've been exploring how some models emerging in Spain could translate to small businesses back home. There's something cool about taking ideas from one place and seeing if they work in another context.
 
 I'm always learning new tools and techniques. Things move fast, so sometimes I feel like I'm just trying to keep up, but I think the key is to keep building things and learning as you go.
 
