@@ -57,6 +57,15 @@ Upon completing this course, students will be able to:
 | Chapter 3 | Business Strategies in International Contexts | [materials/slides/chapter-3/](materials/slides/chapter-3/) |
 | Chapter 4 | Managing the Global Business Portfolio | [materials/slides/chapter-4/](materials/slides/chapter-4/) |
 
+### 📝 Practice Questions (LaTeX)
+
+| Chapter | Topic | Link |
+|---------|-------|------|
+| Chapter 1 | Globalization, Glocalization, Slowbalization | [chapter-1-questions.tex](materials/questions/chapter-1-questions.tex) |
+| Chapter 2 | Cross-Cultural Competence | [chapter-2-questions.tex](materials/questions/chapter-2-questions.tex) |
+| Chapter 3 | International Business Strategy | [chapter-3-questions.tex](materials/questions/chapter-3-questions.tex) |
+| All Chapters | Complete Practice Questions | [all-chapters-questions.tex](materials/questions/all-chapters-questions.tex) |
+
 ---
 
 ## 📚 Study Materials
@@ -78,10 +87,15 @@ management-global-market-notes/
 │   └── chapter-3-complete-study-guide.md
 │
 ├── materials/                      # Course materials and resources
-│   └── slides/                     # Lecture slides organized by chapter
-│       ├── chapter-1/              # Globalization topics
-│       ├── chapter-3/              # Business strategies
-│       └── chapter-4/              # Global business portfolio
+│   ├── slides/                     # Lecture slides organized by chapter
+│   │   ├── chapter-1/              # Globalization topics
+│   │   ├── chapter-3/              # Business strategies
+│   │   └── chapter-4/              # Global business portfolio
+│   └── questions/                  # Practice questions in LaTeX format
+│       ├── chapter-1-questions.tex
+│       ├── chapter-2-questions.tex
+│       ├── chapter-3-questions.tex
+│       └── all-chapters-questions.tex
 │
 └── README.md                       # This file (navigation hub)
 ```
@@ -104,6 +118,12 @@ management-global-market-notes/
    - PDF presentations organized by chapter
    - Visual aids and diagrams
    - Reference materials for deeper understanding
+
+4. **Practice Questions** (`materials/questions/`)
+   - LaTeX format practice questions by chapter
+   - Fill-in-the-blank, multiple choice, short answer, and essay questions
+   - Answer keys included
+   - Compile with LaTeX to generate PDF study guides
 
 ---
 
@@ -150,6 +170,22 @@ management-global-market-notes/
 - **Connect Concepts**: Link new material to previous chapters and real-world examples
 - **Practice**: Use the study guides' practice questions to test your understanding
 - **Collaborate**: Form study groups to discuss concepts and quiz each other
+
+### Using LaTeX Practice Questions
+
+The practice questions are provided in LaTeX format. To compile them into PDF:
+
+1. **Install LaTeX**: Install a LaTeX distribution (TeX Live, MiKTeX, or MacTeX)
+2. **Compile**: Run `pdflatex filename.tex` in the terminal, or use an editor like Overleaf
+3. **View**: Open the generated PDF file
+
+**Quick Compile Command:**
+```bash
+cd materials/questions
+pdflatex chapter-1-questions.tex
+```
+
+**Online Alternative**: Upload `.tex` files to [Overleaf](https://www.overleaf.com/) for online compilation without local installation.
 
 ---
 
