@@ -1,5 +1,4 @@
 
-
 # Management in a Global Market – Group A2
 
 Welcome! This is your **easy study guide** for the course "Management in Global Markets" at UCM. If you have learning issues, are first-gen, or just want things simple—this guide is for you!
@@ -35,7 +34,7 @@ Welcome! This is your **easy study guide** for the course "Management in Global 
 
 ### 2. Cross-Cultural Competence
 - **Culture:** What people believe, value, and how they act
-- **Hofstede’s 6 dimensions:** Ways cultures are different (power, teamwork, gender roles, comfort with change, future focus, fun vs. rules)
+- **Hofstede's 6 dimensions:** Ways cultures are different (power, teamwork, gender roles, comfort with change, future focus, fun vs. rules)
 - **Why it matters:** Working with people from other cultures is tricky but important
 - **Key skills:** Language, empathy, respect, communication
 
@@ -99,8 +98,6 @@ management-global-market-notes/
 
 ---
 
----
-
 
 
 ## 📚 Key Resources
@@ -119,7 +116,6 @@ management-global-market-notes/
 
 ---
 
----
 
 
 ## 📝 Course at a Glance (Visual)
@@ -138,9 +134,9 @@ management-global-market-notes/
 - Make flashcards for big ideas
 - Quiz yourself or with friends
 - Take breaks and reward yourself for progress
-- If you’re first-gen or have learning issues, you belong here—everyone learns differently!
-- Don’t be afraid to ask questions or get help
+- If you're first-gen or have learning issues, you belong here—everyone learns differently!
+- Don't be afraid to ask questions or get help
 
-**You’ve got this! / ¡Tú puedes!** ☕📚
+**You've got this! / ¡Tú puedes!** ☕📚
 
 *Last Updated: February 2026*
