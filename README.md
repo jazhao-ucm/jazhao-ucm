@@ -1,142 +1,344 @@
-
 # Management in a Global Market – Group A2
 
-Welcome! This is your **easy study guide** for the course "Management in Global Markets" at UCM. If you have learning issues, are first-gen, or just want things simple—this guide is for you!
+**Comprehensive Study Guide & Course Materials**
 
 ---
 
-## 🗺️ Sitemap - Quick Navigation
+## 📋 Table of Contents
 
-### 📅 Class Notes by Week
-- **[January 26, 2026](notes/2026-01-26-class-notes.md)** - Globalization, Economic Complexity & Demographics
-- **[January 27, 2026](notes/2026-01-27-class-notes.md)** - Cross-Cultural Competence in Business  
-- **[February 2, 2026](notes/2026-02-02-class-notes.md)** - International Business Strategy & Culture
-- **[February 3, 2026](notes/2026-02-03-class-notes.md)** - Power Distance, Culture Shock & Communication
+1. [Course Overview](#course-overview)
+2. [Quick Navigation](#quick-navigation)
+3. [Study Materials](#study-materials)
+4. [How to Use This Repository](#how-to-use-this-repository)
+5. [Course Information](#course-information)
+6. [Key Concepts Summary](#key-concepts-summary)
+
+---
+
+## 🎓 Course Overview
+
+This repository contains comprehensive study materials for **Management in Global Markets** (Group A2) at Universidad Complutense de Madrid (UCM). The course explores how businesses operate across international borders, examining globalization trends, cross-cultural management, and international business strategies.
+
+### Learning Objectives
+
+Upon completing this course, students will be able to:
+- Understand the dynamics of globalization, glocalization, and slowbalization
+- Analyze cultural differences and their impact on international business
+- Evaluate market entry strategies and competitive positioning
+- Apply frameworks for managing cross-cultural teams and operations
+- Assess risks and opportunities in global business environments
+
+---
+
+## 🗺️ Quick Navigation
+
+### 📅 Class Notes (Chronological)
+
+| Date | Topic | Link |
+|------|-------|------|
+| January 26, 2026 | Globalization, Economic Complexity & Demographics | [View Notes](notes/2026-01-26-class-notes.md) |
+| January 27, 2026 | Cross-Cultural Competence in Business | [View Notes](notes/2026-01-27-class-notes.md) |
+| February 2, 2026 | International Business Strategy & Culture | [View Notes](notes/2026-02-02-class-notes.md) |
+| February 3, 2026 | Power Distance, Culture Shock & Communication | [View Notes](notes/2026-02-03-class-notes.md) |
 
 ### 📚 Chapter Study Guides
-- **[Chapter 1: Globalization, Glocalization, Slowbalization](study-guides/chapter-1-complete-study-guide.md)**
-- **[Chapter 2: Cross-Cultural Competence](study-guides/chapter-2-complete-study-guide.md)**
-- **[Chapter 3: Business Strategies in International Contexts](study-guides/chapter-3-complete-study-guide.md)**
 
-### 📎 Course Materials
-- **[Slides & PDFs](materials/slides/)** - Lecture slides and presentation materials
+| Chapter | Topic | Link |
+|---------|-------|------|
+| Chapter 1 | Globalization, Glocalization, Slowbalization | [Study Guide](study-guides/chapter-1-complete-study-guide.md) |
+| Chapter 2 | Cross-Cultural Competence | [Study Guide](study-guides/chapter-2-complete-study-guide.md) |
+| Chapter 3 | Business Strategies in International Contexts | [Study Guide](study-guides/chapter-3-complete-study-guide.md) |
 
----
+### 📎 Lecture Slides
 
-## 📖 Super Simple Study Guide (TLDR)
-
-### 1. Globalization, Glocalization, Slowbalization
-- **Globalization:** Countries working together, trading, sharing ideas
-- **Slowbalization:** Things slowing down, more rules, less trading
-- **Glocalization:** Mixing global and local, adapting to local needs
-- **Big players:** China, India, USA, Indonesia
-- **Why it matters:** Who makes stuff, who buys it, who wins in business
-
-### 2. Cross-Cultural Competence
-- **Culture:** What people believe, value, and how they act
-- **Hofstede's 6 dimensions:** Ways cultures are different (power, teamwork, gender roles, comfort with change, future focus, fun vs. rules)
-- **Why it matters:** Working with people from other cultures is tricky but important
-- **Key skills:** Language, empathy, respect, communication
-
-### 3. International Business Strategy
-- **Market Entry:** Choosing countries, entry modes, managing risks
-- **Competition:** Go where competitors are (don't avoid them!)
-- **Supply Chain:** Global manufacturing, containerization, logistics
-- **Quality vs. Cost:** Japan = quality, China = volume/repetition
+| Chapter | Topic | Location |
+|---------|-------|----------|
+| Chapter 1 | Globalization, Glocalization, Slowbalization | [materials/slides/chapter-1/](materials/slides/chapter-1/) |
+| Chapter 3 | Business Strategies in International Contexts | [materials/slides/chapter-3/](materials/slides/chapter-3/) |
+| Chapter 4 | Managing the Global Business Portfolio | [materials/slides/chapter-4/](materials/slides/chapter-4/) |
 
 ---
 
+## 📚 Study Materials
 
-## 🗺️ How to Use This Guide (Step-by-Step)
-1. **Start with the sitemap above** - click on any class notes or chapter to jump there
-2. **Review class notes by week** - see what was covered each day
-3. **Skim the green summary boxes** for quick understanding
-2. **Look for bolded words**—these are the most important ideas
-3. **Use the chapter files for examples and details:**
-   - [Chapter 1: Globalization, Glocalization, Slowbalization](study-guides/chapter-1-complete-study-guide.md)
-   - [Chapter 2: Cross-Cultural Competence](study-guides/chapter-2-complete-study-guide.md)
-   - [Chapter 3: Business Strategies in International contexts](study-guides/chapter-3-complete-study-guide.md)
-4. **Make flashcards** or draw simple diagrams to help remember
-5. **Quiz yourself** with the self-check questions in each chapter
-6. **Ask for help** if you get stuck—professors and classmates want you to succeed!
+### Repository Structure
 
----
-
----
-
-## 🗺️ How to Use This Repo
-
-1. **Use the sitemap above** for quick access to any class notes or chapter by week.
-2. **Class notes** (`notes/`) provide detailed summaries of each lecture - great for review!
-3. **Chapter study guides** (`study-guides/`) provide comprehensive frameworks, examples, and exam tips.
-4. **Course materials** (`materials/slides/`) contain lecture slides and PDF presentations.
-5. Use the class notes for your own summaries, diagrams, and questions.
-6. Find syllabus and extra resources in your course platform or as provided by instructors.
-
-### 📁 Repository Structure
 ```
 management-global-market-notes/
-├── notes/              # Class notes organized by date
-├── study-guides/       # Chapter study guides
-├── materials/          # Course materials
-│   └── slides/        # PDF slides and presentations
-└── README.md          # This file
+│
+├── notes/                          # Class notes organized chronologically
+│   ├── 2026-01-26-class-notes.md
+│   ├── 2026-01-27-class-notes.md
+│   ├── 2026-02-02-class-notes.md
+│   └── 2026-02-03-class-notes.md
+│
+├── study-guides/                   # Comprehensive chapter study guides
+│   ├── chapter-1-complete-study-guide.md
+│   ├── chapter-2-complete-study-guide.md
+│   └── chapter-3-complete-study-guide.md
+│
+├── materials/                      # Course materials and resources
+│   └── slides/                     # Lecture slides organized by chapter
+│       ├── chapter-1/              # Globalization topics
+│       ├── chapter-3/              # Business strategies
+│       └── chapter-4/              # Global business portfolio
+│
+└── README.md                       # This file (navigation hub)
 ```
 
+### Material Types
+
+1. **Class Notes** (`notes/`)
+   - Detailed summaries of each lecture
+   - Key concepts, definitions, and examples
+   - Discussion points and takeaways
+   - Perfect for review and exam preparation
+
+2. **Study Guides** (`study-guides/`)
+   - Comprehensive chapter summaries
+   - Framework explanations
+   - Practice questions and examples
+   - Exam preparation materials
+
+3. **Lecture Slides** (`materials/slides/`)
+   - PDF presentations organized by chapter
+   - Visual aids and diagrams
+   - Reference materials for deeper understanding
+
 ---
 
+## 📖 How to Use This Repository
 
+### For Regular Study
 
-## 👨‍🏫 Course & Contact Info
+1. **Before Class**: Review the relevant chapter study guide
+2. **During Class**: Take your own notes, reference the slides
+3. **After Class**: Review the class notes and compare with your notes
+4. **Before Exams**: Use study guides for comprehensive review
 
-- **Course:** Management in Global Markets (Group A2)
-- **Prof. Geoffrey Ditta** – gditta@ucm.es
-- **Prof. Maria Isabel Labrado Antolin** – mlabra02@ucm.es
-- **Faculty:** Economics and Business
-- **Schedule:** Mon & Tue, 16:00–17:30
-- **Office Hours:** Wed 10:00–12:00 (by email or in-person)
+### Study Workflow
+
+```
+┌─────────────────┐
+│  Read Chapter   │
+│   Study Guide   │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│  Review Lecture │
+│      Slides     │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│  Review Class   │
+│      Notes      │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│  Create Your    │
+│  Own Summary    │
+└─────────────────┘
+```
+
+### Tips for Success
+
+- **Active Learning**: Don't just read—create your own summaries, diagrams, and flashcards
+- **Regular Review**: Review notes within 24 hours of class for better retention
+- **Connect Concepts**: Link new material to previous chapters and real-world examples
+- **Practice**: Use the study guides' practice questions to test your understanding
+- **Collaborate**: Form study groups to discuss concepts and quiz each other
 
 ---
 
+## 👨‍🏫 Course Information
 
+### Basic Details
+
+- **Course Name**: Management in Global Markets (Group A2)
+- **Institution**: Universidad Complutense de Madrid (UCM)
+- **Faculty**: Economics and Business
+- **Schedule**: Monday & Tuesday, 16:00–17:30
+- **Office Hours**: Wednesday 10:00–12:00 (by email or in-person)
+
+### Instructors
+
+- **Prof. Geoffrey Ditta**
+  - Email: gditta@ucm.es
+  
+- **Prof. Maria Isabel Labrado Antolin**
+  - Email: mlabra02@ucm.es
+
+### Required Textbook
+
+**Deresky, H; Stewart R. Miller, S.R.** (2021). *International Management: Managing Across Borders and Cultures – Text and Cases.* Pearson. 10th edition
+
+### Additional Reading
+
+**Schmid, S.** (Ed.) (2018). *Internationalization of Business: Cases on Strategy Formulation and Implementation.* Springer.
+
+---
+
+## 🔑 Key Concepts Summary
+
+### 1. Globalization, Glocalization, Slowbalization
+
+**Globalization**
+- The free movement of goods, services, and capital across borders
+- Characterized by interconnected economies and high production/exportation
+- Key players: China, India, Indonesia, USA
+
+**Slowbalization**
+- The slowing down of globalization trends
+- Increased protectionism and reduced cross-border trade
+- Focus on localization over global expansion
+
+**Glocalization**
+- The adaptation of global products/services to local markets
+- "Think global, act local" approach
+- Necessary step before full internationalization
+
+### 2. Cross-Cultural Competence
+
+**Culture Definition**
+- Shared beliefs, values, and norms that distinguish groups
+- Affects communication, decision-making, and business practices
+
+**Hofstede's Cultural Dimensions**
+1. **Power Distance**: Hierarchy and authority acceptance
+2. **Individualism vs. Collectivism**: Individual vs. group orientation
+3. **Masculinity vs. Femininity**: Achievement vs. relationship focus
+4. **Uncertainty Avoidance**: Comfort with ambiguity and change
+5. **Long-term vs. Short-term Orientation**: Future planning vs. present focus
+6. **Indulgence vs. Restraint**: Enjoyment vs. self-control
+
+**Essential Skills**
+- Language proficiency
+- Cultural empathy
+- Respect for differences
+- Effective communication (verbal and non-verbal)
+
+### 3. International Business Strategy
+
+**Market Entry Considerations**
+- GDP growth and market attractiveness
+- Population demographics
+- Political risk and stability
+- Cultural distance
+- Competition analysis
+
+**Competition Strategy**
+- Go where competitors are (market validation)
+- Learn from competitors rather than avoiding them
+- Differentiate your offering
+- Focus on quality vs. cost positioning
+
+**Supply Chain Management**
+- Global manufacturing and assembly
+- Containerization and logistics
+- Quality control across borders
+- Cost optimization strategies
+
+---
 
 ## 📚 Key Resources
 
-- **Syllabus:** See course platform for the latest version
-- **Textbook:** Deresky, H; Stewart R. Miller, S.R. (2021). *International Management: Managing Across Borders and Cultures – Text and Cases.* Pearson. 10th edition
-- **Extra Reading:** Schmid, S. (Ed.) (2018). *Internationalization of Business: Cases on Strategy Formulation and Implementation.* Springer.
-- **Online Resources:**
-  - [Doing Business](https://www.doingbusiness.org/)
-  - [European Union Official Site](https://europa.eu/)
-  - [ICEX (Spain Trade and Investment)](https://www.icex.es/)
-  - [Hofstede Country Comparison](https://www.hofstede-insights.com/country-comparison/)
-  - [OECD](https://www.oecd.org/)
-  - [UNCTAD](https://unctad.org/)
-  - [United Nations](https://www.un.org/)
+### Online Databases & Tools
+
+- **[Hofstede Country Comparison](https://www.hofstede-insights.com/country-comparison/)** - Compare cultural dimensions across countries
+- **[OECD](https://www.oecd.org/)** - Economic data and reports
+- **[UNCTAD](https://unctad.org/)** - Trade and development statistics
+- **[Doing Business](https://www.doingbusiness.org/)** - Business environment indicators
+- **[European Union Official Site](https://europa.eu/)** - EU policies and regulations
+- **[ICEX (Spain Trade and Investment)](https://www.icex.es/)** - Spanish trade information
+- **[United Nations](https://www.un.org/)** - Global economic and social data
+
+### Academic Databases
+
+Access through UCM library:
+- Business Source Complete
+- JSTOR
+- ProQuest Business Collection
 
 ---
 
+## 💡 Study Strategies
 
+### Effective Note-Taking
 
-## 📝 Course at a Glance (Visual)
+- Use the Cornell note-taking system
+- Create visual diagrams and mind maps
+- Highlight key concepts and definitions
+- Write summaries in your own words
 
-- 🌍 **Globalization:** Countries working together
-- 🐢 **Slowbalization:** Things slowing down
-- 🏠 **Glocalization:** Mixing global and local
-- 🧑‍🤝‍🧑 **Culture:** How people act and work together
-- 🧠 **Key skills:** Language, empathy, respect
+### Exam Preparation
+
+1. **Review Phase** (2-3 weeks before)
+   - Read all study guides thoroughly
+   - Review all class notes
+   - Identify weak areas
+
+2. **Practice Phase** (1-2 weeks before)
+   - Create flashcards for key terms
+   - Practice with sample questions
+   - Explain concepts to others
+
+3. **Final Review** (Days before)
+   - Quick review of all materials
+   - Focus on frameworks and models
+   - Get adequate rest
+
+### Memory Techniques
+
+- **Spaced Repetition**: Review material at increasing intervals
+- **Active Recall**: Test yourself without looking at notes
+- **Elaboration**: Connect new concepts to existing knowledge
+- **Visualization**: Create mental images of concepts
 
 ---
 
-## 💡 Study Tips & Encouragement
+## 🎯 Learning Outcomes
 
-- Use color, symbols, and diagrams to help remember
-- Make flashcards for big ideas
-- Quiz yourself or with friends
-- Take breaks and reward yourself for progress
-- If you're first-gen or have learning issues, you belong here—everyone learns differently!
-- Don't be afraid to ask questions or get help
+By the end of this course, you should be able to:
 
-**You've got this! / ¡Tú puedes!** ☕📚
+✅ **Analyze** global economic trends and their business implications  
+✅ **Evaluate** cultural differences using established frameworks  
+✅ **Design** market entry strategies for international expansion  
+✅ **Assess** risks and opportunities in global markets  
+✅ **Apply** cross-cultural management principles  
+✅ **Compare** different international business models  
+✅ **Synthesize** information from multiple sources  
+✅ **Communicate** effectively across cultural boundaries  
 
-*Last Updated: February 2026*
+---
+
+## 📝 Course Assessment
+
+*Note: Specific assessment details will be provided by instructors. Refer to the official syllabus on the course platform.*
+
+Typical assessment components may include:
+- Midterm examinations
+- Final examination
+- Case study analyses
+- Group projects
+- Class participation
+
+---
+
+## 🤝 Contributing & Updates
+
+This repository is maintained for the benefit of all students. If you notice errors or have suggestions for improvement, please contact the course instructors.
+
+**Last Updated**: February 2026
+
+---
+
+## 📄 License & Usage
+
+These materials are intended for educational purposes within the UCM Management in Global Markets course. Please respect academic integrity policies when using these resources.
+
+---
+
+**Good luck with your studies! / ¡Buena suerte con tus estudios!** 📚🌍
