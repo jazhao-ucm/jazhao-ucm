@@ -173,19 +173,34 @@ management-global-market-notes/
 
 ### Using LaTeX Practice Questions
 
-The practice questions are provided in LaTeX format. To compile them into PDF:
+The practice questions are provided in LaTeX format. PDF versions can be generated using one of these methods:
 
-1. **Install LaTeX**: Install a LaTeX distribution (TeX Live, MiKTeX, or MacTeX)
-2. **Compile**: Run `pdflatex filename.tex` in the terminal, or use an editor like Overleaf
-3. **View**: Open the generated PDF file
+#### Method 1: Quick Compile Script
+```bash
+cd materials/questions
+./compile-pdfs.sh
+```
 
-**Quick Compile Command:**
+#### Method 2: Manual Compilation
 ```bash
 cd materials/questions
 pdflatex chapter-1-questions.tex
+pdflatex chapter-2-questions.tex
+pdflatex chapter-3-questions.tex
 ```
 
-**Online Alternative**: Upload `.tex` files to [Overleaf](https://www.overleaf.com/) for online compilation without local installation.
+#### Method 3: Online (Recommended - No Installation)
+1. Go to [Overleaf](https://www.overleaf.com/)
+2. Create a new project
+3. Upload the `.tex` files from `materials/questions/`
+4. Click "Recompile" to generate PDFs instantly
+
+#### Method 4: Install LaTeX Locally
+- **macOS**: `brew install --cask mactex`
+- **Linux**: `sudo apt-get install texlive-full`
+- **Windows**: Download [MiKTeX](https://miktex.org/)
+
+**Note**: PDF versions will be added to the repository once compiled. For now, use Overleaf for instant PDF generation without installation.
 
 ---
 
