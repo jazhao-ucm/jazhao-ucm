@@ -97,7 +97,7 @@ My goal is pretty simple: keep building stuff that actually helps people.
 - **LinkedIn:** [linkedin.com/in/jadexzhao](https://www.linkedin.com/in/jadexzhao)
 - **Email:** jazhao@ucm.es
 - **GitHub:** [github.com/jadewowgreen](https://github.com/jadewowgreen)
-- **Resume:** [__resume.pdf__](./resume.pdf)
+- **Resume:** [resume.pdf](./resume.pdf)
 
 ---
 
