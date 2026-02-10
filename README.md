@@ -92,6 +92,27 @@ My goal is pretty simple: keep building stuff that actually helps people.
 
 ---
 
+## Course Notes & Study Materials
+
+This repository contains my portfolio and links to comprehensive course notes from my studies at Universidad Complutense de Madrid (UCM) during Spring 2026. Each course has its own repository with standardized structure, detailed notes, study materials, and course-specific resumes.
+
+### Course Repositories
+
+- **[Introduction to the European Union](https://github.com/jazhao-ucm/introduction-to-eu-notes)** - EU history, institutions, policies, and current challenges
+- **[Product Management](https://github.com/jazhao-ucm/product-management-notes)** - Value creation, business models, product strategy, and frameworks
+- **[Strategic Management](https://github.com/jazhao-ucm/strategic-management-notes)** - Strategic thinking, financial metrics, competitive advantage
+- **[Management in Global Markets](https://github.com/jazhao-ucm/management-global-market-notes)** - Globalization, international business strategies, cross-cultural management
+- **[Spanish for Beginners](https://github.com/jazhao-ucm/spanish-for-beginners-notes)** - B1 level Spanish grammar, vocabulary, and language skills
+
+Each course repository includes:
+- Comprehensive class notes organized chronologically
+- Study guides and practice materials
+- Course materials (PDFs, papers, syllabus)
+- Course-specific resume in LaTeX format
+- Quick reference resources
+
+---
+
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/jadexzhao](https://www.linkedin.com/in/jadexzhao)
