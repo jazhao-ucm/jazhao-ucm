@@ -61,8 +61,21 @@ Private study notes and materials for Spanish for Beginners (Group A2) – UCM. 
 ```
 spanish-for-beginners-notes/
 ├── README.md                    # This file
-├── B1-Lesson-Plan.md           # Comprehensive 12-week lesson plan
-└── B1-Practice-Exercises.md    # Extensive practice exercise bank
+│
+├── 01-notes/                    # Class notes
+│
+├── 02-study-materials/          # Study guides and exercises
+│   ├── guides/                  # Lesson plans
+│   │   └── B1-Lesson-Plan.md
+│   └── exercises/               # Practice exercises
+│       └── B1-Practice-Exercises.md
+│
+├── 03-course-materials/         # PDFs, papers, syllabus
+│   ├── pdfs/
+│   ├── papers/
+│   └── syllabus/
+│
+└── 04-resources/                # Additional resources
 ```
 
 ---
@@ -71,8 +84,8 @@ spanish-for-beginners-notes/
 
 ### For Studying
 
-1. **Review lesson plan** - Start with [B1-Lesson-Plan.md](./B1-Lesson-Plan.md) to understand the course structure
-2. **Complete exercises** - Use [B1-Practice-Exercises.md](./B1-Practice-Exercises.md) for practice
+1. **Review lesson plan** - Start with [B1-Lesson-Plan.md](02-study-materials/guides/B1-Lesson-Plan.md) to understand the course structure
+2. **Complete exercises** - Use [B1-Practice-Exercises.md](02-study-materials/exercises/B1-Practice-Exercises.md) for practice
 3. **Focus on grammar** - Pay special attention to past tenses and subjunctive
 4. **Practice all skills** - Integrate speaking, listening, reading, and writing
 
@@ -82,14 +95,14 @@ spanish-for-beginners-notes/
 
 ### B1 Level Materials
 
-- **[B1-Lesson-Plan.md](./B1-Lesson-Plan.md)** - Comprehensive 12-week lesson plan for Spanish B1 (Intermediate) level
+- **[B1-Lesson-Plan.md](02-study-materials/guides/B1-Lesson-Plan.md)** - Comprehensive 12-week lesson plan for Spanish B1 (Intermediate) level
   - Weekly grammar topics (past tenses, future, conditional, subjunctive, imperative, etc.)
   - Vocabulary themes
   - Speaking, listening, reading, and writing activities
   - Assessment rubrics and progress tracking
   - Teaching tips and recommended resources
 
-- **[B1-Practice-Exercises.md](./B1-Practice-Exercises.md)** - Extensive practice exercise bank
+- **[B1-Practice-Exercises.md](02-study-materials/exercises/B1-Practice-Exercises.md)** - Extensive practice exercise bank
   - Grammar exercises for each week
   - Speaking practice activities
   - Reading comprehension exercises
@@ -102,8 +115,8 @@ spanish-for-beginners-notes/
 
 ## 🗺️ Quick Navigation
 
-- **[Lesson Plan](./B1-Lesson-Plan.md)** - Complete 12-week course structure
-- **[Practice Exercises](./B1-Practice-Exercises.md)** - Exercise bank for all skills
+- **[Lesson Plan](02-study-materials/guides/B1-Lesson-Plan.md)** - Complete 12-week course structure
+- **[Practice Exercises](02-study-materials/exercises/B1-Practice-Exercises.md)** - Exercise bank for all skills
 
 ---
 
