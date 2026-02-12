@@ -100,16 +100,16 @@ This repository contains my portfolio and links to comprehensive course notes fr
 
 - **[Introduction to the European Union](https://github.com/jazhao-ucm/introduction-to-eu-notes)** - EU history, institutions, policies, and current challenges
 - **[Product Management](https://github.com/jazhao-ucm/product-management-notes)** - Value creation, business models, product strategy, and frameworks
-- **[Strategic Management](https://github.com/jazhao-ucm/strategic-management-notes)** - Strategic thinking, financial metrics, competitive advantage
+- **[Strategic Management](https://github.com/jazhao-ucm/strategic-management-notes)** - Strategic thinking, financial metrics (SVC, SR, ROA, ROE), competitive advantage, case studies and illustrations
 - **[Management in Global Markets](https://github.com/jazhao-ucm/management-global-market-notes)** - Globalization, international business strategies, cross-cultural management
 - **[Spanish for Beginners](https://github.com/jazhao-ucm/spanish-for-beginners-notes)** - B1 level Spanish grammar, vocabulary, and language skills
 
 Each course repository includes:
 - Comprehensive class notes organized chronologically
 - Study guides and practice materials
-- Course materials (PDFs, papers, syllabus)
+- Course materials (PDFs, papers, syllabus, illustrations/case studies)
 - Course-specific resume in LaTeX format
-- Quick reference resources
+- Quick reference resources (cheat sheets, course overviews)
 
 ---
 
