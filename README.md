@@ -4,6 +4,14 @@
 
 ---
 
+## ⭐ If You’re New, Start Here
+
+1. **View my resume:** open `resume.pdf` in this repo.  
+2. **See my course notes:** pick any course below and click its link.  
+3. Ignore everything else unless you feel like exploring.
+
+---
+
 ## About
 
 Hi, I'm Jade. I'm studying Informatics at Indiana University and I build things ... mostly tools for education and healthcare. I'm still learning (always will be), but I love working on projects that actually make a difference for people.
