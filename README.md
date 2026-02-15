@@ -12,7 +12,7 @@ just a girl building cool ai stuff
 
 📧 jadexzhao@outlook.com  
 💼 [linkedin](https://www.linkedin.com/in/jadexzhao)  
-🔗 [portfolio](https://bit.ly/matchaxmoxie)
+🔗 [resume](https://sites.google.com/view/jadexzhao)
 
 ---
 
