@@ -4,6 +4,7 @@ silly goose on the loose
 
 ---
 
+<!-- markdownlint-disable MD033 -->
 <p align="center">
   <img src="uno.jpg" alt="studying in Madrid" width="45%" />
   <img src="dos.jpg" alt="exploring culture and technology" width="45%" />
@@ -12,6 +13,7 @@ silly goose on the loose
 <p align="center">
   <em>studying in Madrid & exploring culture and technology</em>
 </p>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
