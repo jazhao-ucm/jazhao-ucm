@@ -3,6 +3,27 @@
 
 ---
 
+## Opening Discussion: Production Strategies
+
+**Key Question:** "So let us, you do you have to price and cost is not the same."
+
+**Important Distinction:**
+- **Cost** ≠ **Price**
+- Low cost doesn't always mean low price
+- "So you may have a low cost and inside a low cost from that doesn't mean always that I will do that over us."
+
+**Production Strategy Options:**
+- "There are a few ways of convenience."
+- "The one is... So, we have these circles, we may have, wero and try to be on us."
+- "Or we may try to on dinner magic."
+- Different approaches to production efficiency
+
+**Competing on Low Cost:**
+- "So you see, we are competing on low loss and do everything entering everything."
+- Low cost as a competitive strategy
+
+---
+
 ## Key Concepts
 
 ### 1. Fixed vs. Variable Costs
@@ -22,6 +43,25 @@
 **Key Insight:** "So the thing starts are all because the resources that we have to weigh to theip."
 
 **Key Point:** Fixed costs stay the same regardless of production volume. Variable costs increase with production.
+
+**Class Discussion on Cost Classification:**
+- Discussion about whether production costs are fixed or variable
+- "So what is a. . To make the robot?"
+- Student perspective: "I think it's fixed because you have a set amount of materials that are gonna cost the same. They might fluctuate like just with time, but I think it's fixed to make it."
+- "When we have sun again, So , we fucked that my US that. We thought that."
+- "So West when you have a roll front, you believe this the world of I' the Senate in known places right."
+- "And you have always a combination of community. So it's the way you were being is not always a sound. That is not always a sin."
+- Reality: Most businesses have a combination of both fixed and variable costs
+
+**Example Discussion:**
+- Location decisions affect costs
+- Production in Serbia vs. China vs. US
+- "So will you produce this PM? Yes. Sure. And you place that lo to my exist."
+- "So and we are the yes. Seria, New Servia."
+- "S is located . .. . ? In Europe. And it is cheaper to produce in S."
+- Labor costs vary by location
+- "Because it's cheaper, like. Like, maybe labor, maybe materials."
+- "I knew from, you they also quiet face."
 
 ---
 
@@ -73,6 +113,16 @@
 - "We have have we afford and we get some."
 - "So this is not bees that is gonna be. Is going. Decide summer."
 
+**Class Discussion:**
+- "If we want to use or local of the mass of the work, , or rather. Which is easier."
+- Standardized vs. customized production
+- "Probably, the steam. Probably the standard one?"
+
+**Example - Plastic Production:**
+- "You you say, you a different amount of plastic to bring you the orient or the batus. Is it? You? Does it change?"
+- Standardization reduces variation
+- "So the same is that if you give your your hand large cost for the go, you need became idolation."
+
 **Key Insight:** "So they from the in this case will be. As a well, you said, he made the indication of these standards and the standardes."
 
 **Benefits:**
@@ -80,6 +130,8 @@
 - Faster production
 - Easier to scale
 - "He's basically that a can standard lies and that's it what important thing, is the d., it means that all be a fring process would be always hand."
+- "So this an indication here, so this indication. This that may have So the last will be in."
+- "So when we, this highly style that's that mass imation li is I can't specialize him."
 
 ---
 
@@ -89,12 +141,23 @@
 
 **The Question:** "So, D, if you know to do more you ask for more money. I'm right."
 
+**Class Discussion:**
+- "He said more, is it cheaper to have a worker who knows? Deeper knows how to performing made for that. Or is cheaper so you have some guy who who does knows to do wildwind."
+- Student response: "I feel like it's cheaper to get the first guy who, like, knows those things instead of one thing, 'cause it might be that the person who knows one thing might expect more money because he only knows that one thing."
+
 **The Answer:** Specialization is cheaper
 
 **Why:**
 - "So, if we divide this, the second class where we get a stable Pacific, a lot."
 - "I not that much."
 - "We can hire people that we destinate people who knows why, we want to pay test."
+- "So, D, if you know to do more you ask for more money. I'm right."
+
+**Example:**
+- "Imagine you know you know, agents, both for Jign for. Your and for .."
+- Worker who knows multiple things vs. worker who knows one thing
+- "So they will you know how to do the different elements? Yes."
+- "And there's another guy who only knows who build a j knows with G."
 
 **Key Insight:** "So this is a big configuration of abroad, where we get to use it either reducingation, or use in the weakest, or both."
 
@@ -174,15 +237,20 @@
 - First car in the world to be produced in mass
 - "Actually, the first car in the world to be produced mass."
 - "And I tell you before bit, days I in and a 14 in."
+- "Well, he this day."
 
 **Key Difference:**
 - "What was the difference between the British cars on this car?"
 - "The biggest cars were estimates. So where an expensive from."
 - "And four and 4, hey, Raino, mine, light go visit achie."
+- "Because what happens, this guy and before signed this car."
 
 **The Goal:** "So then, what kind of things do you think he would be plays to reduce aion cost of this world? To produce a chip car of all these 37, Sp mission."
 
 **Key Insight:** "So he was not the first friend that he was of this, that he lived in."
+- "Well, like was aned by four West invented by all. .. American."
+- "So all byists are they practice the direction of women in."
+- "Henry Ford said, he sold forotion for the thousand."
 
 ---
 
@@ -193,10 +261,12 @@
 1. **Moving Assembly Line (Conveyor Belt System)**
    - "So for instance car. Every minute."
    - "I saw as, because he only produced Stash The since they were producing. As one."
+   - "So ironically haveers. That's cool."
 
 2. **Standardized, Interchangeable Parts**
    - "There is some nice, very.., say, why you?"
    - All parts were identical and interchangeable
+   - "So while the end, so when we meet you. In your designer? Yeah, I did. Si designer."
 
 3. **Workers Doing Specific, Repetitive Tasks**
    - "I ask him when you the dishes ain't. We have these world, mornings, and then he."
@@ -347,13 +417,20 @@
 
 **Key Concept:** "So, and I explain is because I can this space, you say that this is saying British to this race."
 
+**The History:**
+- "Why did West oper Bayside? The main is that the space says that the first."
+- "How was land out here? When the United States, especially when you moved when, different people in the east, where moving div worse the West."
+- "There you know by colonies? Yeah, you say, right say, this one is yours."
+- "After are the six godly Nolence to be from Ira are orders right."
+- "So I' less, rising in space, are theers."
+- "And the way it were getting the land is basically all guys to work interested in having , right?"
+- "So all very, in that place and so with that force and every day. Right."
+- "So we could run into the f ride club."
+- "So that's how the West land was in the beginning than thingschanged from."
+
 **The Principle:**
 - "So the first to get to some place to you that place."
 - "That's why I said that more is before that law has something that we have in that after that he was here."
-
-**The History:**
-- "So that's how the West land was in the beginning than thingschanged from."
-- "So far. So, and I explain is because I can this space"
 
 **Key Insight:** First mover advantage - being first matters.
 
@@ -363,36 +440,46 @@
 
 ## Key Takeaways
 
-1. **Fixed costs** don't change with production volume
-2. **Variable costs** change with production volume
-3. **Economies of scale** - larger production = lower cost per unit
-4. **Standardization** makes production cheaper and faster
-5. **Division of labor** - specialization increases efficiency
-6. **Learning by doing** - repetition improves speed and quality
-7. **Boredom problem** - repetitive work can decrease motivation
-8. **Replacement challenge** - specialized workers are hard to replace
-9. **Henry Ford's Model T** - revolutionized manufacturing
-10. **Mass production** requires high volumes to be profitable
-11. **Universities** have high fixed costs, need many students
-12. **Business model** must account for fixed costs
-13. **First mover advantage** - being first can matter
-14. **Scale matters** - need enough volume to cover fixed costs
+1. **Cost vs. Price** - Important distinction: low cost doesn't always mean low price
+2. **Fixed costs** don't change with production volume
+3. **Variable costs** change with production volume
+4. **Location decisions** affect costs (labor, materials vary by location)
+5. **Economies of scale** - larger production = lower cost per unit
+6. **Standardization** makes production cheaper and faster
+7. **Division of labor** - specialization increases efficiency (even though specialized workers may ask for more pay)
+8. **Learning by doing** - repetition improves speed and quality
+9. **Boredom problem** - repetitive work can decrease motivation
+10. **Replacement challenge** - specialized workers are hard to replace
+11. **Henry Ford's Model T** - revolutionized manufacturing
+12. **Mass production** requires high volumes to be profitable
+13. **Universities** have high fixed costs, need many students
+14. **Business model** must account for fixed costs
+15. **First mover advantage** - being first can matter (Westward expansion analogy)
+16. **Scale matters** - need enough volume to cover fixed costs
 
 ---
 
 ## Important Examples from Class
+
+**Production Location Decisions:**
+- Serbia vs. China vs. US production locations
+- Labor costs vary by location
+- Material costs may vary
+- Location affects overall cost structure
 
 **Henry Ford's Model T:**
 - Reduced production time from 12 hours to 2.5 hours
 - Reduced cost from $850 to $260 per car
 - Used moving assembly line, standardized parts, specialization
 - Made cars affordable for average Americans
+- First mass-produced car in the world
 
 **University Economics:**
 - High fixed costs (buildings, facilities)
 - Need many students to cover costs
 - New university case study - needed enough students
 - Scale matters for profitability
+- Consultation story: warned about needing many students
 
 **Fixed vs. Variable Costs:**
 - Fixed: Building, insurance, facilities
@@ -401,11 +488,22 @@
 - Oil/gas = high fixed costs
 - Small businesses = lower fixed costs
 
+**Standardization Examples:**
+- Plastic production - standardized amounts
+- Color choices - standardization reduces costs
+- Mass production requires standardization
+
 **Specialization:**
 - Workers doing one task = cheaper and faster
 - But leads to boredom and replacement challenges
 - Learning by doing improves efficiency
 - Need to balance specialization with worker satisfaction
+- Counterintuitive: specialized workers may ask for more pay, but hiring them is still cheaper overall
+
+**Westward Expansion Analogy:**
+- First to claim land gets it
+- First mover advantage in business
+- Historical context: US westward expansion
 
 ---
 
