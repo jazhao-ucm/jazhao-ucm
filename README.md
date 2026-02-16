@@ -10,7 +10,7 @@ just a girl building cool ai stuff
 
 ### let's be friends!
 
-📷 [@matchaxmoxie](https://www.instagram.com/matchaxmoxie/)
+📷 [@jadexzhao](https://www.instagram.com/jadexzhao/)
 💼 [linkedin](https://www.linkedin.com/in/jadexzhao)
 🔗 [resume](https://sites.google.com/view/jadexzhao)
 
