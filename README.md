@@ -10,8 +10,8 @@ just a girl building cool ai stuff
 
 ### let's be friends!
 
-📧 jadexzhao@outlook.com  
-💼 [linkedin](https://www.linkedin.com/in/jadexzhao)  
+📷 [@matchaxmoxie](https://www.instagram.com/matchaxmoxie/)
+💼 [linkedin](https://www.linkedin.com/in/jadexzhao)
 🔗 [resume](https://sites.google.com/view/jadexzhao)
 
 ---
