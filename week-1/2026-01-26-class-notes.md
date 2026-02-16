@@ -30,7 +30,7 @@
 
 **Key Point:** Value is created when resources and support activities combine to deliver value to users.
 
-**Example:** 
+**Example:**
 - "We are here to give it to our present users to be useful, and useful."
 - Value creation requires combining different activities
 

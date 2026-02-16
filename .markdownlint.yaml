@@ -1,0 +1,5 @@
+# Relax rules that conflict with class-notes style (dense lists, minimal blank lines)
+default: true
+MD022: false  # blanks around headings
+MD032: false  # blanks around lists
+MD036: false  # emphasis as heading (bold quotes under Final Thought)

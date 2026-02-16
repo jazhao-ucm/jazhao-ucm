@@ -206,7 +206,7 @@
 **Initial Model:** Free app, users pay
 - Didn't work - no one wanted to pay
 
-**New Model:** 
+**New Model:** Partnerships
 - Focus on partnerships
 - "So you talking about an easy one, producer of the producers of communicationrastruct."
 - "So then scapable for both, and they sell a huge corporation."
@@ -417,7 +417,7 @@
 
 ## Final Thought
 
-**"Don't build it and hope they will come - understand what they need first."**
+> "Don't build it and hope they will come - understand what they need first."
 
 Remember:
 - Community before product

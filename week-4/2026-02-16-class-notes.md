@@ -301,7 +301,7 @@
 **Key Point:**
 - "That's why I still we keep what we."
 - "This is why we are our computers are based on nothing 90, 60 years old."
-- "Because no one has been sensitiveitive."
+- Because no one has been successful [at replacing it].
 
 **Quantum Computing:**
 - "So, now there's some discussion because there's something new called concuring."
@@ -656,7 +656,7 @@
 
 ## Final Thought
 
-**"Disruptive innovation often starts with lower performance but wins by meeting customer needs better - even established market leaders can fail if they don't adapt."**
+> "Disruptive innovation often starts with lower performance but wins by meeting customer needs better - even established market leaders can fail if they don't adapt."
 
 Remember:
 - Technology follows S-curve pattern
