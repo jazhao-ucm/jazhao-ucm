@@ -10,7 +10,7 @@ silly goose on the loose
 </p>
 
 <p align="center">
-  <em>studying in Madrid</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>exploring culture and technology</em>
+  <em>studying in Madrid & exploring culture and technology</em>
 </p>
 
 ---
