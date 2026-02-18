@@ -7,14 +7,16 @@
 
 ### I. Rational vs. Irrational Decision Making
 
-Key Principle: Decisions are based on BOTH rationality AND emotion
+A. Key Principle
+1. Decisions are based on BOTH rationality AND emotion
 
-A. The Information-Emotion Relationship
+B. The Information-Emotion Relationship
 1. More information → More rational decisions
 2. Less information → More emotional decisions
 3. "The less information we have, the more we rely on emotion in decision-making"
 
-Key Insight: "Decisions are imperfect because we must the donation, we will need to lie. You know that make perfect decision."
+C. Key Insight
+1. "Decisions are imperfect because we must the donation, we will need to lie. You know that make perfect decision."
 
 **Reality:** People don't always have complete information to make "perfect" rational decisions.
 
@@ -28,9 +30,10 @@ A. The Circle Model
 3. When we have less information → Emotion plays a stronger role
 4. When we have more information → Rational decisions based on structured information
 
-Key Point: "So if on the needs, how we des circle is, emotion, we play a stronger or play a stronger role."
+B. Key Point
+1. "So if on the needs, how we des circle is, emotion, we play a stronger or play a stronger role."
 
-B. Decision Making Factors
+C. Decision Making Factors
 1. Structured information
 2. Emotion
 3. Risk and opportunity
@@ -41,16 +44,18 @@ B. Decision Making Factors
 
 ### III. Behavioral Economics & Consumer Decisions
 
-Key Concept: People don't always make perfectly rational decisions
+A. Key Concept
+1. People don't always make perfectly rational decisions
 
-A. Factors Influencing Decisions
+B. Factors Influencing Decisions
 1. Information availability - How much info we have
 2. Risk - Uncertainty about outcomes
 3. Opportunity - Potential benefits
 4. Brand - Brand reputation and trust
 5. Emotion - Feelings and gut reactions
 
-Key Insight: "So we have information, ability, risk all opportunities, or like, by little of brand. This is all your experience."
+C. Key Insight
+1. "So we have information, ability, risk all opportunities, or like, by little of brand. This is all your experience."
 
 **Reality:** "You're not E has. So, for instance, how do you build up on that? Yes. Well is your risk if you get to school in my."
 
@@ -68,7 +73,8 @@ B. Weak Brands
 2. Need to help customers make decisions
 3. "If the brand has no identity, they have to provide it themselves in order to help"
 
-Key Principle: "Strong brands = less need to share detailed information; they create emotional connections instead."
+C. Key Principle
+1. "Strong brands = less need to share detailed information; they create emotional connections instead."
 
 ---
 
@@ -82,14 +88,16 @@ B. Reasons
 3. Exclusivity - Want controlled, exclusive experiences
 4. Price justification - Use scarcity and exclusivity to justify high prices (€3,000+ items)
 
-Key Insight: "They want you to go there and spend three,000. Based on, Sp is obviously an in rationalization, right? Spain 3,000 years. Unless you're immediately. But for most of us, this is an important decision."
+C. Key Insight
+1. "They want you to go there and spend three,000. Based on, Sp is obviously an in rationalization, right? Spain 3,000 years. Unless you're immediately. But for most of us, this is an important decision."
 
-C. Strategy
+D. Strategy
 1. Strong brands don't need to provide information
 2. They rely on emotion and brand reputation
 3. "So, I said, what of mine, and you have a problem, and you want to study it. And you are working for a strong brand. Will you give us information to you? And will you share with the asel of emotional content? Yes."
 
-Key Point: "So this is one of the things you have to think about. You're already saying in Brand. You have to think about what how France. The strong, then no information and you do about around feet. Then that you, information. You that."
+E. Key Point
+1. "So this is one of the things you have to think about. You're already saying in Brand. You have to think about what how France. The strong, then no information and you do about around feet. Then that you, information. You that."
 
 ---
 
@@ -105,7 +113,8 @@ B. Modern Example
 3. When product arrives, it doesn't look like the ad
 4. But by then, they've already taken payment
 
-Key Insight: "So pictures of the group inv. So that's where we go, right? That we have to stop the pressureality and then we are happy for people say. And then be friend information either a motion."
+C. Key Insight
+1. "So pictures of the group inv. So that's where we go, right? That we have to stop the pressureality and then we are happy for people say. And then be friend information either a motion."
 
 **Reality:** Brands/companies signal quality when buyers have limited information.
 
@@ -125,9 +134,10 @@ B. Factors
 4. Location
 5. Cost
 
-Key Point: "It depends. It depends. Yeah. For inst, what you use you want to to in this sense."
+C. Key Point
+1. "It depends. It depends. Yeah. For inst, what you use you want to to in this sense."
 
-C. Information Challenges
+D. Information Challenges
 1. Universities may pay for higher SEO rankings
 2. "I think like, the bigger ones, like, I think they're biased because you can, like pay, like, the university can pay to have, like a higher SEO on set ranking."
 3. Sponsored results may not reflect actual quality
@@ -136,15 +146,17 @@ C. Information Challenges
 
 ### VIII. Patent Strategy & Technology Protection
 
-Key Concept: Patent strategy is to capture value from other people
+A. Key Concept
+1. Patent strategy is to capture value from other people
 
-A. Two Purposes of Patents
+B. Two Purposes of Patents
 1. Prevent people from stealing your technology
 2. Prevent competitors from blocking your innovation
 
-Key Insight: "When we patent things to prevent pl to steal them but to also like get. I create a patent and I make a map."
+C. Key Insight
+1. "When we patent things to prevent pl to steal them but to also like get. I create a patent and I make a map."
 
-B. Patent Portfolios
+D. Patent Portfolios
 1. Firms often build patent portfolios not just to protect their own tech
 2. But to avoid being sued by competitors
 3. "Patent thickets" - creating barriers around your technology
@@ -164,13 +176,15 @@ B. Solutions
 3. Acquire Firm B - Buy them out
 4. Build patent portfolio - Create your own patents to negotiate
 
-Key Insight: "So you have to pay. But I don't understand because that's the other firm's primary product. That's all they make. And if they patches it that first, then how would the firm one be able to cut it then?"
+C. Key Insight
+1. "So you have to pay. But I don't understand because that's the other firm's primary product. That's all they make. And if they patches it that first, then how would the firm one be able to cut it then?"
 
 **Reality:** "No, these guys moving from too fast, right? And here, we are trying to have getting smiling and."
 
 **Strategy:** "So many times, friends have ves of emois that many world. Themselves from someone of the time having senior island senior."
 
-Key Point: "When the first thing I say all the bands with technologies of industry. So we Juan to fantasy. Firm and all of the fans having bars, and then I have to understand what are the these places that may be some of these bags."
+D. Key Point
+1. "When the first thing I say all the bands with technologies of industry. So we Juan to fantasy. Firm and all of the fans having bars, and then I have to understand what are the these places that may be some of these bags."
 
 ---
 
@@ -182,7 +196,8 @@ A. Key Strategy
 3. Understand the patent landscape
 4. Build your own patent portfolio for negotiation
 
-Key Insight: "So if you're world manager, this is something you from stability. To check for the planers, you are gonna feel and to check what have pine the same in a solar area, and were the balance of these guys and discussing with your, with a tal business necessary to find, to kill, a little."
+B. Key Insight
+1. "So if you're world manager, this is something you from stability. To check for the planers, you are gonna feel and to check what have pine the same in a solar area, and were the balance of these guys and discussing with your, with a tal business necessary to find, to kill, a little."
 
 **Reality:** "So this is so little bit tricky, little bit prop this daily pain it's very. When you, you fr that can build and pay for your clients, even even areas that are not that this is small and the reason that they are design from all the death in either priority decent City."
 
@@ -192,9 +207,10 @@ Key Insight: "So if you're world manager, this is something you from stability. 
 
 **Definition:** Sharing knowledge and technology for free to benefit the industry
 
-Key Concept: "Open information is described, you were f, shared. I the German. Sh violence, so we share a knowledge."
+A. Key Concept
+1. "Open information is described, you were f, shared. I the German. Sh violence, so we share a knowledge."
 
-A. Why Would Companies Do This?
+B. Why Would Companies Do This?
 1. Create industry standards
 2. Generate demand for complementary products
 3. Build ecosystem around your technology
@@ -213,11 +229,13 @@ B. Why Give Away Valuable Technology?
 2. Generated demand for IBM's computing infrastructure
 3. "To take to take your data and to train the models. Making the standard of the industry and surprise, surprise in your running is a platform, you need many friends. Computers for So they said or many days. By you obeying old."
 
-Key Insight: "So opening information is described, you were f, shared."
+C. Key Insight
+1. "So opening information is described, you were f, shared."
 
 **Result:** Real profit came from selling the hardware/servers needed to run the platform
 
-Key Point: "Who was the real wings, who were the real wings when we were? Nese. They were the only ones making a prophet of all these islands. So that's why they decided approach and adopt this or region approach."
+D. Key Point
+1. "Who was the real wings, who were the real wings when we were? Nese. They were the only ones making a prophet of all these islands. So that's why they decided approach and adopt this or region approach."
 
 ---
 
@@ -228,7 +246,8 @@ A. About David Teece
 2. Was vice president at IBM developing technology
 3. "This is the s te that we used in in our mostforms. So it was it was a vice Pres president for RB."
 
-Key Insight: He decided to share knowledge and benefit the industry as a whole.
+B. Key Insight
+1. He decided to share knowledge and benefit the industry as a whole.
 
 **Concept:** Open innovation = sharing knowledge to create value for everyone
 
@@ -246,7 +265,8 @@ B. Revenue Breakdown
 1. 40% from licenses for carrying their rights
 2. 60% from other businesses
 
-Key Insight: "So basically, all these things together is 40% of their and 60% of the problem are in."
+C. Key Insight
+1. "So basically, all these things together is 40% of their and 60% of the problem are in."
 
 **Strategy:** "They say, has been many been in theran States in W Microsoft and moving. They share some of the p of the for them for the same."
 
@@ -273,7 +293,8 @@ C. What Happened
 
 Key Lesson: Innovation alone isn't enough - you need commercialization strategy
 
-Key Insight: "So we were really sm at me organizing."
+D. Key Insight
+1. "So we were really sm at me organizing."
 
 **Reality:** "That basically. What you got you do that. You see. What's the middle of fro., copy machine. Eily, easy the mouse to copy machine."
 
@@ -295,7 +316,8 @@ B. Value Capture Mechanisms
 2. Market access - Distribution and customer access
 3. IP or secrecy - Patents or keeping things secret
 
-Key Insight: "When we don't have info we use emotions for rational decisions. Review increase info ab product. If the brand has no identity, they have to provide it themselves in order to help."
+C. Key Insight
+1. "When we don't have info we use emotions for rational decisions. Review increase info ab product. If the brand has no identity, they have to provide it themselves in order to help."
 
 ---
 

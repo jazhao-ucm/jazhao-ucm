@@ -7,22 +7,24 @@
 
 ### I. Technology Adoption Curve (S-Curve)
 
-Key Concept: Technology performance follows an S-curve pattern over time
+A. Key Concept
+1. Technology performance follows an S-curve pattern over time
 
-A. The Pattern
+B. The Pattern
 1. Beginning: Slow performance improvement, technology evolving
 2. Middle: Rapid performance improvement (steep part of the curve)
 3. Maturity: Performance plateaus, incremental improvements
 4. Decline: Old technology replaced by new technology
 
-B. Visual Representation
+C. Visual Representation
 1. "So basically, this, you see, , you see that."
 2. "And after the words, we are disint points. Again?"
 3. Performance starts low, increases rapidly, then levels off
 
-Key Insight: "So this is how we are the psycho of ."
+D. Key Insight
+1. "So this is how we are the psycho of ."
 
-C. Investment Pattern
+E. Investment Pattern
 1. Early stage: Low investment, uncertain returns
 2. Growth stage: Heavy investment as performance improves
 3. Maturity: Investment shifts to new technologies
@@ -38,9 +40,10 @@ A. The Curve
 3. Maturity: Performance plateaus
 4. Replacement: New technology emerges
 
-Key Point: "So we stay here, it's going back. We can see? This is the .."
+B. Key Point
+1. "So we stay here, it's going back. We can see? This is the .."
 
-B. Example - Old Technology Performance
+C. Example - Old Technology Performance
 1. Old technology performance declines as new technology emerges
 2. "And then, the performance of the old , this is how"
 3. "So for instance, we go back . Jesus example of our own. , the beginning is less, much for system."
@@ -82,9 +85,10 @@ F. Why Kodak Failed
 4. "So, this man fish radio, and then he one of three times more. Four times the average number."
 5. They couldn't adapt quickly enough
 
-Key Insight: "So basically if you try that West like six levels. So in the end, you have to be some."
+G. Key Insight
+1. "So basically if you try that West like six levels. So in the end, you have to be some."
 
-G. The Dilemma
+H. The Dilemma
 1. "So in the end, you have to be some. And what you see , the DC.."
 2. "Is it because all the three companies that we named before did it better than they did?"
 3. Kodak had 30 years of dominance but couldn't transition
@@ -93,22 +97,24 @@ G. The Dilemma
 
 ### IV. The Innovator's Dilemma
 
-Key Question: "Imagine you are , and the name we shut down this old film technology that is in remaining all theode of the fact, and why we invest into this unsor . What do you think will be in?"
+A. Key Question
+1. "Imagine you are , and the name we shut down this old film technology that is in remaining all theode of the fact, and why we invest into this unsor . What do you think will be in?"
 
-A. The Challenge
+B. The Challenge
 1. Old technology is still profitable
 2. New technology is unproven
 3. "A seal would be with, I'm stay with you."
 4. "Yeah, so they' police on to stay with you, if you don't ."
 5. "You are money, then maybe you think that why are you front of trying to money. If you already get killed , aren't well. ?"
 
-B. The Problem
+C. The Problem
 1. Companies stick with profitable old technology
 2. Don't invest in disruptive new technology
 3. "That's fine. Evening, is a this here is the technologies are developed by ."
 4. "He is not he."
 
-Key Insight: "So that's the thing. , not always start."
+D. Key Insight
+1. "So that's the thing. , not always start."
 
 ---
 
@@ -177,9 +183,10 @@ C. Performance Comparison
 3. "And the same you can see here, these guys swelled saying a pointing46 point as a word belie ."
 4. "And these highids because air points and the guy . You in."
 
-Key Insight: "So that's five days for all these."
+D. Key Insight
+1. "So that's five days for all these."
 
-D. The Disruption
+E. The Disruption
 1. "Golden Dead newspaper, the dead, you see that all this happening. Overlaiming that an Aaron."
 2. "So what happened is that artistic bar. Was not so."
 3. Established players struggle to adapt
@@ -256,9 +263,10 @@ C. Why Companies Don't Invest
 2. "There is one week. Then all friends will invest on her year. ."
 3. Companies wait until it's too late
 
-Key Insight: "That's why this my heart."
+D. Key Insight
+1. "That's why this my heart."
 
-D. The Pattern
+E. The Pattern
 1. "So did you get it?"
 2. "So around the information is about Vietnam. Dead."
 3. "And about the G , going..."
@@ -367,7 +375,8 @@ C. Example
 5. "These are thank you.."
 6. "This first one here in the."
 
-Key Insight: "You see this? That's , or this phone, for instance, these guys are not playing."
+D. Key Insight
+1. "You see this? That's , or this phone, for instance, these guys are not playing."
 
 ---
 

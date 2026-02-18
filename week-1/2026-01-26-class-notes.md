@@ -16,7 +16,8 @@ B. Value Capture
 1. How much value you actually capture/make money from
 2. The difference between what you create and what you capture
 
-Key Insight: Creating value doesn't mean you capture it. You need both value creation AND value capture.
+C. Key Insight
+1. Creating value doesn't mean you capture it. You need both value creation AND value capture.
 
 ---
 
@@ -28,9 +29,10 @@ A. Components
 1. Primary Activities: Directly involved in production and delivery
 2. Support Activities: Enable primary activities
 
-Key Point: Value is created when resources and support activities combine to deliver value to users.
+B. Key Point
+1. Value is created when resources and support activities combine to deliver value to users.
 
-B. Example
+C. Example
 1. "We are here to give it to our present users to be useful, and useful."
 2. Value creation requires combining different activities
 
@@ -38,14 +40,16 @@ B. Example
 
 ### III. David Teece - Value Capture & Market Access
 
-Key Concept: Market access goes to value capture
+A. Key Concept
+1. Market access goes to value capture
 
-A. David Teece's Framework
+B. David Teece's Framework
 1. Focus on how to capture value from innovation
 2. Importance of market access
 3. Need for complementary assets
 
-Key Insight: Having a great product isn't enough - you need market access to capture value.
+C. Key Insight
+1. Having a great product isn't enough - you need market access to capture value.
 
 ---
 
@@ -82,7 +86,8 @@ B. Why They Bought
 3. They had better structure to sell
 4. Better market access and distribution
 
-Key Insight: "They can buy the corporation since they have a larger health market access."
+C. Key Insight
+1. "They can buy the corporation since they have a larger health market access."
 
 ---
 
@@ -99,7 +104,8 @@ B. Reality
 2. Global companies (like Takeda) have better distribution
 3. Market size matters for value capture
 
-Key Point: Market access and scale determine value capture, not just value creation.
+C. Key Point
+1. Market access and scale determine value capture, not just value creation.
 
 ---
 
@@ -124,7 +130,8 @@ A. Three Ways to Capture Value
    a. Customer relationships
    a. Market presence
 
-Key Insight: "This is what we called cost specialized assets and market access."
+B. Key Insight
+1. "This is what we called cost specialized assets and market access."
 
 ---
 
@@ -138,9 +145,10 @@ A. Examples
 3. Distribution networks
 4. Customer relationships
 
-Key Point: "It's important to invest money in companies in Coca-Cola and the branding and secrecy."
+B. Key Point
+1. "It's important to invest money in companies in Coca-Cola and the branding and secrecy."
 
-B. Alternative to Branding
+C. Alternative to Branding
 1. "Instead of branding people could use 'co-specialized'"
 2. Sharing how it works
 3. If they are the only one, they use proprietary
@@ -162,7 +170,8 @@ B. Strategy
 3. But don't over-patent
 4. "Avoid patenting or they over patent"
 
-Key Insight: Patents are one way to capture value, but not the only way.
+C. Key Insight
+1. Patents are one way to capture value, but not the only way.
 
 ---
 
@@ -180,21 +189,24 @@ B. Example
 3. Better distribution network
 4. More value capture potential
 
-Key Point: Market access is crucial for value capture.
+C. Key Point
+1. Market access is crucial for value capture.
 
 ---
 
 ### XI. The Goal of Product Management
 
-Key Principle: "Goal of the product management is CSDA"
+A. Key Principle
+1. "Goal of the product management is CSDA"
 
-A. CSDA likely refers to
+B. CSDA likely refers to
 1. Customer-focused
 2. Strategic
 3. Data-driven
 4. Action-oriented
 
-Key Insight: Product management is about creating AND capturing value.
+C. Key Insight
+1. Product management is about creating AND capturing value.
 
 ---
 
@@ -209,7 +221,8 @@ B. Market-Based Approaches
 2. Based on potential customers
 3. Based on market access
 
-Key Point: Valuation depends on both what you create and what the market values.
+C. Key Point
+1. Valuation depends on both what you create and what the market values.
 
 ---
 

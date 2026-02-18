@@ -7,15 +7,17 @@
 
 ### I. Community Needs Assessment
 
-Key Principle: "The importance of assessing the needs of the community and finding connections between people with similar interests is emphasized."
+A. Key Principle
+1. "The importance of assessing the needs of the community and finding connections between people with similar interests is emphasized."
 
-A. Process
+B. Process
 1. Find connections between people with similar interests
 2. "So if I like, somewhere, I can find people to like. We like..."
 3. Assess what the community actually needs
 4. Understand what people want before building
 
-Key Insight: "So we need to find out what are these is. Why? Because. That's all the world is un defining."
+C. Key Insight
+1. "So we need to find out what are these is. Why? Because. That's all the world is un defining."
 
 ---
 
@@ -27,9 +29,11 @@ A. The Process
 3. Each cycle develops something new
 4. "So we need to ri all these springs and in each spread we develop a new fracture and of the brass."
 
-Key Principle: "You have the best everything that you something you not invest, justing, investing here, investing there. And invest. So the best thing invest in investing is."
+B. Key Principle
+1. "You have the best everything that you something you not invest, justing, investing here, investing there. And invest. So the best thing invest in investing is."
 
-Key Point: Focus investment on what matters most, not everything at once.
+C. Key Point
+1. Focus investment on what matters most, not everything at once.
 
 ---
 
@@ -37,11 +41,13 @@ Key Point: Focus investment on what matters most, not everything at once.
 
 **Concept:** "Testing as Investing" - from the book recommended for world management
 
-Key Insight: "So if I have this priority, you is the investing, invest. This is a very approach."
+A. Key Insight
+1. "So if I have this priority, you is the investing, invest. This is a very approach."
 
 **Book Reference:** "If you are interested in this world management, you and you want to create something more specific, there is this book which is called these. Where did they explain this approach of testing as investing."
 
-Key Point: Testing is actually disabledural mass - it's part of the development process, not separate.
+B. Key Point
+1. Testing is actually disabledural mass - it's part of the development process, not separate.
 
 **Reality:** "This is a pretty pain book in must actually to explain how to develop here. But now is so that everyone uses either gr."
 
@@ -65,7 +71,8 @@ C. Development Process
 2. Second step - Build the platform
 3. Third step - Test and iterate
 
-Key Insight: "So we had to do so practice. We g this art. Here."
+D. Key Insight
+1. "So we had to do so practice. We g this art. Here."
 
 ---
 
@@ -77,9 +84,10 @@ A. The Cycle
 3. Lewis - Iteration and improvement
 4. Back to the game - Repeat cycle
 
-Key Principle: "This is way. If you one round, you pull many f theory, the damages is saying is just the process of all design."
+B. Key Principle
+1. "This is way. If you one round, you pull many f theory, the damages is saying is just the process of all design."
 
-B. Why We Design
+C. Why We Design
 1. "Because are we going to defense, do they know what asking for?"
 2. "What I'm saying, he brought the left. What, we are. You say me know what me rain."
 
@@ -100,7 +108,8 @@ B. Example from Class
 3. "I struggle in the gun system with the body."
 4. When asked what kind of makeability, he said "this is nothing."
 
-Key Insight: "He was a little match pulling himself problems. And that's something that's he want, that his fa."
+C. Key Insight
+1. "He was a little match pulling himself problems. And that's something that's he want, that his fa."
 
 **Lesson:** Don't build first, understand the problem first.
 
@@ -108,14 +117,16 @@ Key Insight: "He was a little match pulling himself problems. And that's somethi
 
 ### VII. Understanding User Needs
 
-Key Question: "What are these is? Why? Because. That's all the world is un defining."
+A. Key Question
+1. "What are these is? Why? Because. That's all the world is un defining."
 
-A. The Process
+B. The Process
 1. Find out what people actually need
 2. "So if we want to create value, we need to find out these box of space."
 3. "And therefore, we need to find out what is happening."
 
-Key Point: "So as a manager, one goes, the designer you are, will be the best if the better. Then."
+C. Key Point
+1. "So as a manager, one goes, the designer you are, will be the best if the better. Then."
 
 **Reality:** "So we need to find out when show this assets, our room. So we need to what are these is."
 
@@ -123,14 +134,16 @@ Key Point: "So as a manager, one goes, the designer you are, will be the best if
 
 ### VIII. Community Before Product
 
-Key Principle: "So in this case, because of community before, the directors, but for."
+A. Key Principle
+1. "So in this case, because of community before, the directors, but for."
 
-A. Strategy
+B. Strategy
 1. Build community first
 2. Then build product for that community
 3. "So we need to find out when show this assets, our room."
 
-Key Insight: "So we don't, we don't, we fit morning, we don't have France."
+C. Key Insight
+1. "So we don't, we don't, we fit morning, we don't have France."
 
 **Reality:** "So I wanted of people who were on is all the problem is to pay pay fr And this priority with each all."
 
@@ -138,19 +151,21 @@ Key Insight: "So we don't, we don't, we fit morning, we don't have France."
 
 ### IX. The Payment Problem
 
-Key Question: "Would you pay for this time?"
+A. Key Question
+1. "Would you pay for this time?"
 
 **The Answer:** "No. Who is this? No."
 
-A. Who Might Pay
+B. Who Might Pay
 1. "Maybe someone who, like, moved to, like, a new area for school or work."
 2. "Or people who are looking for roommates."
 
-B. Reality Check
+C. Reality Check
 1. Exercise with students - "They were so. No one this."
 2. "So last month pay for your. Nothing. Nothing at all."
 
-Key Insight: "So, actually we suggested day and you know Bra from? No? Yes."
+D. Key Insight
+1. "So, actually we suggested day and you know Bra from? No? Yes."
 
 **Problem:** "So these guys. These guys. Why are you doing? I must be in inside. Was man to were okay to give you value thinking they were really West to the master providers."
 
@@ -164,7 +179,8 @@ A. What Happened
 3. "So they are school years so well. We are."
 4. "And so they just bring all, because they actually just This is not going to be."
 
-Key Insight: "I mean ever want, for this so the sweet. So that's me and so that's me and me."
+B. Key Insight
+1. "I mean ever want, for this so the sweet. So that's me and so that's me and me."
 
 **Reality:** "So that's a being anyone will be Chris. Eaper for this. No."
 
@@ -184,7 +200,8 @@ B. New Focus
 3. Awarding process (board in Japan)
 4. Make friends from the murder, the first day
 
-Key Point: "So this is one thing and your thing is that this 50 University of places AM."
+C. Key Point
+1. "So this is one thing and your thing is that this 50 University of places AM."
 
 ---
 
@@ -195,7 +212,8 @@ A. Strategy
 2. "We are working today, no one. Texas, working with Texas on called Joe andbedd"
 3. "And we have a friend who whether this will be good to your adventures."
 
-Key Insight: "Basically, it means that if you are happier in your life, if you day, we would be happier or you in state more."
+B. Key Insight
+1. "Basically, it means that if you are happier in your life, if you day, we would be happier or you in state more."
 
 **Approach:** "So we are actually visit to here now and scing at of these position in the last operation called Ed."
 
@@ -213,21 +231,24 @@ Key Insight: "Basically, it means that if you are happier in your life, if you d
 
 **Testing:** "And we are trying this at here to see whether you send this collections, people or profession musical."
 
-Key Insight: "Basically because you make friends in the time."
+A. Key Insight
+1. "Basically because you make friends in the time."
 
 ---
 
 ### XIV. Success Metrics
 
-Key Question: "How do you make sure this has says all this act?"
+A. Key Question
+1. "How do you make sure this has says all this act?"
 
-A. Possible Metrics
+B. Possible Metrics
 1. Number of matches
 2. Number of successful connections
 3. User engagement
 4. "I think it's the number of people who would like, subscribe to the paid subscription"
 
-Key Insight: "When we are prom, we are trying to make sure this success of the value is great. Then, by actually some."
+C. Key Insight
+1. "When we are prom, we are trying to make sure this success of the value is great. Then, by actually some."
 
 **Reality:** "So people paying for this I' of buying, not buying information."
 
@@ -235,14 +256,16 @@ Key Insight: "When we are prom, we are trying to make sure this success of the v
 
 ### XV. Google's Business Model Example
 
-Key Question: "How much are you paying any move for using world to search for things? You made it? No. Are you using? Yes."
+A. Key Question
+1. "How much are you paying any move for using world to search for things? You made it? No. Are you using? Yes."
 
-A. The Model
+B. The Model
 1. Google is free for users
 2. Makes money through advertising
 3. "You see that? Even in your own. Then Google is something to find out how to make money is that actually get really."
 
-Key Insight: "You want to say, what this is valut creation, like operating survey is a ceiling, how how people are."
+C. Key Insight
+1. "You want to say, what this is valut creation, like operating survey is a ceiling, how how people are."
 
 **Reality:** Value creation through free service, value capture through advertising.
 
@@ -260,20 +283,23 @@ B. Key Insight
 
 **Reality:** Reviews are often polarized - very good or very bad, not accurate middle ground.
 
-Key Point: "The second thing is, especially services. Need to explain the difference between Wilson areas."
+C. Key Point
+1. "The second thing is, especially services. Need to explain the difference between Wilson areas."
 
 ---
 
 ### XVII. Service Quality & Expectations
 
-Key Concept: "So my point is that DVP service is this, why do we need is very very"
+A. Key Concept
+1. "So my point is that DVP service is this, why do we need is very very"
 
-A. Example
+B. Example
 1. "So, for instance, probably here from a service anyway. And kitchen is a service."
 2. "And we find a beautiful questions about their blood is kitchen, probably some beautiful Connect, sometimes it."
 3. "It's awful, but then doing here's better."
 
-Key Insight: "So that's basically, I mean, that's enough back I be people out there. Best own your own and expectation."
+C. Key Insight
+1. "So that's basically, I mean, that's enough back I be people out there. Best own your own and expectation."
 
 **Reality:** "So that's why is in you are when we, you toroduce happiness at this. You really really, that's I'm not saying when you very middle, trying to be able to or right now to be a is difficult to use."
 
@@ -281,15 +307,18 @@ Key Insight: "So that's basically, I mean, that's enough back I be people out th
 
 ### XVIII. Branding & Information Strategy
 
-Key Question: "When can you use br as scants to buy eggs? When do we have information or when we go back?"
+A. Key Question
+1. "When can you use br as scants to buy eggs? When do we have information or when we go back?"
 
 **Answer:** "We use with two on your hand. And these soitute all your. Some can be so last. With information as."
 
-Key Insight: "So, the me here is Brown. So, so it's whereandy out of my family."
+B. Key Insight
+1. "So, the me here is Brown. So, so it's whereandy out of my family."
 
 **Strategy:** "So my have to buy bas. Is, information. So basically, we have to invest in given information. So ourselves."
 
-Key Point: "So that's why we that Peter. E Billy fers. Sexist, fiveist. Important."
+C. Key Point
+1. "So that's why we that Peter. E Billy fers. Sexist, fiveist. Important."
 
 ---
 
@@ -301,11 +330,13 @@ A. What They Do
 1. "These guys are basically, people, who are either is of the of the fact, we be body."
 2. "So basically, these guys are friends, Sp in name from friends to are."
 
-Key Insight: "So this is, and this world has waiting because city is lobing, is very obscure business, because you never know what they what is the very all around."
+B. Key Insight
+1. "So this is, and this world has waiting because city is lobing, is very obscure business, because you never know what they what is the very all around."
 
 **Reality:** "If helps this man. Sometimes you get money and it's not in this case, we that we are missing ourages and we that."
 
-Key Point: "So, well, if you are interested, I am telling you more things, but I will. Too long."
+C. Key Point
+1. "So, well, if you are interested, I am telling you more things, but I will. Too long."
 
 ---
 
@@ -323,28 +354,32 @@ C. The Response
 1. "But this was, when the family had no way both of us. Butitioning wasn't well."
 2. "He said that I've been there for 12 years and they' already not been success with progress that'."
 
-Key Insight: "So, yeah, so AA is that the bron is not really strong. I mean, not a way is if they can't the dress in Europe, you would be really happy."
+D. Key Insight
+1. "So, yeah, so AA is that the bron is not really strong. I mean, not a way is if they can't the dress in Europe, you would be really happy."
 
 **Strategy:** "You work free and then are will endorses. I. Lovely a savior, when, we built that we strong, we excessive Brian, is access now."
 
-Key Point: "There's no need for us. We're will invest more money in Brown."
+E. Key Point
+1. "There's no need for us. We're will invest more money in Brown."
 
 ---
 
 ### XXI. Investment & Processing Costs
 
-Key Question: "Do you think we need to find it yet? And Brian? Yes, but the word on everything. Isn't necessary. Listen. No. We don't."
+A. Key Question
+1. "Do you think we need to find it yet? And Brian? Yes, but the word on everything. Isn't necessary. Listen. No. We don't."
 
-A. The Calculation
+B. The Calculation
 1. "So, we put more to br for a processing."
 2. "Frank, the waves guys started the fed was spok by here, zero zero."
 3. "He said, right. Is that I know right?"
 
-B. The Answer
+C. The Answer
 1. "So you will say, so we have that our 80,000 years."
 2. "So up 8,000 years, I since we are, because we need to go to all these screens?"
 
-Key Insight: "This that time. That's nice, this might looks of youun this."
+D. Key Insight
+1. "This that time. That's nice, this might looks of youun this."
 
 **Reality:** "The list is something that I mean, this may be broken my will be all the. And based on the right answer."
 
@@ -352,13 +387,16 @@ Key Insight: "This that time. That's nice, this might looks of youun this."
 
 ### XXII. The Real World vs. Theory
 
-Key Principle: "I mean, the thing for me is not this, but be why you're doing. That's a real world."
+A. Key Principle
+1. "I mean, the thing for me is not this, but be why you're doing. That's a real world."
 
-Key Insight: "I mean, your explanation makes sense that you're right. It is known. You see, as long it's made so sense with all this day time in discussing with you, this."
+B. Key Insight
+1. "I mean, your explanation makes sense that you're right. It is known. You see, as long it's made so sense with all this day time in discussing with you, this."
 
 **Reality:** Theory is good, but real-world application matters more.
 
-Key Point: "So, uh, fair enough. Any questions tomorrow? So, let's go to the way. Back."
+C. Key Point
+1. "So, uh, fair enough. Any questions tomorrow? So, let's go to the way. Back."
 
 ---
 

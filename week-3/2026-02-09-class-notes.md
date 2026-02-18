@@ -5,20 +5,21 @@
 
 ## Opening Discussion: Production Strategies
 
-Key Question: "So let us, you do you have to price and cost is not the same."
+A. Key Question
+1. "So let us, you do you have to price and cost is not the same."
 
-A. Important Distinction
+B. Important Distinction
 1. Cost ≠ Price
 2. Low cost doesn't always mean low price
 3. "So you may have a low cost and inside a low cost from that doesn't mean always that I will do that over us."
 
-B. Production Strategy Options
+C. Production Strategy Options
 1. "There are a few ways of convenience."
 2. "The one is... So, we have these circles, we may have, wero and try to be on us."
 3. "Or we may try to on dinner magic."
 4. Different approaches to production efficiency
 
-C. Competing on Low Cost
+D. Competing on Low Cost
 1. "So you see, we are competing on low loss and do everything entering everything."
 2. Low cost as a competitive strategy
 
@@ -40,11 +41,13 @@ B. Variable Costs
 3. "So basically, the cost of all theers are being employed only in."
 4. "And the value to the when they back here."
 
-Key Insight: "So the thing starts are all because the resources that we have to weigh to theip."
+C. Key Insight
+1. "So the thing starts are all because the resources that we have to weigh to theip."
 
-Key Point: Fixed costs stay the same regardless of production volume. Variable costs increase with production.
+D. Key Point
+1. Fixed costs stay the same regardless of production volume. Variable costs increase with production.
 
-C. Class Discussion on Cost Classification
+E. Class Discussion on Cost Classification
 1. Discussion about whether production costs are fixed or variable
 2. "So what is a. . To make the robot?"
 3. Student perspective: "I think it's fixed because you have a set amount of materials that are gonna cost the same. They might fluctuate like just with time, but I think it's fixed to make it."
@@ -53,7 +56,7 @@ C. Class Discussion on Cost Classification
 6. "And you have always a combination of community. So it's the way you were being is not always a sound. That is not always a sin."
 7. Reality: Most businesses have a combination of both fixed and variable costs
 
-D. Example Discussion
+F. Example Discussion
 1. Location decisions affect costs
 2. Production in Serbia vs. China vs. US
 3. "So will you produce this PM? Yes. Sure. And you place that lo to my exist."
@@ -67,21 +70,23 @@ D. Example Discussion
 
 ### II. Cost Structure & Business Models
 
-Key Principle: "So need, big class is you need changes here, G.able costs are wages, wages."
+A. Key Principle
+1. "So need, big class is you need changes here, G.able costs are wages, wages."
 
-A. Different Industries Have Different Cost Structures
+B. Different Industries Have Different Cost Structures
 
-B. High Fixed Costs
+C. High Fixed Costs
 1. Oil and gas plants
 2. "So all from of a said, you got Ross, man, it's super large."
 3. "I mean, to happier sing a faceical plant for your plant. For oil and gas, these are super chips, and they're super expensive."
 4. "So the typically, a text cost is super."
 
-C. Low Fixed Costs
+D. Low Fixed Costs
 1. Small businesses
 2. "And I've give you built rock where the is the normal very small, is the all."
 
-Key Insight: "So for example of a mistress cost and small mals are in oil and like shing, or mities,arily or kind of industry, where you see or are."
+E. Key Insight
+1. "So for example of a mistress cost and small mals are in oil and like shing, or mities,arily or kind of industry, where you see or are."
 
 **Reality:** "This is a difficult where those large face, when we produce br."
 
@@ -89,16 +94,18 @@ Key Insight: "So for example of a mistress cost and small mals are in oil and li
 
 ### III. Economies of Scale
 
-Key Concept: "So when the most of the is called the Gier that who will or with the effects because are larger, we larger than the."
+A. Key Concept
+1. "So when the most of the is called the Gier that who will or with the effects because are larger, we larger than the."
 
 **Definition:** As you produce more, the cost per unit decreases
 
-A. Why It Happens
+B. Why It Happens
 1. Fixed costs are spread over more units
 2. "So the main equation now is began using the lot"
 3. Larger production = lower cost per unit
 
-Key Insight: "So that's me."
+C. Key Insight
+1. "So that's me."
 
 **Example:** "So, usually we need much, so basically musty or and then R She. Some machines."
 
@@ -106,26 +113,28 @@ Key Insight: "So that's me."
 
 ### IV. Standardization & Mass Production
 
-Key Concept: Standardization makes production cheaper and faster
+A. Key Concept
+1. Standardization makes production cheaper and faster
 
-A. The Process
+B. The Process
 1. "So if we want our has to be signed over in, we have some of the."
 2. "We have have we afford and we get some."
 3. "So this is not bees that is gonna be. Is going. Decide summer."
 
-B. Class Discussion
+C. Class Discussion
 1. "If we want to use or local of the mass of the work, , or rather. Which is easier."
 2. Standardized vs. customized production
 3. "Probably, the steam. Probably the standard one?"
 
-C. Example - Plastic Production
+D. Example - Plastic Production
 1. "You you say, you a different amount of plastic to bring you the orient or the batus. Is it? You? Does it change?"
 2. Standardization reduces variation
 3. "So the same is that if you give your your hand large cost for the go, you need became idolation."
 
-Key Insight: "So they from the in this case will be. As a well, you said, he made the indication of these standards and the standardes."
+E. Key Insight
+1. "So they from the in this case will be. As a well, you said, he made the indication of these standards and the standardes."
 
-D. Benefits
+F. Benefits
 1. Lower costs
 2. Faster production
 3. Easier to scale
@@ -137,29 +146,31 @@ D. Benefits
 
 ### V. Division of Labor & Specialization
 
-Key Concept: Workers doing specific, repetitive tasks are more efficient
+A. Key Concept
+1. Workers doing specific, repetitive tasks are more efficient
 
 **The Question:** "So, D, if you know to do more you ask for more money. I'm right."
 
-A. Class Discussion
+B. Class Discussion
 1. "He said more, is it cheaper to have a worker who knows? Deeper knows how to performing made for that. Or is cheaper so you have some guy who who does knows to do wildwind."
 2. Student response: "I feel like it's cheaper to get the first guy who, like, knows those things instead of one thing, 'cause it might be that the person who knows one thing might expect more money because he only knows that one thing."
 
 **The Answer:** Specialization is cheaper
 
-B. Why
+C. Why
 1. "So, if we divide this, the second class where we get a stable Pacific, a lot."
 2. "I not that much."
 3. "We can hire people that we destinate people who knows why, we want to pay test."
 4. "So, D, if you know to do more you ask for more money. I'm right."
 
-C. Example
+D. Example
 1. "Imagine you know you know, agents, both for Jign for. Your and for .."
 2. Worker who knows multiple things vs. worker who knows one thing
 3. "So they will you know how to do the different elements? Yes."
 4. "And there's another guy who only knows who build a j knows with G."
 
-Key Insight: "So this is a big configuration of abroad, where we get to use it either reducingation, or use in the weakest, or both."
+E. Key Insight
+1. "So this is a big configuration of abroad, where we get to use it either reducingation, or use in the weakest, or both."
 
 **Reality:** Workers who do one thing repeatedly get better at it and faster.
 
@@ -167,41 +178,46 @@ Key Insight: "So this is a big configuration of abroad, where we get to use it e
 
 ### VI. Learning by Doing
 
-Key Concept: The more you do something, the better and faster you get
+A. Key Concept
+1. The more you do something, the better and faster you get
 
-A. Example
+B. Example
 1. "So now, tell me, I need more or less efficient making notes as for work for giving your first home at the union. In that college."
 2. "Probably less.one dead. Probably less."
 
-Key Insight: "So, when it was you would be the second thing of the last some writing in the life."
+C. Key Insight
+1. "So, when it was you would be the second thing of the last some writing in the life."
 
-B. The Process
+D. The Process
 1. First time: Slow, make mistakes
 2. "So first. Throw that we do, France, so like we learned to write."
 3. "We made. We get. When we that we."
 4. "Unless we get bored, then we go. This is very, and then we go."
 
-Key Point: "So this is what I've done. I this detail to learn in my very simple, simple last for U."
+E. Key Point
+1. "So this is what I've done. I this detail to learn in my very simple, simple last for U."
 
 ---
 
 ### VII. The Boredom Problem
 
-Key Challenge: "So if we create a specific a simple class, we are talking this. If we create this in as very simple. We are h the."
+A. Key Challenge
+1. "So if we create a specific a simple class, we are talking this. If we create this in as very simple. We are h the."
 
-A. The Problem
+B. The Problem
 1. "It's a war there. That's of the same thing. All other time."
 2. "If you worker gets four, you getting the same pass, ciety, I mean."
 3. "What you imagine this I'm I do just this. Every single I have to be someone with this for the whole day all the rest of my life. This is your dream job. I'm not really you have."
 
-Key Insight: Repetitive work leads to boredom and decreased motivation.
+C. Key Insight
+1. Repetitive work leads to boredom and decreased motivation.
 
-B. The Solution
+D. The Solution
 1. "So soon you're later here, I will get a meeting with this."
 2. "I remember."
 3. "So how will you solve that situation?"
 
-C. Possible Solutions
+E. Possible Solutions
 1. Rotate workers
 2. Provide breaks
 3. Increase pay
@@ -212,22 +228,25 @@ C. Possible Solutions
 
 ### VIII. The Replacement Problem
 
-Key Challenge: "So our friend, if this guy breaks, is losing."
+A. Key Challenge
+1. "So our friend, if this guy breaks, is losing."
 
-A. The Problem
+B. The Problem
 1. Specialized workers are hard to replace
 2. "So how will you solve is that people are different places?"
 3. "Three? It takes so much time to like a new time."
 
-Key Insight: "Yeah, I guarant. So we as a time to sufficient again, we do better."
+C. Key Insight
+1. "Yeah, I guarant. So we as a time to sufficient again, we do better."
 
-B. Solutions
+D. Solutions
 1. Train multiple people
 2. "So we have a tr there in 40 thing and duration."
 3. "Can we, like, promote them, like, move them up?"
 4. Replace with machines: "Speak what they do, the situation is trying to search to replace the guy with a machine. Doesn't get."
 
-Key Point: "You see that? That's why of making that. So that's that's people get."
+E. Key Point
+1. "You see that? That's why of making that. So that's that's people get."
 
 ---
 
@@ -247,10 +266,11 @@ B. Key Difference
 
 **The Goal:** "So then, what kind of things do you think he would be plays to reduce aion cost of this world? To produce a chip car of all these 37, Sp mission."
 
-Key Insight: "So he was not the first friend that he was of this, that he lived in."
-5. "Well, like was aned by four West invented by all. .. American."
-6. "So all byists are they practice the direction of women in."
-7. "Henry Ford said, he sold forotion for the thousand."
+C. Key Insight
+1. "So he was not the first friend that he was of this, that he lived in."
+2. "Well, like was aned by four West invented by all. .. American."
+3. "So all byists are they practice the direction of women in."
+4. "Henry Ford said, he sold forotion for the thousand."
 
 ---
 
@@ -276,7 +296,8 @@ A. Key Innovations
 4. Precision Machinery
    a. "I mean, hiding are even more, this workers a CPA and they were all that, they were more efficient, and they workers democratic."
 
-Key Insight: "So that's me, that's what included. These one week the first time, I'm you way of designing gods was I women."
+B. Key Insight
+1. "So that's me, that's what included. These one week the first time, I'm you way of designing gods was I women."
 
 ---
 
@@ -292,22 +313,25 @@ B. Cost Reduction
 2. After: $260 per car
 3. "So that's me, that's what included."
 
-Key Insight: "You know desire, everything. Yeah, so you made, he was smash bull. You finding the So they were the best one to as the sunrise, flowing the sun."
+C. Key Insight
+1. "You know desire, everything. Yeah, so you made, he was smash bull. You finding the So they were the best one to as the sunrise, flowing the sun."
 
-C. Impact
+D. Impact
 1. Made cars affordable for average Americans
 2. Transformed industrial manufacturing forever
 3. "So all the wonderful words. Exactly."
 
-Key Point: "And you so glad in the good day all these. What is? B. One thing because we finish this."
+E. Key Point
+1. "And you so glad in the good day all these. What is? B. One thing because we finish this."
 
 ---
 
 ### XII. University Economics & Scaling
 
-Key Concept: Universities have high fixed costs
+A. Key Concept
+1. Universities have high fixed costs
 
-A. Fixed Costs in Universities
+B. Fixed Costs in Universities
 1. Buildings
 2. Facilities
 3. Football fields
@@ -316,7 +340,8 @@ A. Fixed Costs in Universities
 6. "This because you mean the norm, you know the room to the facil the football beach."
 7. "You have you fixing space."
 
-Key Insight: "So does imagine that they spent we out and you. Here. The government, 34. Buses."
+C. Key Insight
+1. "So does imagine that they spent we out and you. Here. The government, 34. Buses."
 
 **Reality:** "Because we want to go at for and actually, Victoria has a reality and they have a lot. From here? So they have a lot of."
 
@@ -338,23 +363,27 @@ C. The Solution
 1. Created a new university
 2. "So this guy now is created. University."
 
-Key Question: "So, you, my God, so on us in this? I have been to do this."
+D. Key Question
+1. "So, you, my God, so on us in this? I have been to do this."
 
 ---
 
 ### XIV. Fixed Costs & Student Numbers
 
-Key Principle: "West, West is the un Post of myne. H students and I have to visit."
+A. Key Principle
+1. "West, West is the un Post of myne. H students and I have to visit."
 
-A. The Challenge
+B. The Challenge
 1. "So, are these sides will not lay and provide me here the less of."
 2. Need enough students to cover fixed costs
 
-Key Question: "So then, how many students do you think? They have to be at least for..."
+C. Key Question
+1. "So then, how many students do you think? They have to be at least for..."
 
 **The Answer:** Need many students to cover fixed costs
 
-Key Insight: "I do you wait for a. I degree to sing. Anyone who pay anything? No, sir."
+D. Key Insight
+1. "I do you wait for a. I degree to sing. Anyone who pay anything? No, sir."
 
 **Reality:** "Here, anyone will bring. Nobody's answered? No one?"
 
@@ -362,35 +391,40 @@ Key Insight: "I do you wait for a. I degree to sing. Anyone who pay anything? No
 
 ### XV. Fixed Costs & Business Strategy
 
-Key Principle: "Here, he said, you have a fixed investments. Why do you here? You or a lot of sex."
+A. Key Principle
+1. "Here, he said, you have a fixed investments. Why do you here? You or a lot of sex."
 
-A. The Strategy
+B. The Strategy
 1. "So they won't hear asang he said, if your business is a this, your safe thing to be higher low."
 2. "If your business is based on an hour and information gen fixed class and blah, blah, blah, you need to have the last sex or no."
 
-Key Insight: "But, lunch, right. Okay, so if you are expecting to have not super large, that services approach losing. Not, okay?"
+C. Key Insight
+1. "But, lunch, right. Okay, so if you are expecting to have not super large, that services approach losing. Not, okay?"
 
 **Reality:** "So if you were expecting not to sell that much, that's not a cool thing. So you don't have you when you miss."
 
-Key Point: "So you need to be very large to sell for."
+D. Key Point
+1. "So you need to be very large to sell for."
 
 ---
 
 ### XVI. When to Use Mass Production Approach
 
-Key Principle: "So when you apply this approach, when you the focus, the sell for for your bro are pre. Onlywise, you have to find easy."
+A. Key Principle
+1. "So when you apply this approach, when you the focus, the sell for for your bro are pre. Onlywise, you have to find easy."
 
-A. When It Works
+B. When It Works
 1. High fixed costs
 2. Need to produce large volumes
 3. "So this, when we."
 
-B. When It Doesn't Work
+C. When It Doesn't Work
 1. Low volume production
 2. Custom products
 3. "What do we think of this say of these? Say? More than these fight. More than, More than 10,000."
 
-Key Insight: "So people gave that pain. You need, is in place, because of them."
+D. Key Insight
+1. "So people gave that pain. You need, is in place, because of them."
 
 ---
 
@@ -403,21 +437,24 @@ B. The Advice
 1. "I said, 'Nowing. We made two many students for this large.'"
 2. "And I'm not sure they will need so many students to see the war."
 
-Key Insight: "So when said are around to support the face costs, you are asking me. You see that?"
+C. Key Insight
+1. "So when said are around to support the face costs, you are asking me. You see that?"
 
-C. The Result
+D. The Result
 1. "So we have it. He found some bull who one in the range, this way."
 2. "So this is best, the faith in O. Did you get it? Yeah."
 
-Key Point: Need enough students to cover fixed costs, otherwise the business model doesn't work.
+E. Key Point
+1. Need enough students to cover fixed costs, otherwise the business model doesn't work.
 
 ---
 
 ### XVIII. The Westward Expansion Analogy
 
-Key Concept: "So, and I explain is because I can this space, you say that this is saying British to this race."
+A. Key Concept
+1. "So, and I explain is because I can this space, you say that this is saying British to this race."
 
-A. The History
+B. The History
 1. "Why did West oper Bayside? The main is that the space says that the first."
 2. "How was land out here? When the United States, especially when you moved when, different people in the east, where moving div worse the West."
 3. "There you know by colonies? Yeah, you say, right say, this one is yours."
@@ -428,11 +465,12 @@ A. The History
 8. "So we could run into the f ride club."
 9. "So that's how the West land was in the beginning than thingschanged from."
 
-B. The Principle
+C. The Principle
 1. "So the first to get to some place to you that place."
 2. "That's why I said that more is before that law has something that we have in that after that he was here."
 
-Key Insight: First mover advantage - being first matters.
+D. Key Insight
+1. First mover advantage - being first matters.
 
 **Reality:** "Now this second race to get nerve... He a private moments. Death, those resources."
 

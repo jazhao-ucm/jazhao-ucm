@@ -12,11 +12,13 @@ A. Discussion Points
 2. Efficiency as a driving force in the industry
 3. Market share comparisons between brands (Lexus, Mercedes, BMW, etc.)
 
-Key Insight: "So basically, it's not even more 61, d. These are the per Hannah Wales."
+B. Key Insight
+1. "So basically, it's not even more 61, d. These are the per Hannah Wales."
 
 **Important Note:** Some brands own other brands (e.g., Lexus is Toyota's luxury division), which affects how we interpret market share data.
 
-Key Question: Would it be better to show parent companies and their performance rather than individual brands?
+C. Key Question
+1. Would it be better to show parent companies and their performance rather than individual brands?
 
 ---
 
@@ -63,7 +65,8 @@ G. Results
 3. Not as fast: "They were pretty fast in Saturday for us, but they were not so fast and religious"
 4. Trade-off: Better customization vs. speed
 
-Key Insight: "So basically, what happens is that swallow in that days now. In the other side before West Sron, looking 30 seconds, now we are."
+H. Key Insight
+1. "So basically, what happens is that swallow in that days now. In the other side before West Sron, looking 30 seconds, now we are."
 
 **Question:** Is this good for the fast food industry? (Generally: No - speed is critical)
 
@@ -76,9 +79,10 @@ A. Core Principles
 2. Speed is critical: Customers expect quick service
 3. Efficiency matters: "So they waste use. It will be the efficency"
 
-Key Insight: When you pay money for fast food, you expect speed. If you want customization, you have to wait.
+B. Key Insight
+1. When you pay money for fast food, you expect speed. If you want customization, you have to wait.
 
-B. Trade-offs
+C. Trade-offs
 1. Standardization = Speed
 2. Customization = Slower service
 3. Fast food customers prioritize speed over customization
@@ -107,7 +111,8 @@ D. Comparison
 2. Ryanair mentioned (European low-cost carrier)
 3. Different strategies for different markets
 
-Key Insight: Low-cost airlines focus on maximizing plane utilization through fast turnarounds.
+E. Key Insight
+1. Low-cost airlines focus on maximizing plane utilization through fast turnarounds.
 
 ---
 
@@ -139,31 +144,34 @@ E. Comparison
 2. Both use fast fashion approach
 3. Trend-based, responsive production
 
-Key Insight: "So they did not identify them, the 50 If they see that as in, that they give your their produ system, they reduce 50 more."
+F. Key Insight
+1. "So they did not identify them, the 50 If they see that as in, that they give your their produ system, they reduce 50 more."
 
 ---
 
 ### VI. Responsive Production Systems
 
-Key Concept: Production systems that respond to actual demand rather than forecasts
+A. Key Concept
+1. Production systems that respond to actual demand rather than forecasts
 
-A. Characteristics
+B. Characteristics
 1. Small initial batches: Test the market
 2. Monitor sales: Track what's selling
 3. Adjust production: Increase if selling, stop if not
 4. Quick turnaround: Fast from design to store
 
-B. Benefits
+C. Benefits
 1. Less waste
 2. Better alignment with customer demand
 3. Can catch trends quickly
 
-C. Challenges
+D. Challenges
 1. More complex than forecast-based systems
 2. Requires good communication systems
 3. Need responsive supply chains
 
-Key Insight: "So basically you do, they. Now I. So I mean, are they class? Are they weak?"
+E. Key Insight
+1. "So basically you do, they. Now I. So I mean, are they class? Are they weak?"
 
 ---
 
@@ -181,7 +189,8 @@ C. Speed vs. Quality
 1. Fast food prioritizes speed
 2. Fine dining prioritizes quality and customization
 
-Key Insight: Different business models require different production strategies.
+D. Key Insight
+1. Different business models require different production strategies.
 
 ---
 
@@ -196,20 +205,23 @@ B. Example
 1. European airlines (Iberia mentioned)
 2. Government support affects pricing
 
-Key Point: Subsidies can affect market competition and pricing strategies.
+C. Key Point
+1. Subsidies can affect market competition and pricing strategies.
 
 ---
 
 ### IX. Production Philosophy
 
-Key Principle: "So you need design. That's why if you want here is, you?"
+A. Key Principle
+1. "So you need design. That's why if you want here is, you?"
 
-A. Design Matters
+B. Design Matters
 1. Product design affects production efficiency
 2. "So inside your. So you did it girl your product that?"
 3. Design decisions impact costs and processes
 
-Key Insight: "Because everything saladists twice. West, Cubels."
+C. Key Insight
+1. "Because everything saladists twice. West, Cubels."
 
 ---
 
@@ -235,7 +247,8 @@ D. Fashion
 2. Small batches
 3. Quick cycles
 
-Key Insight: Each industry has different efficiency drivers based on their business model.
+E. Key Insight
+1. Each industry has different efficiency drivers based on their business model.
 
 ---
 
@@ -302,9 +315,10 @@ B. After
 4. Less waste
 5. More complex operations
 
-Key Question: Was this the right move for fast food?
+C. Key Question
+1. Was this the right move for fast food?
 
-C. Analysis
+D. Analysis
 1. Fast food customers prioritize speed
 2. Customization may not be worth the wait time
 3. Lost competitive advantage of speed

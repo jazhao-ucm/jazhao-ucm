@@ -11,9 +11,10 @@
 
 **Structure:** Nine building blocks that describe how a company creates, delivers, and captures value
 
-Key Insight: The canvas helps break down a business into its essential components and understand the connections between different parts.
+A. Key Insight
+1. The canvas helps break down a business into its essential components and understand the connections between different parts.
 
-A. **Note:** While there are nine steps/blocks, they can be grouped into three main questions
+B. **Note:** While there are nine steps/blocks, they can be grouped into three main questions
 1. Who are we selling to? (Customer segments)
 2. Why does it matter / What are we selling to them? (Value proposition)
 3. How can we get them to buy more? (Channels, customer relationships, revenue streams)
@@ -89,7 +90,8 @@ A. Distribution channels
    a. E-commerce platform
    a. Can browse and purchase online
 
-Key Point: Zara uses both physical and digital channels to reach customers.
+B. Key Point
+1. Zara uses both physical and digital channels to reach customers.
 
 ---
 
@@ -133,7 +135,8 @@ A. How Zara makes money from skinny jeans
    a. Cut items that aren't performing
    a. Minimize overproduction and markdowns
 
-Key Insight: Zara avoids the discount cycle that many competitors use—instead of producing large quantities and then discounting, they produce smaller batches and sell at full price.
+B. Key Insight
+1. Zara avoids the discount cycle that many competitors use—instead of producing large quantities and then discounting, they produce smaller batches and sell at full price.
 
 ---
 
