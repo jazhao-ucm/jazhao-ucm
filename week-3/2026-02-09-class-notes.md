@@ -88,7 +88,8 @@ D. Low Fixed Costs
 E. Key Insight
 1. "So for example of a mistress cost and small mals are in oil and like shing, or mities,arily or kind of industry, where you see or are."
 
-**Reality:** "This is a difficult where those large face, when we produce br."
+F. Reality
+1. "This is a difficult where those large face, when we produce br."
 
 ---
 
@@ -97,7 +98,7 @@ E. Key Insight
 A. Key Concept
 1. "So when the most of the is called the Gier that who will or with the effects because are larger, we larger than the."
 
-**Definition:** As you produce more, the cost per unit decreases
+Definition: As you produce more, the cost per unit decreases
 
 B. Why It Happens
 1. Fixed costs are spread over more units
@@ -107,7 +108,7 @@ B. Why It Happens
 C. Key Insight
 1. "So that's me."
 
-**Example:** "So, usually we need much, so basically musty or and then R She. Some machines."
+Example: "So, usually we need much, so basically musty or and then R She. Some machines."
 
 ---
 
@@ -149,13 +150,13 @@ F. Benefits
 A. Key Concept
 1. Workers doing specific, repetitive tasks are more efficient
 
-**The Question:** "So, D, if you know to do more you ask for more money. I'm right."
+The Question: "So, D, if you know to do more you ask for more money. I'm right."
 
 B. Class Discussion
 1. "He said more, is it cheaper to have a worker who knows? Deeper knows how to performing made for that. Or is cheaper so you have some guy who who does knows to do wildwind."
 2. Student response: "I feel like it's cheaper to get the first guy who, like, knows those things instead of one thing, 'cause it might be that the person who knows one thing might expect more money because he only knows that one thing."
 
-**The Answer:** Specialization is cheaper
+The Answer: Specialization is cheaper
 
 C. Why
 1. "So, if we divide this, the second class where we get a stable Pacific, a lot."
@@ -172,7 +173,8 @@ D. Example
 E. Key Insight
 1. "So this is a big configuration of abroad, where we get to use it either reducingation, or use in the weakest, or both."
 
-**Reality:** Workers who do one thing repeatedly get better at it and faster.
+F. Reality
+1. Workers who do one thing repeatedly get better at it and faster.
 
 ---
 
@@ -264,7 +266,7 @@ B. Key Difference
 3. "And four and 4, hey, Raino, mine, light go visit achie."
 4. "Because what happens, this guy and before signed this car."
 
-**The Goal:** "So then, what kind of things do you think he would be plays to reduce aion cost of this world? To produce a chip car of all these 37, Sp mission."
+The Goal: "So then, what kind of things do you think he would be plays to reduce aion cost of this world? To produce a chip car of all these 37, Sp mission."
 
 C. Key Insight
 1. "So he was not the first friend that he was of this, that he lived in."
@@ -343,7 +345,8 @@ B. Fixed Costs in Universities
 C. Key Insight
 1. "So does imagine that they spent we out and you. Here. The government, 34. Buses."
 
-**Reality:** "Because we want to go at for and actually, Victoria has a reality and they have a lot. From here? So they have a lot of."
+D. Reality
+1. "Because we want to go at for and actually, Victoria has a reality and they have a lot. From here? So they have a lot of."
 
 ---
 
@@ -380,12 +383,13 @@ B. The Challenge
 C. Key Question
 1. "So then, how many students do you think? They have to be at least for..."
 
-**The Answer:** Need many students to cover fixed costs
+The Answer: Need many students to cover fixed costs
 
 D. Key Insight
 1. "I do you wait for a. I degree to sing. Anyone who pay anything? No, sir."
 
-**Reality:** "Here, anyone will bring. Nobody's answered? No one?"
+E. Reality
+1. "Here, anyone will bring. Nobody's answered? No one?"
 
 ---
 
@@ -401,9 +405,10 @@ B. The Strategy
 C. Key Insight
 1. "But, lunch, right. Okay, so if you are expecting to have not super large, that services approach losing. Not, okay?"
 
-**Reality:** "So if you were expecting not to sell that much, that's not a cool thing. So you don't have you when you miss."
+D. Reality
+1. "So if you were expecting not to sell that much, that's not a cool thing. So you don't have you when you miss."
 
-D. Key Point
+E. Key Point
 1. "So you need to be very large to sell for."
 
 ---
@@ -472,7 +477,8 @@ C. The Principle
 D. Key Insight
 1. First mover advantage - being first matters.
 
-**Reality:** "Now this second race to get nerve... He a private moments. Death, those resources."
+E. Reality
+1. "Now this second race to get nerve... He a private moments. Death, those resources."
 
 ---
 

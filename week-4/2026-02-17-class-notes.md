@@ -7,9 +7,9 @@
 
 ### I. Business Model Canvas - Overview
 
-**Purpose:** Framework to describe and analyze a business model
+Purpose: Framework to describe and analyze a business model
 
-**Structure:** Nine building blocks that describe how a company creates, delivers, and captures value
+Structure: Nine building blocks that describe how a company creates, delivers, and captures value
 
 A. Key Insight
 1. The canvas helps break down a business into its essential components and understand the connections between different parts.
@@ -25,7 +25,7 @@ B. **Note:** While there are nine steps/blocks, they can be grouped into three m
 
 ### II. Customer Segments
 
-**Focus:** People who buy skinny jeans from Zara
+Focus: People who buy skinny jeans from Zara
 
 A. Demographics
 1. Age: 17–27 years old (younger adults and older teens)
@@ -37,7 +37,7 @@ B. Key Characteristics
 2. Want new jeans and feel they should buy now (scarcity/trend-driven)
 3. Concerned that items might not be available next week or might not be in trend next week
 
-**Segmentation Note:** Important to be specific—if you say "everyone," the customer segment becomes too broad and loses meaning. Focus on one specific product (e.g. skinny jeans) and the people who buy that product.
+Segmentation Note: Important to be specific—if you say "everyone," the customer segment becomes too broad and loses meaning. Focus on one specific product (e.g. skinny jeans) and the people who buy that product.
 
 ---
 
@@ -206,7 +206,7 @@ A. Who Zara works with
    a. Prime urban locations
    a. Shopping centers and retail districts
 
-**Note:** The fast fashion model requires partners who can respond quickly to demand changes.
+Note: The fast fashion model requires partners who can respond quickly to demand changes.
 
 ---
 
@@ -237,9 +237,9 @@ Key Strategy: By avoiding overproduction and discounting, Zara reduces costs ass
 
 ## Summary: Zara's Business Model for Skinny Jeans
 
-**Customer:** 17–27 year olds in big cities who want trendy jeans without premium prices
+Customer: 17–27 year olds in big cities who want trendy jeans without premium prices
 
-**Value Proposition:** On-trend skinny jeans, good quality, convenient, mid-price ($30), limited quantities
+Value Proposition: On-trend skinny jeans, good quality, convenient, mid-price ($30), limited quantities
 
 A. How it works
 1. Test products with small batches

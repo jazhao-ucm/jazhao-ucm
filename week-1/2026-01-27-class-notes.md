@@ -18,7 +18,8 @@ B. The Information-Emotion Relationship
 C. Key Insight
 1. "Decisions are imperfect because we must the donation, we will need to lie. You know that make perfect decision."
 
-**Reality:** People don't always have complete information to make "perfect" rational decisions.
+D. Reality
+1. People don't always have complete information to make "perfect" rational decisions.
 
 ---
 
@@ -57,7 +58,8 @@ B. Factors Influencing Decisions
 C. Key Insight
 1. "So we have information, ability, risk all opportunities, or like, by little of brand. This is all your experience."
 
-**Reality:** "You're not E has. So, for instance, how do you build up on that? Yes. Well is your risk if you get to school in my."
+D. Reality
+1. "You're not E has. So, for instance, how do you build up on that? Yes. Well is your risk if you get to school in my."
 
 ---
 
@@ -116,7 +118,8 @@ B. Modern Example
 C. Key Insight
 1. "So pictures of the group inv. So that's where we go, right? That we have to stop the pressureality and then we are happy for people say. And then be friend information either a motion."
 
-**Reality:** Brands/companies signal quality when buyers have limited information.
+D. Reality
+1. Brands/companies signal quality when buyers have limited information.
 
 ---
 
@@ -179,11 +182,12 @@ B. Solutions
 C. Key Insight
 1. "So you have to pay. But I don't understand because that's the other firm's primary product. That's all they make. And if they patches it that first, then how would the firm one be able to cut it then?"
 
-**Reality:** "No, these guys moving from too fast, right? And here, we are trying to have getting smiling and."
+D. Reality
+1. "No, these guys moving from too fast, right? And here, we are trying to have getting smiling and."
 
-**Strategy:** "So many times, friends have ves of emois that many world. Themselves from someone of the time having senior island senior."
+Strategy: "So many times, friends have ves of emois that many world. Themselves from someone of the time having senior island senior."
 
-D. Key Point
+E. Key Point
 1. "When the first thing I say all the bands with technologies of industry. So we Juan to fantasy. Firm and all of the fans having bars, and then I have to understand what are the these places that may be some of these bags."
 
 ---
@@ -199,13 +203,14 @@ A. Key Strategy
 B. Key Insight
 1. "So if you're world manager, this is something you from stability. To check for the planers, you are gonna feel and to check what have pine the same in a solar area, and were the balance of these guys and discussing with your, with a tal business necessary to find, to kill, a little."
 
-**Reality:** "So this is so little bit tricky, little bit prop this daily pain it's very. When you, you fr that can build and pay for your clients, even even areas that are not that this is small and the reason that they are design from all the death in either priority decent City."
+C. Reality
+1. "So this is so little bit tricky, little bit prop this daily pain it's very. When you, you fr that can build and pay for your clients, even even areas that are not that this is small and the reason that they are design from all the death in either priority decent City."
 
 ---
 
 ### XI. Open Innovation (Openuation)
 
-**Definition:** Sharing knowledge and technology for free to benefit the industry
+Definition: Sharing knowledge and technology for free to benefit the industry
 
 A. Key Concept
 1. "Open information is described, you were f, shared. I the German. Sh violence, so we share a knowledge."
@@ -232,7 +237,7 @@ B. Why Give Away Valuable Technology?
 C. Key Insight
 1. "So opening information is described, you were f, shared."
 
-**Result:** Real profit came from selling the hardware/servers needed to run the platform
+Result: Real profit came from selling the hardware/servers needed to run the platform
 
 D. Key Point
 1. "Who was the real wings, who were the real wings when we were? Nese. They were the only ones making a prophet of all these islands. So that's why they decided approach and adopt this or region approach."
@@ -249,7 +254,7 @@ A. About David Teece
 B. Key Insight
 1. He decided to share knowledge and benefit the industry as a whole.
 
-**Concept:** Open innovation = sharing knowledge to create value for everyone
+Concept: Open innovation = sharing knowledge to create value for everyone
 
 ---
 
@@ -268,7 +273,7 @@ B. Revenue Breakdown
 C. Key Insight
 1. "So basically, all these things together is 40% of their and 60% of the problem are in."
 
-**Strategy:** "They say, has been many been in theran States in W Microsoft and moving. They share some of the p of the for them for the same."
+Strategy: "They say, has been many been in theran States in W Microsoft and moving. They share some of the p of the for them for the same."
 
 ---
 
@@ -296,7 +301,8 @@ Key Lesson: Innovation alone isn't enough - you need commercialization strategy
 D. Key Insight
 1. "So we were really sm at me organizing."
 
-**Reality:** "That basically. What you got you do that. You see. What's the middle of fro., copy machine. Eily, easy the mouse to copy machine."
+E. Reality
+1. "That basically. What you got you do that. You see. What's the middle of fro., copy machine. Eily, easy the mouse to copy machine."
 
 Final Point: "So all of this, technology less an opp constit. That's why they didn't."
 

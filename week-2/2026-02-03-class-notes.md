@@ -33,7 +33,8 @@ B. The Process
 C. Key Insight
 1. "So in this case, because of community before, the directors, but for."
 
-**Reality:** "So we don't, we don't, we fit morning, we don't have France."
+D. Reality
+1. "So we don't, we don't, we fit morning, we don't have France."
 
 ---
 
@@ -52,7 +53,8 @@ C. Why We Design
 1. "Because are we going to defense, do they know what asking for?"
 2. "What I'm saying, he brought the left. What, we are. You say me know what me rain."
 
-**Reality:** "Well, actually, the real part is that the real thing we know, and then percent of that real problem."
+D. Reality
+1. "Well, actually, the real part is that the real thing we know, and then percent of that real problem."
 
 ---
 
@@ -72,7 +74,7 @@ B. Example from Class
 C. Key Insight
 1. "He was a little match pulling himself problems. And that's something that's he want, that his fa."
 
-**Lesson:** "So that's why I enter to Alis right in developing the Bra because I in something that no, you do no matter. He thought he had that nuts."
+Lesson: "So that's why I enter to Alis right in developing the Bra because I in something that no, you do no matter. He thought he had that nuts."
 
 ---
 
@@ -110,7 +112,7 @@ B. Investment Strategy
 C. Key Insight
 1. Focus investment on priorities, not everything at once.
 
-**Book Reference:** "If you are interested in this world management, you and you want to create something more specific, there is this book which is called these. Where did they explain this approach of testing as investing."
+Book Reference: "If you are interested in this world management, you and you want to create something more specific, there is this book which is called these. Where did they explain this approach of testing as investing."
 
 D. Key Point
 1. "This is a pretty pain book in must actually to explain how to develop here. But now is so that everyone uses either gr."
@@ -132,7 +134,7 @@ B. The Challenge
 C. Key Insight
 1. "I work here the largest venture smell. It's called the future, based and the way to find these guys our work morning. Findings."
 
-**Process:** "That's one, two, three, os, okay. So you walking and a man, the business model of this is."
+Process: "That's one, two, three, os, okay. So you walking and a man, the business model of this is."
 
 ---
 
@@ -146,9 +148,10 @@ A. Discussion
 B. Key Insight
 1. "Oh, well, well, I was gonna say, um, Facebook bought Instagram and Kinderbot Hinge, and they're both owned by the same like parent company."
 
-**Reality:** Large companies own multiple dating/social apps.
+C. Reality
+1. Large companies own multiple dating/social apps.
 
-**Question:** "You going to use you use AI Mr. Brown to meet new people?, your own friends, you you go back to listen."
+Question: "You going to use you use AI Mr. Brown to meet new people?, your own friends, you you go back to listen."
 
 ---
 
@@ -186,7 +189,7 @@ B. The Choice
 C. Key Insight
 1. "So the, you all these, but the dead, people, you high system to pay for a hat. It's much higher than the best., is so developed."
 
-**Strategy:** "Because I feel, okay, we want to first, we don't who are willing to pray for this. So they said, right."
+Strategy: "Because I feel, okay, we want to first, we don't who are willing to pray for this. So they said, right."
 
 ---
 
@@ -203,7 +206,8 @@ B. Key Metrics
 C. Key Insight
 1. "So we are that you want to with your wife. Then, you be your choice here."
 
-**Reality:** "Because they wish is way more people just Europe."
+D. Reality
+1. "Because they wish is way more people just Europe."
 
 ---
 
@@ -217,14 +221,15 @@ B. Key Insight
 1. "It's an amb of us of a hundred of ps."
 2. "It's like here 90% of the uses are landing based, and are miles."
 
-**Reality:** "IOS, but I don't know if it's like 1910. It since pretty exaggerated."
+C. Reality
+1. "IOS, but I don't know if it's like 1910. It since pretty exaggerated."
 
-**Question:** "So it's making exactly the. Us, everyone has an iPhone? Yes, everyone."
+Question: "So it's making exactly the. Us, everyone has an iPhone? Yes, everyone."
 
-C. Key Point
+D. Key Point
 1. "Okay, is the. If you cycling device. Not sure you that"
 
-**Design Consideration:** "Okay, so we have that, so we have to design to get other lights and you stay here has to be. Smile, all day in way."
+Design Consideration: "Okay, so we have that, so we have to design to get other lights and you stay here has to be. Smile, all day in way."
 
 ---
 
@@ -261,7 +266,8 @@ C. The Problem
 1. "So these guys. These guys. Why are you doing?"
 2. "I must be in inside. Was man to were okay to give you value thinking they were really West to the master providers."
 
-**Reality:** "So who must first build this and I to manage the railroads in the lives. Again."
+D. Reality
+1. "So who must first build this and I to manage the railroads in the lives. Again."
 
 ---
 
@@ -276,9 +282,10 @@ A. What Happened
 B. Key Insight
 1. "I mean ever want, for this so the sweet. So that's me and so that's me and me. That's me."
 
-**Reality:** "So, um and that's a being anyone will be Chris. Eaper for this. No."
+C. Reality
+1. "So, um and that's a being anyone will be Chris. Eaper for this. No."
 
-**Lesson:** If no one wants to pay, the product isn't solving a real problem.
+Lesson: If no one wants to pay, the product isn't solving a real problem.
 
 ---
 
@@ -309,7 +316,7 @@ A. Strategy
 B. Key Insight
 1. "Basically, it means that if you are happier in your life, if you day, we would be happier or you in state more."
 
-**Approach:** "So we are actually visit to here now and scing at of these position in the last operation called Ed."
+Approach: "So we are actually visit to here now and scing at of these position in the last operation called Ed."
 
 C. Key Point
 1. "So you talking about an easy one, producer of the producers of communicationrastruct."
@@ -325,12 +332,13 @@ A. Strategy
 B. Key Insight
 1. "Basically because you make friends in the time."
 
-**Reality:** "So our world is this, I make friends and family being fin in the, it will be more difficult than delision."
+C. Reality
+1. "So our world is this, I make friends and family being fin in the, it will be more difficult than delision."
 
-C. Key Point
+D. Key Point
 1. "Because they want in your. You see the of the mans. That you will listen more."
 
-**New Focus:** "New church. We employees, to pay us, and less about AI, man. So that's B."
+New Focus: "New church. We employees, to pay us, and less about AI, man. So that's B."
 
 ---
 
@@ -348,7 +356,8 @@ B. Possible Metrics
 C. Key Insight
 1. "When we are prom, we are trying to make sure this success of the value is great. Then, by actually some."
 
-**Reality:** "So people paying for this I' of buying, not buying information."
+D. Reality
+1. "So people paying for this I' of buying, not buying information."
 
 ---
 
@@ -365,7 +374,8 @@ B. The Model
 C. Key Insight
 1. "You want to say, what this is valut creation, like operating survey is a ceiling, how how people are."
 
-**Reality:** Value creation through free service, value capture through advertising.
+D. Reality
+1. Value creation through free service, value capture through advertising.
 
 ---
 
@@ -379,9 +389,10 @@ B. Key Insight
 1. "If the restaurant was bad, the God got no good."
 2. "If the restaurant is super super. If the original super, let's go, you."
 
-**Reality:** Reviews are often polarized - very good or very bad, not accurate middle ground.
+C. Reality
+1. Reviews are often polarized - very good or very bad, not accurate middle ground.
 
-C. Key Point
+D. Key Point
 1. "The second thing is, especially services. Need to explain the difference between Wilson areas."
 
 ---
@@ -399,9 +410,10 @@ B. Example
 C. Key Insight
 1. "So that's basically, I mean, that's enough back I be people out there. Best own your own and expectation."
 
-**Reality:** "So that's why is in you are when we, you toroduce happiness at this. You really really, that's I'm not saying when you very middle, trying to be able to or right now to be a is difficult to use."
+D. Reality
+1. "So that's why is in you are when we, you toroduce happiness at this. You really really, that's I'm not saying when you very middle, trying to be able to or right now to be a is difficult to use."
 
-D. Key Point
+E. Key Point
 1. "But for instance, in meetings, it's like a, are coming. This is all north star."
 
 ---
@@ -411,12 +423,13 @@ D. Key Point
 A. Key Question
 1. "So how long your life all these things in the building? How do you learn?"
 
-**The Answer:** "You, I ask you. I will ask you your money, okay?"
+The Answer: "You, I ask you. I will ask you your money, okay?"
 
 B. Key Insight
 1. Learning comes from doing, from building, from experience.
 
-**Reality:** "So. What is this. So, for instance, you."
+C. Reality
+1. "So. What is this. So, for instance, you."
 
 ---
 
@@ -445,12 +458,12 @@ D. Key Point
 A. Key Question
 1. "When can you use br as scants to buy eggs? When do we have information or when we go back?"
 
-**Answer:** "We use with two on your hand. And these soitute all your. Some can be so last. With information as."
+Answer: "We use with two on your hand. And these soitute all your. Some can be so last. With information as."
 
 B. Key Insight
 1. "So, the me here is Brown. So, so it's whereandy out of my family."
 
-**Strategy:** "So my have to buy bas. Is, information. So basically, we have to invest in given information. So ourselves."
+Strategy: "So my have to buy bas. Is, information. So basically, we have to invest in given information. So ourselves."
 
 C. Key Point
 1. "So that's why we that Peter. E Billy fers. Sexist, fiveist. Important."
@@ -459,7 +472,7 @@ C. Key Point
 
 ### XXVI. The Lobby Industry
 
-**Definition:** "Do you know what the lobby is? Emotional? Loing. So communication."
+Definition: "Do you know what the lobby is? Emotional? Loing. So communication."
 
 A. What They Do
 1. "These guys are basically, people, who are either is of the of the fact, we be body."
@@ -468,9 +481,10 @@ A. What They Do
 B. Key Insight
 1. "So this is, and this world has waiting because city is lobing, is very obscure business, because you never know what they what is the very all around."
 
-**Reality:** "If helps this man. Sometimes you get money and it's not in this case, we that we are missing ourages and we that."
+C. Reality
+1. "If helps this man. Sometimes you get money and it's not in this case, we that we are missing ourages and we that."
 
-C. Key Point
+D. Key Point
 1. "So, well, if you are interested, I am telling you more things, but I will. Too long."
 
 ---
@@ -492,7 +506,7 @@ C. The Response
 D. Key Insight
 1. "So, yeah, so AA is that the bron is not really strong. I mean, not a way is if they can't the dress in Europe, you would be really happy."
 
-**Strategy:** "You work free and then are will endorses. I. Lovely a savior, when, we built that we strong, we excessive Brian, is access now."
+Strategy: "You work free and then are will endorses. I. Lovely a savior, when, we built that we strong, we excessive Brian, is access now."
 
 E. Key Point
 1. "There's no need for us. We're will invest more money in Brown."
@@ -516,7 +530,8 @@ C. The Answer
 D. Key Insight
 1. "This that time. That's nice, this might looks of youun this."
 
-**Reality:** "The list is something that I mean, this may be broken my will be all the. And based on the right answer."
+E. Reality
+1. "The list is something that I mean, this may be broken my will be all the. And based on the right answer."
 
 ---
 
@@ -528,9 +543,10 @@ A. Key Principle
 B. Key Insight
 1. "I mean, your explanation makes sense that you're right. It is known. You see, as long it's made so sense with all this day time in discussing with you, this."
 
-**Reality:** Theory is good, but real-world application matters more.
+C. Reality
+1. Theory is good, but real-world application matters more.
 
-C. Key Point
+D. Key Point
 1. "So, uh, fair enough. Any questions tomorrow? So, let's go to the way. Back."
 
 ---

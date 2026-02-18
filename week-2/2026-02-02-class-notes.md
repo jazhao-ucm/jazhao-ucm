@@ -39,17 +39,18 @@ C. Key Point
 
 ### III. Testing as Investing
 
-**Concept:** "Testing as Investing" - from the book recommended for world management
+Concept: "Testing as Investing" - from the book recommended for world management
 
 A. Key Insight
 1. "So if I have this priority, you is the investing, invest. This is a very approach."
 
-**Book Reference:** "If you are interested in this world management, you and you want to create something more specific, there is this book which is called these. Where did they explain this approach of testing as investing."
+Book Reference: "If you are interested in this world management, you and you want to create something more specific, there is this book which is called these. Where did they explain this approach of testing as investing."
 
 B. Key Point
 1. Testing is actually disabledural mass - it's part of the development process, not separate.
 
-**Reality:** "This is a pretty pain book in must actually to explain how to develop here. But now is so that everyone uses either gr."
+C. Reality
+1. "This is a pretty pain book in must actually to explain how to develop here. But now is so that everyone uses either gr."
 
 ---
 
@@ -91,7 +92,8 @@ C. Why We Design
 1. "Because are we going to defense, do they know what asking for?"
 2. "What I'm saying, he brought the left. What, we are. You say me know what me rain."
 
-**Reality:** "Well, actually, the real part is that the real thing we know, and then percent of that real problem."
+D. Reality
+1. "Well, actually, the real part is that the real thing we know, and then percent of that real problem."
 
 ---
 
@@ -111,7 +113,7 @@ B. Example from Class
 C. Key Insight
 1. "He was a little match pulling himself problems. And that's something that's he want, that his fa."
 
-**Lesson:** Don't build first, understand the problem first.
+Lesson: Don't build first, understand the problem first.
 
 ---
 
@@ -128,7 +130,8 @@ B. The Process
 C. Key Point
 1. "So as a manager, one goes, the designer you are, will be the best if the better. Then."
 
-**Reality:** "So we need to find out when show this assets, our room. So we need to what are these is."
+D. Reality
+1. "So we need to find out when show this assets, our room. So we need to what are these is."
 
 ---
 
@@ -145,7 +148,8 @@ B. Strategy
 C. Key Insight
 1. "So we don't, we don't, we fit morning, we don't have France."
 
-**Reality:** "So I wanted of people who were on is all the problem is to pay pay fr And this priority with each all."
+D. Reality
+1. "So I wanted of people who were on is all the problem is to pay pay fr And this priority with each all."
 
 ---
 
@@ -154,7 +158,7 @@ C. Key Insight
 A. Key Question
 1. "Would you pay for this time?"
 
-**The Answer:** "No. Who is this? No."
+The Answer: "No. Who is this? No."
 
 B. Who Might Pay
 1. "Maybe someone who, like, moved to, like, a new area for school or work."
@@ -167,7 +171,7 @@ C. Reality Check
 D. Key Insight
 1. "So, actually we suggested day and you know Bra from? No? Yes."
 
-**Problem:** "So these guys. These guys. Why are you doing? I must be in inside. Was man to were okay to give you value thinking they were really West to the master providers."
+Problem: "So these guys. These guys. Why are you doing? I must be in inside. Was man to were okay to give you value thinking they were really West to the master providers."
 
 ---
 
@@ -182,9 +186,10 @@ A. What Happened
 B. Key Insight
 1. "I mean ever want, for this so the sweet. So that's me and so that's me and me."
 
-**Reality:** "So that's a being anyone will be Chris. Eaper for this. No."
+C. Reality
+1. "So that's a being anyone will be Chris. Eaper for this. No."
 
-**Lesson:** If no one wants to pay, the product isn't solving a real problem.
+Lesson: If no one wants to pay, the product isn't solving a real problem.
 
 ---
 
@@ -215,21 +220,21 @@ A. Strategy
 B. Key Insight
 1. "Basically, it means that if you are happier in your life, if you day, we would be happier or you in state more."
 
-**Approach:** "So we are actually visit to here now and scing at of these position in the last operation called Ed."
+Approach: "So we are actually visit to here now and scing at of these position in the last operation called Ed."
 
 ---
 
 ### XIII. Business Model Evolution
 
-**Initial Model:** Free app, users pay
+Initial Model: Free app, users pay
 1. Didn't work - no one wanted to pay
 
-**New Model:** Partnerships
+New Model: Partnerships
 2. Focus on partnerships
 3. "So you talking about an easy one, producer of the producers of communicationrastruct."
 4. "So then scapable for both, and they sell a huge corporation."
 
-**Testing:** "And we are trying this at here to see whether you send this collections, people or profession musical."
+Testing: "And we are trying this at here to see whether you send this collections, people or profession musical."
 
 A. Key Insight
 1. "Basically because you make friends in the time."
@@ -250,7 +255,8 @@ B. Possible Metrics
 C. Key Insight
 1. "When we are prom, we are trying to make sure this success of the value is great. Then, by actually some."
 
-**Reality:** "So people paying for this I' of buying, not buying information."
+D. Reality
+1. "So people paying for this I' of buying, not buying information."
 
 ---
 
@@ -267,7 +273,8 @@ B. The Model
 C. Key Insight
 1. "You want to say, what this is valut creation, like operating survey is a ceiling, how how people are."
 
-**Reality:** Value creation through free service, value capture through advertising.
+D. Reality
+1. Value creation through free service, value capture through advertising.
 
 ---
 
@@ -281,9 +288,10 @@ B. Key Insight
 1. "If the restaurant was bad, the God got no good."
 2. "If the restaurant is super super. If the original super, let's go, you."
 
-**Reality:** Reviews are often polarized - very good or very bad, not accurate middle ground.
+C. Reality
+1. Reviews are often polarized - very good or very bad, not accurate middle ground.
 
-C. Key Point
+D. Key Point
 1. "The second thing is, especially services. Need to explain the difference between Wilson areas."
 
 ---
@@ -301,7 +309,8 @@ B. Example
 C. Key Insight
 1. "So that's basically, I mean, that's enough back I be people out there. Best own your own and expectation."
 
-**Reality:** "So that's why is in you are when we, you toroduce happiness at this. You really really, that's I'm not saying when you very middle, trying to be able to or right now to be a is difficult to use."
+D. Reality
+1. "So that's why is in you are when we, you toroduce happiness at this. You really really, that's I'm not saying when you very middle, trying to be able to or right now to be a is difficult to use."
 
 ---
 
@@ -310,12 +319,12 @@ C. Key Insight
 A. Key Question
 1. "When can you use br as scants to buy eggs? When do we have information or when we go back?"
 
-**Answer:** "We use with two on your hand. And these soitute all your. Some can be so last. With information as."
+Answer: "We use with two on your hand. And these soitute all your. Some can be so last. With information as."
 
 B. Key Insight
 1. "So, the me here is Brown. So, so it's whereandy out of my family."
 
-**Strategy:** "So my have to buy bas. Is, information. So basically, we have to invest in given information. So ourselves."
+Strategy: "So my have to buy bas. Is, information. So basically, we have to invest in given information. So ourselves."
 
 C. Key Point
 1. "So that's why we that Peter. E Billy fers. Sexist, fiveist. Important."
@@ -324,7 +333,7 @@ C. Key Point
 
 ### XIX. The Lobby Industry
 
-**Definition:** "Do you know what the lobby is? Emotional? Loing. So communication."
+Definition: "Do you know what the lobby is? Emotional? Loing. So communication."
 
 A. What They Do
 1. "These guys are basically, people, who are either is of the of the fact, we be body."
@@ -333,9 +342,10 @@ A. What They Do
 B. Key Insight
 1. "So this is, and this world has waiting because city is lobing, is very obscure business, because you never know what they what is the very all around."
 
-**Reality:** "If helps this man. Sometimes you get money and it's not in this case, we that we are missing ourages and we that."
+C. Reality
+1. "If helps this man. Sometimes you get money and it's not in this case, we that we are missing ourages and we that."
 
-C. Key Point
+D. Key Point
 1. "So, well, if you are interested, I am telling you more things, but I will. Too long."
 
 ---
@@ -357,7 +367,7 @@ C. The Response
 D. Key Insight
 1. "So, yeah, so AA is that the bron is not really strong. I mean, not a way is if they can't the dress in Europe, you would be really happy."
 
-**Strategy:** "You work free and then are will endorses. I. Lovely a savior, when, we built that we strong, we excessive Brian, is access now."
+Strategy: "You work free and then are will endorses. I. Lovely a savior, when, we built that we strong, we excessive Brian, is access now."
 
 E. Key Point
 1. "There's no need for us. We're will invest more money in Brown."
@@ -381,7 +391,8 @@ C. The Answer
 D. Key Insight
 1. "This that time. That's nice, this might looks of youun this."
 
-**Reality:** "The list is something that I mean, this may be broken my will be all the. And based on the right answer."
+E. Reality
+1. "The list is something that I mean, this may be broken my will be all the. And based on the right answer."
 
 ---
 
@@ -393,9 +404,10 @@ A. Key Principle
 B. Key Insight
 1. "I mean, your explanation makes sense that you're right. It is known. You see, as long it's made so sense with all this day time in discussing with you, this."
 
-**Reality:** Theory is good, but real-world application matters more.
+C. Reality
+1. Theory is good, but real-world application matters more.
 
-C. Key Point
+D. Key Point
 1. "So, uh, fair enough. Any questions tomorrow? So, let's go to the way. Back."
 
 ---

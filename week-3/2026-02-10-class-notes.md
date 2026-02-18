@@ -15,7 +15,7 @@ A. Discussion Points
 B. Key Insight
 1. "So basically, it's not even more 61, d. These are the per Hannah Wales."
 
-**Important Note:** Some brands own other brands (e.g., Lexus is Toyota's luxury division), which affects how we interpret market share data.
+Important Note: Some brands own other brands (e.g., Lexus is Toyota's luxury division), which affects how we interpret market share data.
 
 C. Key Question
 1. Would it be better to show parent companies and their performance rather than individual brands?
@@ -68,7 +68,7 @@ G. Results
 H. Key Insight
 1. "So basically, what happens is that swallow in that days now. In the other side before West Sron, looking 30 seconds, now we are."
 
-**Question:** Is this good for the fast food industry? (Generally: No - speed is critical)
+Question: Is this good for the fast food industry? (Generally: No - speed is critical)
 
 ---
 

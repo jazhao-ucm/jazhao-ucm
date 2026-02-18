@@ -23,7 +23,7 @@ C. Key Insight
 
 ### II. Michael Porter - Value Chain
 
-**Concept:** Value chain framework for understanding how firms create value
+Concept: Value chain framework for understanding how firms create value
 
 A. Components
 1. Primary Activities: Directly involved in production and delivery
@@ -137,7 +137,7 @@ B. Key Insight
 
 ### VIII. Cost Specialized Assets & Market Access
 
-**Definition:** Assets that are specialized to your business and provide market access
+Definition: Assets that are specialized to your business and provide market access
 
 A. Examples
 1. Branding and secrecy
