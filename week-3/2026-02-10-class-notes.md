@@ -1,5 +1,7 @@
 # Product Management - Class Notes
-## February 10, 2026
+## February 10, 2026 - Week 3
+
+**Focus:** Car industry efficiency, market share.
 
 ---
 
@@ -12,7 +14,7 @@ A. Discussion Points
 2. Efficiency as a driving force in the industry
 3. Market share comparisons between brands (Lexus, Mercedes, BMW, etc.)
 
-B. Key Insight
+B. Key insight
 1. "So basically, it's not even more 61, d. These are the per Hannah Wales."
 
 Important Note: Some brands own other brands (e.g., Lexus is Toyota's luxury division), which affects how we interpret market share data.
@@ -65,7 +67,7 @@ G. Results
 3. Not as fast: "They were pretty fast in Saturday for us, but they were not so fast and religious"
 4. Trade-off: Better customization vs. speed
 
-H. Key Insight
+H. Key insight
 1. "So basically, what happens is that swallow in that days now. In the other side before West Sron, looking 30 seconds, now we are."
 
 Question: Is this good for the fast food industry? (Generally: No - speed is critical)
@@ -79,7 +81,7 @@ A. Core Principles
 2. Speed is critical: Customers expect quick service
 3. Efficiency matters: "So they waste use. It will be the efficency"
 
-B. Key Insight
+B. Key insight
 1. When you pay money for fast food, you expect speed. If you want customization, you have to wait.
 
 C. Trade-offs
@@ -111,7 +113,7 @@ D. Comparison
 2. Ryanair mentioned (European low-cost carrier)
 3. Different strategies for different markets
 
-E. Key Insight
+E. Key insight
 1. Low-cost airlines focus on maximizing plane utilization through fast turnarounds.
 
 ---
@@ -144,14 +146,14 @@ E. Comparison
 2. Both use fast fashion approach
 3. Trend-based, responsive production
 
-F. Key Insight
+F. Key insight
 1. "So they did not identify them, the 50 If they see that as in, that they give your their produ system, they reduce 50 more."
 
 ---
 
 ### VI. Responsive Production Systems
 
-A. Key Concept
+A. Key concept
 1. Production systems that respond to actual demand rather than forecasts
 
 B. Characteristics
@@ -170,7 +172,7 @@ D. Challenges
 2. Requires good communication systems
 3. Need responsive supply chains
 
-E. Key Insight
+E. Key insight
 1. "So basically you do, they. Now I. So I mean, are they class? Are they weak?"
 
 ---
@@ -189,7 +191,7 @@ C. Speed vs. Quality
 1. Fast food prioritizes speed
 2. Fine dining prioritizes quality and customization
 
-D. Key Insight
+D. Key insight
 1. Different business models require different production strategies.
 
 ---
@@ -205,7 +207,7 @@ B. Example
 1. European airlines (Iberia mentioned)
 2. Government support affects pricing
 
-C. Key Point
+C. Key point
 1. Subsidies can affect market competition and pricing strategies.
 
 ---
@@ -220,14 +222,14 @@ B. Design Matters
 2. "So inside your. So you did it girl your product that?"
 3. Design decisions impact costs and processes
 
-C. Key Insight
+C. Key insight
 1. "Because everything saladists twice. West, Cubels."
 
 ---
 
 ### X. Cost Structure & Efficiency
 
-A. Key Concepts
+A. Key concepts
 1. Efficiency as driving force
 2. "So they waste use. It will be the efficency When means what we mean for in is still driving forces."
 3. Different industries have different efficiency requirements
@@ -247,7 +249,7 @@ D. Fashion
 2. Small batches
 3. Quick cycles
 
-E. Key Insight
+E. Key insight
 1. Each industry has different efficiency drivers based on their business model.
 
 ---

@@ -1,5 +1,5 @@
 # Product Management - Class Notes
-## January 27, 2026
+## January 27, 2026 - Week 1
 
 ---
 
@@ -15,7 +15,7 @@ B. The Information-Emotion Relationship
 2. Less information → More emotional decisions
 3. "The less information we have, the more we rely on emotion in decision-making"
 
-C. Key Insight
+C. Key insight
 1. "Decisions are imperfect because we must the donation, we will need to lie. You know that make perfect decision."
 
 D. Reality
@@ -31,7 +31,7 @@ A. The Circle Model
 3. When we have less information → Emotion plays a stronger role
 4. When we have more information → Rational decisions based on structured information
 
-B. Key Point
+B. Key point
 1. "So if on the needs, how we des circle is, emotion, we play a stronger or play a stronger role."
 
 C. Decision Making Factors
@@ -45,7 +45,7 @@ C. Decision Making Factors
 
 ### III. Behavioral Economics & Consumer Decisions
 
-A. Key Concept
+A. Key concept
 1. People don't always make perfectly rational decisions
 
 B. Factors Influencing Decisions
@@ -55,7 +55,7 @@ B. Factors Influencing Decisions
 4. Brand - Brand reputation and trust
 5. Emotion - Feelings and gut reactions
 
-C. Key Insight
+C. Key insight
 1. "So we have information, ability, risk all opportunities, or like, by little of brand. This is all your experience."
 
 D. Reality
@@ -90,7 +90,7 @@ B. Reasons
 3. Exclusivity - Want controlled, exclusive experiences
 4. Price justification - Use scarcity and exclusivity to justify high prices (€3,000+ items)
 
-C. Key Insight
+C. Key insight
 1. "They want you to go there and spend three,000. Based on, Sp is obviously an in rationalization, right? Spain 3,000 years. Unless you're immediately. But for most of us, this is an important decision."
 
 D. Strategy
@@ -98,7 +98,7 @@ D. Strategy
 2. They rely on emotion and brand reputation
 3. "So, I said, what of mine, and you have a problem, and you want to study it. And you are working for a strong brand. Will you give us information to you? And will you share with the asel of emotional content? Yes."
 
-E. Key Point
+E. Key point
 1. "So this is one of the things you have to think about. You're already saying in Brand. You have to think about what how France. The strong, then no information and you do about around feet. Then that you, information. You that."
 
 ---
@@ -115,7 +115,7 @@ B. Modern Example
 3. When product arrives, it doesn't look like the ad
 4. But by then, they've already taken payment
 
-C. Key Insight
+C. Key insight
 1. "So pictures of the group inv. So that's where we go, right? That we have to stop the pressureality and then we are happy for people say. And then be friend information either a motion."
 
 D. Reality
@@ -137,7 +137,7 @@ B. Factors
 4. Location
 5. Cost
 
-C. Key Point
+C. Key point
 1. "It depends. It depends. Yeah. For inst, what you use you want to to in this sense."
 
 D. Information Challenges
@@ -149,14 +149,14 @@ D. Information Challenges
 
 ### VIII. Patent Strategy & Technology Protection
 
-A. Key Concept
+A. Key concept
 1. Patent strategy is to capture value from other people
 
 B. Two Purposes of Patents
 1. Prevent people from stealing your technology
 2. Prevent competitors from blocking your innovation
 
-C. Key Insight
+C. Key insight
 1. "When we patent things to prevent pl to steal them but to also like get. I create a patent and I make a map."
 
 D. Patent Portfolios
@@ -179,7 +179,7 @@ B. Solutions
 3. Acquire Firm B - Buy them out
 4. Build patent portfolio - Create your own patents to negotiate
 
-C. Key Insight
+C. Key insight
 1. "So you have to pay. But I don't understand because that's the other firm's primary product. That's all they make. And if they patches it that first, then how would the firm one be able to cut it then?"
 
 D. Reality
@@ -187,7 +187,7 @@ D. Reality
 
 Strategy: "So many times, friends have ves of emois that many world. Themselves from someone of the time having senior island senior."
 
-E. Key Point
+E. Key point
 1. "When the first thing I say all the bands with technologies of industry. So we Juan to fantasy. Firm and all of the fans having bars, and then I have to understand what are the these places that may be some of these bags."
 
 ---
@@ -200,7 +200,7 @@ A. Key Strategy
 3. Understand the patent landscape
 4. Build your own patent portfolio for negotiation
 
-B. Key Insight
+B. Key insight
 1. "So if you're world manager, this is something you from stability. To check for the planers, you are gonna feel and to check what have pine the same in a solar area, and were the balance of these guys and discussing with your, with a tal business necessary to find, to kill, a little."
 
 C. Reality
@@ -212,7 +212,7 @@ C. Reality
 
 Definition: Sharing knowledge and technology for free to benefit the industry
 
-A. Key Concept
+A. Key concept
 1. "Open information is described, you were f, shared. I the German. Sh violence, so we share a knowledge."
 
 B. Why Would Companies Do This?
@@ -234,12 +234,12 @@ B. Why Give Away Valuable Technology?
 2. Generated demand for IBM's computing infrastructure
 3. "To take to take your data and to train the models. Making the standard of the industry and surprise, surprise in your running is a platform, you need many friends. Computers for So they said or many days. By you obeying old."
 
-C. Key Insight
+C. Key insight
 1. "So opening information is described, you were f, shared."
 
 Result: Real profit came from selling the hardware/servers needed to run the platform
 
-D. Key Point
+D. Key point
 1. "Who was the real wings, who were the real wings when we were? Nese. They were the only ones making a prophet of all these islands. So that's why they decided approach and adopt this or region approach."
 
 ---
@@ -251,7 +251,7 @@ A. About David Teece
 2. Was vice president at IBM developing technology
 3. "This is the s te that we used in in our mostforms. So it was it was a vice Pres president for RB."
 
-B. Key Insight
+B. Key insight
 1. He decided to share knowledge and benefit the industry as a whole.
 
 Concept: Open innovation = sharing knowledge to create value for everyone
@@ -270,7 +270,7 @@ B. Revenue Breakdown
 1. 40% from licenses for carrying their rights
 2. 60% from other businesses
 
-C. Key Insight
+C. Key insight
 1. "So basically, all these things together is 40% of their and 60% of the problem are in."
 
 Strategy: "They say, has been many been in theran States in W Microsoft and moving. They share some of the p of the for them for the same."
@@ -298,7 +298,7 @@ C. What Happened
 
 Key Lesson: Innovation alone isn't enough - you need commercialization strategy
 
-D. Key Insight
+D. Key insight
 1. "So we were really sm at me organizing."
 
 E. Reality
@@ -310,7 +310,7 @@ Final Point: "So all of this, technology less an opp constit. That's why they di
 
 ### XVI. Value Creation & Capture Review
 
-A. Key Concepts
+A. Key concepts
 1. Value Creation = Total amount of resources and value for users
 2. Value Capture = How much value you actually make money from
 3. Inputs < Utility - You create more value than inputs
@@ -322,7 +322,7 @@ B. Value Capture Mechanisms
 2. Market access - Distribution and customer access
 3. IP or secrecy - Patents or keeping things secret
 
-C. Key Insight
+C. Key insight
 1. "When we don't have info we use emotions for rational decisions. Review increase info ab product. If the brand has no identity, they have to provide it themselves in order to help."
 
 ---

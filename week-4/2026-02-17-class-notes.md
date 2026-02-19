@@ -1,6 +1,8 @@
 # Product Management - Class Notes
 ## February 17, 2026 - Week 4
 
+**Focus:** Business Model Canvas, value creation and capture.
+
 ---
 
 ## Key Concepts
@@ -11,7 +13,7 @@ Purpose: Framework to describe and analyze a business model
 
 Structure: Nine building blocks that describe how a company creates, delivers, and captures value
 
-A. Key Insight
+A. Key insight
 1. The canvas helps break down a business into its essential components and understand the connections between different parts.
 
 B. **Note:** While there are nine steps/blocks, they can be grouped into three main questions
@@ -90,7 +92,7 @@ A. Distribution channels
    a. E-commerce platform
    a. Can browse and purchase online
 
-B. Key Point
+B. Key point
 1. Zara uses both physical and digital channels to reach customers.
 
 ---
@@ -135,7 +137,7 @@ A. How Zara makes money from skinny jeans
    a. Cut items that aren't performing
    a. Minimize overproduction and markdowns
 
-B. Key Insight
+B. Key insight
 1. Zara avoids the discount cycle that many competitors use—instead of producing large quantities and then discounting, they produce smaller batches and sell at full price.
 
 ---
@@ -259,7 +261,7 @@ B. Key Success Factors
 
 ---
 
-## Takeaways
+## Key Takeaways
 
 1. Business Model Canvas breaks down a business into nine components, but can be simplified to three core questions: Who? Why? How?
 2. Zara's fast fashion model relies on scarcity, trend-focus, and full-price sales rather than mass production and discounting

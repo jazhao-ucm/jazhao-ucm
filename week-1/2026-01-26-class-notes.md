@@ -1,5 +1,7 @@
 # Product Management - Class Notes
-## January 26, 2026
+## January 26, 2026 - Week 1
+
+**Focus:** Value creation vs. value capture, market access.
 
 ---
 
@@ -16,7 +18,7 @@ B. Value Capture
 1. How much value you actually capture/make money from
 2. The difference between what you create and what you capture
 
-C. Key Insight
+C. Key point
 1. Creating value doesn't mean you capture it. You need both value creation AND value capture.
 
 ---
@@ -29,7 +31,7 @@ A. Components
 1. Primary Activities: Directly involved in production and delivery
 2. Support Activities: Enable primary activities
 
-B. Key Point
+B. Key point
 1. Value is created when resources and support activities combine to deliver value to users.
 
 C. Example
@@ -40,7 +42,7 @@ C. Example
 
 ### III. David Teece - Value Capture & Market Access
 
-A. Key Concept
+A. Key concept
 1. Market access goes to value capture
 
 B. David Teece's Framework
@@ -48,7 +50,7 @@ B. David Teece's Framework
 2. Importance of market access
 3. Need for complementary assets
 
-C. Key Insight
+C. Key point
 1. Having a great product isn't enough - you need market access to capture value.
 
 ---
@@ -86,7 +88,7 @@ B. Why They Bought
 3. They had better structure to sell
 4. Better market access and distribution
 
-C. Key Insight
+C. Key point
 1. "They can buy the corporation since they have a larger health market access."
 
 ---
@@ -104,7 +106,7 @@ B. Reality
 2. Global companies (like Takeda) have better distribution
 3. Market size matters for value capture
 
-C. Key Point
+C. Key point
 1. Market access and scale determine value capture, not just value creation.
 
 ---
@@ -130,7 +132,7 @@ A. Three Ways to Capture Value
    a. Customer relationships
    a. Market presence
 
-B. Key Insight
+B. Key insight
 1. "This is what we called cost specialized assets and market access."
 
 ---
@@ -145,7 +147,7 @@ A. Examples
 3. Distribution networks
 4. Customer relationships
 
-B. Key Point
+B. Key point
 1. "It's important to invest money in companies in Coca-Cola and the branding and secrecy."
 
 C. Alternative to Branding
@@ -158,7 +160,7 @@ C. Alternative to Branding
 
 ### IX. Patents & Intellectual Property
 
-A. Key Concepts
+A. Key concepts
 1. Patents protect your innovation
 2. Help capture value even after selling
 3. Important for tech companies
@@ -170,7 +172,7 @@ B. Strategy
 3. But don't over-patent
 4. "Avoid patenting or they over patent"
 
-C. Key Insight
+C. Key point
 1. Patents are one way to capture value, but not the only way.
 
 ---
@@ -189,7 +191,7 @@ B. Example
 3. Better distribution network
 4. More value capture potential
 
-C. Key Point
+C. Key point
 1. Market access is crucial for value capture.
 
 ---
@@ -205,7 +207,7 @@ B. CSDA likely refers to
 3. Data-driven
 4. Action-oriented
 
-C. Key Insight
+C. Key point
 1. Product management is about creating AND capturing value.
 
 ---
@@ -221,7 +223,7 @@ B. Market-Based Approaches
 2. Based on potential customers
 3. Based on market access
 
-C. Key Point
+C. Key point
 1. Valuation depends on both what you create and what the market values.
 
 ---
@@ -260,11 +262,3 @@ C. Value Capture Mechanisms
 2. Branding
 3. Market access
 4. Cost specialized assets
-
----
-
-## Next Steps
-
-1. Continue with value creation and capture concepts
-2. Explore more case studies
-3. Understand product management frameworks

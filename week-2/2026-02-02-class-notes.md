@@ -1,5 +1,7 @@
 # Product Management - Class Notes
-## February 2, 2026
+## February 2, 2026 - Week 2
+
+**Focus:** Community needs assessment, finding connections.
 
 ---
 
@@ -16,7 +18,7 @@ B. Process
 3. Assess what the community actually needs
 4. Understand what people want before building
 
-C. Key Insight
+C. Key insight
 1. "So we need to find out what are these is. Why? Because. That's all the world is un defining."
 
 ---
@@ -32,7 +34,7 @@ A. The Process
 B. Key Principle
 1. "You have the best everything that you something you not invest, justing, investing here, investing there. And invest. So the best thing invest in investing is."
 
-C. Key Point
+C. Key point
 1. Focus investment on what matters most, not everything at once.
 
 ---
@@ -41,12 +43,12 @@ C. Key Point
 
 Concept: "Testing as Investing" - from the book recommended for world management
 
-A. Key Insight
+A. Key insight
 1. "So if I have this priority, you is the investing, invest. This is a very approach."
 
 Book Reference: "If you are interested in this world management, you and you want to create something more specific, there is this book which is called these. Where did they explain this approach of testing as investing."
 
-B. Key Point
+B. Key point
 1. Testing is actually disabledural mass - it's part of the development process, not separate.
 
 C. Reality
@@ -72,7 +74,7 @@ C. Development Process
 2. Second step - Build the platform
 3. Third step - Test and iterate
 
-D. Key Insight
+D. Key insight
 1. "So we had to do so practice. We g this art. Here."
 
 ---
@@ -110,7 +112,7 @@ B. Example from Class
 3. "I struggle in the gun system with the body."
 4. When asked what kind of makeability, he said "this is nothing."
 
-C. Key Insight
+C. Key insight
 1. "He was a little match pulling himself problems. And that's something that's he want, that his fa."
 
 Lesson: Don't build first, understand the problem first.
@@ -127,7 +129,7 @@ B. The Process
 2. "So if we want to create value, we need to find out these box of space."
 3. "And therefore, we need to find out what is happening."
 
-C. Key Point
+C. Key point
 1. "So as a manager, one goes, the designer you are, will be the best if the better. Then."
 
 D. Reality
@@ -145,7 +147,7 @@ B. Strategy
 2. Then build product for that community
 3. "So we need to find out when show this assets, our room."
 
-C. Key Insight
+C. Key insight
 1. "So we don't, we don't, we fit morning, we don't have France."
 
 D. Reality
@@ -168,7 +170,7 @@ C. Reality Check
 1. Exercise with students - "They were so. No one this."
 2. "So last month pay for your. Nothing. Nothing at all."
 
-D. Key Insight
+D. Key insight
 1. "So, actually we suggested day and you know Bra from? No? Yes."
 
 Problem: "So these guys. These guys. Why are you doing? I must be in inside. Was man to were okay to give you value thinking they were really West to the master providers."
@@ -183,7 +185,7 @@ A. What Happened
 3. "So they are school years so well. We are."
 4. "And so they just bring all, because they actually just This is not going to be."
 
-B. Key Insight
+B. Key insight
 1. "I mean ever want, for this so the sweet. So that's me and so that's me and me."
 
 C. Reality
@@ -205,7 +207,7 @@ B. New Focus
 3. Awarding process (board in Japan)
 4. Make friends from the murder, the first day
 
-C. Key Point
+C. Key point
 1. "So this is one thing and your thing is that this 50 University of places AM."
 
 ---
@@ -217,7 +219,7 @@ A. Strategy
 2. "We are working today, no one. Texas, working with Texas on called Joe andbedd"
 3. "And we have a friend who whether this will be good to your adventures."
 
-B. Key Insight
+B. Key insight
 1. "Basically, it means that if you are happier in your life, if you day, we would be happier or you in state more."
 
 Approach: "So we are actually visit to here now and scing at of these position in the last operation called Ed."
@@ -236,7 +238,7 @@ New Model: Partnerships
 
 Testing: "And we are trying this at here to see whether you send this collections, people or profession musical."
 
-A. Key Insight
+A. Key insight
 1. "Basically because you make friends in the time."
 
 ---
@@ -252,7 +254,7 @@ B. Possible Metrics
 3. User engagement
 4. "I think it's the number of people who would like, subscribe to the paid subscription"
 
-C. Key Insight
+C. Key insight
 1. "When we are prom, we are trying to make sure this success of the value is great. Then, by actually some."
 
 D. Reality
@@ -270,7 +272,7 @@ B. The Model
 2. Makes money through advertising
 3. "You see that? Even in your own. Then Google is something to find out how to make money is that actually get really."
 
-C. Key Insight
+C. Key insight
 1. "You want to say, what this is valut creation, like operating survey is a ceiling, how how people are."
 
 D. Reality
@@ -284,21 +286,21 @@ A. The Problem with Reviews
 1. "So reviews typically either or not super good or not super."
 2. "So, bro, I used to lose toor reviews. I' say, I'm say at I have three stars of the lot. It with one or five."
 
-B. Key Insight
+B. Key insight
 1. "If the restaurant was bad, the God got no good."
 2. "If the restaurant is super super. If the original super, let's go, you."
 
 C. Reality
 1. Reviews are often polarized - very good or very bad, not accurate middle ground.
 
-D. Key Point
+D. Key point
 1. "The second thing is, especially services. Need to explain the difference between Wilson areas."
 
 ---
 
 ### XVII. Service Quality & Expectations
 
-A. Key Concept
+A. Key concept
 1. "So my point is that DVP service is this, why do we need is very very"
 
 B. Example
@@ -306,7 +308,7 @@ B. Example
 2. "And we find a beautiful questions about their blood is kitchen, probably some beautiful Connect, sometimes it."
 3. "It's awful, but then doing here's better."
 
-C. Key Insight
+C. Key insight
 1. "So that's basically, I mean, that's enough back I be people out there. Best own your own and expectation."
 
 D. Reality
@@ -321,12 +323,12 @@ A. Key Question
 
 Answer: "We use with two on your hand. And these soitute all your. Some can be so last. With information as."
 
-B. Key Insight
+B. Key insight
 1. "So, the me here is Brown. So, so it's whereandy out of my family."
 
 Strategy: "So my have to buy bas. Is, information. So basically, we have to invest in given information. So ourselves."
 
-C. Key Point
+C. Key point
 1. "So that's why we that Peter. E Billy fers. Sexist, fiveist. Important."
 
 ---
@@ -339,13 +341,13 @@ A. What They Do
 1. "These guys are basically, people, who are either is of the of the fact, we be body."
 2. "So basically, these guys are friends, Sp in name from friends to are."
 
-B. Key Insight
+B. Key insight
 1. "So this is, and this world has waiting because city is lobing, is very obscure business, because you never know what they what is the very all around."
 
 C. Reality
 1. "If helps this man. Sometimes you get money and it's not in this case, we that we are missing ourages and we that."
 
-D. Key Point
+D. Key point
 1. "So, well, if you are interested, I am telling you more things, but I will. Too long."
 
 ---
@@ -364,12 +366,12 @@ C. The Response
 1. "But this was, when the family had no way both of us. Butitioning wasn't well."
 2. "He said that I've been there for 12 years and they' already not been success with progress that'."
 
-D. Key Insight
+D. Key insight
 1. "So, yeah, so AA is that the bron is not really strong. I mean, not a way is if they can't the dress in Europe, you would be really happy."
 
 Strategy: "You work free and then are will endorses. I. Lovely a savior, when, we built that we strong, we excessive Brian, is access now."
 
-E. Key Point
+E. Key point
 1. "There's no need for us. We're will invest more money in Brown."
 
 ---
@@ -388,7 +390,7 @@ C. The Answer
 1. "So you will say, so we have that our 80,000 years."
 2. "So up 8,000 years, I since we are, because we need to go to all these screens?"
 
-D. Key Insight
+D. Key insight
 1. "This that time. That's nice, this might looks of youun this."
 
 E. Reality
@@ -401,13 +403,13 @@ E. Reality
 A. Key Principle
 1. "I mean, the thing for me is not this, but be why you're doing. That's a real world."
 
-B. Key Insight
+B. Key insight
 1. "I mean, your explanation makes sense that you're right. It is known. You see, as long it's made so sense with all this day time in discussing with you, this."
 
 C. Reality
 1. Theory is good, but real-world application matters more.
 
-D. Key Point
+D. Key point
 1. "So, uh, fair enough. Any questions tomorrow? So, let's go to the way. Back."
 
 ---

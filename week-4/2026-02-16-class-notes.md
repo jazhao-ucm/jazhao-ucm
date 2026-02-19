@@ -1,13 +1,15 @@
 # Product Management - Class Notes
 ## February 16, 2026 - Week 4
 
+**Focus:** Technology adoption curve (S-curve), innovation.
+
 ---
 
 ## Key Concepts
 
 ### I. Technology Adoption Curve (S-Curve)
 
-A. Key Concept
+A. Key concept
 1. Technology performance follows an S-curve pattern over time
 
 B. The Pattern
@@ -21,7 +23,7 @@ C. Visual Representation
 2. "And after the words, we are disint points. Again?"
 3. Performance starts low, increases rapidly, then levels off
 
-D. Key Insight
+D. Key insight
 1. "So this is how we are the psycho of ."
 
 E. Investment Pattern
@@ -40,7 +42,7 @@ A. The Curve
 3. Maturity: Performance plateaus
 4. Replacement: New technology emerges
 
-B. Key Point
+B. Key point
 1. "So we stay here, it's going back. We can see? This is the .."
 
 C. Example - Old Technology Performance
@@ -85,7 +87,7 @@ F. Why Kodak Failed
 4. "So, this man fish radio, and then he one of three times more. Four times the average number."
 5. They couldn't adapt quickly enough
 
-G. Key Insight
+G. Key insight
 1. "So basically if you try that West like six levels. So in the end, you have to be some."
 
 H. The Dilemma
@@ -113,7 +115,7 @@ C. The Problem
 3. "That's fine. Evening, is a this here is the technologies are developed by ."
 4. "He is not he."
 
-D. Key Insight
+D. Key insight
 1. "So that's the thing. , not always start."
 
 ---
@@ -183,7 +185,7 @@ C. Performance Comparison
 3. "And the same you can see here, these guys swelled saying a pointing46 point as a word belie ."
 4. "And these highids because air points and the guy . You in."
 
-D. Key Insight
+D. Key insight
 1. "So that's five days for all these."
 
 E. The Disruption
@@ -224,7 +226,7 @@ E. Similar Pattern
 
 ### VIII. Performance vs. Customer Expectations
 
-A. Key Concept
+A. Key concept
 1. "And in my opinion to say the are after this performance we have."
 2. "You have."
 3. "So this is this quite to make."
@@ -234,7 +236,7 @@ B. The Shift
 2. "You on the other side, this is running information."
 3. Moving from one paradigm to another
 
-C. Key Insight
+C. Key insight
 1. "What a per says that you need to use, the technologies if they arts are thought that the unity is better. Is higher."
 2. "I mean, the amazing."
 3. "But the photos are not that look, but hey,, just the store handled 500 for here."
@@ -249,7 +251,7 @@ D. Customer Preference
 
 ### IX. Industry Focus and Investment Patterns
 
-A. Key Concept
+A. Key concept
 1. "So this is log of.."
 2. "And like you say, do theno T? Stay up and the group we need is from here. here.. Two, three."
 
@@ -263,7 +265,7 @@ C. Why Companies Don't Invest
 2. "There is one week. Then all friends will invest on her year. ."
 3. Companies wait until it's too late
 
-D. Key Insight
+D. Key insight
 1. "That's why this my heart."
 
 E. The Pattern
@@ -290,7 +292,7 @@ C. The Persistence
 2. "The different secrets, and then they just moved it ."
 3. "So that's So that is in the 60s is the technology that we are still using to the. Almost 60 years later."
 
-D. Key Insight
+D. Key insight
 1. "Do you imagine in 60 years, it has been anybody trying to grow this all day's 60 years old."
 2. "Yeah."
 3. "They've been many, many friends trying to change this way, if they're not, which by way, are not super efficient in terms of their right."
@@ -306,7 +308,7 @@ F. Failed Alternatives
 3. "And all the so part of the ."
 4. Many attempts to replace it, all failed
 
-G. Key Point
+G. Key point
 1. "That's why I still we keep what we."
 2. "This is why we are our computers are based on nothing 90, 60 years old."
 3. Because no one has been successful [at replacing it].
@@ -335,7 +337,7 @@ C. The Pattern
 2. "You were Anyone else? It, back, they were."
 3. "They was. ? No."
 
-D. Key Insight
+D. Key insight
 1. "Because also where . , Royal."
 2. "How many people who that's why they call that this out of these ."
 3. Radical innovation often comes from outsiders
@@ -356,7 +358,7 @@ E. Example - Colonization
 
 ### XII. First Mover Advantage
 
-A. Key Concept
+A. Key concept
 1. "So when I started forming quite a while today, you see here, I circle for this evening."
 2. "Okay. Souls, this spirit, okay?"
 3. Being first can provide advantages
@@ -375,7 +377,7 @@ C. Example
 5. "These are thank you.."
 6. "This first one here in the."
 
-D. Key Insight
+D. Key insight
 1. "You see this? That's , or this phone, for instance, these guys are not playing."
 
 ---
@@ -418,7 +420,7 @@ G. The Reality
 4. "You're wearing that."
 5. "Does that sound like example from running?"
 
-H. Key Insight
+H. Key insight
 1. "We were checked and we around the technology of the way deep and where. ."
 2. "So that's how nice asking."
 3. "So you have to be your full and you specific time."
@@ -428,7 +430,7 @@ H. Key Insight
 
 ### XIV. Timing and Market Windows
 
-A. Key Concept
+A. Key concept
 1. "So So. So here."
 2. "So we're going to be able to think about ."
 3. Timing matters for innovation
@@ -446,7 +448,7 @@ C. Example
 2. "He was a pur, and made his, you are interested in this, it's called ."
 3. "So let's, baking man in New York University on head."
 
-D. Key Insight
+D. Key insight
 1. "So this ."
 2. "So here we have again."
 3. "And then, he ."
@@ -488,7 +490,7 @@ C. High-End Market
 10. "Like. Yeah. ."
 11. "Yeah."
 
-D. Key Insight
+D. Key insight
 1. "Okay, so that is an Basically, we prove the for demands for the power and demands."
 2. Different market segments have different needs
 
@@ -496,7 +498,7 @@ D. Key Insight
 
 ### XVI. Disruptive Innovation Examples
 
-A. Key Concept
+A. Key concept
 1. "So why is that disrupt humulation, so we have ..."
 2. "So we have friends ... Large brass, which is fused bomb door and coffee. ."
 3. Disruption creates new markets
@@ -508,7 +510,7 @@ B. The Pattern
 4. "Of course, it's not."
 5. "It has not to say specificities the same futures than they love here."
 
-C. Key Insight
+C. Key insight
 1. "Let me see humor is an exampleist. Profile low and disrupation."
 2. Disruptive innovation often starts at the low end
 
@@ -535,7 +537,7 @@ C. The Innovation
 2. "But that's."
 3. "You see that?"
 
-D. Key Insight
+D. Key insight
 1. "So that's example the girl waiting in."
 2. "You. The new market is basically creating a new."
 3. "Oating a front? No, of that."
@@ -647,7 +649,7 @@ B. Investment Pattern
 2. Growth: Heavy investment
 3. Maturity: Investment shifts to new technology
 
-C. Key Insight
+C. Key insight
 1. Companies often wait too long to invest in new technology
 2. By the time they invest, it's too late
 3. "There is one week. Then all friends will invest on her year."
