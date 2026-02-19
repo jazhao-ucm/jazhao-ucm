@@ -49,28 +49,28 @@ A. What Zara offers for skinny jeans
 
 1. On-trend / Current styling
    a. Jeans feel current and fashionable
-   a. "You have to buy it now" mentality
-   a. If you don't buy now, it might not be trendy later
+   b. "You have to buy it now" mentality
+   c. If you don't buy now, it might not be trendy later
 
 2. Good quality
    a. Compared to competitors (Old Navy, Gap, Abercrombie & Fitch, Levi's)
-   a. Comfortable and durable
-   a. Good sizing and fit
+   b. Comfortable and durable
+   c. Good sizing and fit
 
 3. Convenience
    a. Available online
-   a. Easy to find and purchase
-   a. Can complete outfits with other Zara items
+   b. Easy to find and purchase
+   c. Can complete outfits with other Zara items
 
 4. Mid-price positioning
    a. Not premium pricing (like designer brands)
-   a. Not the cheapest option
-   a. Positioned between low-end and high-end competitors
-   a. Average price around $30 for skinny jeans
+   b. Not the cheapest option
+   c. Positioned between low-end and high-end competitors
+   d. Average price around $30 for skinny jeans
 
 5. Scarcity / Limited quantities
    a. Fast fashion model: items available for limited time
-   a. Creates urgency ("buy now or miss out")
+   b. Creates urgency ("buy now or miss out")
 
 B. Why customers care
 1. People who want jeans without paying premium prices
@@ -85,12 +85,12 @@ A. Distribution channels
 
 1. Physical stores
    a. Located in big cities (New York, LA, Miami)
-   a. Urban shopping areas
-   a. Visual merchandising and store layout important
+   b. Urban shopping areas
+   c. Visual merchandising and store layout important
 
 2. Online / Website
    a. E-commerce platform
-   a. Can browse and purchase online
+   b. Can browse and purchase online
 
 B. Key point
 1. Zara uses both physical and digital channels to reach customers.
@@ -103,16 +103,16 @@ A. How Zara maintains relationships with customers
 
 1. Self-service
    a. Customers browse and shop independently
-   a. Both in-store and online
+   b. Both in-store and online
 
 2. Repeat visits
    a. Fast fashion model encourages frequent shopping
-   a. New items arrive twice a week
-   a. Limited quantities create urgency for return visits
+   b. New items arrive twice a week
+   c. Limited quantities create urgency for return visits
 
 3. Online relationships
    a. Website and digital presence
-   a. Email marketing, social media
+   b. Email marketing, social media
 
 Key Strategy: High turnover of products (items only available for ~2 weeks) encourages customers to return frequently to see new items.
 
@@ -124,18 +124,18 @@ A. How Zara makes money from skinny jeans
 
 1. Full-price sales
    a. Sell jeans at full price (not discounted)
-   a. Avoid mass production and constant discounting (unlike competitors like Gap, Old Navy)
+   b. Avoid mass production and constant discounting (unlike competitors like Gap, Old Navy)
 
 2. Price positioning
    a. Price carefully compared to competitors (Gap, AE, Levi's)
-   a. Not too high (would lose price-sensitive customers)
-   a. Not too low (would reduce margins)
-   a. Mid-price positioning ($30 average for skinny jeans)
+   b. Not too high (would lose price-sensitive customers)
+   c. Not too low (would reduce margins)
+   d. Mid-price positioning ($30 average for skinny jeans)
 
 3. Inventory management
    a. Only restock items that are selling well
-   a. Cut items that aren't performing
-   a. Minimize overproduction and markdowns
+   b. Cut items that aren't performing
+   c. Minimize overproduction and markdowns
 
 B. Key insight
 1. Zara avoids the discount cycle that many competitors use—instead of producing large quantities and then discounting, they produce smaller batches and sell at full price.
@@ -148,22 +148,22 @@ A. What Zara needs to deliver the value proposition
 
 1. Design and trend identification
    a. Ability to identify current trends quickly
-   a. Design team that can create on-trend products
+   b. Design team that can create on-trend products
 
 2. Manufacturing and supply chain
    a. Fast production capabilities
-   a. Ability to produce small batches quickly
-   a. Restock only what's selling well
+   b. Ability to produce small batches quickly
+   c. Restock only what's selling well
 
 3. Testing and data
    a. System to test which products perform well
-   a. Data on customer behavior and preferences
-   a. Ability to scale successful items and cut unsuccessful ones
+   b. Data on customer behavior and preferences
+   c. Ability to scale successful items and cut unsuccessful ones
 
 4. Physical and digital infrastructure
    a. Stores in key urban locations
-   a. E-commerce platform
-   a. Visual merchandising capabilities
+   b. E-commerce platform
+   c. Visual merchandising capabilities
 
 ---
 
@@ -173,26 +173,26 @@ A. What Zara does to operate
 
 1. Fast fashion production
    a. Design and produce items quickly
-   a. Small batch production
-   a. Test market response
+   b. Small batch production
+   c. Test market response
 
 2. Inventory management
    a. Monitor which items sell well
-   a. Restock successful items
-   a. Discontinue unsuccessful items quickly
+   b. Restock successful items
+   c. Discontinue unsuccessful items quickly
 
 3. Pricing strategy
    a. Set prices competitively (not too high, not too low)
-   a. Maintain full-price sales (avoid discounting)
+   b. Maintain full-price sales (avoid discounting)
 
 4. Store operations
    a. Visual merchandising
-   a. Store layout and presentation
-   a. Customer service
+   b. Store layout and presentation
+   c. Customer service
 
 5. Digital operations
    a. Online store management
-   a. E-commerce fulfillment
+   b. E-commerce fulfillment
 
 ---
 
@@ -202,11 +202,11 @@ A. Who Zara works with
 
 1. Suppliers and manufacturers
    a. Fast production partners
-   a. Ability to produce small batches quickly
+   b. Ability to produce small batches quickly
 
 2. Real estate / Store locations
    a. Prime urban locations
-   a. Shopping centers and retail districts
+   b. Shopping centers and retail districts
 
 Note: The fast fashion model requires partners who can respond quickly to demand changes.
 
@@ -218,20 +218,20 @@ A. Main costs
 
 1. Production costs
    a. Manufacturing skinny jeans
-   a. Small batch production (more expensive per unit than mass production)
+   b. Small batch production (more expensive per unit than mass production)
 
 2. Inventory management
    a. Cost of testing products
-   a. Cost of discontinuing unsuccessful items
+   b. Cost of discontinuing unsuccessful items
 
 3. Store operations
    a. Rent in prime locations
-   a. Visual merchandising
-   a. Staff
+   b. Visual merchandising
+   c. Staff
 
 4. Digital operations
    a. E-commerce platform
-   a. Online fulfillment
+   b. Online fulfillment
 
 Key Strategy: By avoiding overproduction and discounting, Zara reduces costs associated with unsold inventory and markdowns.
 

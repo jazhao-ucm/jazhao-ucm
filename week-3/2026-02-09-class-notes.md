@@ -7,7 +7,7 @@
 
 ## Opening Discussion: Production Strategies
 
-A. Key Question
+A. Key question
 1. "So let us, you do you have to price and cost is not the same."
 
 B. Important Distinction
@@ -72,7 +72,7 @@ F. Example Discussion
 
 ### II. Cost Structure & Business Models
 
-A. Key Principle
+A. Key principle
 1. "So need, big class is you need changes here, G.able costs are wages, wages."
 
 B. Different Industries Have Different Cost Structures
@@ -284,18 +284,18 @@ A. Key Innovations
 
 1. Moving Assembly Line (Conveyor Belt System)
    a. "So for instance car. Every minute."
-   a. "I saw as, because he only produced Stash The since they were producing. As one."
-   a. "So ironically haveers. That's cool."
+   b. "I saw as, because he only produced Stash The since they were producing. As one."
+   c. "So ironically haveers. That's cool."
 
 2. Standardized, Interchangeable Parts
    a. "There is some nice, very.., say, why you?"
-   a. All parts were identical and interchangeable
-   a. "So while the end, so when we meet you. In your designer? Yeah, I did. Si designer."
+   b. All parts were identical and interchangeable
+   c. "So while the end, so when we meet you. In your designer? Yeah, I did. Si designer."
 
 3. Workers Doing Specific, Repetitive Tasks
    a. "I ask him when you the dishes ain't. We have these world, mornings, and then he."
-   a. "Then he put on dream, and we have no bust my stories."
-   a. "And again, because this guy has."
+   b. "Then he put on dream, and we have no bust my stories."
+   c. "And again, because this guy has."
 
 4. Precision Machinery
    a. "I mean, hiding are even more, this workers a CPA and they were all that, they were more efficient, and they workers democratic."
@@ -368,21 +368,21 @@ C. The Solution
 1. Created a new university
 2. "So this guy now is created. University."
 
-D. Key Question
+D. Key question
 1. "So, you, my God, so on us in this? I have been to do this."
 
 ---
 
 ### XIV. Fixed Costs & Student Numbers
 
-A. Key Principle
+A. Key principle
 1. "West, West is the un Post of myne. H students and I have to visit."
 
 B. The Challenge
 1. "So, are these sides will not lay and provide me here the less of."
 2. Need enough students to cover fixed costs
 
-C. Key Question
+C. Key question
 1. "So then, how many students do you think? They have to be at least for..."
 
 The Answer: Need many students to cover fixed costs
@@ -397,7 +397,7 @@ E. Reality
 
 ### XV. Fixed Costs & Business Strategy
 
-A. Key Principle
+A. Key principle
 1. "Here, he said, you have a fixed investments. Why do you here? You or a lot of sex."
 
 B. The Strategy
@@ -417,7 +417,7 @@ E. Key point
 
 ### XVI. When to Use Mass Production Approach
 
-A. Key Principle
+A. Key principle
 1. "So when you apply this approach, when you the focus, the sell for for your bro are pre. Onlywise, you have to find easy."
 
 B. When It Works

@@ -9,7 +9,7 @@
 
 ### I. Community Needs Assessment
 
-A. Key Principle
+A. Key principle
 1. "The importance of assessing the needs of the community and finding connections between people with similar interests is emphasized."
 
 B. Process
@@ -31,7 +31,7 @@ A. The Process
 3. Each cycle develops something new
 4. "So we need to ri all these springs and in each spread we develop a new fracture and of the brass."
 
-B. Key Principle
+B. Key principle
 1. "You have the best everything that you something you not invest, justing, investing here, investing there. And invest. So the best thing invest in investing is."
 
 C. Key point
@@ -87,7 +87,7 @@ A. The Cycle
 3. Lewis - Iteration and improvement
 4. Back to the game - Repeat cycle
 
-B. Key Principle
+B. Key principle
 1. "This is way. If you one round, you pull many f theory, the damages is saying is just the process of all design."
 
 C. Why We Design
@@ -121,7 +121,7 @@ Lesson: Don't build first, understand the problem first.
 
 ### VII. Understanding User Needs
 
-A. Key Question
+A. Key question
 1. "What are these is? Why? Because. That's all the world is un defining."
 
 B. The Process
@@ -139,7 +139,7 @@ D. Reality
 
 ### VIII. Community Before Product
 
-A. Key Principle
+A. Key principle
 1. "So in this case, because of community before, the directors, but for."
 
 B. Strategy
@@ -157,7 +157,7 @@ D. Reality
 
 ### IX. The Payment Problem
 
-A. Key Question
+A. Key question
 1. "Would you pay for this time?"
 
 The Answer: "No. Who is this? No."
@@ -245,7 +245,7 @@ A. Key insight
 
 ### XIV. Success Metrics
 
-A. Key Question
+A. Key question
 1. "How do you make sure this has says all this act?"
 
 B. Possible Metrics
@@ -264,7 +264,7 @@ D. Reality
 
 ### XV. Google's Business Model Example
 
-A. Key Question
+A. Key question
 1. "How much are you paying any move for using world to search for things? You made it? No. Are you using? Yes."
 
 B. The Model
@@ -318,7 +318,7 @@ D. Reality
 
 ### XVIII. Branding & Information Strategy
 
-A. Key Question
+A. Key question
 1. "When can you use br as scants to buy eggs? When do we have information or when we go back?"
 
 Answer: "We use with two on your hand. And these soitute all your. Some can be so last. With information as."
@@ -378,7 +378,7 @@ E. Key point
 
 ### XXI. Investment & Processing Costs
 
-A. Key Question
+A. Key question
 1. "Do you think we need to find it yet? And Brian? Yes, but the word on everything. Isn't necessary. Listen. No. We don't."
 
 B. The Calculation
@@ -400,7 +400,7 @@ E. Reality
 
 ### XXII. The Real World vs. Theory
 
-A. Key Principle
+A. Key principle
 1. "I mean, the thing for me is not this, but be why you're doing. That's a real world."
 
 B. Key insight

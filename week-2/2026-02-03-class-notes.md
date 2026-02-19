@@ -9,7 +9,7 @@
 
 ### I. Community Needs Assessment (Continued)
 
-A. Key Principle
+A. Key principle
 1. "The importance of assessing the needs of the community and finding connections between people with similar interests is emphasized."
 
 B. Process
@@ -25,7 +25,7 @@ C. Key insight
 
 ### II. Value Creation Through Community
 
-A. Key Principle
+A. Key principle
 1. "So if we want to create value, we need to find out these box of space. And therefore, we need to find out what is happening."
 
 B. The Process
@@ -48,7 +48,7 @@ A. The Process
 3. Lewis - Iteration and improvement
 4. Back to the game - Repeat cycle
 
-B. Key Principle
+B. Key principle
 1. "This is way. If you one round, you pull many f theory, the damages is saying is just the process of all design."
 
 C. Why We Design
@@ -103,7 +103,7 @@ D. Solution Approach
 
 ### VI. Testing as Investing - Development Cycles
 
-A. Key Principle
+A. Key principle
 1. "So my point here is we need to ri all these springs and in each spread we develop a new fracture and of the brass. This is an new fr, the."
 
 B. Investment Strategy
@@ -237,7 +237,7 @@ Design Consideration: "Okay, so we have that, so we have to design to get other 
 
 ### XIII. Pricing Strategy
 
-A. Key Question
+A. Key question
 1. "So. Pricing. That's something you will learn."
 
 B. The Challenge
@@ -346,7 +346,7 @@ New Focus: "New church. We employees, to pay us, and less about AI, man. So that
 
 ### XIX. Success Metrics
 
-A. Key Question
+A. Key question
 1. "So, for instance, how do you make sure this has says all this act?"
 
 B. Possible Metrics
@@ -365,7 +365,7 @@ D. Reality
 
 ### XX. Google's Business Model (Review)
 
-A. Key Question
+A. Key question
 1. "Because, how much are you paying any move for using world to search for things? You made it? No. Are you using? Yes."
 
 B. The Model
@@ -422,7 +422,7 @@ E. Key point
 
 ### XXIII. Learning & Building
 
-A. Key Question
+A. Key question
 1. "So how long your life all these things in the building? How do you learn?"
 
 The Answer: "You, I ask you. I will ask you your money, okay?"
@@ -457,7 +457,7 @@ D. Key point
 
 ### XXV. Branding & Information Strategy (Review)
 
-A. Key Question
+A. Key question
 1. "When can you use br as scants to buy eggs? When do we have information or when we go back?"
 
 Answer: "We use with two on your hand. And these soitute all your. Some can be so last. With information as."
@@ -517,7 +517,7 @@ E. Key point
 
 ### XXVIII. Investment & Processing Costs
 
-A. Key Question
+A. Key question
 1. "Do you think we need to find it yet? And Brian? Yes, but the word on everything. Isn't necessary. Listen. No. We don't."
 
 B. The Calculation
@@ -539,7 +539,7 @@ E. Reality
 
 ### XXIX. Real World vs. Theory
 
-A. Key Principle
+A. Key principle
 1. "I mean, the thing for me is not this, but be why you're doing. That's a real world."
 
 B. Key insight

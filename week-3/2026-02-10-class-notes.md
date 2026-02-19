@@ -19,7 +19,7 @@ B. Key insight
 
 Important Note: Some brands own other brands (e.g., Lexus is Toyota's luxury division), which affects how we interpret market share data.
 
-C. Key Question
+C. Key question
 1. Would it be better to show parent companies and their performance rather than individual brands?
 
 ---
@@ -214,7 +214,7 @@ C. Key point
 
 ### IX. Production Philosophy
 
-A. Key Principle
+A. Key principle
 1. "So you need design. That's why if you want here is, you?"
 
 B. Design Matters
@@ -317,7 +317,7 @@ B. After
 4. Less waste
 5. More complex operations
 
-C. Key Question
+C. Key question
 1. Was this the right move for fast food?
 
 D. Analysis

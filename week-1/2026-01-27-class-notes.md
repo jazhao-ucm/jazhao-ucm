@@ -1,13 +1,15 @@
 # Product Management - Class Notes
 ## January 27, 2026 - Week 1
 
+**Focus:** Rational vs. irrational decision making, information and emotion.
+
 ---
 
 ## Key Concepts
 
 ### I. Rational vs. Irrational Decision Making
 
-A. Key Principle
+A. Key principle
 1. Decisions are based on BOTH rationality AND emotion
 
 B. The Information-Emotion Relationship
@@ -75,7 +77,7 @@ B. Weak Brands
 2. Need to help customers make decisions
 3. "If the brand has no identity, they have to provide it themselves in order to help"
 
-C. Key Principle
+C. Key principle
 1. "Strong brands = less need to share detailed information; they create emotional connections instead."
 
 ---
@@ -282,10 +284,10 @@ Strategy: "They say, has been many been in theran States in W Microsoft and movi
 A. The Story
 1. Developed incredible technologies:
    a. **Mouse**
-   a. **Graphical interface** (ideal)
-   a. **Ethernet**
-   a. **Laser printing**
-   a. **Girlfriend technology** (related systems)
+   b. **Graphical interface** (ideal)
+   c. **Ethernet**
+   d. **Laser printing**
+   e. **Girlfriend technology** (related systems)
 
 B. The Problem
 1. Was terrible at monetizing their innovations

@@ -99,7 +99,7 @@ H. The Dilemma
 
 ### IV. The Innovator's Dilemma
 
-A. Key Question
+A. Key question
 1. "Imagine you are , and the name we shut down this old film technology that is in remaining all theode of the fact, and why we invest into this unsor . What do you think will be in?"
 
 B. The Challenge
@@ -323,7 +323,7 @@ H. Quantum Computing
 
 ### XI. Radical Innovation - Where It Comes From
 
-A. Key Question
+A. Key question
 1. "And mini bags in the first edit front, it is your Ral innovation are from one school taxi."
 2. Where do radical innovations come from?
 
@@ -402,7 +402,7 @@ D. The Promise
 2. "And even big mons, we welcome back."
 3. "So we were."
 
-E. Key Question
+E. Key question
 1. "Why do you think you were about it ?"
 2. "West S. To provide services."
 3. "To the."
@@ -460,7 +460,7 @@ D. Key insight
 
 ### XV. Market Segmentation - High vs. Low End
 
-A. Key Question
+A. Key question
 1. "So, for instance, in the world market, which brands are the other."
 2. "The most mass, which lands.. Here, ."
 
@@ -518,7 +518,7 @@ C. Key insight
 
 ### XVII. Uber Case Study
 
-A. Key Question
+A. Key question
 1. "Why, why does this service, you were West holdering?"
 2. "I mean, immediately, the math."
 

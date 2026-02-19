@@ -117,20 +117,20 @@ A. Three Ways to Capture Value
 
 1. Patents
    a. "If I didn't know anything and if they could work the first thing I could do is they could patent"
-   a. Protect your innovation
-   a. Even if you sell it, patents help you capture value
-   a. "So that even if I sold it they had to to make more money I need a patent"
+   b. Protect your innovation
+   c. Even if you sell it, patents help you capture value
+   d. "So that even if I sold it they had to to make more money I need a patent"
 
 2. Branding
    a. "The brand is very important"
-   a. Strong brand = stronger value capture
-   a. "The brand is very important especially for a company name Takeda"
-   a. More consumers trust established brands
+   b. Strong brand = stronger value capture
+   c. "The brand is very important especially for a company name Takeda"
+   d. More consumers trust established brands
 
 3. Market Access
    a. Distribution channels
-   a. Customer relationships
-   a. Market presence
+   b. Customer relationships
+   c. Market presence
 
 B. Key insight
 1. "This is what we called cost specialized assets and market access."
@@ -198,7 +198,7 @@ C. Key point
 
 ### XI. The Goal of Product Management
 
-A. Key Principle
+A. Key principle
 1. "Goal of the product management is CSDA"
 
 B. CSDA likely refers to
