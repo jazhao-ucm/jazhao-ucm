@@ -1,6 +1,0 @@
-# Relax rules that conflict with class-notes style (dense lists, minimal blank lines)
-default: true
-MD013: false  # line length (prose and notes often exceed 80 chars)
-MD022: false  # blanks around headings
-MD032: false  # blanks around lists
-MD036: false  # emphasis as heading (bold quotes under Final Thought)
