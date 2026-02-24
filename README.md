@@ -18,4 +18,4 @@ This format provides a highly structured, logically organized outline that clear
 - `week-2/` - Feb 2 & 3: class notes, PM2 slides, Product Management Roles
 - `week-3/` - Feb 9 & 10: class notes, PM3 slides
 - `week-4/` - Feb 16 & 17: class notes, Zara fast fashion reading, Business Model Canvas
-- `week-5/` - Feb 23: class notes, exploration vs. exploitation, product design process, SDLC
+- `week-5/` - February 23: class notes, exploration vs. exploitation, product design process, SDLC
