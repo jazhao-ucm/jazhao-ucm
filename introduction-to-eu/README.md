@@ -14,9 +14,10 @@ This format provides a highly structured, logically organized outline that clear
 
 ## Structure
 
-- `week-1/` - January 26 & 27: Zweig *The World of Yesterday* reading summary (ethos, logos, pathos)
-- `week-2/` - February 2 & 3: Judt *Origins of the EU*, Krawatzek & Pestel *New Histories of Europe* reading summaries (ethos, logos, pathos)
-- `week-3/` - February 9 & 10: Seidel, Warlouzet *Reinventing Europe* chapters reading summaries (ethos, logos, pathos)
-- `week-4/` - February 16 & 17: Anderson *Ever Closer Union?*, Vinen *History in Fragments* reading summaries (ethos, logos, pathos)
-- `week-5/` - February 23 & 24: Southern enlargement, Delors, Maastricht, Schengen; Bijsmans, Gilbert, Kenny & Pearce reading summaries (ethos, logos, pathos)
-- `week-6/` - March 2
+- `week-1/` - Jan 26 & 27: class notes, Zweig *The World of Yesterday* reading summary (ethos, logos, pathos)
+- `week-2/` - Feb 2 & 3: class notes, Judt *Origins of the EU*, Krawatzek & Pestel *New Histories of Europe* reading summaries (ethos, logos, pathos)
+- `week-3/` - Feb 9 & 10: class notes, Seidel, Warlouzet *Reinventing Europe* chapters reading summaries (ethos, logos, pathos)
+- `week-4/` - Feb 16 & 17: class notes, Anderson *Ever Closer Union?*, Vinen *History in Fragments* reading summaries (ethos, logos, pathos)
+- `week-5/` - Feb 23 & 24: class notes, Southern enlargement, Delors, Maastricht, Schengen; Bijsmans, Gilbert, Kenny & Pearce reading summaries (ethos, logos, pathos)
+- `week-6/` - March 2: class notes, guest lecture (Luz Martínez Kampo) on Gibraltar, Spanish accession, border 1969–1986
+- `week-7/` - Readings on EU institutions: European Council & Commission, Parliament & Council, Court of Justice, ECB & agencies, EMU, citizenship & migration, foreign policy, CAP & Green Deal

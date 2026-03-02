@@ -14,8 +14,9 @@ This format provides a highly structured, logically organized outline that clear
 
 ## Structure
 
-- `week-1/` - January 26 & 27 class notes
-- `week-2/` - February 2 & 3 class notes
-- `week-3/` - February 9 & 10 class notes
-- `week-4/` - February 16 & 17 class notes
-- `week-5/` - February 23: class notes, strategy levels, internationalization, resources & capabilities
+- `week-1/` - Jan 26 & 27: class notes, globalization/slowbalization slides, syllabus, economic complexity
+- `week-2/` - Feb 2 & 3: class notes, supply chain slides, products by country, culture & competition
+- `week-3/` - Feb 9 & 10: class notes, Business Strategies in International Contexts slides, EJE Industrial program
+- `week-4/` - Feb 16 & 17: class notes, Managing the Global Business Portfolio slides, Business Plan Reunidas case
+- `week-5/` - Feb 23 & 24: class notes, strategy levels, internationalization, resources & capabilities
+- `week-6/` - Mar 2 & 3: Human Resources Management chapter (Geoffrey Ditta)

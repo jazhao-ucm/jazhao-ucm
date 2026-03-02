@@ -1,6 +1,15 @@
-# Product Management
+# UCM Course Notes
 
-Course notes and materials for Product Management at UCM.
+Course notes and materials for UCM (Universidad Complutense de Madrid).
+
+## What's in it
+
+- **`product-management/`** – Product Management: class notes, Business Model Canvas, value creation/capture, PM slides, Zara case, product design process, SDLC
+- **`introduction-to-eu/`** – Introduction to the EU: class notes, reading summaries (Zweig, Judt, Anderson, Vinen, etc.), EU institutions, Gibraltar/accession, EMU, citizenship
+- **`management-global-markets/`** – Management in Global Markets: class notes, globalization/slowbalization, supply chains, international business strategies, global portfolio, HR management
+- **`strategic-management/`** – Strategic Management: class notes, strategy & objectives, environment analysis, business cases (Madonna/Lola Flores), Five Forces, clusters
+- **`jadewowgreen/`** – Project images and materials
+- **`matchaxmoxie/`** – Resume and portfolio materials
 
 ## Note-Taking Format
 
@@ -10,12 +19,4 @@ All class notes follow the **Formal Outline Note Taking System** format:
 - **Arabic numerals (1, 2, 3, etc.)** for supporting details
 - **Lowercase letters (a, b, c, etc.)** for nested sub-details
 
-This format provides a highly structured, logically organized outline that clearly shows levels of information.
-
-## Structure
-
-- `week-1/` - Jan 26 & 27: class notes, syllabus, Business Model Canvas, value creation/capture, PM1 slides, exam samples, playbook
-- `week-2/` - Feb 2 & 3: class notes, PM2 slides, Product Management Roles
-- `week-3/` - Feb 9 & 10: class notes, PM3 slides
-- `week-4/` - Feb 16 & 17: class notes, Zara fast fashion reading, Business Model Canvas
-- `week-5/` - February 23: class notes, exploration vs. exploitation, product design process, SDLC
+Each course folder has its own README with a detailed week-by-week breakdown of what's inside.
