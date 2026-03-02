@@ -3,6 +3,39 @@
 
 **Focus:** Car industry efficiency, market share.
 
+---
+
+# Section 1: Summary (AP Level / Accessible)
+
+*Use this section first. Plain language. Short sentences.*
+
+## Key Words
+- **Market share** = Your part of the market. % of total sales.
+- **Forecast** = Predict demand. Plan ahead.
+- **Customization** = Make it for each customer. Slower.
+
+## Main Ideas (Simple Version)
+
+1. **Car industry: efficiency matters.**
+   - Lexus, Mercedes, BMW. Different brands.
+   - Some brands own others. Lexus = Toyota.
+
+2. **McDonald's: two systems.**
+   - Old: forecast-based. Pre-prep. Fast. Waste.
+   - New: "Made for you." Customization. Slower. Less waste.
+
+3. **Trade-off: speed vs. customization.**
+   - Fast = standardized. No choices.
+   - Custom = slower. More choices.
+
+4. **No one-size-fits-all.**
+   - Different business models.
+   - Different strategies work for different companies.
+
+---
+
+# Section 2: Full Notes (College Prep Academic)
+
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
 | Appeal | In this lecture |

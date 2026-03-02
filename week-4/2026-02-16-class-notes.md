@@ -3,6 +3,43 @@
 
 **Focus:** Technology adoption curve (S-curve), innovation.
 
+---
+
+# Section 1: Summary (AP Level / Accessible)
+
+*Use this section first. Plain language. Short sentences.*
+
+## Key Words
+- **S-curve** = Technology performance over time. Slow → fast → plateau.
+- **Disruptive innovation** = New tech. Lower at first. Then wins.
+- **First mover** = First to market. Advantage. Or disadvantage.
+
+## Main Ideas (Simple Version)
+
+1. **Technology follows an S-curve.**
+   - Beginning: slow. Evolving.
+   - Middle: rapid improvement.
+   - Maturity: plateaus. Then decline.
+
+2. **Disruptive innovation.**
+   - New tech starts lower. Cheaper.
+   - Improves. Overtakes old tech.
+   - Established leaders can fail.
+
+3. **Innovator's dilemma.**
+   - Focus on current customers.
+   - Miss the new thing.
+   - Lower performance can win.
+
+4. **Investment pattern.**
+   - Early: low investment. Uncertain.
+   - Growth: heavy investment.
+   - Maturity: shift to new tech.
+
+---
+
+# Section 2: Full Notes (College Prep Academic)
+
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
 | Appeal | In this lecture |

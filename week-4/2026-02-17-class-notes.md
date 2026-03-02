@@ -3,6 +3,42 @@
 
 **Focus:** Business Model Canvas, value creation and capture.
 
+---
+
+# Section 1: Summary (AP Level / Accessible)
+
+*Use this section first. Plain language. Short sentences.*
+
+## Key Words
+- **Business Model Canvas** = Framework. Nine blocks. How you create, deliver, capture value.
+- **Value proposition** = Why they buy. What you offer.
+- **Customer segment** = Who you sell to. Be specific.
+
+## Main Ideas (Simple Version)
+
+1. **Three questions: Who? Why? How?**
+   - Who are we selling to?
+   - Why does it matter? What are we selling?
+   - How do we get them to buy more?
+
+2. **Zara: skinny jeans example.**
+   - Customer: 17–27. Big cities. Trend-focused.
+   - Scarcity: "Might not be here next week."
+   - Urgency. Buy now.
+
+3. **Nine building blocks.**
+   - Customer segments. Value proposition. Channels.
+   - Customer relationships. Revenue streams.
+   - Key resources. Key activities. Key partners. Cost structure.
+
+4. **Be specific.**
+   - "Everyone" = too broad. No meaning.
+   - Focus on one product. One segment.
+
+---
+
+# Section 2: Full Notes (College Prep Academic)
+
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
 | Appeal | In this lecture |

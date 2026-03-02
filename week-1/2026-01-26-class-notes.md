@@ -3,6 +3,39 @@
 
 **Focus:** Value creation vs. value capture, market access.
 
+---
+
+# Section 1: Summary (AP Level / Accessible)
+
+*Use this section first. Plain language. Short sentences.*
+
+## Key Words
+- **Value creation** = Making something useful. Total value for users.
+- **Value capture** = How much money you make from it.
+- **Market access** = Can you reach customers? Distribution. Channels.
+
+## Main Ideas (Simple Version)
+
+1. **Creating value ≠ capturing value.**
+   - You need both. A great product is not enough.
+
+2. **Porter: Value chain.**
+   - Primary activities: production, delivery.
+   - Support activities: HR, tech, etc.
+   - Value = resources + activities → users.
+
+3. **Teece: Market access matters.**
+   - €15K research → €250M for someone else.
+   - If you can't reach the market, you don't capture value.
+
+4. **Takeda case.**
+   - Spanish research. Japanese company captured the value.
+   - Access to market. Distribution. Patents.
+
+---
+
+# Section 2: Full Notes (College Prep Academic)
+
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
 | Appeal | In this lecture |

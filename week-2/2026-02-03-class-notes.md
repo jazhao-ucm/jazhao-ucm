@@ -3,6 +3,38 @@
 
 **Focus:** Community needs assessment (continued).
 
+---
+
+# Section 1: Summary (AP Level / Accessible)
+
+*Use this section first. Plain language. Short sentences.*
+
+## Key Words
+- **Market problem** = Many people have this problem. Will pay to fix it.
+- **Personal problem** = You have it. Others might not.
+
+## Main Ideas (Simple Version)
+
+1. **"Personal problems don't always translate to market problems."**
+   - Your problem ≠ everyone's problem.
+   - Test if others have the same problem.
+
+2. **Community before product.**
+   - Find out what the community needs.
+   - Don't assume. Ask.
+
+3. **Value creation through community.**
+   - Find the gaps. The "box of space."
+   - What is happening? What do they want?
+
+4. **Design and development cycle.**
+   - Iterate. Each cycle = new feature.
+   - Focus on what matters.
+
+---
+
+# Section 2: Full Notes (College Prep Academic)
+
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
 | Appeal | In this lecture |

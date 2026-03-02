@@ -3,6 +3,44 @@
 
 **Focus:** Exploration vs. exploitation, product design process, lean validation, SDLC.
 
+---
+
+# Section 1: Summary (AP Level / Accessible)
+
+*Use this section first. Plain language. Short sentences.*
+
+## Key Words
+- **Exploration** = Finding new things. Sensing. Searching.
+- **Exploitation** = Doing what works. Seizing. Scaling.
+- **Lean validation** = Test before you spend. Validate first.
+
+## Main Ideas (Simple Version)
+
+1. **Ambidextrous organization.**
+   - Need both: exploration and exploitation.
+   - Exploration finds. Exploitation captures.
+
+2. **Product design process.**
+   - Problem-solution fit first.
+   - Customer discovery. Don't spend money yet.
+   - Validate before investing.
+
+3. **Lean validation.**
+   - Test. Learn. Iterate.
+   - Don't build until you have validation.
+
+4. **Examples: Peloton, Tesla, Vision Pro.**
+   - Market fit matters.
+   - Some succeed. Some fail.
+
+5. **SDLC = Software Development Life Cycle.**
+   - Plan. Build. Test. Deploy.
+   - Iterate.
+
+---
+
+# Section 2: Full Notes (College Prep Academic)
+
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
 | Appeal | In this lecture |

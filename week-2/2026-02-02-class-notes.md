@@ -3,6 +3,39 @@
 
 **Focus:** Community needs assessment, finding connections.
 
+---
+
+# Section 1: Summary (AP Level / Accessible)
+
+*Use this section first. Plain language. Short sentences.*
+
+## Key Words
+- **Needs assessment** = Find out what people want. Before you build.
+- **Community** = Group of people. Shared interests.
+- **Willingness to pay** = Will they pay? How much?
+
+## Main Ideas (Simple Version)
+
+1. **"Community before product."**
+   - Understand what they need first.
+   - Don't build it and hope they will come.
+
+2. **Find connections.**
+   - People with similar interests.
+   - Assess what the community actually needs.
+
+3. **Iterate based on feedback.**
+   - Test. Learn. Change.
+   - Each development cycle = something new.
+
+4. **Focus investment.**
+   - Don't invest in everything.
+   - Prioritize what matters most.
+
+---
+
+# Section 2: Full Notes (College Prep Academic)
+
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
 | Appeal | In this lecture |

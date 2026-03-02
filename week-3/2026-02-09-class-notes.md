@@ -3,6 +3,39 @@
 
 **Focus:** Production strategies, cost vs. price.
 
+---
+
+# Section 1: Summary (AP Level / Accessible)
+
+*Use this section first. Plain language. Short sentences.*
+
+## Key Words
+- **Fixed cost** = Same cost no matter how much you produce. Building. Insurance.
+- **Variable cost** = Changes with amount. Materials. Wages.
+- **Economies of scale** = Bigger = cheaper per unit.
+
+## Main Ideas (Simple Version)
+
+1. **Cost ≠ price.**
+   - Low cost doesn't always mean low price.
+   - You choose the price. Cost is what you spend.
+
+2. **Fixed vs. variable costs.**
+   - Fixed: building, insurance. Pay even if you produce nothing.
+   - Variable: materials. More product = more cost.
+
+3. **Mass production requires scale.**
+   - Spread fixed costs over many units.
+   - Standardization. Specialization.
+
+4. **Competing on low cost.**
+   - One strategy. Cut costs everywhere.
+   - Or: differentiate. Different strategy.
+
+---
+
+# Section 2: Full Notes (College Prep Academic)
+
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
 | Appeal | In this lecture |

@@ -3,6 +3,41 @@
 
 **Focus:** Rational vs. irrational decision making, information and emotion.
 
+---
+
+# Section 1: Summary (AP Level / Accessible)
+
+*Use this section first. Plain language. Short sentences.*
+
+## Key Words
+- **Rational** = Based on facts. Logic. Information.
+- **Irrational** = Based on emotion. Gut feeling.
+- **Brand** = What people think of you. Reputation.
+
+## Main Ideas (Simple Version)
+
+1. **Decisions = information + emotion.**
+   - More information → more rational.
+   - Less information → more emotional.
+
+2. **"The less information we have, the more we rely on emotion."**
+   - People don't have perfect information.
+   - Decisions are imperfect.
+
+3. **Innovation alone isn't enough.**
+   - Strong brands vs. weak brands.
+   - Patents. Open innovation.
+   - Commercialization strategy matters.
+
+4. **Circle model.**
+   - Black circle = limited information.
+   - We have ~5% of what we need.
+   - Emotion fills the gap.
+
+---
+
+# Section 2: Full Notes (College Prep Academic)
+
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
 | Appeal | In this lecture |
