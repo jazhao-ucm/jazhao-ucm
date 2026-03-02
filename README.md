@@ -4,10 +4,10 @@ Course notes and materials for UCM (Universidad Complutense de Madrid).
 
 ## What's in it
 
-- **`product-management/`** – Product Management: class notes, Business Model Canvas, value creation/capture, PM slides, Zara case, product design process, SDLC
+- **`product-management/`** – Product Management: class notes, Business Model Canvas, value creation/capture, PM slides, Zara case, product design process, lean validation, design thinking, IDEO, SDLC
 - **`introduction-to-eu/`** – Introduction to the EU: class notes, reading summaries (Zweig, Judt, Anderson, Vinen, etc.), EU institutions, Gibraltar/accession, EMU, citizenship
-- **`management-global-markets/`** – Management in Global Markets: class notes, globalization/slowbalization, supply chains, international business strategies, global portfolio, HR management
-- **`strategic-management/`** – Strategic Management: class notes, strategy & objectives, environment analysis, business cases (Madonna/Lola Flores), Five Forces, clusters
+- **`management-global-markets/`** – Management in Global Markets: class notes, globalization/slowbalization, supply chains, international business strategies, global portfolio, internationalization, HR management
+- **`strategic-management/`** – Strategic Management: class notes, strategy & objectives, PEST, Five Forces, environment analysis, business cases (Madonna/Lola Flores), clusters
 - **`jadewowgreen/`** – Project images and materials
 - **`matchaxmoxie/`** – Resume and portfolio materials
 

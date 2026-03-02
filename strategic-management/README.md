@@ -17,5 +17,5 @@ This format provides a highly structured, logically organized outline that clear
 - `week-1/` - Jan 28 & 29: class notes, course intro, Unit 0 & 1 Strategy slides, syllabus template
 - `week-2/` - Feb 4 & 5: class notes, Unit 2 Objectives and Values slides
 - `week-3/` - Feb 12: class notes, Unit 3 Environment Analysis slides
-- `week-4/` - Feb 18 & 19: class notes
+- `week-4/` - Feb 18 & 19: class notes, external analysis (PEST, Five Forces, industry attractiveness)
 - `week-5/` - Feb 25: class notes, Madonna/Lola Flores business case (Art of War, climate change, Five Forces, clusters)
