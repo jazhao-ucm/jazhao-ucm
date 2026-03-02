@@ -3,6 +3,13 @@
 
 **Focus:** Value creation vs. value capture, market access.
 
+**Rhetorical Framework (Ethos, Logos, Pathos)**
+
+| Appeal | In this lecture |
+|--------|-----------------|
+| **Ethos** | Porter, Teece; Takeda as exemplar; Spanish research case |
+| **Logos** | Value creation vs. capture; value chain; market access as causal factor |
+| **Pathos** | €15K → €250M gap; "having a great product isn't enough" |
 ---
 
 ## Key Concepts
@@ -262,3 +269,9 @@ C. Value Capture Mechanisms
 2. Branding
 3. Market access
 4. Cost specialized assets
+
+## Key Takeaways (Rhetorical)
+
+- **Ethos:** Porter, Teece; Takeda; Spanish research institution as case.
+- **Logos:** Value creation ≠ value capture; market access as causal logic.
+- **Pathos:** Gap between creation and capture; stakes of market access.

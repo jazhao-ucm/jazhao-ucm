@@ -3,6 +3,13 @@
 
 **Focus:** Business Model Canvas, value creation and capture.
 
+**Rhetorical Framework (Ethos, Logos, Pathos)**
+
+| Appeal | In this lecture |
+|--------|-----------------|
+| **Ethos** | Zara; Business Model Canvas; Who? Why? How? |
+| **Logos** | Nine components; value proposition; revenue model |
+| **Pathos** | Scarcity, urgency; "community before product" |
 ---
 
 ## Key Concepts
@@ -268,3 +275,9 @@ B. Key Success Factors
 3. Customer segmentation must be specific—focusing on one product (skinny jeans) and one customer group (17–27, urban, trend-focused) makes the analysis clearer
 4. Value proposition combines multiple elements: trend, quality, convenience, price, and scarcity
 5. Revenue model avoids discounting by producing smaller batches and selling at full price
+
+## Key Takeaways (Rhetorical)
+
+- **Ethos:** Zara; Business Model Canvas; Who? Why? How?
+- **Logos:** Nine components; value proposition; segmentation logic.
+- **Pathos:** Scarcity, urgency; full-price sales stakes.

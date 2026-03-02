@@ -3,6 +3,13 @@
 
 **Focus:** Community needs assessment, finding connections.
 
+**Rhetorical Framework (Ethos, Logos, Pathos)**
+
+| Appeal | In this lecture |
+|--------|-----------------|
+| **Ethos** | "Community before product"; "understand what they need first" |
+| **Logos** | Needs assessment process; willingness to pay; iterate based on feedback |
+| **Pathos** | "Don't build it and hope they will come"; real-world stakes |
 ---
 
 ## Key Concepts
@@ -477,3 +484,9 @@ A. Remember
 3. Iterate based on feedback
 4. Focus investment on what matters
 5. Real world application > perfect theory
+
+## Key Takeaways (Rhetorical)
+
+- **Ethos:** Community-first; customer needs; iterative testing.
+- **Logos:** Needs assessment; willingness to pay; feedback loops.
+- **Pathos:** "Don't build and hope"; stakes of real-world application.

@@ -3,6 +3,13 @@
 
 **Focus:** Car industry efficiency, market share.
 
+**Rhetorical Framework (Ethos, Logos, Pathos)**
+
+| Appeal | In this lecture |
+|--------|-----------------|
+| **Ethos** | Car industry examples; business model differences |
+| **Logos** | Fast food vs. responsive production; trade-offs; no one-size-fits-all |
+| **Pathos** | Speed vs. customization; stakes of production strategy |
 ---
 
 ## Key Concepts
@@ -348,3 +355,9 @@ B. Remember
 4. Industry-specific efficiency drivers matter
 5. Trade-offs are inevitable - choose based on your business model
 6. Design decisions affect production efficiency
+
+## Key Takeaways (Rhetorical)
+
+- **Ethos:** Industry-specific strategies; business model alignment.
+- **Logos:** Trade-offs; no one-size-fits-all; design → efficiency.
+- **Pathos:** Speed vs. customization; stakes of production choice.

@@ -3,6 +3,13 @@
 
 **Focus:** Community needs assessment (continued).
 
+**Rhetorical Framework (Ethos, Logos, Pathos)**
+
+| Appeal | In this lecture |
+|--------|-----------------|
+| **Ethos** | "Personal problems don't always translate to market problems" |
+| **Logos** | Test if others have same problem; community before product |
+| **Pathos** | Stakes of mistaking personal for market |
 ---
 
 ## Key Concepts
@@ -624,3 +631,9 @@ B. Remember
 4. Iterate based on feedback
 5. Focus investment on what matters
 6. Real world application > perfect theory
+
+## Key Takeaways (Rhetorical)
+
+- **Ethos:** Community-first; test willingness to pay; iterate.
+- **Logos:** Personal vs. market problems; feedback loops.
+- **Pathos:** Stakes of validation; "real world application."

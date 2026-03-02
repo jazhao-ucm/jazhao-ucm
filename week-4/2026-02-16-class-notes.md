@@ -3,6 +3,13 @@
 
 **Focus:** Technology adoption curve (S-curve), innovation.
 
+**Rhetorical Framework (Ethos, Logos, Pathos)**
+
+| Appeal | In this lecture |
+|--------|-----------------|
+| **Ethos** | Disruptive innovation; established market leaders; innovator's dilemma |
+| **Logos** | S-curve; lower performance → wins; first mover advantage |
+| **Pathos** | "Even established leaders can fail"; stakes of adaptation |
 ---
 
 ## Key Concepts
@@ -679,3 +686,9 @@ A. Remember
 7. First mover advantage can be significant
 8. Some technologies persist for decades
 9. Disruptive innovation creates new markets
+
+## Key Takeaways (Rhetorical)
+
+- **Ethos:** Disruptive innovation; innovator's dilemma; first mover.
+- **Logos:** S-curve; lower performance → new markets; timing.
+- **Pathos:** Stakes of adaptation; "established leaders can fail."

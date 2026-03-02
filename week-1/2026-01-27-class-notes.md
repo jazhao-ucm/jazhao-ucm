@@ -3,6 +3,13 @@
 
 **Focus:** Rational vs. irrational decision making, information and emotion.
 
+**Rhetorical Framework (Ethos, Logos, Pathos)**
+
+| Appeal | In this lecture |
+|--------|-----------------|
+| **Ethos** | Strong brands vs. weak brands; patents; open innovation |
+| **Logos** | Information + emotion in decisions; commercialization strategy |
+| **Pathos** | Emotion over information; "innovation alone isn't enough" |
 ---
 
 ## Key Concepts
@@ -400,3 +407,9 @@ B. Remember
 4. Open innovation = can create standards and demand
 5. Information affects decision making
 6. Value capture requires strategy, not just value creation
+
+## Key Takeaways (Rhetorical)
+
+- **Ethos:** Strong brands; patents; commercialization strategy.
+- **Logos:** Information + emotion; value capture logic.
+- **Pathos:** Emotion over information; stakes of innovation.

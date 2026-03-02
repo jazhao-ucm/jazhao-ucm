@@ -3,6 +3,13 @@
 
 **Focus:** Production strategies, cost vs. price.
 
+**Rhetorical Framework (Ethos, Logos, Pathos)**
+
+| Appeal | In this lecture |
+|--------|-----------------|
+| **Ethos** | Mass production; economies of scale; fixed vs. variable costs |
+| **Logos** | Cost ≠ price; scale logic; standardization and specialization |
+| **Pathos** | "Mass production requires scale"; stakes of fixed costs |
 ---
 
 ## Opening Discussion: Production Strategies
@@ -574,3 +581,9 @@ B. Remember
 5. But specialization has downsides (boredom, replacement)
 6. Business model must account for fixed costs
 7. Scale matters for profitability
+
+## Key Takeaways (Rhetorical)
+
+- **Ethos:** Mass production; economies of scale; fixed costs.
+- **Logos:** Cost ≠ price; scale logic; standardization trade-offs.
+- **Pathos:** Stakes of scale; "enough volume to cover fixed costs."

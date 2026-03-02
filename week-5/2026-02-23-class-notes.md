@@ -3,6 +3,13 @@
 
 **Focus:** Exploration vs. exploitation, product design process, lean validation, SDLC.
 
+**Rhetorical Framework (Ethos, Logos, Pathos)**
+
+| Appeal | In this lecture |
+|--------|-----------------|
+| **Ethos** | Ambidextrous organization; lean validation; SDLC |
+| **Logos** | Exploration vs. exploitation; product design process |
+| **Pathos** | Peloton, Tesla, Vision Pro; stakes of market fit |
 ---
 
 ## Key Concepts
@@ -156,3 +163,9 @@ A. Product examples for analysis
 
 B. Market research
 1. Gartner and similar firms for market forecasts and analysis
+
+## Key Takeaways (Rhetorical)
+
+- **Ethos:** Ambidextrous organization; lean validation; SDLC.
+- **Logos:** Exploration vs. exploitation; product design process.
+- **Pathos:** Product examples (Peloton, Tesla); stakes of market fit.
