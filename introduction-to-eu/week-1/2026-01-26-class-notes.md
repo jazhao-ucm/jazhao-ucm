@@ -3,6 +3,42 @@
 
 **Focus:** Course intro, structure, assessment.
 
+---
+
+# Section 1: Summary (AP Level / Accessible)
+
+*Use this section first. Plain language. Short sentences.*
+
+## Key Words
+- **Supranational** = Above national level. EU institutions that go beyond single countries.
+- **Official story** = How the EU narrates itself. Success. Unity.
+- **Critical view** = Realist history. Contingency. Crises. Not inevitable.
+
+## Main Ideas (Simple Version)
+
+1. **Four blocks: history, institutions, policies, foreign policy.**
+   - Block 1: Origins. Treaties. Before and after Rome.
+   - Block 2: Institutions. Executive, legislative, judiciary, other bodies.
+   - Block 3: Policies. Euro, identity, enlargement, migration. Most relevant for many.
+   - Block 4: Foreign and security policy. Guest expert.
+
+2. **Two perspectives: official story + critical view.**
+   - Official: EU as success. Integration. Unity.
+   - Critical: Crises. Contingency. Compare US, China, Russia.
+
+3. **Assessment: midterm (analyse texts), final, essay, presentations.**
+   - Midterm: Analyse, don’t summarise. Key ideas. Argument.
+   - Essay: 3,500 words. Topic agreed with professor.
+   - Presentations: Two readings per session. Debate.
+
+4. **EU is in a tense moment.**
+   - Not the first crisis. History full of crises. Shapes what the EU is.
+   - Use study abroad (trains, travel) to connect with material.
+
+---
+
+# Section 2: Full Notes (College Prep Academic)
+
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
 | Appeal | In this lecture |
