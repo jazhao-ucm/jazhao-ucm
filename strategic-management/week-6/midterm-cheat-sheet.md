@@ -148,15 +148,6 @@
   - **Public administration / regulators**.
   - **Segments and strategic groups** inside the industry.
 
-#### F. Industry definition & attractiveness
-
-- **Define industry from the customer’s point of view**:
-  - Not just “all car makers” or “all banks”, but all offers that **meet the same need/wish** in the customer’s mind (including substitutes and luxury experiences).
-- **Industry attractiveness**:
-  - Attractive when **opportunities > threats** → easier profit, growth, survival.
-  - Unattractive when **threats > opportunities** → difficult to survive and earn good returns.
-  - Manager’s job: **enter attractive industries** and avoid/exit bad ones when possible.
-
 #### E. Clusters (industrial districts)
 
 - **Cluster**: geographical agglomeration of:
@@ -169,7 +160,16 @@
   - **Technological innovation**.
   - **Access to other resources** (finance, services, networks).
 
-#### F. Climate change & Arctic/Greenland (illustrative PESTEL case)
+#### F. Industry definition & attractiveness
+
+- **Define industry from the customer’s point of view**:
+  - Not just “all car makers” or “all banks”, but all offers that **meet the same need/wish** in the customer’s mind (including substitutes and luxury experiences).
+- **Industry attractiveness**:
+  - Attractive when **opportunities > threats** → easier profit, growth, survival.
+  - Unattractive when **threats > opportunities** → difficult to survive and earn good returns.
+  - Manager’s job: **enter attractive industries** and avoid/exit bad ones when possible.
+
+#### G. Climate change & Arctic/Greenland (illustrative PESTEL case)
 
 - Climate change is **economic and strategic**, not only environmental.
 - Melting Arctic / Greenland:
@@ -181,7 +181,53 @@
 
 ---
 
+### Unit 4 – Resource-Based View (RBV) & Internal Resources
+
+- **RBV**: strategy starts from **what the firm has inside** (resources and capabilities), not only from the external environment (PESTEL, Five Forces).
+- **Main idea**: a large share of success or failure (e.g. **70–80%**) depends on **internal** factors (management, people, resources, capabilities), not just the industry or macro environment.
+- **You don’t need to be “the best”**: you need to be **better than competitors** and **sustain** that advantage over time (sustainable competitive advantage).
+
+#### VRIN (or VRIO) – when do resources sustain advantage?
+
+- **V**aluable → helps exploit opportunities or neutralise threats.
+- **R**are → few (or no) competitors have it.
+- **I**nimitable → difficult or costly to copy.
+- **N**on‑substitutable → cannot be replaced by something else that does the same job.  
+  (O = **O**rganization: structure and processes to exploit the resource.)
+
+Only resources that meet all four (V+R+I+N) can support **sustainable** competitive advantage.
+
+#### Tangible vs. intangible resources
+
+| **Aspect** | **Tangible** | **Intangible** |
+|------------|--------------|----------------|
+| **What** | Physical (buildings, machines, inventory) and financial (cash, investments). | Human (knowledge, skills, motivation, loyalty), technology (patents, know‑how), reputation, brand, culture. |
+| **Where** | Usually in **financial statements**. | Often **not** in the books; “encapsulated in the person” or in routines. |
+| **Control** | Easier to measure and control. | Harder: you don’t “own” people; when they leave, **knowledge leaves** (double loss). |
+
+- A large part of firm value (e.g. **~70%**) can sit in **intangibles**; financial statements show only part of the story.
+
+#### Human-based resources
+
+- **Knowledge, motivation, behaviour, loyalty** – all “in the person”; firm does not own the person.
+- **Most valuable but hardest to control**: key people can leave → you lose both the person and the knowledge.
+- **Retention**: culture, identity, incentives (e.g. “we are champions”), not only pay.
+- If a resource is **complementary** to others and hard to imitate, competitors cannot easily buy or copy the same advantage (e.g. star player + team + culture).
+
+#### Reputation / brand
+
+- Use of the **brand name** can **increase or decrease** value over time.
+- Intangible; not fully reflected in financial statements.
+
+---
+
 ### Case 1 – Madonna & Lola Flores (Strategy + RBV)
+
+#### Economic vs. social “success” (March 4)
+
+- **Madonna**: one of the **most profitable** artists; **economic** success (revenue, profitability, global reach).
+- **Lola Flores**: huge **social and cultural** contribution – working class, radio, fashion, identity; “did more than profit” for society.
+- **Both** are human-based strategic resources; we can assess value and rareness in **economic and social** terms.
 
 #### A. Four key elements of a successful strategy (Grant, 2015)
 

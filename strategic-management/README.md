@@ -19,4 +19,4 @@ This format provides a highly structured, logically organized outline that clear
 - `week-3/` - Feb 12: class notes, Unit 3 Environment Analysis slides
 - `week-4/` - Feb 18 & 19: class notes, external analysis (PEST, Five Forces, industry attractiveness)
 - `week-5/` - Feb 25 & 26: class notes, Madonna/Lola Flores business case (Art of War, climate change, Five Forces, clusters), RBV, VRIN
-- `week-6/` - Midterm prep: cheat sheet, course PDF
+- `week-6/` - Mar 4: class notes (RBV continued, tangible vs. intangible, Madonna vs. Lola Flores, human capital); midterm prep: cheat sheet, course PDF
