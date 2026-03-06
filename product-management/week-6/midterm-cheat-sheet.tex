@@ -1,0 +1,143 @@
+% Product Management – Midterm Cheat Sheet
+% Compile with: pdflatex midterm-cheat-sheet.tex
+
+\documentclass[9pt,landscape,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[left=1cm,right=2.8cm,top=1cm,bottom=1cm,marginparwidth=2.1cm,marginparsep=0.35em]{geometry}
+\usepackage{multicol}
+\usepackage{marginnote}
+\usepackage{enumitem}
+\usepackage{parskip}
+\usepackage{xcolor}
+\usepackage{soul}
+\usepackage{fancyhdr}
+\definecolor{lightpink}{RGB}{255,182,193}
+\definecolor{lightpeach}{RGB}{255,218,185}
+\definecolor{noteblue}{RGB}{173,216,230}
+\newcommand{\handnote}[1]{\marginnote{\raggedright\small\color{noteblue}#1\vspace{0.6em}}}
+\newcommand{\hlpink}[1]{\sethlcolor{lightpink}\hl{#1}\sethlcolor{lightpeach}}
+\newcommand{\hlpeach}[1]{\sethlcolor{lightpeach}\hl{#1}}
+\sethlcolor{lightpeach}
+\setlength{\parskip}{0.3em}
+\setlength{\columnsep}{0.8em}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[R]{\raisebox{0.8em}{\thepage}}
+\fancypagestyle{plain}{\fancyhf{}\fancyfoot[R]{\raisebox{0.8em}{\thepage}}}
+\raggedright
+
+\begin{document}
+\begin{center}
+{\large\bfseries Product Management -- Midterm Cheat Sheet}\\[0.3em]
+\small\textit{Define terms, give one example, tie to value creation/capture.}\\[0.6em]
+\fbox{\parbox{0.92\textwidth}{\centering\small
+\textcolor{black!80}{\textbf{Key:}} \colorbox{lightpink}{\strut\ \ \ } \textbf{Pink} = definitions \quad
+\colorbox{lightpeach}{\strut\ \ \ } \textbf{Peach} = frameworks \& tips \quad
+\colorbox{noteblue}{\strut\ \ \ } \textbf{Blue} = margin notes
+\par}}
+\end{center}
+\vspace{-0.4em}
+
+\begin{multicols}{2}
+
+\section*{Unit 1 -- Value Creation vs.\ Capture}\handnote{Creation $\neq$ capture. Need both.}
+\begin{itemize}[leftmargin=*,nosep]
+\item \textbf{\hlpink{Value creation}} = Making something useful. Total value for users.
+\item \textbf{\hlpink{Value capture}} = How much money you make. You need both.
+\item \textbf{\hlpink{Market access}} = Distribution, channels. Teece: market access $\to$ value capture.
+\item \textbf{Porter value chain}: Primary (production, delivery) + support (HR, tech). Value = resources + activities $\to$ users.
+\item \textbf{Takeda case}: Spanish research 15K EUR $\to$ Takeda 250M EUR/year. Better market access, distribution, scale.\handnote{Classic example!}
+\item \textbf{Value capture mechanisms}: Patents, branding, market access, co-specialized assets.
+\item European challenge: smaller market reach limits value capture vs.\ global players.
+\end{itemize}
+
+\section*{Unit 2 -- BMC \& Product Design}\handnote{Validate before you build.}
+\begin{itemize}[leftmargin=*,nosep]
+\item \textbf{BMC}: Customer segments, value prop, channels, revenue, key resources, activities, costs.
+\item \textbf{Product design}: Problem discovery $\to$ customer discovery $\to$ solution validation $\to$ build/launch.
+\item \textbf{\hlpink{Lean validation}}: Don't spend until validated. Test. Learn. Iterate.
+\item Problem--solution fit first. Go to market. Talk to customers. Don't assume.
+\end{itemize}
+
+\section*{Unit 3 -- Exploration vs.\ Exploitation}\handnote{Ambidextrous org.}
+\begin{itemize}[leftmargin=*,nosep]
+\item \textbf{\hlpink{Exploration}} (sensing) = Finding new opportunities. Searching.
+\item \textbf{\hlpink{Exploitation}} (seizing) = Doing what works. Scaling. Capturing value.
+\item Need both. Exploration finds; exploitation captures.
+\item Microsoft: strong exploitation, weaker exploration.
+\item \textbf{SDLC}: Plan $\to$ Build $\to$ Test $\to$ Deploy. Iterate.
+\end{itemize}
+
+\section*{Unit 4 -- Design Thinking}\handnote{Observe, don't ask.}
+\begin{itemize}[leftmargin=*,nosep]
+\item \hlpeach{Empathize $\to$ Define $\to$ Ideate $\to$ Prototype $\to$ Test}. Iterate.
+\item Don't ask users what they want. Steve Jobs: ``People don't know what they want until you show them.''
+\item \textbf{Observe behavior}. Ask about problems, past. Not solutions.
+\item \textbf{\hlpink{Gemba}} = Go where work happens. Observe in real context.
+\item \textbf{Two observers}: Reduces bias. Richer insight.
+\item \textbf{\hlpink{Extreme users}}: Use product intensely. Reveal problems. IDEO cart: 22,000 kids/year injured.
+\item Diverse teams (IDEO): engineers, psychologists, linguists. Different perspectives = better solutions.
+\item Corporate trap: bosses reward desk time; best insight from the field.
+\end{itemize}
+
+\section*{Unit 5 -- Innovation \& Technology}\handnote{S-curve. Disrupt.}
+\begin{itemize}[leftmargin=*,nosep]
+\item \textbf{\hlpink{S-curve}}: Slow start $\to$ rapid growth $\to$ plateau $\to$ decline.
+\item \textbf{\hlpink{Disruptive innovation}}: New tech starts lower, cheaper. Improves. Overtakes old.
+\item \textbf{Innovator's dilemma}: Focus on current customers. Miss new thing. Old tech still profitable.
+\item \textbf{Kodak}: Dominant in film. Failed digital. Canon, Sony, Nikon won.\handnote{Classic case.}
+\item \textbf{iPhone}: Apple didn't invent; revolutionized. Touchscreen, size, ease.
+\item \textbf{First mover}: Advantage or disadvantage if too early.
+\item Radical innovation: often from outside established companies.
+\item \textbf{Uber}: Created new market. Disrupted taxi.
+\end{itemize}
+
+\section*{Quick revision -- Can you explain\ldots?}\handnote{Run through before exam.}
+\begin{itemize}[leftmargin=*,nosep]
+\item Value creation vs.\ capture. Porter value chain. Teece \& market access.
+\item Takeda case. BMC blocks. Product design process.
+\item Exploration vs.\ exploitation. Design thinking 5 stages.
+\item Why not ask users? Gemba, extreme users, two observers.
+\item S-curve, disruptive innovation, innovator's dilemma.
+\item Kodak, iPhone, Uber examples.
+\end{itemize}
+
+\section*{\hlpeach{Common question angles}}\handnote{Memorise these.}
+\begin{itemize}[leftmargin=*,nosep]
+\item \textbf{``Why create but not capture?''} Market access, distribution, patents, branding, scale. Takeda vs.\ Spanish research.
+\item \textbf{``Apply design thinking.''} Empathize (observe) $\to$ define $\to$ ideate $\to$ prototype $\to$ test.
+\item \textbf{``Exploration vs.\ exploitation?''} Both needed. Exploration finds; exploitation captures.
+\item \textbf{``Why did Kodak fail?''} Innovator's dilemma; invested in film; didn't adapt; competitors did.
+\end{itemize}
+
+\end{multicols}
+
+\newpage
+\vspace*{0.3em}
+\noindent\color{noteblue}
+\setlength{\parskip}{0.4em}
+\begin{multicols}{2}
+
+\textbf{Unit 1 -- Value}\\
+Creation $\neq$ capture. Need both. Market access.
+
+\textbf{Unit 2 -- BMC \& Design}\\
+Validate before build. Lean. Customer discovery.
+
+\textbf{Unit 3 -- Exploration/Exploitation}\\
+Sensing vs.\ seizing. Ambidextrous. SDLC.
+
+\textbf{Unit 4 -- Design Thinking}\\
+Observe don't ask. Gemba. Extreme users.
+
+\textbf{Unit 5 -- Innovation}\\
+S-curve. Disruptive. Kodak. Innovator's dilemma.
+
+\textbf{Common angles}\\
+Create vs capture. Design thinking. Kodak.
+
+\end{multicols}
+\vfill
+\normalsize\normalfont\color{black}
+\end{document}

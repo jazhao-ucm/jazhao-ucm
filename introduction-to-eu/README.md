@@ -19,5 +19,5 @@ This format provides a highly structured, logically organized outline that clear
 - `week-3/` - Feb 9 & 10: class notes, Seidel, Warlouzet *Reinventing Europe* chapters reading summaries (ethos, logos, pathos)
 - `week-4/` - Feb 16 & 17: class notes, Anderson *Ever Closer Union?*, Vinen *History in Fragments* reading summaries (ethos, logos, pathos)
 - `week-5/` - Feb 23 & 24: class notes, Southern enlargement, Delors, Maastricht, Schengen; Bijsmans, Gilbert, Kenny & Pearce reading summaries (ethos, logos, pathos)
-- `week-6/` - Mar 2 & 3: class notes, guest lecture (Luz Martínez Kampo) on Gibraltar, Spanish accession, border 1969–1986; Euroscepticism, Brexit, Anglosphere (Bijsmans, Kenny & Pearce)
+- `week-6/` - Mar 2 & 3: class notes, guest lecture (Luz Martínez Kampo) on Gibraltar, Spanish accession, border 1969–1986; Euroscepticism, Brexit, Anglosphere (Bijsmans, Kenny & Pearce); midterm cheat sheet (md + tex)
 - `week-7/` - Readings on EU institutions: European Council & Commission, Parliament & Council, Court of Justice, ECB & agencies, EMU, citizenship & migration, foreign policy, CAP & Green Deal, rule of law (Poland, Hungary)
