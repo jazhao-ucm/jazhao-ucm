@@ -19,4 +19,4 @@ This format provides a highly structured, logically organized outline that clear
 - `week-3/` - Feb 9 & 10: class notes, Business Strategies in International Contexts slides, EJE Industrial program
 - `week-4/` - Feb 16 & 17: class notes, Managing the Global Business Portfolio slides, Business Plan Reunidas case
 - `week-5/` - Feb 23 & 24: class notes, three scopes of activities, product scope (specialization vs. diversification), geographic internationalization, export vs. internationalization, resources & capabilities
-- `week-6/` - Mar 2 & 3: class notes, Human Resources Management chapter (Geoffrey Ditta); midterm cheat sheet (md + tex)
+- `week-6/` - Mar 2 & 3: class notes, Human Resources Management chapter (Geoffrey Ditta); midterm cheat sheet (tex)

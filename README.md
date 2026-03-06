@@ -8,6 +8,7 @@ Course notes and materials for UCM (Universidad Complutense de Madrid).
 - **`introduction-to-eu/`** – Introduction to the EU: class notes, reading summaries (Zweig, Judt, Anderson, Vinen, etc.), EU institutions, Gibraltar/accession, EMU, citizenship
 - **`management-global-markets/`** – Management in Global Markets: class notes, globalization/slowbalization, supply chains, international business strategies, global portfolio, internationalization, HR management
 - **`strategic-management/`** – Strategic Management: class notes, strategy & objectives, PEST, Five Forces, environment analysis, business cases (Madonna/Lola Flores), clusters
+- **`spanish/`** – Spanish for Beginners: midterm cheat sheet (Units 1–3), Aula Plus 1 materials, homework
 - **`jadewowgreen/`** – Project images and materials
 - **`matchaxmoxie/`** – Resume and portfolio materials
 
