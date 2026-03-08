@@ -12,6 +12,7 @@ Course notes and materials for Spanish at UCM. Instructor: Mercedes.
 ## Structure
 
 - `week-6/` — Midterm cheat sheet (tex), Aula Plus materials, homework PDFs
+- `midterm/` — Blue notes only: `blue-notes-all.tex` (margin notes from all UCM cheat sheets)
 
 ### Week 6 contents
 
