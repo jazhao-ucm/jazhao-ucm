@@ -1,164 +1,141 @@
-# Madrid · visual log
+# Moments Abroad in Madrid, Spain 🫶🇪🇸
 
-A few frames and notes from my time in the city. Streets, landmarks and everyday Madrid.  
-Madrid 2026. Personal. Not for commercial use.
-
-**Posts.** 1. Skylines, sacred spaces · 2. Gothic corners, museums · 3. Blue hour, baroque · 4. Campus, twilight · 5. Golden hour, Toledo · 6. Rooftops, night, arches · 7. Puerta del Sol · 8. This week · Locations
+Catch flights, not feelings ✈️  
+A visual notebook of Madrid’s streets, landmarks, and everyday corners.
 
 ---
 
-## 1. Skylines, sacred spaces
+## Episode 1: City Skylines & Sacred Spaces
 
-![Historic rooftops](images/uno1.jpg)
-Historic rooftops at sunset. Tiled skyline, evening light.
+![Madrid Rooftops](images/uno1.jpg)
+Madrid’s historic rooftops at sunset, a layered skyline of tiled roofs and warm evening light.
 
-![Royal Palace gates](images/uno2.jpg)
-Royal Palace of Madrid: gates framing the residence.
+![Palacio Real Gates](images/uno2.jpg)
+Ornate gates at the Royal Palace of Madrid, framing the city’s royal residence.
 
 ![Almudena Cathedral](images/uno3.jpg)
-Almudena Cathedral: façade against clear sky.
+The façade of Almudena Cathedral set against a bright Madrid sky.
 
-![Old centre street](images/uno4.jpg)
-Old centre. Narrow street, balconies, historic façades.
+![Historic Streets](images/uno4.jpg)
+A narrow street in old Madrid, lined with traditional balconies and historic façades.
 
 ---
 
-## 2. Gothic corners, museums
+## Episode 2: Gothic Corners & Grand Museums
 
-![Church entrance](images/dos1.jpg)
-Gothic church entrance near the Prado. Rain-washed afternoon.
+![Church Entrance](images/dos1.jpg)
+Gothic church entrance near the Prado Museum on a quiet, rain‑washed afternoon.
 
 ![Gran Vía](images/dos2.jpg)
-Gran Vía: main commercial avenue, traffic, lights, cinemas.
+Gran Vía, Madrid’s main commercial avenue, busy with traffic, lights and cinemas.
 
-![Cervantes monument](images/dos3.jpg)
-Plaza de España: monument to Miguel de Cervantes.
+![Cervantes Monument](images/dos3.jpg)
+Monument to Miguel de Cervantes in Plaza de España, honoring Spain’s most renowned writer.
 
 ![Prado Museum](images/dos4.jpg)
-Prado Museum: classical façade, gardens, central Madrid.
+The Prado Museum with its classical façade and surrounding gardens in central Madrid.
 
 ---
 
-## 3. Blue hour, baroque
+## Episode 3: Blue Hour & Baroque Beauty
 
-![Gran Vía at blue hour](images/tres1.jpg)
-Gran Vía at blue hour. Storefronts, wet pavement.
+![Zara at Night](images/tres1.jpg)
+Gran Vía at blue hour, storefronts and wet streets reflecting the city lights.
 
 ![Casa de la Panadería](images/tres2.jpg)
-Plaza Mayor: Casa de la Panadería, painted façade at dusk.
+Casa de la Panadería in Plaza Mayor, its painted façade illuminated at dusk.
 
-![Gran Vía architecture](images/tres3.jpg)
-Gran Vía: early 20th-century architecture, street level.
+![Gran Vía Buildings](images/tres3.jpg)
+Early 20th‑century architecture along Gran Vía, viewed from street level.
 
-![Stone memorial](images/tres4.jpg)
-Stone memorial in a quiet corner: greenery, shadow.
-
----
-
-## 4. Campus, twilight
-
-![Campus path](images/cuatro1.jpg)
-Universidad Complutense. Tree-lined path near campus.
-
-![Clock tower](images/cuatro2.jpg)
-Neighbourhood clock tower at dusk: streetlights on.
-
-![University library](images/cuatro3.jpg)
-University library: exterior, evening lighting.
-
-![Park at twilight](images/cuatro4.jpg)
-Pergola and park walkway at twilight: overcast light.
+![Memorial Monument](images/tres4.jpg)
+Stone memorial set in a quiet corner of the city, surrounded by greenery and shadow.
 
 ---
 
-## 5. Golden hour, Toledo
+## Episode 4: Campus Walks & Twilight Moments
 
-![Central Madrid](images/cinco4.jpg)
-Central Madrid at golden hour: façades in late-day sun.
+![Park Path](images/cuatro1.jpg)
+Tree‑lined path near the Universidad Complutense campus, ideal for quiet walks between classes.
 
-![Historic building](images/cinco3.jpg)
-Historic military or government building: brick, stone.
+![Clock Tower at Dusk](images/cuatro2.jpg)
+A neighborhood clock tower at dusk, as streetlights begin to turn on.
 
-![Toledo skyline](images/cinco2.jpg)
-Toledo: hilltop skyline over the river.
+![University Library](images/cuatro3.jpg)
+Exterior of a university library building, lit for evening study hours.
 
-![Toledo gateway](images/cinco1.jpg)
-Toledo: stone gateway in the old fortress walls.
+![Park at Dusk](images/cuatro4.jpg)
+Pergola and park walkway at twilight, with soft, overcast light.
 
 ---
 
-## 6. Rooftops, night, arches
+## Episode 5: Golden Hours & Medieval Magic
 
-![Rooftop sunset](images/seis1.jpg)
-Rooftop view of Madrid at sunset. Warm tones.
+![Golden Hour Streets](images/cinco4.jpg)
+Golden hour on a central Madrid street, façades glowing in late‑day sun.
 
-![Gran Vía after dark](images/seis2.jpg)
-Gran Vía after dark: illuminated signs, façades.
+![Military Building](images/cinco3.jpg)
+Historic military or government building with brick and stone detailing.
 
-![Residential courtyard](images/seis3.jpg)
-Residential courtyard, Madrid: cloudy morning.
+![Toledo Hilltop](images/cinco2.jpg)
+Panoramic view of Toledo’s hilltop skyline, overlooking the river below.
+
+![Fortress Gateway](images/cinco1.jpg)
+Stone gateway in Toledo’s old fortress walls, opening onto the historic city.
+
+---
+
+## Episode 6: Rooftops, Nights & Ancient Arches
+
+![Madrid Sunset Rooftop](images/seis1.jpg)
+Rooftop view of Madrid at sunset, with the sky transitioning into warm tones.
+
+![Gran Vía After Dark](images/seis2.jpg)
+Gran Vía after dark, illuminated signs and façades under a night sky.
+
+![Madrid Neighborhood Morning](images/seis3.jpg)
+Residential courtyard in a Madrid neighborhood on a calm, cloudy morning.
 
 ![Arco de la Victoria](images/seis4.jpg)
-Moncloa: Arco de la Victoria against clear sky.
+Arco de la Victoria at Moncloa, a monumental arch set against a clear blue sky.
 
 ---
 
-## 7. Puerta del Sol
+## Episode 7: Puerta del Sol & the City That Believes in You
 
-![Central Madrid street](images/siete1.jpg)
-Central Madrid: narrow street, hotel façades, trees.
+![Madrid Street Canyon](images/siete1.jpg)
+View up a narrow central Madrid street, framed by hotel façades and trees.
 
 ![El Oso y el Madroño](images/siete2.jpg)
-Puerta del Sol. El Oso y el Madroño, city symbol.
+El Oso y el Madroño statue in Puerta del Sol, the official symbol of Madrid.
 
 ![Real Casa de Correos](images/siete3.jpg)
-Puerta del Sol: Real Casa de Correos, clock tower at golden hour.
+Real Casa de Correos and its clock tower overlooking Puerta del Sol at golden hour.
 
-![Modern skyline](images/siete4.jpg)
-Modern skyline: EY Tower, El Corte Inglés.
-
----
-
-## 8. This week
-
-![Museo de Historia](images/ocho1.jpg)
-Museo de Historia de Madrid: Baroque façade, niche, statue, heraldic crest, salmon-pink stucco.
-
-![Control room](images/ocho2.jpg)
-Broadcast or production control room: mixing console, monitors, sound-treated space.
-
-![ALE-HOP](images/ocho3.jpg)
-ALE-HOP. Corner storefront at night, lit display, wet pavement.
-
-![Gran Vía 84](images/ocho4.jpg)
-Gran Vía 84: entrance after dark, glass doors, gold trim, sconces, lobby visible through glass.
+![Modern Madrid Skyline](images/siete4.jpg)
+Modern Madrid skyline featuring the EY Tower and El Corte Inglés building.
 
 ---
 
-## Locations
+## Locations Featured
 
-Spots in this log.
-
-ALE-HOP · Retail storefront, window displays  
-Arco de la Victoria · Triumphal arch, Moncloa  
-Catedral de la Almudena · Cathedral  
-Centro Histórico · Historic centre  
-EY Tower, El Corte Inglés · Modern business district  
-Gran Vía · Main commercial, entertainment avenue  
-Gran Vía 84 · Building entrance, Gran Vía  
-Iglesia de San Jerónimo el Real · Church near the Prado  
-Museo de Historia de Madrid · Baroque façade, Calle de Fuencarral  
-Museo del Prado · Art museum  
-Palacio Real de Madrid · Royal Palace  
-Plaza de España · Cervantes monument  
-Plaza del Callao · Rooftop views, central Madrid  
-Plaza Mayor · Central square, painted façades, arcades  
-Puerta del Sol · Kilometre zero, main square  
-Real Casa de Correos · Post office, clock tower, Puerta del Sol  
-El Oso y el Madroño · Bear, strawberry tree, city symbol  
-Toledo · Hilltop city, river views, fortifications  
-Universidad Complutense de Madrid · Campus, parks  
+Iglesia de San Jerónimo el Real · Historic church near the Prado  
+Gran Vía · Madrid's main shopping and entertainment avenue  
+Plaza de España · Iconic square with the Cervantes monument  
+Museo del Prado · World‑renowned art museum  
+Palacio Real de Madrid · The Royal Palace  
+Catedral de la Almudena · Madrid's cathedral  
+Centro Histórico · The historic city center  
+Plaza Mayor · Central square with painted façades and arcades  
+Universidad Complutense de Madrid · Campus and surrounding parks  
+Toledo · Medieval hilltop city with river views and fortifications  
+Plaza del Callao · Rooftop views over central Madrid at sunset  
+Arco de la Victoria · Triumphal arch at Moncloa with bronze quadriga  
+Puerta del Sol · Kilometer zero and one of Madrid’s main squares  
+El Oso y el Madroño · Bear and strawberry tree statue, symbol of the city  
+Real Casa de Correos · Historic post office and clock tower in Puerta del Sol  
+EY Tower & El Corte Inglés · Landmarks of Madrid’s modern business district
 
 ---
 
-Madrid, 2026. — JZ
+Madrid, you have my heart. 💃🏻
