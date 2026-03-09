@@ -117,51 +117,19 @@ Modern Madrid skyline featuring the EY Tower and El Corte Inglés building.
 
 ---
 
-## Episode 8: Markets, Metros & Morning Light
+## Episode 8: Nights Out & Hidden Gems
 
-![Mercado de San Miguel](images/ocho1.jpg)
-The iron and glass façade of Mercado de San Miguel, one of Madrid's most beloved food markets.
+![Gran Vía 84](images/ocho1.jpg)
+Gran Vía 84 ... a sleek hotel entrance glowing against the night, gold lettering and marble columns keeping watch over the avenue.
 
-![Metro Entrance](images/ocho2.jpg)
-A classic Madrid metro entrance, its tiled signage and art nouveau detailing a city staple.
+![Ale-Hop at Night](images/ocho2.jpg)
+The Ale-Hop corner store lit up after dark, its playful ferris wheel display and red balloon décor a pop of color against the stone façade.
 
-![La Latina Streets](images/ocho3.jpg)
-Sunday morning in La Latina, the old cobblestones still quiet before the El Rastro crowd arrives.
+![Broadcasting Studio](images/ocho3.jpg)
+Inside a professional broadcast control room ... mixing boards, color-bar monitors, and the quiet hum of a city telling its own story.
 
-![Breakfast Spread](images/ocho4.jpg)
-A café table set for a proper Madrid breakfast — churros, café con leche, and morning sun.
-
----
-
-## Episode 9: Parks, Palaces & Peaceful Corners
-
-![Retiro Park Lake](images/nueve1.jpg)
-The rowing lake at Parque del Retiro, rowboats drifting beneath the Alfonso XII monument.
-
-![Crystal Palace](images/nueve2.jpg)
-The Palacio de Cristal glowing in afternoon light, its iron and glass structure reflected in the pond.
-
-![Sabatini Gardens](images/nueve3.jpg)
-Formal hedgerows and fountains in the Jardines de Sabatini, framing the Royal Palace behind.
-
-![Hidden Courtyard](images/nueve4.jpg)
-A sun-drenched inner courtyard tucked behind one of Madrid's older residential streets.
-
----
-
-## Episode 10: Last Days & Lasting Impressions
-
-![Sunset from Templo de Debod](images/diez1.jpg)
-The ancient Egyptian temple of Debod silhouetted against a blazing Madrid sunset.
-
-![Final Walk on Gran Vía](images/diez2.jpg)
-One last stroll down Gran Vía with a suitcase in hand and the whole city glowing behind.
-
-![Airport Gate](images/diez3.jpg)
-Adolfo Suárez Madrid–Barajas Airport, Terminal 4 — the bittersweet threshold between here and home.
-
-![Window Seat View](images/diez4.jpg)
-Madrid shrinking below the clouds — rooftops, roundabouts, and the faint outline of the Sierra Nevada.
+![Museo de Historia de Madrid](images/ocho4.jpg)
+The churrigueresque portal of the Museo de Historia de Madrid, its intricate stone carvings erupting from a coral-pink façade under an open blue sky.
 
 ---
 
