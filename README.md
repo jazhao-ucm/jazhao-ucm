@@ -1,17 +1,17 @@
 # Moments Abroad in Madrid, Spain 🫶🇪🇸
 
 Catch flights, not feelings ✈️  
-A visual notebook of Madrid’s streets, landmarks, and everyday corners.
+A visual notebook of Madrid's streets, landmarks, and everyday corners.
 
 ---
 
 ## Episode 1: City Skylines & Sacred Spaces
 
 ![Madrid Rooftops](images/uno1.jpg)
-Madrid’s historic rooftops at sunset, a layered skyline of tiled roofs and warm evening light.
+Madrid's historic rooftops at sunset, a layered skyline of tiled roofs and warm evening light.
 
 ![Palacio Real Gates](images/uno2.jpg)
-Ornate gates at the Royal Palace of Madrid, framing the city’s royal residence.
+Ornate gates at the Royal Palace of Madrid, framing the city's royal residence.
 
 ![Almudena Cathedral](images/uno3.jpg)
 The façade of Almudena Cathedral set against a bright Madrid sky.
@@ -27,10 +27,10 @@ A narrow street in old Madrid, lined with traditional balconies and historic fa�
 Gothic church entrance near the Prado Museum on a quiet, rain‑washed afternoon.
 
 ![Gran Vía](images/dos2.jpg)
-Gran Vía, Madrid’s main commercial avenue, busy with traffic, lights and cinemas.
+Gran Vía, Madrid's main commercial avenue, busy with traffic, lights and cinemas.
 
 ![Cervantes Monument](images/dos3.jpg)
-Monument to Miguel de Cervantes in Plaza de España, honoring Spain’s most renowned writer.
+Monument to Miguel de Cervantes in Plaza de España, honoring Spain's most renowned writer.
 
 ![Prado Museum](images/dos4.jpg)
 The Prado Museum with its classical façade and surrounding gardens in central Madrid.
@@ -78,10 +78,10 @@ Golden hour on a central Madrid street, façades glowing in late‑day sun.
 Historic military or government building with brick and stone detailing.
 
 ![Toledo Hilltop](images/cinco2.jpg)
-Panoramic view of Toledo’s hilltop skyline, overlooking the river below.
+Panoramic view of Toledo's hilltop skyline, overlooking the river below.
 
 ![Fortress Gateway](images/cinco1.jpg)
-Stone gateway in Toledo’s old fortress walls, opening onto the historic city.
+Stone gateway in Toledo's old fortress walls, opening onto the historic city.
 
 ---
 
@@ -117,6 +117,22 @@ Modern Madrid skyline featuring the EY Tower and El Corte Inglés building.
 
 ---
 
+## Episode 8: Nights Out & Hidden Gems
+
+![Gran Vía 84](images/ocho1.jpg)
+Gran Vía 84 ... a sleek hotel entrance glowing against the night, gold lettering and marble columns keeping watch over the avenue.
+
+![Ale-Hop at Night](images/ocho2.jpg)
+The Ale-Hop corner store lit up after dark, its playful ferris wheel display and red balloon décor a pop of color against the stone façade.
+
+![Broadcasting Studio](images/ocho3.jpg)
+Inside a professional broadcast control room ... mixing boards, color-bar monitors, and the quiet hum of a city telling its own story.
+
+![Museo de Historia de Madrid](images/ocho4.jpg)
+The churrigueresque portal of the Museo de Historia de Madrid, its intricate stone carvings erupting from a coral-pink façade under an open blue sky.
+
+---
+
 ## Locations Featured
 
 Iglesia de San Jerónimo el Real · Historic church near the Prado  
@@ -131,10 +147,25 @@ Universidad Complutense de Madrid · Campus and surrounding parks
 Toledo · Medieval hilltop city with river views and fortifications  
 Plaza del Callao · Rooftop views over central Madrid at sunset  
 Arco de la Victoria · Triumphal arch at Moncloa with bronze quadriga  
-Puerta del Sol · Kilometer zero and one of Madrid’s main squares  
+Puerta del Sol · Kilometer zero and one of Madrid's main squares  
 El Oso y el Madroño · Bear and strawberry tree statue, symbol of the city  
 Real Casa de Correos · Historic post office and clock tower in Puerta del Sol  
-EY Tower & El Corte Inglés · Landmarks of Madrid’s modern business district
+EY Tower & El Corte Inglés · Landmarks of Madrid's modern business district  
+Mercado de San Miguel · Historic iron market near Plaza Mayor  
+La Latina · Bohemian neighborhood, home to El Rastro Sunday flea market  
+Parque del Retiro · Madrid's beloved central park and green lung  
+Palacio de Cristal · Glass and iron palace within Retiro Park  
+Jardines de Sabatini · Formal gardens bordering the Royal Palace  
+Templo de Debod · Ancient Egyptian temple gifted to Spain, iconic sunset spot  
+Adolfo Suárez Madrid–Barajas Airport · Gateway in and out of the city
+
+---
+
+## A Note from the Photographer
+
+Madrid doesn't just welcome you — it absorbs you. It gets into the rhythm of your mornings, the route of your evening walks, the way you start saying *venga* at the end of every sentence without noticing. Every episode in this notebook is a small proof of that: that a city can feel like yours even when you're only borrowing it for a season.
+
+If you ever find yourself with a one-way ticket and a half-charged camera, point it at Madrid. It will give you something worth keeping.
 
 ---
 
