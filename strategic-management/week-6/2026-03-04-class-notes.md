@@ -3,6 +3,8 @@
 
 **Focus:** Resource-based view (RBV) continued, tangible vs. intangible resources, human capital, Madonna vs. Lola Flores (economic vs. social success), sustainability of advantage.
 
+**Related:** [`SM_Unit 4 Internal Analysis 04032026.pdf`](SM_Unit%204%20Internal%20Analysis%2004032026.pdf) · [`unit-4-internal-analysis-summary.md`](unit-4-internal-analysis-summary.md) — value chain, RBV framework, SWOT.
+
 ---
 
 # Section 1: Summary (AP Level / Accessible)
