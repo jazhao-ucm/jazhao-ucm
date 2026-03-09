@@ -163,7 +163,7 @@ Adolfo Suárez Madrid–Barajas Airport · Gateway in and out of the city
 
 ## A Note from the Photographer
 
-Madrid doesn't just welcome you — it absorbs you. It gets into the rhythm of your mornings, the route of your evening walks, the way you start saying *venga* at the end of every sentence without noticing. Every episode in this notebook is a small proof of that: that a city can feel like yours even when you're only borrowing it for a season.
+Madrid doesn't just welcome you ... it absorbs you. It gets into the rhythm of your mornings, the route of your evening walks, the way you start saying *venga* at the end of every sentence without noticing. Every episode in this notebook is a small proof of that: that a city can feel like yours even when you're only borrowing it for a season.
 
 If you ever find yourself with a one-way ticket and a half-charged camera, point it at Madrid. It will give you something worth keeping.
 
