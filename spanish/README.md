@@ -2,6 +2,14 @@
 
 Course notes and materials for Spanish at UCM. Instructor: Mercedes.
 
+## File Types
+
+| Type | Format | Location |
+|------|--------|----------|
+| Study materials | LaTeX (`.tex`) | `week-6/` (study-guide, midterm-cheat-sheet, study-from-chat) |
+| Midterm cheat sheets | LaTeX (`.tex`) | `midterm/` (per-course and combined) |
+| Textbook & homework | PDF | `week-6/` (Aula Plus, CamScanner scans) |
+
 ## Course info
 
 - **Placement**: Professor Carmen Chacón (Intermediate instructor). Classroom B1.
@@ -11,12 +19,14 @@ Course notes and materials for Spanish at UCM. Instructor: Mercedes.
 
 ## Structure
 
-- `week-6/` — Midterm cheat sheet (tex), Aula Plus materials, homework PDFs
-- `midterm/` — Blue notes only: `blue-notes-all.tex` (margin notes from all UCM cheat sheets)
+- `week-6/` — Study materials (tex), Aula Plus materials, homework PDFs
+- `midterm/` — Per-course cheat sheets (`spanish-only.tex`, etc.) and combined `blue-notes-all.tex`
 
 ### Week 6 contents
 
-- `midterm-cheat-sheet.tex` — Cheat sheet for Units 1–3 (datos personales, por/para, nacionalidades, pronunciación)
+- `study-guide.tex` — EU blue theme; Units 1–3
+- `midterm-cheat-sheet.tex` — Pink/peach highlight; cheat sheet for Units 1–3 (datos personales, por/para, nacionalidades, pronunciación)
+- `study-from-chat.tex` — Additional study material
 - `au_plus_1_proyectable_u02.pdf`, `au_plus_1_proyectable_u03.pdf` — Unit 2 & 3 slides
 - `au_plus_1_u01_fichas-inmersion.pdf`, `au_plus_1_u01_fichas-trabajo.pdf` — Unit 1 immersion & work worksheets
 - `au_plus_1_transcripcion_u03.pdf` — Unit 3 transcriptions
