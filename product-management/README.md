@@ -8,7 +8,7 @@ Course notes and materials for Product Management at UCM.
 |------|--------|----------|
 | Class notes | Markdown (`.md`) | Each week folder |
 | Memos / assignments | Markdown (`.md`) | Week folders (e.g. `piano-process-design-memo.md`) |
-| Study materials | LaTeX (`.tex`) | `week-6/` (study-guide, midterm-cheat-sheet) |
+| Study materials | LaTeX (`.tex`) | `week-6/` (study-guide, midterm-cheat-sheet). Compile: `pdflatex filename.tex` |
 | Readings & slides | PDF, DOCX | Week folders |
 
 ## Note-Taking Format

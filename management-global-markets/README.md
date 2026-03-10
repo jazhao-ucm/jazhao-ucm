@@ -7,8 +7,8 @@ Course notes and materials for Management in Global Markets at UCM.
 | Type | Format | Location |
 |------|--------|----------|
 | Class notes | Markdown (`.md`) | Each week folder |
-| Study materials | LaTeX (`.tex`) | `week-6/` (study-guide, midterm-cheat-sheet) |
-| Business plans | LaTeX (`.tex`) | `week-7/` (business-plan-guide, business-plan-tierra-bar) |
+| Study materials | LaTeX (`.tex`) | `week-6/` (study-guide, midterm-cheat-sheet). Compile: `pdflatex filename.tex` |
+| Business plans | LaTeX (`.tex`) | `week-7/` (business-plan-guide, business-plan-tierra-bar). Compile: `pdflatex filename.tex` |
 | Slides & readings | PDF, DOCX | Week folders |
 
 ## Note-Taking Format

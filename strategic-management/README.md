@@ -8,7 +8,7 @@ Course notes and materials for Strategic Management at UCM.
 |------|--------|----------|
 | Class notes | Markdown (`.md`) | Each week folder |
 | Unit summaries | Markdown (`.md`) | Week folders (e.g. `unit-1-strategy-summary.md`) |
-| Study materials | LaTeX (`.tex`) | `week-6/` (study-guide, midterm-cheat-sheet) |
+| Study materials | LaTeX (`.tex`) | `week-6/` (study-guide, midterm-cheat-sheet). Compile: `pdflatex filename.tex` |
 | Slides & readings | PDF, DOCX | Week folders |
 
 ## Note-Taking Format

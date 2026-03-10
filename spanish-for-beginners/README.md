@@ -1,14 +1,24 @@
 # Spanish for Beginners
 
-Course notes and materials for Spanish at UCM. Instructor: Mercedes.
+Course notes and materials for Spanish for Beginners at UCM. Instructor: Mercedes.
 
 ## File Types
 
 | Type | Format | Location |
 |------|--------|----------|
-| Study materials | LaTeX (`.tex`) | `week-6/` (study-guide, midterm-cheat-sheet, study-from-chat) |
-| Midterm cheat sheets | LaTeX (`.tex`) | `midterm/` (per-course and combined) |
+| Class notes | Markdown (`.md`) | Each week folder |
+| Study materials | LaTeX (`.tex`) | `week-6/` (study-guide, midterm-cheat-sheet, study-from-chat). Compile: `pdflatex filename.tex` |
 | Textbook & homework | PDF | `week-6/` (Aula Plus, CamScanner scans) |
+
+*Midterm cheat sheets for all 5 UCM courses are in `ucm-midterm/` at the repo root (spanish-only.tex, blue-notes-all.tex, etc.).*
+
+## Note-Taking Format
+
+All class notes follow the **Formal Outline Note Taking System** format:
+- **Roman numerals (I, II, III, IV, V, etc.)** for main topics
+- **Capital letters (A, B, C, D, etc.)** for subheadings
+- **Arabic numerals (1, 2, 3, etc.)** for supporting details
+- **Lowercase letters (a, b, c, etc.)** for nested sub-details
 
 ## Course info
 
@@ -19,8 +29,12 @@ Course notes and materials for Spanish at UCM. Instructor: Mercedes.
 
 ## Structure
 
-- `week-6/` — Study materials (tex), Aula Plus materials, homework PDFs
-- `midterm/` — Per-course cheat sheets (`spanish-only.tex`, etc.) and combined `blue-notes-all.tex`
+- `week-1/` — Jan 28–29: Course intro, Unit 1 start (preguntas, ser/tener/llamarse, números)
+- `week-2/` — Feb 4–5: Unit 1 (números 0–50, nacionalidades, profesiones, 5 lenguas de España)
+- `week-3/` — Feb 12: Unit 2 (por/para/porque, actividades para aprender)
+- `week-4/` — Feb 18–19: Unit 3 (C o qu, pronunciación Carlos/García/Javier/Celia, presente)
+- `week-5/` — Feb 25–26: Unit 3 (listening, vocabulario, exam tips)
+- `week-6/` — Mar 4: Midterm prep; study materials (tex); Aula Plus materials
 
 ### Week 6 contents
 

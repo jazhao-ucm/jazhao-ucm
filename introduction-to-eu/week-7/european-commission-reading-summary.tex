@@ -1,6 +1,6 @@
 % The European Commission – Reading Summary
 % Introduction to the European Union, Week 7
-% Compile: pdflatex european-commission-reading-summary.tex
+% Compile with: pdflatex european-commission-reading-summary.tex
 
 \documentclass[11pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
@@ -8,12 +8,21 @@
 \usepackage[margin=2.5cm]{geometry}
 \usepackage{booktabs}
 \usepackage{enumitem}
+\setlist{nosep,leftmargin=*}
 \usepackage{parskip}
+\usepackage{microtype}
 \usepackage{hyperref}
 \usepackage{xcolor}
 \definecolor{eublue}{RGB}{0,51,153}
 
-\hypersetup{colorlinks=true, linkcolor=eublue, urlcolor=eublue}
+\hyphenation{Spitzenkandidat Spitzenkandidaten}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=eublue,
+  urlcolor=eublue,
+  pdftitle={European Commission – Reading Summary},
+  pdfauthor={Introduction to the EU, UCM}
+}
 
 \begin{document}
 
@@ -44,7 +53,7 @@
 
 \section*{Bibliographic Information}
 
-\begin{itemize}[nosep,leftmargin=*]
+\begin{itemize}
 \item \textbf{Source:} European Parliament Fact Sheets on the European Union
 \item \textbf{Fact Sheet:} ``The European Commission'' (Sheet 25)
 \item \textbf{Authors:} Joanna Apap / Christophe Beaudouin (Policy Department for Justice, Civil Liberties and Institutional Affairs)
@@ -56,7 +65,7 @@
 \subsection*{I. Core Role}
 
 The Commission is the EU's \textbf{principal executive body} with:
-\begin{itemize}[nosep,leftmargin=*]
+\begin{itemize}
 \item \textbf{Quasi-exclusive right of legislative initiative} --- proposes legislation
 \item \textbf{Guardian of the Treaties} --- enforces EU law
 \item \textbf{Manager} --- policies, budget, international agreements
@@ -65,7 +74,7 @@ The Commission is the EU's \textbf{principal executive body} with:
 
 \subsection*{II. History}
 
-\begin{itemize}[nosep,leftmargin=*]
+\begin{itemize}
 \item \textbf{1951:} High Authority (ECSC) --- Jean Monnet model
 \item \textbf{1957:} Separate Commissions for EEC and Euratom
 \item \textbf{1965:} Merger Treaty --- single Commission of the European Communities
@@ -75,7 +84,7 @@ The Commission is the EU's \textbf{principal executive body} with:
 
 \subsection*{III. Composition (2024--2029)}
 
-\begin{itemize}[nosep,leftmargin=*]
+\begin{itemize}
 \item \textbf{27 members:} 1 per Member State (Lisbon allows reduction to 2/3 of states, not yet applied)
 \item \textbf{Structure:} President + 5 Executive Vice-Presidents + VP/HR (High Representative) + 20 Commissioners
 \item \textbf{Appointment:} European Council proposes president (QMV) $\to$ Parliament elects $\to$ Council adopts list of Commissioners (with president-elect) $\to$ Parliament votes consent as body $\to$ European Council appoints
@@ -84,7 +93,7 @@ The Commission is the EU's \textbf{principal executive body} with:
 
 \subsection*{IV. Accountability}
 
-\begin{itemize}[nosep,leftmargin=*]
+\begin{itemize}
 \item \textbf{Personal:} Commissioners must be independent; no other occupation; no instructions from governments (Art. 245 TFEU)
 \item \textbf{Collective:} Motion of censure by Parliament $\to$ entire Commission resigns (Art. 234 TFEU). 16 motions tabled since 1972; none adopted
 \item \textbf{Compulsory retirement:} Court of Justice may remove Commissioner for breach or serious misconduct (Art. 247 TFEU)
@@ -95,34 +104,34 @@ The Commission is the EU's \textbf{principal executive body} with:
 \subsection*{I. Power of Initiative}
 
 \textbf{A. Legislative}
-\begin{itemize}[nosep,leftmargin=*]
+\begin{itemize}
 \item Proposes regulations and directives
 \item Decision-making institutions (Parliament + Council) cannot adopt without a proposal; must base decision on proposal as presented
 \end{itemize}
 
 \textbf{B. Budgetary}
-\begin{itemize}[nosep,leftmargin=*]
+\begin{itemize}
 \item Draws up draft budget (Art. 314 TFEU)
 \item Own Resources Decision: Commission proposes; Council adopts unanimously after consulting Parliament
 \item Receives estimates from all institutions and agencies; proposes contributions
 \end{itemize}
 
 \textbf{C. International}
-\begin{itemize}[nosep,leftmargin=*]
+\begin{itemize}
 \item Negotiates agreements (Arts. 207, 218 TFEU) when Council gives mandate
 \item Withdrawal (Art. 50): Commission submits recommendations on opening negotiations
 \end{itemize}
 
 \subsection*{II. Guardian of the Treaties}
 
-\begin{itemize}[nosep,leftmargin=*]
+\begin{itemize}
 \item Ensures Treaties and secondary legislation are enforced
 \item \textbf{Infringement procedure} (Art. 258 TFEU): Commission may bring Member State before Court of Justice for failure to fulfil obligations
 \end{itemize}
 
 \subsection*{III. Implementing Powers}
 
-\begin{itemize}[nosep,leftmargin=*]
+\begin{itemize}
 \item \textbf{Competition:} Enforces rules; reviews State aid (Art. 108 TFEU)
 \item \textbf{Budget:} Implements adopted budget; manages EU funds
 \item \textbf{Crisis management:} Manages financial rescue packages; ESM voting procedure (with ECB)
@@ -132,14 +141,14 @@ The Commission is the EU's \textbf{principal executive body} with:
 
 \subsection*{IV. Limited Initiative (Recommendations/Opinions)}
 
-\begin{itemize}[nosep,leftmargin=*]
+\begin{itemize}
 \item \textbf{EMU:} European Semester assessments; exchange-rate recommendations; excessive deficit procedure; balance-of-payments assistance
 \item \textbf{CFSP:} Supports VP/HR in submitting decisions to Council (Art. 30 TEU)
 \end{itemize}
 
 \section*{Organisation}
 
-\begin{itemize}[nosep,leftmargin=*]
+\begin{itemize}
 \item \textbf{President:} Political guidance; internal organisation; allocates portfolios; appoints Vice-Presidents (with College approval)
 \item \textbf{41 Directorates-General (DGs)} + Secretariat-General
 \item \textbf{6 executive agencies} (e.g.\ Research, Climate, Health, Innovation, Education)
@@ -148,7 +157,7 @@ The Commission is the EU's \textbf{principal executive body} with:
 
 \section*{Relations with Parliament}
 
-\begin{itemize}[nosep,leftmargin=*]
+\begin{itemize}
 \item \textbf{Principal interlocutor} in legislative and budgetary matters
 \item \textbf{Discharge:} Parliament grants discharge to Commission (Art. 319 TFEU)
 \item \textbf{Hearings:} Commissioners-designate subject to Parliament hearings; specific commitments tracked
@@ -158,7 +167,7 @@ The Commission is the EU's \textbf{principal executive body} with:
 
 \section*{Context \& Analysis}
 
-\begin{itemize}[nosep,leftmargin=*]
+\begin{itemize}
 \item \textbf{Supranational core:} Commission embodies supranational logic --- acts in general interest, not national instructions
 \item \textbf{Dual accountability:} To European Council (strategic) and Parliament (democratic)
 \item \textbf{Expansion of roles:} From High Authority (coal/steel) to full policy range; agencies spun off; VP/HR double-hatted with Council
@@ -167,7 +176,7 @@ The Commission is the EU's \textbf{principal executive body} with:
 
 \section*{Relevance to Course}
 
-\begin{itemize}[nosep,leftmargin=*]
+\begin{itemize}
 \item \textbf{6th Session:} The Twin Executive --- Commission as one half of dual executive
 \item \textbf{Institutional triangle:} Commission proposes; Parliament and Council decide
 \item \textbf{Supranationalism:} Commission as engine of integration vs.\ intergovernmental Council/European Council
@@ -176,12 +185,15 @@ The Commission is the EU's \textbf{principal executive body} with:
 
 \section*{Discussion Questions}
 
-\begin{enumerate}[nosep,leftmargin=*]
+\begin{enumerate}
 \item Should the Commission be reduced to 18 members (2/3 of Member States) as Lisbon allows? What are the trade-offs?
 \item How effective is Parliament's scrutiny of the Commission (hearings, censure, discharge)? Why have no motions of censure succeeded?
 \item What is the significance of the Commission's ``quasi-exclusive'' right of initiative? How does it shape EU law-making?
 \item How does the VP/HR's double role (Commission + Council/EEAS) affect the Commission's coherence in external relations?
 \item Should the Commission have a dedicated Law Officer and Treasury Secretary, as reform proposals suggest?
 \end{enumerate}
+
+\vspace{1em}
+\noindent\footnotesize\textit{Introduction to the European Union, Universidad Complutense de Madrid.}
 
 \end{document}

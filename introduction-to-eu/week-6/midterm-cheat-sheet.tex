@@ -11,12 +11,14 @@
 \setlist{nosep,leftmargin=*}
 \usepackage{booktabs}
 \usepackage{parskip}
+\usepackage{microtype}
 \usepackage{xcolor}
 \usepackage{soul}
 \usepackage{fancyhdr}
 \definecolor{lightpink}{RGB}{255,182,193}
 \definecolor{lightpeach}{RGB}{255,218,185}
 \definecolor{noteblue}{RGB}{173,216,230}
+\definecolor{notegrey}{RGB}{90,90,90}
 \newcommand{\handnote}[1]{\marginnote{\raggedright\footnotesize\color{noteblue}#1\vspace{0.4em}}}
 \newcommand{\hlpink}[1]{\sethlcolor{lightpink}\hl{#1}\sethlcolor{lightpeach}}
 \newcommand{\hlpeach}[1]{\sethlcolor{lightpeach}\hl{#1}}
@@ -25,8 +27,9 @@
 \setlength{\columnsep}{0.5em}
 \pagestyle{fancy}
 \fancyhf{}
-\fancyfoot[R]{\raisebox{0.8em}{\thepage}}
-\fancypagestyle{plain}{\fancyhf{}\fancyfoot[R]{\raisebox{0.8em}{\thepage}}}
+\fancyfoot[L]{\raisebox{0.8em}{\small\color{notegrey} Intro EU}}
+\fancyfoot[R]{\raisebox{0.8em}{\small\color{notegrey}\thepage}}
+\fancypagestyle{plain}{\fancyhf{}\fancyfoot[L]{\raisebox{0.8em}{\small\color{notegrey} Intro EU}}\fancyfoot[R]{\raisebox{0.8em}{\small\color{notegrey}\thepage}}}
 \raggedright
 
 \begin{document}

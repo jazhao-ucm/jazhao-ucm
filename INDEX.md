@@ -24,7 +24,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 2 | Feb 2–3 | Judt, Krawatzek & Pestel |
 | 3 | Feb 9–10 | Seidel, Warlouzet *Reinventing Europe* |
 | 4 | Feb 16–17 | Anderson, Vinen |
-| 5 | Feb 23–24 | Southern enlargement, Delors, Maastricht, Bijsmans, Gilbert |
+| 5 | Feb 23–24 | Southern enlargement, Delors, Maastricht, Bijsmans, Gilbert, Kenny & Pearce |
 | 6 | Mar 2–3 | Gibraltar, Spanish accession, Euroscepticism, Brexit |
 | 7 | Mar 9 | EU institutions readings |
 | 8 | — | EU institutions by session (6th–13th) |
@@ -56,12 +56,19 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 
 ---
 
-## Spanish
-- `week-6/` — Midterm cheat sheet, Aula Plus materials
-- `midterm/` — Blue notes (all UCM cheat sheets)
+## Spanish for Beginners
+| Week | Dates | Topics |
+| ---- | ----- | ------ |
+| 1 | Jan 28–29 | Course intro, Unit 1 (preguntas, ser/tener/llamarse) |
+| 2 | Feb 4–5 | Números, nacionalidades, profesiones, 5 lenguas España |
+| 3 | Feb 12 | Por/para/porque, actividades para aprender |
+| 4 | Feb 18–19 | C o qu, pronunciación, presente |
+| 5 | Feb 25–26 | Listening, vocabulario, exam tips |
+| 6 | Mar 4 | Midterm prep, Aula Plus materials |
 
 ---
 
 ## Other
+- **ucm-midterm/** — One-page cheat sheets for all 5 courses (spanish-only, intro-eu-only, etc., blue-notes-all combined)
 - **jadewowgreen/** — Project images
 - **matchaxmoxie/** — Resume and portfolio
