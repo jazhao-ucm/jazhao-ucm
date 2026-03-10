@@ -1,7 +1,7 @@
 # Product Management - Class Notes
 ## March 10, 2026 - Week 7
 
-**Focus:** Manufacturing process design — six dimensions (lot size, equipment, skills, scheduling, product range, inventory). Trade-offs between bespoke/quality vs. speed. Exercise: compare two piano manufacturing videos (traditional craftsman vs. Yamaha factory).
+**Focus:** Manufacturing process design — six dimensions (lot size, equipment, skills, scheduling, product range, inventory). Trade-off: bespoke/quality vs. speed. Exercise: compare two piano manufacturing videos (traditional craftsman vs. Yamaha factory).
 
 ---
 
@@ -10,11 +10,12 @@
 *Use this section first. Plain language. Short sentences.*
 
 ## Key Words
+
 - **Lot size / batch size** = How many units you produce at once. Large = economies of scale. Small = differentiation.
-- **General-purpose equipment** = Flexible machines that can do many tasks. Lower fixed cost.
-- **Specific-purpose equipment** = Machines built for one process only. High fixed cost. Need high volume to justify.
-- **Make-to-order** = Produce only when customer orders. Flexible. Higher customization.
-- **Make-to-stock** = Produce in advance. Standardized. Inventory ready for sale.
+- **General-purpose equipment** = Not made for one specific process. Can be used for different production processes. Flexible. Lower fixed investment.
+- **Specific-purpose equipment** = Designed specifically for that product/process. Cannot be used for other products. High fixed investment. Need many units to justify (e.g., $10M).
+- **Make-to-order** = Produce when order comes in. Flexible. Changes from order to order.
+- **Make-to-stock** = Produce in advance. Standardized. Assembly line: same speed for all units.
 
 ## Main Ideas (Simple Version)
 
@@ -31,31 +32,32 @@
    - Inventory (high vs. low)
 
 3. **Large batches = economies of scale.**
-   - Lower unit cost.
+   - Lower unit cost (fixed cost spread over many units).
    - Can compete on price.
-   - Need specific-purpose equipment, high fixed investment.
+   - Need specific-purpose equipment. If you spend $10M on specific equipment, you need many units to justify it.
 
 4. **Small batches = differentiation.**
-   - Hard to compete on price.
-   - Focus on product, branding, customization.
-   - General-purpose equipment, lower fixed cost.
+   - Economies of scale difficult. Cannot compete on price.
+   - Must compete on product, branding, customization.
+   - General-purpose equipment, lower fixed investment.
 
 5. **Higher skills = higher wages.**
-   - Specialized worker who knows one process well vs. generalist who knows many.
-   - Pay more for depth of knowledge in one area.
+   - Worker who knows the whole craft — how to build, how to design, how to sign the rights — gets higher wages.
+   - Worker who knows a bit of many processes: lower wages. Used when cost is priority.
 
 6. **Make-to-order when demand is uncertain.**
    - Restaurants: we don't know how many customers or what they'll order.
-   - Make-to-order avoids overproduction and waste.
+   - Keeps people employed but we don't know exact demand — make-to-order avoids overproduction.
 
 7. **In-class exercise: two piano videos.**
-   - Video 1: Spanish traditional craftsman — small batch, general tools, high artisan skill.
-   - Video 2: Yamaha Japan — assembly line, conveyor belts, standardized, large volume.
-   - Fill in a table for each video: lot size, equipment, skills, scheduling, product range, inventory.
+   - Video 1: Spanish traditional craftsman — wood, frames, intricate details; small batch; general tools; high artisan skill; one person does many steps; "sounds the most high."
+   - Video 2: Yamaha Japan — "chairs moving" (conveyor belts); assembly line; same speed for all units; standardized; many workers each specialized; many machines.
+   - Fill in table: lot size, equipment, skills, scheduling, product range, inventory.
 
 8. **Why so many machines in the factory?**
-   - To support high volume and standardization.
-   - Each station does one task. Many units in process at once.
+   - To produce many units. Each station does one task. Standardization allows scale.
+
+9. **Reality:** Most manufacturing processes are hybrids. Not perfect types. Use the framework to describe where a process sits.
 
 ---
 
@@ -64,9 +66,9 @@
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
 | Appeal | In this lecture |
-|--------|-----------------|
-| **Ethos** | Manufacturing frameworks; real piano factories (Spain, Japan, Kansas) |
-| **Logos** | Six dimensions of process design; trade-off logic (batch size ↔ equipment ↔ cost) |
+| ------ | ---------------- |
+| **Ethos** | Manufacturing frameworks; real piano factories (Spain, Japan, Kansas/Steinway) |
+| **Logos** | Six dimensions; trade-off logic (batch size ↔ equipment ↔ cost) |
 | **Pathos** | "Why seaboard important?" — wood, craft, sound quality; tension between craft and scale |
 
 ---
@@ -81,6 +83,7 @@ A. Purpose
 B. Framework
 - Six dimensions to describe and compare any production process.
 - Use these to analyze goods, computers, pianos, etc.
+- In real life, most manufacturing processes are hybrids — not perfect types.
 
 ---
 
@@ -145,7 +148,6 @@ C. Trade-off
 
 A. Relevance
 - Critical for fast food, deliveries, make-to-order businesses.
-- How do we schedule production?
 
 B. Make-to-order
 - Produce when order comes in.
@@ -239,16 +241,17 @@ B. Video 1: Traditional craftsman (Spain)
    5. One person does many steps.
    6. Make-to-order feel.
    7. Sound quality emphasized ("sounds the most high").
+   8. "Why seaboard important?" — wood, craft, sound.
 
 C. Video 2: Yamaha factory (Japan)
    1. Assembly line.
-   2. "Chairs moving" — conveyor belt.
-   3. Same speed for all units.
-   4. Standardization of process.
+   2. "Chairs moving" — conveyor belts carrying units through.
+   3. Same speed for all units through the process.
+   4. Standardization of the process for all units.
    5. Many workers, each specialized.
    6. Large batch.
    7. Specific-purpose equipment.
-   8. Many machines — to support high volume.
+   8. Many machines — to produce many units.
 
 D. Key question: Why so many machines in the factory?
 - To produce many units.
@@ -260,8 +263,8 @@ E. Contrast
 - Factory: speed, standardization, large scale.
 
 F. Geographic comparison (from class discussion)
-- Spanish craftsman: traditional, small batch.
-- American (e.g., Kansas — Steinway): different approach.
+- Spanish craftsman: traditional, small batch, general-purpose.
+- American (e.g., Steinway in Kansas): different approach.
 - Japanese (Yamaha): assembly line, standardization.
 - Same product (pianos), different process configurations.
 
@@ -278,4 +281,4 @@ F. Geographic comparison (from class discussion)
 
 ---
 
-*Note: These notes were reconstructed from a voice transcription. Some details may be incomplete or approximate. Refer to class materials and slides for accuracy.*
+*Note: These notes were reconstructed from a voice transcription of the March 10, 2026 lecture. Some details may be incomplete or approximate. Refer to class materials and slides for accuracy.*

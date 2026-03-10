@@ -9,7 +9,7 @@
 
 ## I. Purpose
 
-One of the key decisions in product design is **how to manufacture**. This memo compares two piano manufacturing processes—a traditional Spanish craftsman and the Yamaha factory in Japan—using the six dimensions of manufacturing process design. The analysis illustrates the central trade-off: **bespoke/quality vs. speed**. Manufacturing choices affect cost, flexibility, and competitive position.
+One of the key decisions in product design is **how to manufacture**. In manufacturing, the main trade-off is **bespoke/quality vs. speed**. This memo compares two piano manufacturing processes—a traditional Spanish craftsman and the Yamaha factory in Japan—using the six dimensions of manufacturing process design. Manufacturing choices affect cost, flexibility, and competitive position.
 
 ---
 
@@ -26,7 +26,7 @@ Process design involves trade-offs across six dimensions. You cannot optimize ev
 | **Product range** | Broad variety; customized | Limited standard models |
 | **Inventory** | Low finished goods; mainly WIP per order | High raw + WIP + finished goods |
 
-**Key logic from class:** Large batches require specific-purpose equipment (e.g., $10M investment) and many units to justify cost. Small batches use general-purpose equipment and compete on product, branding, and customization—not price. Make-to-order suits uncertain demand; make-to-stock suits predictable demand.
+**Key logic from class:** If you spend $10M on specific-purpose equipment, you need many units to justify it. General-purpose equipment has lower fixed investment. Specific-purpose is linked to large batch sizes. Make-to-order suits uncertain demand (e.g., restaurants); make-to-stock suits predictable demand.
 
 ---
 
@@ -35,9 +35,9 @@ Process design involves trade-offs across six dimensions. You cannot optimize ev
 | Dimension | Video 1: Traditional Craftsman (Spain) | Video 2: Yamaha Factory (Japan) |
 | --------- | -------------------------------------- | ------------------------------- |
 | **Lot size** | Small batch; almost one-by-one | Large batch; high volume |
-| **Equipment** | General-purpose woodworking tools; usable across processes | Specific-purpose machines; assembly line; conveyor belts (“chairs moving”) |
+| **Equipment** | General-purpose woodworking tools; usable across processes | Specific-purpose machines; assembly line; conveyor belts ("chairs moving") |
 | **Skills** | Very high artisan skill; one person does many steps; intricate woodwork; deep craft knowledge | Specialized workers; each does one task; standardized process |
-| **Scheduling** | Make-to-order feel; flexible | Assembly line; same speed for all units; standardized flow |
+| **Scheduling** | Make-to-order feel; flexible | Assembly line; same speed for all units through the process; standardized flow |
 | **Product range** | High variety; customized; wood, frames, intricate details | Limited standard models |
 | **Inventory** | Low finished goods; mainly WIP per order | High raw + WIP; many units in process |
 
@@ -46,16 +46,16 @@ Process design involves trade-offs across six dimensions. You cannot optimize ev
 ## IV. Key Observations from the Videos
 
 A. **Video 1 (Spanish craftsman)**  
-   Wood, frames, and intricate details. One craftsman or small team handles many steps—from design to build to signing. General-purpose tools, high artisan skill, flexible scheduling. Sound quality emphasized (“sounds the most high”). Suited to differentiation and premium positioning. Cannot compete on price; must compete on product and craftsmanship.
+   Wood, frames, and intricate details. One craftsman or small team handles many steps—from design to build to signing. General-purpose tools, high artisan skill, flexible scheduling. Sound quality emphasized ("sounds the most high"). "Why seaboard important?" — wood, craft, and sound are central. Suited to differentiation and premium positioning. Cannot compete on price; must compete on product and craftsmanship. More intricate details require more knowledge of the craft.
 
 B. **Video 2 (Yamaha Japan)**  
-   Assembly line with “chairs moving”—conveyor belts carrying units through the factory. Same speed for all units. Many workers, each specialized. Specific-purpose equipment; many machines to support high volume. Economies of scale; suited to cost and availability. Standardization allows scale.
+   Assembly line with "chairs moving"—conveyor belts carrying units through the factory. Same speed for all units. Standardization of the process for all units through. Many workers, each specialized. Specific-purpose equipment; many machines to support high volume. Economies of scale; suited to cost and availability.
 
 C. **Why so many machines in the factory?**  
    To produce many units. Each station does one task repeatedly. Standardization allows scale. Many units in process at once.
 
 D. **Geographic context (from class)**  
-   Same product (pianos), different process configurations. Spanish craftsman: traditional, small batch. American (e.g., Steinway in Kansas): different approach. Japanese (Yamaha): assembly line, standardization. The framework explains why.
+   Same product (pianos), different process configurations. Spanish craftsman: traditional, small batch, general-purpose. American (e.g., Steinway in Kansas): different approach. Japanese (Yamaha): assembly line, standardization. The framework explains why.
 
 ---
 
@@ -68,4 +68,4 @@ D. **Geographic context (from class)**
 
 ## VI. Conclusion
 
-The Spanish craftsman and Yamaha factory represent opposite ends of the process-design spectrum: flexibility and quality vs. speed and standardization. In reality, most factories are hybrids—use the framework to analyze where a process sits, not to label it perfectly. A firm’s choices across lot size, equipment, skills, scheduling, product range, and inventory should align with its strategic position.
+The Spanish craftsman and Yamaha factory represent opposite ends of the process-design spectrum: flexibility and quality vs. speed and standardization. In reality, most manufacturing processes are hybrids—use the framework to analyze where a process sits, not to label it perfectly. A firm's choices across lot size, equipment, skills, scheduling, product range, and inventory should align with its strategic position.

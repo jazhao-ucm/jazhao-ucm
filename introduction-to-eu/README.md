@@ -20,4 +20,5 @@ This format provides a highly structured, logically organized outline that clear
 - `week-4/` - Feb 16 & 17: class notes, Anderson *Ever Closer Union?*, Vinen *History in Fragments* reading summaries (ethos, logos, pathos)
 - `week-5/` - Feb 23 & 24: class notes, Southern enlargement, Delors, Maastricht, Schengen; Bijsmans, Gilbert, Kenny & Pearce reading summaries (ethos, logos, pathos)
 - `week-6/` - Mar 2 & 3: class notes, guest lecture (Luz Martínez Kampo) on Gibraltar, Spanish accession, border 1969–1986; Euroscepticism, Brexit, Anglosphere (Bijsmans, Kenny & Pearce); midterm cheat sheet (tex)
-- `week-7/` - Readings on EU institutions: European Council & Commission, Parliament & Council, Court of Justice, ECB & agencies, EMU, citizenship & migration, foreign policy, CAP & Green Deal, rule of law (Poland, Hungary)
+- `week-7/` - Mar 9: class notes; readings on EU institutions (European Council & Commission, Parliament & Council, Court of Justice, ECB & agencies, EMU, citizenship & migration, foreign policy, CAP & Green Deal, rule of law)
+- `week-8/` - EU institutions by session: Twin Executive, Legislative, Judiciary, ECB & agencies, EMU, Identity & Membership, Foreign & Security Policy, CAP & Green Deal

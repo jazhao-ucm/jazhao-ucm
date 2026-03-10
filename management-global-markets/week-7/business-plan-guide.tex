@@ -11,6 +11,10 @@
 \usepackage{parskip}
 \usepackage{booktabs}
 \usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{microtype}
+\hyphenation{study-abroad}
+\hyphenation{work-cafe}
 \definecolor{eublue}{RGB}{0,51,153}
 \definecolor{charcoal}{RGB}{51,51,51}
 \definecolor{notegrey}{RGB}{90,90,90}
@@ -22,6 +26,15 @@
 \fancyfoot[C]{\small\textcolor{sectionblue}{\thepage}}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=sectionblue,
+  urlcolor=sectionblue,
+  pdftitle={CaféOlé! Clubworking Business Plan},
+  pdfauthor={Chloe Borders, Ava Pelz, Jade Zhao},
+  pdfsubject={Global Management}
+}
 
 \begin{document}
 
@@ -66,22 +79,22 @@ All logos, branding systems, mockups, marketing materials, and design concepts i
 % ========== TABLE OF CONTENTS (like PDF) ==========
 \section*{\color{sectionblue}Table of Contents}
 \begin{itemize}[leftmargin=*,nosep]
-\item \textcolor{charcoal}{Introduction to Caf\'eOl\'e! Clubworking}
-\item \textcolor{charcoal}{Executive Summary}
-\item \textcolor{charcoal}{Company Description}
-\item \textcolor{charcoal}{Business Model Canvas}
-\item \textcolor{charcoal}{PESTLE Analysis}
-\item \textcolor{charcoal}{SWOT Analysis}
-\item \textcolor{charcoal}{Economic and Social Analysis}
-\item \textcolor{charcoal}{Competitive Analysis}
-\item \textcolor{charcoal}{Strategic Plan}
-\item \textcolor{charcoal}{Contingency Plan}
-\item \textcolor{charcoal}{Marketing Plan}
+\item \hyperref[sec:intro]{\textcolor{charcoal}{Introduction to Caf\'eOl\'e! Clubworking}}
+\item \hyperref[sec:exec]{\textcolor{charcoal}{Executive Summary}}
+\item \hyperref[sec:company]{\textcolor{charcoal}{Company Description}}
+\item \hyperref[sec:bmc]{\textcolor{charcoal}{Business Model Canvas}}
+\item \hyperref[sec:pestle]{\textcolor{charcoal}{PESTLE Analysis}}
+\item \hyperref[sec:swot]{\textcolor{charcoal}{SWOT Analysis}}
+\item \hyperref[sec:economic]{\textcolor{charcoal}{Economic and Social Analysis}}
+\item \hyperref[sec:competition]{\textcolor{charcoal}{Competitive Analysis}}
+\item \hyperref[sec:strategy]{\textcolor{charcoal}{Strategic Plan}}
+\item \hyperref[sec:contingency]{\textcolor{charcoal}{Contingency Plan}}
+\item \hyperref[sec:marketing]{\textcolor{charcoal}{Marketing Plan}}
 \end{itemize}
 \newpage
 
 % ========== INTRODUCTION (like PDF - prose format) ==========
-\section*{\color{sectionblue}Introduction to Caf\'eOl\'e! Clubworking}
+\section*{\color{sectionblue}Introduction to Caf\'eOl\'e! Clubworking}\label{sec:intro}
 
 Caf\'eOl\'e! is an existing work cafe located in Chamber\'i, Madrid. It is an environment that provides features such as wifi, private workspaces, networking events, and affordable snacks and drinks for customers. Customers can either reserve a space online at the cafe or walk in. For five euros per hour, customers can work at the cafe and get unlimited coffee and snacks for as long as they pay. If they want to purchase a day pass, it is 25 euros, which includes Caf\'eOl\'e!'s perks for the entire day.
 
@@ -98,7 +111,7 @@ A competitive advantage of this improvement is a work cafe with students as thei
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
 % ========== EXECUTIVE SUMMARY (approx. 1 page) ==========
-\section*{\color{sectionblue}Executive Summary}
+\section*{\color{sectionblue}Executive Summary}\label{sec:exec}
 
 Caf\'eOl\'e! is an existing work cafe located in Chamber\'i, Madrid. It provides features such as wifi, private workspaces, networking events, and affordable snacks and drinks for customers. Customers can either reserve a space online at the cafe or walk in. For five euros per hour, customers can work at the cafe and get unlimited coffee and snacks for as long as they pay. If they want to purchase a day pass, it is 25 euros, which includes Caf\'eOl\'e!'s perks for the entire day. Right now, the cafe is geared primarily towards professionals seeking a reliable work environment.
 
@@ -116,7 +129,7 @@ Key risks include competitor response and cost pressures. We have contingency pl
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
 % ========== COMPANY DESCRIPTION ==========
-\section*{\color{sectionblue}Company Description}
+\section*{\color{sectionblue}Company Description}\label{sec:company}
 
 Caf\'eOl\'e! Clubworking is a Sociedad Limitada (SL) located in Chamber\'i, Madrid, near University City and corporate areas. Products and services include the work cafe model: 5 euros per hour or 25 euros day pass, unlimited coffee and snacks, wifi, private workspaces, printers, quiet zones. Student membership: 30 euros per month. Events: language exchange, study groups. Mission: provide reliable workspace and community for professionals and students. Values: quality coffee, reliable wifi, inclusive community. Value proposition: ``Feel at home in a new city''---safe, reliable workspace and community for study abroad students. Operations: Madrid; international clientele (Erasmus, study abroad); potential expansion.
 
@@ -124,7 +137,7 @@ Caf\'eOl\'e! Clubworking is a Sociedad Limitada (SL) located in Chamber\'i, Madr
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
 % ========== BUSINESS MODEL CANVAS ==========
-\section*{\color{sectionblue}Business Model Canvas}
+\section*{\color{sectionblue}Business Model Canvas}\label{sec:bmc}
 
 \textbf{\textcolor{cafebrown}{Customer segments:}} Students (Erasmus, study abroad) and professionals seeking a reliable work environment.
 
@@ -146,7 +159,7 @@ Caf\'eOl\'e! Clubworking is a Sociedad Limitada (SL) located in Chamber\'i, Madr
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
 % ========== PESTLE ANALYSIS (like PDF - prose) ==========
-\section*{\color{sectionblue}PESTLE Analysis}
+\section*{\color{sectionblue}PESTLE Analysis}\label{sec:pestle}
 
 \textbf{\textcolor{cafebrown}{Political Factors:}} Following Spain's small business regulations, such as Sociedad Limitada, a limited liability company. City of Madrid policies and regulations for small businesses, such as Caf\'eOl\'e!. In Madrid, cafes must have health and hygiene certifications and a business operating license. The cafe must comply with Spain's strict labor laws, like minimum wage requirements and working hour regulations.
 
@@ -164,7 +177,7 @@ Caf\'eOl\'e! Clubworking is a Sociedad Limitada (SL) located in Chamber\'i, Madr
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
 % ========== SWOT ANALYSIS (like PDF - prose) ==========
-\section*{\color{sectionblue}SWOT Analysis}
+\section*{\color{sectionblue}SWOT Analysis}\label{sec:swot}
 
 \textbf{\textcolor{cafebrown}{Strengths:}} Caf\'eOl\'e!'s ability to bring a reliable environment for a wide range of professional and student audiences. Quality coffee and pastries, all included in the hourly usage fee. Central location in Chamber\'i, close to corporate areas and universities. Fast WiFi and printers, variables that are not found in all coffee shops in Madrid. Community aspects like networking and language exchanges.
 
@@ -178,7 +191,7 @@ Caf\'eOl\'e! Clubworking is a Sociedad Limitada (SL) located in Chamber\'i, Madr
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
 % ========== ECONOMIC AND SOCIAL ANALYSIS (like PDF) ==========
-\section*{\color{sectionblue}Economic and Social Analysis}
+\section*{\color{sectionblue}Economic and Social Analysis}\label{sec:economic}
 
 In 2025, Madrid had over 11 million tourists, meaning that tourism is a reliable source of customers for Caf\'eOl\'e!. Considering the number of tourists, many people want a reliable space where they can catch up on work, which is why Caf\'eOl\'e! is beneficial. Additionally, there is an increasing social trend of cafe culture, which is ideal for the cafe. Spain is facing inflation, as many countries are. This could increase the cost of food and cafe supplies, which could lead to price increases. Fortunately, Spain's unemployment rate was 9 percent in 2025, the lowest it has been since 2008. This allows for more customers, especially those who need a space to work.
 
@@ -186,7 +199,7 @@ In 2025, Madrid had over 11 million tourists, meaning that tourism is a reliable
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
 % ========== COMPETITIVE ANALYSIS (like PDF - prose) ==========
-\section*{\color{sectionblue}Competitive Analysis}
+\section*{\color{sectionblue}Competitive Analysis}\label{sec:competition}
 
 As discussed, Caf\'eOl\'e! caters itself as a ``clubworking'' and ``professional/coworking'' coffee destination with premium membership prices up to 300 euros per month with inclusion such as wifi, workstations, available coffee, printers, scanners, storage services, private rooms, and meeting rooms. However, 300 euros a month can be a steep price for students, as many do not work, isolating this cafe as a ``professional'' one. Moreover, Caf\'eOl\'e! faces stiff competition due to Madrid's competitive cafe scene and already-established cafes that are laptop and study-friendly, such as La Bicicleta in Malasa\~na and the Federal Cafe in Chamber\'i. For example, La Bicicleta offers moderate pricing for food and specialty coffees, laptop-friendly tables, access to wifi, and an urban space that makes this cafe highly competitive and extremely appealing to not only professionals, but the student population as well.
 
@@ -196,7 +209,7 @@ However, the majority of cafes in Madrid that cater to students and professional
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
 % ========== STRATEGIC PLAN (like PDF) ==========
-\section*{\color{sectionblue}Strategic Plan}
+\section*{\color{sectionblue}Strategic Plan}\label{sec:strategy}
 
 Objectives: (1) Make Caf\'eOl\'e! the go-to place for students and Erasmus in Chamber\'i. (2) Retain professionals. We are not replacing them, just adding. The strategy is differentiation. What makes us different: we focus on students, we do community events (language exchange, study groups, tutoring), we have wifi and printers that work, unlimited coffee and snacks. Other cafes in Madrid either limit laptop use or have unreliable wifi. We have the location (Chamber\'i, near universities, corporate, tourism), the infrastructure, the space.
 
@@ -208,7 +221,7 @@ Long-term (1--3 years): Be the recognised work cafe for study abroad students in
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
 % ========== CONTINGENCY PLAN (like PDF) ==========
-\section*{\color{sectionblue}Contingency Plan}
+\section*{\color{sectionblue}Contingency Plan}\label{sec:contingency}
 
 \textbf{\textcolor{cafebrown}{Low student uptake:}} If after 6 months we have fewer than 15--20 regular student users, we push harder on university marketing. Complutense, flyers. Run a survey to find out what is not working. Adjust the offer. If it still does not work after 12 months, we refocus on professionals. We are not burning bridges.
 
@@ -224,7 +237,7 @@ Long-term (1--3 years): Be the recognised work cafe for study abroad students in
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
 % ========== MARKETING PLAN (like PDF) ==========
-\section*{\color{sectionblue}Marketing Plan}
+\section*{\color{sectionblue}Marketing Plan}\label{sec:marketing}
 
 \textbf{\textcolor{cafebrown}{Market research:}} Qualitative (interviews with students: what do they want? which events? willingness to pay?) and quantitative (survey: how many would use 30 euros per month? how often? demographics). Both required by the course.
 
@@ -250,7 +263,7 @@ Long-term (1--3 years): Be the recognised work cafe for study abroad students in
 
 \begin{center}
 \small
-\begin{tabular}{@{}lr@{}}
+\begin{tabular}{@{}p{9cm}r@{}}
 \toprule
 \rowcolor{sectionblue!15}
 \textbf{\textcolor{sectionblue}{Line item}} & \textbf{\textcolor{sectionblue}{Euros}} \\

@@ -1,0 +1,14 @@
+# UCM Course Notes — Cursor Rules
+
+## Project
+Course notes and materials for UCM (Universidad Complutense de Madrid). Multi-course monorepo.
+
+## Conventions
+- **Class notes:** `YYYY-MM-DD-class-notes.md` in `week-N/` folders
+- **Format:** Formal Outline (I, II, III / A, B, C / 1, 2, 3)
+- **Courses:** product-management, introduction-to-eu, management-global-markets, strategic-management, spanish
+
+## When editing
+- Preserve the outline structure in class notes
+- Keep READMEs and INDEX.md in sync with folder contents
+- Use jazhao-ucm remote for push/pull (main branch)

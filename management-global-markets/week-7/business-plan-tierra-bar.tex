@@ -12,6 +12,9 @@
 \usepackage{booktabs}
 \usepackage{titlesec}
 \usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{microtype}
+\hyphenation{study-abroad}
 \definecolor{tierraorange}{RGB}{230,115,40}
 \definecolor{darkorange}{RGB}{180,85,25}
 \definecolor{lightorange}{RGB}{255,240,220}
@@ -26,6 +29,15 @@
 \fancyfoot[R]{\color{tierraorange}\thepage}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=tierraorange,
+  urlcolor=tierraorange,
+  pdftitle={Tierra Bar Business Plan},
+  pdfauthor={Ronan Smith, Gil Arvin, Daniel Tryder, Jacob Peterson},
+  pdfsubject={Global Management}
+}
 
 \begin{document}
 
@@ -48,7 +60,7 @@
 \setcounter{page}{1}
 
 % ===== 1. OVERVIEW =====
-\section{Overview}
+\section{Overview}\label{sec:overview}
 
 Tierra Bar (Tierra Burrito Bar) operates at Plaza de Isabel II, 5, Madrid Centro, near \'Opera. The concept: customers assemble their own meals from bases, proteins (chicken, carnitas, steak, vegetarian), rice, beans, and salsas. The venue functions as both restaurant and bar, with margaritas and 16 craft beer taps. Weekend closing: 1:30 AM. Delivery via Glovo and Just Eat. Current rating: 9/10 (3,500+ reviews). Locations: Madrid, Barcelona, Salamanca.
 
@@ -93,32 +105,32 @@ Market gap: Madrid has many bars and Mexican restaurants, but almost none target
 \vspace{1em}
 
 % ===== 4. BUSINESS MODEL CANVAS =====
-\section{Business Model Canvas}
+\section{Business Model Canvas}\label{sec:bmc}
 
 \begin{center}
 \small
-\begin{tabular}{|p{4.8cm}|p{4.8cm}|}
-\hline
+\begin{tabular}{@{}p{5.2cm}p{5.2cm}@{}}
+\toprule
 \rowcolor{lightorange}
 \textbf{Customer segments} & \textbf{Value proposition} \\
-\hline
+\midrule
 Students (Erasmus, study abroad), young professionals, tourists, locals & Customisable Mexican food, craft beer, margaritas, late hours, student discounts, events \\
-\hline
+\addlinespace
 \rowcolor{lightorange}
 \textbf{Channels} & \textbf{Revenue streams} \\
-\hline
+\midrule
 In-store, Glovo, Just Eat, tierraburritos.com, Instagram, TikTok & Food, bar, delivery, Student Pass (20 euros/month) \\
-\hline
+\addlinespace
 \rowcolor{lightorange}
 \textbf{Key resources} & \textbf{Key activities} \\
-\hline
+\midrule
 Kitchen, bar, 16 taps, space, ingredients, staff & Food prep, bar service, events, university partnerships \\
-\hline
+\addlinespace
 \rowcolor{lightorange}
 \textbf{Key partnerships} & \textbf{Cost structure} \\
-\hline
+\midrule
 Complutense, UAM, Glovo, Just Eat, beer suppliers & Rent 20--30\%, supplies 30--40\%, labour, delivery commission, marketing 2--5\% \\
-\hline
+\bottomrule
 \end{tabular}
 \end{center}
 
@@ -139,22 +151,22 @@ Complutense, UAM, Glovo, Just Eat, beer suppliers & Rent 20--30\%, supplies 30--
 \vspace{1em}
 
 % ===== 6. SWOT =====
-\section{SWOT Analysis}
+\section{SWOT Analysis}\label{sec:swot}
 
 \begin{center}
 \small
-\begin{tabular}{|p{4.8cm}|p{4.8cm}|}
-\hline
+\begin{tabular}{@{}p{5.2cm}p{5.2cm}@{}}
+\toprule
 \rowcolor{lightorange}
 \textbf{Strengths} & \textbf{Weaknesses} \\
-\hline
+\midrule
 Location (Plaza Isabel II), 9/10 reviews, customisable food, 16 craft taps, late hours, veggie options, delivery & No student programme yet, no study tables, events not established \\
-\hline
+\addlinespace
 \rowcolor{lightorange}
 \textbf{Opportunities} & \textbf{Threats} \\
-\hline
+\midrule
 Complutense, UAM, Erasmus, tourism, expansion (Chamber\'i, Moncloa) & Taco Bell, taquer\'ias, price fluctuations, seasonal tourism, delivery commissions \\
-\hline
+\bottomrule
 \end{tabular}
 \end{center}
 
@@ -205,10 +217,10 @@ Competitors: Taco Bell (chain, different positioning), local taquer\'ias (smalle
 
 \textbf{4P's:}
 \begin{itemize}[leftmargin=*,nosep]
-\item Product: Mexican bar, burritos/tacos/nachos, craft beer, margaritas, student discount, Student Pass, events
-\item Price: \`a la carte; 15\% student discount; Student Pass 20 euros/month
-\item Place: Madrid Centro, Glovo, Just Eat, walk-in
-\item Promotion: Instagram, TikTok, Yelp, Google, university flyers, word-of-mouth
+\item \textbf{Product:} Mexican bar, burritos/tacos/nachos, craft beer, margaritas, student discount, Student Pass, events
+\item \textbf{Price:} \`a la carte; 15\% student discount; Student Pass 20 euros/month
+\item \textbf{Place:} Madrid Centro, Glovo, Just Eat, walk-in
+\item \textbf{Promotion:} Instagram, TikTok, Yelp, Google, university flyers, word-of-mouth
 \end{itemize}
 
 \textbf{Timeline:} M1: social media, discount, Student Pass. M2: flyers, student verification. M3: first events. M4--6: add event type, partnership talks. M7--9: Erasmus cohort, push Pass. M10--12: evaluate and plan Year 2.
@@ -216,7 +228,7 @@ Competitors: Taco Bell (chain, different positioning), local taquer\'ias (smalle
 \textbf{Budget Year 1:}
 \begin{center}
 \small
-\begin{tabular}{@{}lr@{}}
+\begin{tabular}{@{}p{8cm}r@{}}
 \toprule
 \rowcolor{lightorange}
 \textbf{Item} & \textbf{Euros} \\
@@ -233,6 +245,9 @@ University partnership & 50 \\
 \end{center}
 
 \vspace{1.5em}
-\noindent\fbox{\parbox{0.95\textwidth}{\small\textcolor{charcoal}{\textbf{Sources:} Class notes weeks 1--7, Global Management Project.pdf, Business plan reunidas. No external sources.}}}
+\noindent
+\begin{center}
+\fcolorbox{tierraorange}{lightorange}{\parbox{0.92\textwidth}{\small\textcolor{charcoal}{\textbf{Sources:} Class notes weeks 1--7, Global Management Project.pdf, Business plan reunidas. No external sources.}}}
+\end{center}
 
 \end{document}

@@ -20,3 +20,4 @@ This format provides a highly structured, logically organized outline that clear
 - `week-4/` - Feb 16 & 17: class notes, Zara fast fashion reading, Business Model Canvas
 - `week-5/` - Feb 23: class notes, exploration vs. exploitation, product design process, lean validation, SDLC
 - `week-6/` - Mar 2 & 3: class notes, design thinking, IDEO process, empathy vs. asking, observation, extreme users, brainstorming rules, interview design, DesignthinkingStanford.pdf; midterm cheat sheet (tex)
+- `week-7/` - Mar 9 & 10: class notes, manufacturing process design (six dimensions: lot size, equipment, skills, scheduling, product range, inventory), piano manufacturing comparison memo (craftsman vs. Yamaha)
