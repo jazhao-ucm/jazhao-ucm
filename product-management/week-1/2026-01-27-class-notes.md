@@ -45,6 +45,7 @@
 | **Ethos** | Strong brands vs. weak brands; patents; open innovation |
 | **Logos** | Information + emotion in decisions; commercialization strategy |
 | **Pathos** | Emotion over information; "innovation alone isn't enough" |
+
 ---
 
 ## Key Concepts

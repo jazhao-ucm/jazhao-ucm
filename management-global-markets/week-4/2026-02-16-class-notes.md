@@ -42,6 +42,7 @@
 | **Ethos** | "Business is about profit"; "Your job is to sell, to execute beautifully" |
 | **Logos** | Cash from customers; repeat business; two options for cash generation |
 | **Pathos** | "Come back"; stakes of execution; deliver on promises |
+
 ---
 
 ## Key Concepts

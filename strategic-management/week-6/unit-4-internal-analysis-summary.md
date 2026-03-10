@@ -53,6 +53,7 @@
 ## 4.1. A Firm’s Internal Diagnosis
 
 ### A. Firm Identity — Key Variables
+
 | Variable | Options |
 |----------|---------|
 | **Size** | Micro, Small, Medium-sized, Large |
@@ -104,6 +105,7 @@
 - **Aim:** Discover and assess internal strengths (strategic resources/capabilities).
 
 ### B. Resources (Grant, 2015)
+
 | Type | Examples |
 |------|----------|
 | **Tangible** | Physical, Financial |
@@ -165,6 +167,7 @@
 - No strategy formulation recipe.
 
 ### D. Action Matrix
+
 | | Strengths | Weaknesses |
 |--|-----------|------------|
 | **Opportunities** | Exploiting | Correcting |

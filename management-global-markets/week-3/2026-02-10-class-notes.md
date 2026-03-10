@@ -42,6 +42,7 @@
 | **Ethos** | "Choosing the right people"; Commitment > Experience; authority |
 | **Logos** | Project recommendations; responsibilities; financial control |
 | **Pathos** | "100% responsibility and authority"; stakes of team building |
+
 ---
 
 ## Key Concepts

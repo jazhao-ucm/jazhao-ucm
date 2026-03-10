@@ -59,6 +59,7 @@
 - **Environment:** External characteristics the firm cannot control but that influence its activity, behaviour, and results.
 
 ### B. Two Levels
+
 | Level | Content |
 |-------|---------|
 | **Macro-environment** | Socio-economic factors (PESTEL) |

@@ -41,6 +41,7 @@
 | **Ethos** | Hague Summit; Pompidou; merger of Communities; enlargement agreement |
 | **Logos** | Oil crisis → recession; customs union ahead of schedule; Luxembourg Compromise effects |
 | **Pathos** | "Bandwagon" rolling again; stagflation; end of Golden Age |
+
 ---
 
 ## The European Community (EC) and recession

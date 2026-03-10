@@ -200,4 +200,3 @@ C. Being “extremely good at something”
 3. Selection for top roles focuses heavily on attitude and ability to handle pressure, not only on CVs.  
 4. High‑level positions combine money and power with stress, ethical dilemmas and personal risk; you must know your own limits.  
 5. In planning your own career, think like a strategist: develop unique strengths, understand your value and decide what trade‑offs you are willing to make.
-

@@ -43,6 +43,7 @@
 | **Ethos** | Vinen (fragments); Anderson (critical); student presentations |
 | **Logos** | Economics first; enlargement waves; Euroscepticism causes |
 | **Pathos** | 1989 "unity"; internal borders; scapegoating; democracy vs. integration |
+
 ---
 
 ## Key Concepts
@@ -214,4 +215,3 @@ C. Anderson discussion
 - **Ethos:** Vinen's fragments; Anderson's critical stance; both challenge celebratory narratives.
 - **Logos:** Economics-first logic; enlargement waves; Euroscepticism as structural tension.
 - **Pathos:** 1989 "unity"; internal borders; scapegoating; democracy vs. integration stakes.
-

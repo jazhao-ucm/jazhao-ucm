@@ -43,6 +43,7 @@
 | **Ethos** | "Community before product"; "understand what they need first" |
 | **Logos** | Needs assessment process; willingness to pay; iterate based on feedback |
 | **Pathos** | "Don't build it and hope they will come"; real-world stakes |
+
 ---
 
 ## Key Concepts

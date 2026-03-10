@@ -47,6 +47,7 @@
 | **Ethos** | Hofstede; instructor's experience (France→Chile, Mexico); "good manager blames yourself" |
 | **Logos** | Power distance; internationalization order (Sales→Marketing→Operations); value chain |
 | **Pathos** | Cultural differences; "can't talk back or you get fired"; stakes of cross-cultural failure |
+
 ---
 
 ## Chapter 2: The Silent Language in Business – Cross-Cultural Competence

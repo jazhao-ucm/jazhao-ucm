@@ -42,6 +42,7 @@
 | **Ethos** | PESTEL; Five Forces; clusters; illustration assignments |
 | **Logos** | Cost of equity formula; macro vs. industry; barriers to entry |
 | **Pathos** | Climate change; Art of War; stakes of external analysis |
+
 ---
 
 ## Key Concepts

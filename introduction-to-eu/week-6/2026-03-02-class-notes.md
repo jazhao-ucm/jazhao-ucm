@@ -70,6 +70,7 @@
 - ~6 square miles. ~38,000 people.
 
 ### Key dates
+
 | Year | Event |
 |------|-------|
 | 1969 | Franco closes the border. Gibraltar isolated. Families split. |

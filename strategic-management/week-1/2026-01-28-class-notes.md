@@ -43,6 +43,7 @@
 | **Ethos** | Instructor background; "know yourself and your environment"; theory as tool |
 | **Logos** | Strategic vs. tactical; complexity; forecasting; Art of War analogy |
 | **Pathos** | Long-term effects; "no second chance"; stakes of strategic decisions |
+
 ---
 
 ## Key Concepts

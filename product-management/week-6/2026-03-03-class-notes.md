@@ -196,7 +196,7 @@ B. Do’s and Don’ts for Interview Questions
 
 1. Do: Behavioral, past‑tense questions
    a. “Tell me about the last time you ___.”  
-   b. “What happened when you tried to ___?”  
+   b. “What happened when you tried to___?”  
    c. “How did you handle ___ the last time it came up?”
 
 2. Do: Open questions
@@ -272,4 +272,3 @@ B. Customization and Flexibility
 3. Design thinking is powerful but not a magic wand; a product can still fail if the market, channel, or economics are wrong.  
 4. Good customer interviews focus on real past behavior, not hypothetical features or imagined apps.  
 5. A clear, shared interview guide helps teams collect comparable, high‑quality data for product decisions.
-

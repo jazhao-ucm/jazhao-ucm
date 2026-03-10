@@ -43,6 +43,7 @@
 | **Ethos** | Guest expert (Gibraltar); "never again" in practice; technical successes |
 | **Logos** | 1973 enlargement; oil crisis cause-and-effect; EFTA vs EEC |
 | **Pathos** | Bienvenido Mr. Marshall; stagflation; energy solidarity |
+
 ---
 
 ## Next session: guest expert and Gibraltar

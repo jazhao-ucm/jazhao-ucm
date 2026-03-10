@@ -268,4 +268,3 @@ C. Personal fit and self‑knowledge
 3. Motivation in international firms combines salary, working conditions, recognition and fair treatment; classic theories still help us think about this.  
 4. Diversity in global teams can be a major asset but creates challenges that require careful management and inclusive culture.  
 5. Power in international management roles comes with responsibility; you must decide what trade‑offs you are willing to accept between money, ambition and quality of life.
-

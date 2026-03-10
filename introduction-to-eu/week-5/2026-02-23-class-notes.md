@@ -43,6 +43,7 @@
 | **Ethos** | Delors; southern democracies; UK opt-outs; Luxembourg Compromise |
 | **Logos** | Enlargement sequence; SEA, Maastricht, Schengen; cause-and-effect |
 | **Pathos** | Democracy consolidation; Carnation Revolution; "position of strength" |
+
 ---
 
 ## Key Concepts

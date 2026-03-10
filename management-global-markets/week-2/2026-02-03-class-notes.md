@@ -40,6 +40,7 @@
 | **Ethos** | Glocalization; "Think Global, Act Local"; core brand identity |
 | **Logos** | Power distance; adapt to local culture; "slow process" |
 | **Pathos** | "You need time"; stakes of cultural adaptation |
+
 ---
 
 ## Key Concepts

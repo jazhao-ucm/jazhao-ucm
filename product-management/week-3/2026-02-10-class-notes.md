@@ -43,6 +43,7 @@
 | **Ethos** | Car industry examples; business model differences |
 | **Logos** | Fast food vs. responsive production; trade-offs; no one-size-fits-all |
 | **Pathos** | Speed vs. customization; stakes of production strategy |
+
 ---
 
 ## Key Concepts

@@ -293,4 +293,3 @@ B. Reflection question (from class)
 3. We observe Euroscepticism across parties, citizens and media, driven by economic, identity‑related and democratic factors in different combinations.  
 4. Euroscepticism can be both a challenge and a resource for EU democracy, depending on whether it aims to reform or to delegitimise the project.  
 5. Distinguishing constructive from destructive Euroscepticism requires looking at goals, methods and the realism of proposed alternatives.
-

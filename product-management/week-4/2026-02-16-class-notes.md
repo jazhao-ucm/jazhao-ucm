@@ -47,6 +47,7 @@
 | **Ethos** | Disruptive innovation; established market leaders; innovator's dilemma |
 | **Logos** | S-curve; lower performance → wins; first mover advantage |
 | **Pathos** | "Even established leaders can fail"; stakes of adaptation |
+
 ---
 
 ## Key Concepts

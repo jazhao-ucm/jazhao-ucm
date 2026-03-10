@@ -78,6 +78,7 @@
 - **Issues:** Difficult to measure; “performance” to whom?; success depends on definition.
 
 ### B. Measurement
+
 | Type | Examples |
 |------|----------|
 | **Accounting** | Gross margin, EBIT, Net income, ROA, ROE |
@@ -128,6 +129,7 @@ Set of principles, beliefs, standards and commitments designed to steer progress
 - **The end does not justify the means.**
 
 ### C. CSR and Business Ethics
+
 | Concept | Meaning |
 |---------|---------|
 | **CSR** | Voluntary activities to meet social/environmental demands of stakeholders |

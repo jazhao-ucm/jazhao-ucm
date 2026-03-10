@@ -43,6 +43,7 @@
 | **Ethos** | Four pillars; three levels; stakeholder power; "rational analysis is limited" |
 | **Logos** | Corporate, competitive, functional; What/Where/Who/Implementation |
 | **Pathos** | Politics and power; personal motivations; stakes of stakeholder conflict |
+
 ---
 
 ## Key Concepts

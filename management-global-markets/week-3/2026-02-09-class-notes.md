@@ -46,6 +46,7 @@
 | **Ethos** | "Choosing the right location is the masterpiece"; Location > Competencies |
 | **Logos** | Four phases of internationalization; location as causal factor |
 | **Pathos** | "Location = Success or Failure"; stakes of location choice |
+
 ---
 
 ## Key Concepts
@@ -382,7 +383,7 @@ C. Timing
 A. Your Responsibility
 1. "It's very easy. Jake, you look at two things, only two."
 2. 1. Do not waste the capital
-3. 2. Put on yourself. Find a.
+3. 1. Put on yourself. Find a.
 
 B. Key insight
 1. "What is your responsibility? It's very easy."

@@ -43,6 +43,7 @@
 | **Ethos** | PEST; Five Forces; barriers (natural, artificial) |
 | **Logos** | Macro vs. industry; cause-and-effect; industry attractiveness |
 | **Pathos** | High-speed trains; Tesla; new winners and losers |
+
 ---
 
 ## Key Concepts
@@ -736,4 +737,3 @@ G. Barriers to Entry
 - **Ethos:** PEST; Five Forces; barriers.
 - **Logos:** Macro vs. industry; attractiveness logic.
 - **Pathos:** Winners and losers; industry change stakes.
-

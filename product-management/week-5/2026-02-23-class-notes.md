@@ -48,6 +48,7 @@
 | **Ethos** | Ambidextrous organization; lean validation; SDLC |
 | **Logos** | Exploration vs. exploitation; product design process |
 | **Pathos** | Peloton, Tesla, Vision Pro; stakes of market fit |
+
 ---
 
 ## Key Concepts

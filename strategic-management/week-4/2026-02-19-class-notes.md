@@ -44,6 +44,7 @@
 | **Ethos** | Toyota production system; supplier networks; clusters |
 | **Logos** | Bargaining power; concentration, differentiation; JIT logic |
 | **Pathos** | Coordination stakes; inventory cost; "no organizing power" |
+
 ---
 
 ## Key Concepts

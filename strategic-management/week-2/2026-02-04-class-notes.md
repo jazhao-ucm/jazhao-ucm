@@ -43,6 +43,7 @@
 | **Ethos** | "Companies are social realities"; stakeholders; corporate governance |
 | **Logos** | Mission → Vision → Objectives; satisfaction and opportunity cost |
 | **Pathos** | Negotiation and power; "success" as relative; stakes of governance |
+
 ---
 
 ## Key Concepts

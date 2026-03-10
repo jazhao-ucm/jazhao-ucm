@@ -60,6 +60,7 @@
 | **Ethos** | IDEO, David Kelley; design thinking methodology; De Bono |
 | **Logos** | Empathize → define → ideate → prototype; observation vs. asking |
 | **Pathos** | "People don't know what they want"; kids injured by shopping carts; stakes of user research |
+
 ---
 
 ## Key Concepts

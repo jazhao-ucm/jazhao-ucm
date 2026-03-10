@@ -43,6 +43,7 @@
 | **Ethos** | Porter, Teece; Takeda as exemplar; Spanish research case |
 | **Logos** | Value creation vs. capture; value chain; market access as causal factor |
 | **Pathos** | €15K → €250M gap; "having a great product isn't enough" |
+
 ---
 
 ## Key Concepts

@@ -54,6 +54,7 @@
 | **Ethos** | Global manufacturing examples; Porter's model; market entry simulation |
 | **Logos** | Products from multiple countries; supply chain logic; assembly |
 | **Pathos** | Global manufacturing reality; competition stakes |
+
 ---
 
 ## Key Concepts
@@ -290,21 +291,21 @@ A. The Five Dimensions
 3. Examples: Spain (high), Mexico (very high), Northern Europe (low), USA (low)
 
 #### 2. Individualism vs. Collectivism
-4. Individualism: People in rich countries tend to be more individualistic
-5. Collectivism: People in poorer countries tend to be more collective/group-oriented
-6. Examples: USA (high individualism), many Asian countries (high collectivism)
+1. Individualism: People in rich countries tend to be more individualistic
+2. Collectivism: People in poorer countries tend to be more collective/group-oriented
+3. Examples: USA (high individualism), many Asian countries (high collectivism)
 
 #### 3. Masculinity vs. Femininity
-7. Differences in gender roles
-8. How men and women relate in business
-9. Varies by country and culture
+1. Differences in gender roles
+2. How men and women relate in business
+3. Varies by country and culture
 
 Instructor's View: "There is no big difference between men and women. They are the same people. I don't consider differences."
 
 #### 4. Uncertainty Avoidance
-10. How comfortable people are with uncertainty
-11. Some cultures prefer rules and structure
-12. Others are more comfortable with ambiguity
+1. How comfortable people are with uncertainty
+2. Some cultures prefer rules and structure
+3. Others are more comfortable with ambiguity
 
 #### 5. Long-Term vs. Short-Term Orientation (NEW)
 

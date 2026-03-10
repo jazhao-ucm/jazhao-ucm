@@ -61,8 +61,8 @@
 ## I. Final Exam and Assignment Overview
 
 A. Final exam
-   - Prepare for the final.
-   - Think about how your answers will be valuable and defensible.
+- Prepare for the final.
+- Think about how your answers will be valuable and defensible.
 
 B. Main assignment: User interviews
    1. **What to do:** Conduct user interviews.
@@ -72,10 +72,10 @@ B. Main assignment: User interviews
    5. **Goal:** Find out how users describe the problem, what they want, what frustrates them.
 
 C. Design thinking timeline
-   - This week: finalize interview guide, conduct interviews.
-   - Next week: ideation practice in class (group session).
-   - After that: prototyping and building something to show.
-   - Final: present something to users / professor.
+- This week: finalize interview guide, conduct interviews.
+- Next week: ideation practice in class (group session).
+- After that: prototyping and building something to show.
+- Final: present something to users / professor.
 
 ---
 
@@ -139,9 +139,9 @@ A. Example: Product with many functions
    4. **Result:** Cheaper, easier to use, still meets the main need.
 
 B. Lesson
-   - Understand which functions users actually use.
-   - Do not assume “more” is better.
-   - Value engineering can mean subtracting, not only improving.
+- Understand which functions users actually use.
+- Do not assume “more” is better.
+- Value engineering can mean subtracting, not only improving.
 
 ---
 

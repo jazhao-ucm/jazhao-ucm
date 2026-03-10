@@ -46,6 +46,7 @@
 | **Ethos** | Zara; Business Model Canvas; Who? Why? How? |
 | **Logos** | Nine components; value proposition; revenue model |
 | **Pathos** | Scarcity, urgency; "community before product" |
+
 ---
 
 ## Key Concepts

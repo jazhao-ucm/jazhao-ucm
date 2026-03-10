@@ -49,6 +49,7 @@
 | **Ethos** | Chile case; SME statistics; strategy levels (corporate, competitive, functional) |
 | **Logos** | Resources & capabilities; competitive vs. absolute advantage; internationalization logic |
 | **Pathos** | Chile failure; technology transfer; motivation in international assignments |
+
 ---
 
 ## Key Concepts

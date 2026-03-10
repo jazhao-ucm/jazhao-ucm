@@ -43,6 +43,7 @@
 | **Ethos** | Market vs. accounting valuation; corporate governance; CSR |
 | **Logos** | Satisfaction = opportunity cost; externalities; listed vs. private |
 | **Pathos** | Ethics; "businesses run by people"; sustainability stakes |
+
 ---
 
 ## Key Concepts

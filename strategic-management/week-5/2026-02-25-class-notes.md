@@ -43,6 +43,7 @@
 | **Ethos** | Art of War; PESTEL; Five Forces; clusters; student presentations |
 | **Logos** | Know yourself/enemy; climate change; barriers; contingency |
 | **Pathos** | "Need not fear"; Arctic stakes; values and execution |
+
 ---
 
 ## Key Concepts

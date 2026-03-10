@@ -4,3 +4,5 @@ MD013: false  # line length (prose and notes often exceed 80 chars)
 MD022: false  # blanks around headings
 MD032: false  # blanks around lists
 MD036: false  # emphasis as heading (bold quotes under Final Thought)
+MD025: false  # multiple H1s (Section 1 / Section 2 structure in class notes)
+MD060: false  # table column style (compact tables in notes)

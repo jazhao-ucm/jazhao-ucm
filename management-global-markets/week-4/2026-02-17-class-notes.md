@@ -42,6 +42,7 @@
 | **Ethos** | "Rich country is rich because..."; 25% of Earth, 95% of business |
 | **Logos** | Economy ≠ politics; exportation vs. internationalization; location choice |
 | **Pathos** | "Miserable because full of miserable people"; stakes of location |
+
 ---
 
 ## Key Concepts

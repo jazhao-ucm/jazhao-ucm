@@ -63,6 +63,7 @@
 - **Expensive mistakes:** Can threaten survival.
 
 ### D. Successful Strategy (Grant, 2015)
+
 | Element | Meaning |
 |---------|---------|
 | Simple, consistent, long-term goals | Clear direction |
@@ -71,6 +72,7 @@
 | Effective implementation | Execution |
 
 ### E. Levels of Strategy
+
 | Level | Focus | Contents |
 |-------|-------|----------|
 | **Corporate** | Scope, synergies | Diversification, M&A, Alliances, Internationalization |

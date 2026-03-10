@@ -243,4 +243,3 @@ C. Learning to work with diversity
 3. International HRM links FDI and strategy to concrete questions about who will work where, and under what conditions.  
 4. International talent combines skills, mobility, and motivation; availability to move is part of the profile.  
 5. Motivation goes beyond salary: ambition, recognition and quality of life all matter, and you must decide what trade‑offs you accept in a global career.
-

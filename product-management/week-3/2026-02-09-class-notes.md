@@ -43,6 +43,7 @@
 | **Ethos** | Mass production; economies of scale; fixed vs. variable costs |
 | **Logos** | Cost ≠ price; scale logic; standardization and specialization |
 | **Pathos** | "Mass production requires scale"; stakes of fixed costs |
+
 ---
 
 ## Opening Discussion: Production Strategies

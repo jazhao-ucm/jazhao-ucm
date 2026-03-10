@@ -42,6 +42,7 @@
 | **Ethos** | "Personal problems don't always translate to market problems" |
 | **Logos** | Test if others have same problem; community before product |
 | **Pathos** | Stakes of mistaking personal for market |
+
 ---
 
 ## Key Concepts

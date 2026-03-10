@@ -49,6 +49,7 @@
 | **Ethos** | Professor's international experience; triangle diagram; winners/losers |
 | **Logos** | Globalization vs. slowbalization; economic complexity; competition |
 | **Pathos** | Winners and losers; production limitations; country relationships |
+
 ---
 
 ## Key Concepts

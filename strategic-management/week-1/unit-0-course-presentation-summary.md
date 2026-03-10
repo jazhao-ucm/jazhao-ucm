@@ -49,6 +49,7 @@
 ## Course Contents Overview
 
 ### Part I. Strategic Analysis
+
 | Unit | Topic | Main sections |
 |------|-------|---------------|
 | 1 | Strategy | Strategic decisions, process, SM as field |
@@ -57,6 +58,7 @@
 | 4 | Internal Analysis | Value chain, resources & capabilities, SWOT |
 
 ### Part II. Strategic Formulation
+
 | Unit | Topic | Main sections |
 |------|-------|---------------|
 | 5 | Competitive Advantage | Cost leadership, differentiation, strategy clock |
@@ -65,6 +67,7 @@
 | 8 | Internationalization | MNC, global competition, entry modes |
 
 ### Part III. Future Directions
+
 | Unit | Topic |
 |------|-------|
 | 9 | Sustainable development, natural environment, base of pyramid, sustainable capitalism |
