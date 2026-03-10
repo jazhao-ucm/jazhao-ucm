@@ -178,6 +178,47 @@ A. From previous teaching
 
 ---
 
+# Section 3: Slides – The European Community after the Oil Crisis
+
+Slides: `4. The European Community after the Oil Crisis.pdf`.
+
+> Timeline: EC merger (1967), Hague Summit (1969), first enlargement (1973), 1973 oil crisis. Use with Section 2 above.
+
+## Key points from slides
+
+### EC merger and Hague Summit
+- **1 July 1967:** ECSC, EEC, Euratom merged into the **European Community (EC)**. Customs union achieved ahead of schedule (1968).
+- **1969:** De Gaulle resigned. **Hague Summit (Dec 1969)** — Pompidou’s initiative: enlargement, economic and monetary union, tech/social cooperation, regular Foreign Ministers’ meetings.
+- **June 1971:** Agreement to enlarge. **1 Jan 1973:** First enlargement — UK, Ireland, Denmark join (Six → Nine). Special arrangements for Commonwealth trade and fisheries.
+
+### Referendums (1973)
+- **Norway:** 53% against (fishing, Scandinavian ties). Did not join.
+- **Denmark:** 63% in favour (CAP, trade with UK/DE).
+- **Ireland:** 83% in favour (70% of exports to UK). Enlargement coincided with the start of the **1973 oil crisis**.
+
+### 1973 oil crisis – causes
+- Post‑1945 growth depended on **cheap oil** (~$2/barrel 1950–73). By 1972, oil = 65% of Western Europe’s electricity; coal 22%.
+- **OPEC** (1960, Baghdad): Saudi Arabia, Iran, Iraq, Kuwait, Venezuela. By 1973 many producers had nationalised or renegotiated; OPEC set prices without oil companies.
+- **6 Oct 1973:** Arab‑Israeli War (Sadat invades). OPEC used oil as a weapon: no oil to USA or Netherlands; “friendly” countries got normal supplies. Chaos and price spikes.
+
+### Short‑term consequences
+- EEC **failed to agree** on pooling oil (Dec 1973). Each country decided its own energy measures.
+- Rationing, Sunday driving bans (Belgium, Netherlands), closed petrol stations (Luxembourg), lower heating (France), speed limits (Denmark). Prices soared; oil producers’ revenues rose.
+
+### Long‑term consequences
+- **Stagflation:** high inflation + high unemployment. End of the “Golden Age” of growth in Western Europe.
+- Diversification: North Sea oil, non‑OPEC suppliers (Mexico, USSR), **nuclear** (France), **gas** (UK), **geothermal** (Iceland). Higher oil taxes to cut demand.
+
+### Activities from slides (self‑check)
+1. What was the Treaty of Rome intended to achieve?
+2. Function and relative importance (1960s) of Commission, Council of Ministers, Parliamentary Assembly?
+3. Purpose of the CAP and why controversial?
+4. Difference between intergovernmentalism and supranationalism?
+5. Why was the European project stalled for much of the 1960s and how did it get going again?
+6. Main causes and consequences of the 1973 oil crisis?
+
+---
+
 ## Next session
 
 1. Guest master class (Gibraltar, Spain, UK).

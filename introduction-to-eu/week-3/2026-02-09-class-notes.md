@@ -226,6 +226,40 @@ A. The **European Economic Community (EEC)** had three main objectives
 
 ---
 
+---
+
+# Section 3: Slides – European Economic Community (EEC)
+
+Slides: `3. European Economic Community.pdf`.
+
+> Spaak, Treaty of Rome, four institutions, policies, de Gaulle, EFTA, UK vetoes, Empty Chair, Luxembourg Compromise, growth. Complements Section 2 above.
+
+## Key points from slides
+
+### Spaak Report (1956) and Treaty of Rome (1957)
+- **Messina 1956:** Spaak recommended economic integration; extend ECSC model to other sectors. UK refused to participate.
+- **25 March 1957:** Treaty of Rome → **EEC** + **Euratom**. Aims: promote economic activity, raise living standards, “ever closer union among the peoples of Europe”.
+
+### Four institutions (EEC)
+- **Commission:** Runs and implements the Treaty; “engine of the Community”; nominees independent of member states.
+- **Council of Ministers:** Protects national interests; most powerful; intergovernmental.
+- **Parliament (Assembly):** Nominated by national parliaments; consultative only (comment, not propose or amend).
+- **Court of Justice:** Interprets treaties, settles disputes; can overrule national laws. For 60+ years: tension between Commission and Council; Council remains most powerful; Commission needs support of big states (France, Germany).
+
+### Key policies
+- Free trade area; **customs union** (common external tariff); **common market**; **CAP** (guaranteed prices, subsidies); **EIB** (less developed regions); coordination of fiscal, monetary, exchange-rate policies. **1967:** EEC, ECSC, Euratom merged → single **European Community (EC)**.
+
+### De Gaulle’s impact
+- Favoured sovereign states over supranationalism. Demanded **CAP** for French agriculture. **Vetoed UK** in 1963 and 1967 (dilution of EEC, Commonwealth ties, US influence, challenge to France). **Fouchet Plan** (intergovernmental) rejected. **Empty chair crisis:** France withdrew from Council (June 1965–Jan 1966) over own‑resources budget and QMV. **Luxembourg Compromise (1966):** “Vital national interest” → unanimity; in practice almost everything became vital → slow decision‑making until the 1980s.
+
+### Britain and EFTA
+- **EFTA (1960):** UK, Austria, Denmark, Portugal, Sweden, Switzerland, Norway (later Iceland, Finland, Liechtenstein). Goal: abolish tariffs without threat to sovereignty; UK kept own external tariffs, Commonwealth, no CAP. Not the same benefits as EEC. UK applied to EEC in 1961; de Gaulle vetoed 1963 and 1967; **Pompidou** allowed UK to join **1973** (counterweight to Germany).
+
+### Results (1958–73)
+- Quotas and tariffs abolished; free trade by 1967 — market of 170 million. Growth faster than US or UK; trade within EEC doubled; economies grew ~50%; unemployment fell by half by 1973. CAP established 1962 (higher consumer prices; no common fisheries, regional or social policies yet).
+
+---
+
 ## Next session
 
 1. Continue with the story of integration (treaties, enlargements, crises).

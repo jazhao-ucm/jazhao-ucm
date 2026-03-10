@@ -175,3 +175,72 @@ D. June 28, 1914
 - **Ethos:** Zweig's testimony; competing claims to "equality" (pro-regularization vs. far right); professor's lived experience.
 - **Logos:** Theory ≠ practice; contested universals; freedom vs. security as structural tension.
 - **Pathos:** Migration, borders, xenophobia; emotional stakes of "who belongs."
+
+---
+
+# Section 3: Slides – Evolution of European Unity (Treaty/Institution Timeline)
+
+Slides: `2. The Evolution of European Unity.pdf`.
+
+> Use this part when you want the early post‑1945 institutional history (Council of Europe, OEEC, ECSC, NATO, EDC). Sections 1–2 above capture the Zweig + migration + values discussion.
+
+## Key Words (Slides)
+- **Council of Europe** = 1949 body for human rights and democracy. NOT the EU.
+- **European Convention on Human Rights (ECHR)** = Treaty protecting rights; enforced by the Court of Human Rights in Strasbourg.
+- **OEEC** = Organisation for European Economic Co‑operation. Distributed Marshall Plan aid.
+- **Benelux** = Customs union of Belgium, Netherlands, Luxembourg. Early experiment in free trade.
+- **ECSC** = European Coal and Steel Community (1952). First supranational community.
+- **NATO** = Military alliance (1949) between US, Canada, and Western Europe.
+- **EDC** = European Defence Community — failed attempt to create a joint European army.
+
+## Main Ideas (Slides Version)
+
+1. **Unity starts with cooperation, not a full EU.**
+   - After WWII, states created forums for talking (Council of Europe) and for rebuilding economies (OEEC).
+   - Aim: avoid another war; rebuild; resist Soviet influence.
+
+2. **Council of Europe = human rights + dialogue.**
+   - Set up in Strasbourg (border city) to avoid choosing a capital.
+   - Created the European Convention on Human Rights and the Court of Human Rights.
+   - Not supranational; but important for ideas of integration and rights.
+
+3. **OEEC and Marshall Plan = economic cooperation.**
+   - 16 countries coordinated US aid.
+   - Reduced trade barriers; encouraged customs unions and free‑trade areas.
+   - Helped economic recovery and limited Soviet influence.
+
+4. **ECSC = first real step towards the EU.**
+   - Schuman Plan (1950): pool coal and steel under a High Authority.
+   - Paris Treaty (1951) → ECSC (1952) with six states.
+   - War between France and Germany becomes “materially impossible”.
+
+5. **NATO and EDC = security dimension.**
+   - NATO (1949): collective defence; transfer of sovereignty in security.
+   - EDC (1952): plan for a European army. Rejected by French Parliament (1954).
+   - After EDC failed, focus shifted back to economics as the main route to unity.
+
+## Extra Details from Slides
+
+### Council of Europe (1949)
+- Emerged from the Hague Congress.
+- Meets in Strasbourg, on the FR–DE border.
+- Sets up the European Court of Human Rights (ECHR).
+
+### OEEC (Marshall Plan body)
+- Permanent organisation in Paris (Château de la Muette).
+- Principles:
+  - Coordinate production and reconstruction.
+  - Develop intra‑European trade (reduce tariffs).
+  - Study customs union/free trade area.
+  - Multilateralise payments.
+  - Improve labour utilisation.
+
+### ECSC (1951–52)
+- Six states: France, West Germany, Italy, Belgium, Netherlands, Luxembourg.
+- Institutions (High Authority, Council, Assembly, Court) later reused for the EEC/EU.
+- Britain remains outside for sovereignty reasons.
+
+### NATO and EDC
+- NATO: US‑backed security umbrella against the USSR.
+- EDC: plan for a pan‑European army; rejected by French Parliament in 1954.
+- Failure of EDC pushes integration back towards economics (Spaak, Treaty of Rome).

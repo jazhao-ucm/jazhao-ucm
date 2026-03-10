@@ -293,3 +293,40 @@ B. Reflection question (from class)
 3. We observe Euroscepticism across parties, citizens and media, driven by economic, identity‑related and democratic factors in different combinations.  
 4. Euroscepticism can be both a challenge and a resource for EU democracy, depending on whether it aims to reform or to delegitimise the project.  
 5. Distinguishing constructive from destructive Euroscepticism requires looking at goals, methods and the realism of proposed alternatives.
+
+---
+
+# Section 3: Slides – Europe 1973–1992
+
+Slides: `6. Europe 1973–1992.pptx.pdf`.
+
+> Timeline: enlargement, oil crisis, Eurosclerosis, EMS, Delors, SEA, Schengen, Thatcher, Maastricht. Use for exam chronology.
+
+## Key Words (Slides)
+- **Eurosclerosis** = 1970s–early 1980s when integration seemed stuck.
+- **Southern enlargement** = Greece (1981), Spain & Portugal (1986).
+- **EMS / ERM / ECU** = European Monetary System, Exchange Rate Mechanism, European Currency Unit.
+- **Single European Act (SEA)** = 1986; single market by 1992, more QMV, Parliament powers.
+- **Schengen** = 1985 Agreement, 1990 Convention; no internal borders; 26 countries, 400M+ today.
+- **Maastricht (TEU)** = 1991/92; EC → EU; EMU path; citizenship; subsidiarity; UK opt‑outs.
+- **Paquet Delors** = Budget/cohesion reforms; EBRD; Committee of the Regions.
+
+## Main Ideas (Slides)
+1. **Enlargement:** 1973 (UK, IE, DK); 1981 Greece; 1986 Spain & Portugal. Fears: CAP, fisheries, steel, textiles, cheap labour.
+2. **Oil crisis & Eurosclerosis:** 1973 shock; no common energy policy; stagflation; “Eurosclerosis” = economic + political paralysis.
+3. **EMS (1978–79):** ECU, ERM (±2.25%); step toward EMU, not yet single currency.
+4. **Delors (from 1985):** Paquet Delors; cohesion; single market relaunch.
+5. **SEA (1986):** Single market by 1992; more QMV; Spinelli federalist plan rejected earlier.
+6. **Schengen:** 1985/1990; internal border checks abolished; common visa.
+7. **Thatcher Bruges (1988):** Against “European conglomerate”; for single market, against over‑regulation and federalism.
+8. **Maastricht (1992):** EU created; three pillars; EMU path; citizenship; subsidiarity; cohesion fund; UK opt‑outs; “multi‑speed Europe.”
+
+## Enlargement waves (from slides)
+1973: UK, Ireland, Denmark. 1981: Greece. 1986: Spain, Portugal. 1995: Austria, Finland, Sweden. 2004: Big Bang (10). 2007: Bulgaria, Romania. 2013: Croatia.
+
+## Activities from slides (self‑check)
+1. Learn dates and countries for the seven enlargements.
+2. Why was enlargement 1973–1992 slow and opposed?
+3. Thatcher vs Delors: two visions of Europe.
+4. Steps toward deeper integration 1973–1992 (EMS, SEA, Schengen, Maastricht…).
+5. Main features of the Maastricht Treaty.
