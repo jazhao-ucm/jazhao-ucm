@@ -1,14 +1,19 @@
-% Management in Global Markets – Business Plan (Tierra Bar)
+% Management in Global Markets... Business Plan (Tierra Bar)
 % Different format from CaféOlé. Orange theme.
 % Compile: pdflatex business-plan-tierra-bar.tex
+% Font: Comic Neue Angular (handwritten feel, different from CafeOle)
 
 \documentclass[11pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage[margin=2.2cm]{geometry}
+\usepackage[default,angular]{comicneue}
+\usepackage[margin=1.8cm, top=2.2cm, bottom=2cm]{geometry}
+\usepackage{ragged2e}
+\RaggedRight
+\usepackage{parskip}
+\setlength{\parskip}{0.6em}
 \usepackage{enumitem}
 \usepackage[table]{xcolor}
-\usepackage{parskip}
 \usepackage{booktabs}
 \usepackage{titlesec}
 \usepackage{fancyhdr}
@@ -20,14 +25,15 @@
 \definecolor{lightorange}{RGB}{255,240,220}
 \definecolor{charcoal}{RGB}{51,51,51}
 
-% Section style: boxed orange header
-\titleformat{\section}[block]{\color{tierraorange}\normalfont\large\bfseries}{\thesection.}{0.5em}{}[\vspace{-0.3em}\textcolor{tierraorange}{\rule{\textwidth}{1.5pt}}\vspace{0.3em}]
-\titlespacing*{\section}{0pt}{1.5em}{0.8em}
+% Section style: orange header (notes feel)
+\titleformat{\section}[block]{\color{tierraorange}\normalfont\large\bfseries}{\thesection.}{0.5em}{}[\vspace{-0.2em}\textcolor{tierraorange}{\rule{\textwidth}{1.2pt}}\vspace{0.4em}]
+\titlespacing*{\section}{0pt}{1.2em}{0.6em}
 
 \pagestyle{fancy}
 \fancyhf{}
+\fancyhead[C]{\small\textcolor{tierraorange}{TIERRA BAR}}
 \fancyfoot[R]{\color{tierraorange}\thepage}
-\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0pt}
 
 \hypersetup{
@@ -48,7 +54,8 @@
 \fcolorbox{tierraorange}{lightorange}{\parbox{0.95\textwidth}{
 \vspace{0.8em}
 {\large\bfseries\color{darkorange} TIERRA BAR}\\[0.2em]
-{\normalsize Business Plan}\\[0.8em]
+{\normalsize Business Plan}\\[0.2em]
+{\normalsize\itshape Management in Global Markets... applying class frameworks.}\\[0.8em]
 {\normalsize Ronan Smith \textbullet\ Gil Arvin \textbullet\ Daniel Tryder \textbullet\ Jacob Peterson}\\[0.3em]
 {\small Prof. Geoffrey Ditta \textbullet\ March 9, 2026}\\[0.3em]
 {\small \copyright\ 2026 Tierra Burrito Bar}\\[0.8em]
@@ -62,12 +69,14 @@
 % ===== 1. OVERVIEW =====
 \section{Overview}\label{sec:overview}
 
-Tierra Bar (Tierra Burrito Bar) operates at Plaza de Isabel II, 5, Madrid Centro, near \'Opera. The concept: customers assemble their own meals from bases, proteins (chicken, carnitas, steak, vegetarian), rice, beans, and salsas. The venue functions as both restaurant and bar, with margaritas and 16 craft beer taps. Weekend closing: 1:30 AM. Delivery via Glovo and Just Eat. Current rating: 9/10 (3,500+ reviews). Locations: Madrid, Barcelona, Salamanca.
+\textbf{So here's the deal.} Tierra Bar (Tierra Burrito Bar)... Plaza de Isabel II, 5, Madrid Centro, near \'Opera. Build-your-own burritos, tacos, nachos. Margaritas, 16 craft taps. Closes 1:30 AM weekends. Glovo, Just Eat. 9/10, 3,500+ reviews. Madrid, Barcelona, Salamanca.
+
+From class: a business plan explains the opportunity, identifies the market, and details how we pursue it (Harvard Business School definition).
 
 \begin{itemize}[leftmargin=*,nosep]
-\item \textbf{Goal:} Position Tierra Bar as the late-night Mexican option for students (Erasmus, study abroad) who want affordable food, drinks, and a place to meet or work.
-\item \textbf{Plan:} Introduce 15\% student discount, Tierra Student Pass (20 euros/month: one free meal per week + drink discounts), reserved late-night tables, and events (Taco Tuesday language exchange, Margarita Meetups).
-\item \textbf{Edge:} Few bars in Madrid combine late hours, craft beer, quality food, student offers, and community events. Tierra Bar has the location and reviews; the student programme creates loyalty.
+\item \textbf{Goal (scope 4.1):} Position Tierra Bar as the late-night Mexican spot for students (Erasmus, study abroad)... affordable food, drinks, community.
+\item \textbf{Plan:} 15\% student discount, Tierra Student Pass (20 euros/month: one free meal/week + drink discounts), reserved late-night tables, events (Taco Tuesday language exchange, Margarita Meetups).
+\item \textbf{Competitive advantage (from class):} Few bars in Madrid combine late hours, craft beer, quality food, student offers, and community. We have the location and reviews. When students find community, they return. That increases profit and reputation.
 \end{itemize}
 
 \vspace{1em}
@@ -75,17 +84,15 @@ Tierra Bar (Tierra Burrito Bar) operates at Plaza de Isabel II, 5, Madrid Centro
 % ===== 2. EXECUTIVE SUMMARY =====
 \section{Executive Summary}
 
-Tierra Bar is a Mexican bar-restaurant in Madrid Centro. Current clientele: tourists, professionals, locals. The proposal is to add students as a core segment.
+\textbf{Alright, let me break this down.} Tierra Bar is a Mexican bar-restaurant in Madrid Centro. Current: tourists, professionals, locals. We're adding students. Erasmus and study abroad need affordable late-night options. Student Pass (20 euros/month) + 15\% discount + events = community. When students find community, they come back. That's our competitive advantage from class.
 
-Erasmus and study abroad students need affordable late-night options. The Student Pass (20 euros/month) and 15\% discount address this. Events build community. Repeat visits matter: cash comes from customers who return.
+\textbf{Market gap:} Madrid has bars and Mexican spots, but almost none target students with discounts and events. We're filling it. ``Go where competitors are''... they validate the market. We differentiate.
 
-Market gap: Madrid has many bars and Mexican restaurants, but almost none target students with discounts and events. Tierra Bar can occupy this space.
+\textbf{PESTLE (macro-environment from class):} Political... SL, Madrid licenses, alcohol license. Economic... tourism 11M, unemployment 9\% (lowest since 2008), student budgets. Social... demand for casual Mexican, late-night venues, veggie options. Tech... reviews, social media, delivery apps. Legal... AESAN, HACCP, minimum wage (1,134 euros full-time, 620 part-time). Environmental... sustainable packaging.
 
-\textbf{PESTLE:} Strong tourism (11M in 2025), unemployment at 9\% (lowest since 2008), demand for casual dining, clear regulations, social media influence, interest in sustainability.
+\textbf{SWOT (from class):} Strengths... location, food, craft beer, late hours, reviews. Weaknesses... no student programme yet. Opportunities... Complutense, UAM, Erasmus, tourism. Threats... Taco Bell, taquer\'ias, cost increases.
 
-\textbf{SWOT:} Strengths: location, food, craft beer, late hours, reviews. Weaknesses: no student programme yet. Opportunities: Complutense, UAM, Erasmus, tourism. Threats: Taco Bell, local taquer\'ias, cost increases.
-
-\textbf{Risks \& response:} Low student uptake $\rightarrow$ intensify university marketing or refocus. Competitors copy $\rightarrow$ emphasise events and partnerships. Costs rise $\rightarrow$ negotiate suppliers. Conclusion: the student focus is viable.
+\textbf{Key takeaway:} Viable. Execute.
 
 \vspace{1em}
 
@@ -100,12 +107,15 @@ Market gap: Madrid has many bars and Mexican restaurants, but almost none target
 \textbf{Mission} & Affordable Mexican food and a welcoming late-night space \\
 \textbf{Values} & Fresh ingredients, generous portions, community \\
 \textbf{Tagline} & Good food, good drinks, good people \\
+\textbf{Course link} & Resources (kitchen, bar, space) + capabilities (events, partnerships) \\
 \end{tabular}
 
 \vspace{1em}
 
 % ===== 4. BUSINESS MODEL CANVAS =====
 \section{Business Model Canvas}\label{sec:bmc}
+
+\textbf{From class:} The BMC has nine blocks. Here's ours:
 
 \begin{center}
 \small
@@ -139,11 +149,13 @@ Complutense, UAM, Glovo, Just Eat, beer suppliers & Rent 20--30\%, supplies 30--
 % ===== 5. PESTLE =====
 \section{PESTLE Analysis}
 
+\textbf{From class: PESTLE = macro-environment.} Political, Economic, Social, Technological, Legal, Environmental. Here's how it applies to Tierra Bar:
+
 \begin{description}[leftmargin=2.5em,style=nextline]
 \item[Political] Sociedad Limitada, Madrid health and operating licenses, alcohol license, labour laws.
-\item[Economic] Student budgets limited; tourism high (11M); inflation; unemployment 9\%.
-\item[Social] Demand for casual Mexican and late-night venues; vegetarian/gluten-free trends; craft beer appeal.
-\item[Technological] Reviews (Google, Yelp), social media, delivery apps, contactless payment.
+\item[Economic] Student budgets limited; tourism high (11M); inflation; unemployment 9\% (lowest since 2008).
+\item[Social] Demand for casual Mexican, late-night venues, veggie/gluten-free options, craft beer. Community matters.
+\item[Technological] Reviews (Google, Yelp), social media, delivery apps (Glovo, Just Eat), contactless payment.
 \item[Legal] AESAN, HACCP, alcohol licensing, minimum wage (1,134 euros full-time, 620 euros part-time).
 \item[Environmental] Sustainable packaging, waste reduction.
 \end{description}
@@ -152,6 +164,8 @@ Complutense, UAM, Glovo, Just Eat, beer suppliers & Rent 20--30\%, supplies 30--
 
 % ===== 6. SWOT =====
 \section{SWOT Analysis}\label{sec:swot}
+
+\textbf{From class:} SWOT = internal (S/W) + external (O/T). Be specific.
 
 \begin{center}
 \small
@@ -182,6 +196,8 @@ Madrid received over 11 million tourists in 2025. Casual Mexican food and craft 
 % ===== 8. COMPETITION =====
 \section{Competitive Analysis}
 
+\textbf{So who else is in this market?} From class: who serves the market? What's the gap?
+
 Competitors: Taco Bell (chain, different positioning), local taquer\'ias (smaller, less bar-focused), general bars in Centro. Tierra Bar differentiates through customisable food, 16 craft taps, margaritas, late hours, and reviews. Almost no competitor targets students with discounts and events. Going where competitors are confirms the market; our student programme creates differentiation. Resources (location, kitchen, bar) and capabilities (events, partnerships) support this.
 
 \vspace{1em}
@@ -193,16 +209,18 @@ Competitors: Taco Bell (chain, different positioning), local taquer\'ias (smalle
 
 \textbf{Short-term (0--12 months):} Launch 15\% discount and Student Pass. Reserve study tables. First Taco Tuesday and Margarita Meetup. Flyers at Complutense and UAM. Scale events if attendance justifies.
 
-\textbf{Long-term (1--3 years):} Establish as the Mexican bar for study abroad. Consider second location. Focus: university partnerships, retention, word-of-mouth. Strategy is long-term (15 years, not 15 days).
+\textbf{Long-term (1--3 years) from class:} Establish as the Mexican bar for study abroad. Second location (Chamber\'i, Moncloa). Focus: university partnerships, retention, word-of-mouth. Quote from Week 5: ``Strategy is for 15 years, not for 15 days. Slow is fast.''
 
 \vspace{1em}
 
 % ===== 10. CONTINGENCY =====
 \section{Contingency Plan}
 
+\textbf{From class:} Contingency plan covers key scenarios. Here's what we do if things go wrong:
+
 \begin{itemize}[leftmargin=*,nosep]
 \item \textbf{Low student uptake:} Intensify marketing at Complutense and UAM. Survey and adjust. After 12 months, refocus on tourists and locals if needed.
-\item \textbf{Competitor copy:} Emphasise events, partnerships, craft beer, study tables.
+\item \textbf{Competitor copy:} Emphasise events, partnerships, craft beer, study tables. We have the infrastructure.
 \item \textbf{Rising costs:} Negotiate suppliers; small price adjustment if necessary; keep student offer reasonable.
 \item \textbf{Seasonal dip:} Focus on locals and semester Student Passes. Erasmus peaks: Sept, Feb.
 \item \textbf{Events underperform:} Change format, timing, or type (e.g. quiz night, live music).
@@ -213,9 +231,11 @@ Competitors: Taco Bell (chain, different positioning), local taquer\'ias (smalle
 % ===== 11. MARKETING =====
 \section{Marketing Plan}
 
+\textbf{From class:} Marketing plan needs market research, 4P's, calendar, budget Year 1. Let's break it down.
+
 \textbf{Research:} Qualitative (student interviews: preferences, events, willingness to pay) and quantitative (survey: usage, frequency, demographics).
 
-\textbf{4P's:}
+\textbf{4P's (from class):}
 \begin{itemize}[leftmargin=*,nosep]
 \item \textbf{Product:} Mexican bar, burritos/tacos/nachos, craft beer, margaritas, student discount, Student Pass, events
 \item \textbf{Price:} \`a la carte; 15\% student discount; Student Pass 20 euros/month
@@ -243,6 +263,25 @@ University partnership & 50 \\
 \bottomrule
 \end{tabular}
 \end{center}
+
+\vspace{1em}
+
+% ===== 12. LINK TO COURSE CONCEPTS =====
+\section{Link to Course Concepts}\label{sec:venture}
+
+\textbf{So what did we learn in class that applies here?}
+
+\textbf{Location is the masterpiece:} Plaza Isabel II, Madrid Centro. Near Opera, tourism, students. Right place.
+
+\textbf{Go where competitors are:} Taco Bell, taquer\'ias validate the market. Tierra Bar differentiates with student focus, events, craft beer, late hours.
+
+\textbf{Resources vs capabilities:} Resources: kitchen, bar, 16 taps, space, ingredients. Capabilities: events, university partnerships. From the course.
+
+\textbf{Four phases:} Conceive (plan) $\rightarrow$ Execute (improvement) $\rightarrow$ Establish (run) $\rightarrow$ Expand (scale). We're in Execute.
+
+\textbf{Internationalization:} Madrid, Barcelona, Salamanca already. Geographic expansion follows the course's internationalization logic.
+
+\textbf{If you take away one thing:} Business plan = opportunity + market + how to pursue. Single story. That's what we're doing here.
 
 \vspace{1.5em}
 \noindent

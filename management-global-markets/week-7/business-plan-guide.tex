@@ -1,15 +1,22 @@
-% Management in Global Markets – Business Plan (CaféOlé!)
+% Management in Global Markets... Business Plan (CaféOlé!)
 % Format and colours match Global Management Project.pdf
 % Compile: pdflatex business-plan-guide.tex
+% Font: Comic Neue (handwritten feel, print style)
 
-\documentclass[11pt,a4paper]{article}
+\documentclass[12pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage[margin=2.5cm]{geometry}
+\usepackage[default]{comicneue}
+\usepackage[margin=2.8cm, top=3.2cm, bottom=3cm]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{ragged2e}
+\RaggedRight
 \usepackage{enumitem}
 \usepackage[table]{xcolor}
 \usepackage{parskip}
 \usepackage{booktabs}
+\usepackage{titlesec}
 \usepackage{fancyhdr}
 \usepackage{hyperref}
 \usepackage{microtype}
@@ -24,8 +31,13 @@
 \pagestyle{fancy}
 \fancyhf{}
 \fancyfoot[C]{\small\textcolor{sectionblue}{\thepage}}
+\fancyhead[C]{\small\textcolor{sectionblue}{Caf\'eOl\'e! Clubworking}}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
+
+% Section style: unnumbered, blue, with rule below (notes feel)
+\titleformat{\section}[block]{\normalfont\large\bfseries\color{sectionblue}}{}{0pt}{}[\vspace{-0.2em}\textcolor{sectionblue}{\rule{\textwidth}{0.5pt}}\vspace{0.4em}]
+\titlespacing*{\section}{0pt}{1.5em}{0.8em}
 
 \hypersetup{
   colorlinks=true,
@@ -38,14 +50,15 @@
 
 \begin{document}
 
-% ========== FRONT PAGE (like Global Management Project.pdf) ==========
+% ========== FRONT PAGE ==========
 \thispagestyle{empty}
 \begin{center}
 \vspace*{1.5cm}
 {\large Facultad de Geograf\'ia e Historia}\\[1.5em]
 {\LARGE\bfseries\color{eublue} Global Management:}\\[0.3em]
 {\LARGE\bfseries\color{eublue} Business Plan}\\[1em]
-{\large Caf\'eOl\'e! Clubworking}\\[2em]
+{\large Caf\'eOl\'e! Clubworking}\\[0.5em]
+{\normalsize\itshape Management in Global Markets... applying what we learned in class.}\\[1.5em]
 {\normalsize Chloe Borders, Ava Pelz, Jade Zhao}\\[0.5em]
 {\small \copyright\ 2024 Caf\'eOl\'e. Produced by WSI. All rights reserved.}\\[1em]
 {\normalsize Profesor Geoffrey Ditta}\\[0.3em]
@@ -90,40 +103,36 @@ All logos, branding systems, mockups, marketing materials, and design concepts i
 \item \hyperref[sec:strategy]{\textcolor{charcoal}{Strategic Plan}}
 \item \hyperref[sec:contingency]{\textcolor{charcoal}{Contingency Plan}}
 \item \hyperref[sec:marketing]{\textcolor{charcoal}{Marketing Plan}}
+\item \hyperref[sec:venture]{\textcolor{charcoal}{Link to Course Concepts}}
 \end{itemize}
 \newpage
 
-% ========== INTRODUCTION (like PDF - prose format) ==========
+% ========== INTRODUCTION ==========
 \section*{\color{sectionblue}Introduction to Caf\'eOl\'e! Clubworking}\label{sec:intro}
 
-Caf\'eOl\'e! is an existing work cafe located in Chamber\'i, Madrid. It is an environment that provides features such as wifi, private workspaces, networking events, and affordable snacks and drinks for customers. Customers can either reserve a space online at the cafe or walk in. For five euros per hour, customers can work at the cafe and get unlimited coffee and snacks for as long as they pay. If they want to purchase a day pass, it is 25 euros, which includes Caf\'eOl\'e!'s perks for the entire day.
+\textbf{So here's the deal.} Caf\'eOl\'e! is an existing work cafe in Chamber\'i, Madrid. Wifi, private workspaces, networking events, affordable snacks and drinks. Reserve online or walk in. Five euros per hour or 25 euros day pass... unlimited coffee and snacks. From class: a business plan explains the opportunity, identifies the market, and details how we pursue it (Harvard Business School definition).
 
-\textbf{Scope-objective:}\\
-Provide a safe and reliable workspace for students, especially those studying abroad or on an Erasmus. Allow study abroad students to connect in a more professional and academic environment.
+\textbf{Scope and objective (from the course structure 4.1):}\\
+Make it suitable for students, especially Erasmus and study abroad. Right now we're geared towards professionals. The improvement: student discounts (e.g. 30 euros/month), university partnerships (Complutense), events (study groups, language exchanges). Target: students who need safe, reliable workspace and community. ``Feel at home in a new city''... that's the pathos from class.
 
-\textbf{Improvement:}\\
-Currently, Caf\'eOl\'e! is geared towards professionals seeking a reliable work environment. We propose to make Caf\'eOl\'e! a more suitable place for students, especially those studying abroad or on an Erasmus program. This improvement will include special deals for students, like discounts on hourly work rates and monthly memberships (e.g. 30 euros per month). These discounts could be advertised at schools, and students could use their student cards at the cafe. Additionally, we propose to add events designated to connecting students to each other and other opportunities in Madrid. This will allow them to feel more at home in a new city, and it will allow them to connect with other students who are passionate about their academic and professional goals. It could also motivate students to do their schoolwork because they will be surrounded by other motivated peers.
-
-\textbf{Competitive advantage:}\\
-A competitive advantage of this improvement is a work cafe with students as their main focus. There are several work cafes in Madrid, but few, if any, of them cater to students, especially study abroad students. With this, a competitive advantage is customer loyalty. When students find community at a place like this, they are likely to come back. This increases both profit and reputation of the business. Partnering with local universities like Complutense could increase the number of students who regularly go to Caf\'eOl\'e!.
+\textbf{Competitive advantage (from class):}\\
+Professor said ``location is the masterpiece.'' Chamber\'i is near University City, corporate areas, tourism. The gap: most Madrid cafes have limited space, limited free wifi, turn away laptops at peak. Caf\'eOl\'e! has high-speed internet, quiet zones, communal seating. We can bridge the gap. When students find community, they return. That increases profit and reputation. ``Go where competitors are''... La Bicicleta and Federal validate the market. We differentiate with student focus and infrastructure.
 
 \vspace{0.5em}
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
-% ========== EXECUTIVE SUMMARY (approx. 1 page) ==========
+% ========== EXECUTIVE SUMMARY ==========
 \section*{\color{sectionblue}Executive Summary}\label{sec:exec}
 
-Caf\'eOl\'e! is an existing work cafe located in Chamber\'i, Madrid. It provides features such as wifi, private workspaces, networking events, and affordable snacks and drinks for customers. Customers can either reserve a space online at the cafe or walk in. For five euros per hour, customers can work at the cafe and get unlimited coffee and snacks for as long as they pay. If they want to purchase a day pass, it is 25 euros, which includes Caf\'eOl\'e!'s perks for the entire day. Right now, the cafe is geared primarily towards professionals seeking a reliable work environment.
+\textbf{Alright, let me break this down.} Caf\'eOl\'e! is a work cafe in Chamber\'i... 5 euros/hour, 25 euros day pass, unlimited coffee and snacks, wifi, workspaces. Right now it's pro-focused. We're shifting to students. Madrid has 11M+ tourists (from class), Erasmus every semester, and basically zero cafes built for the ``work 4 hours and maybe meet people'' crowd. We're already set up for it. High-speed internet, quiet zones, printers. The gap is real.
 
-We propose to shift the focus so that students can use it too, especially Erasmus and study abroad participants. They need somewhere to work that is not their flat, and they often want to meet others. Our improvement will include student discounts (20\% off the hourly rate), a monthly membership of 30 euros, university partnerships (Complutense), and community events such as language exchanges and study groups. Students can use their student cards at the cafe. The point is to give them a reliable spot and a bit of community. Study abroad can be lonely; when students find community at a place like this, they are likely to come back. This increases both profit and reputation of the business.
+\textbf{The improvement (course 4.1):} Student discount (20\% off), 30 euros/month membership, Complutense partnership, community events (language exchange, study groups). When students find community, they come back. Customer loyalty... that's our competitive advantage from class.
 
-Madrid has plenty of cafes but not many that really work for students who need to sit with a laptop for hours. A lot of them have limited wifi, or they will ask you to put the laptop away when it gets busy, especially on weekends. Caf\'eOl\'e! is different. It is built for it. High-speed internet, quiet zones, communal seating. So there is a gap in the market and we are already set up for it. Few work cafes in Madrid cater specifically to students. Caf\'eOl\'e! can fill the gap.
+\textbf{PESTLE (macro-environment from class):} Political... Spain SL, Madrid regulations, health certs. Economic... unemployment 9\% (lowest since 2008), tourism 11M+, student budgets. Social... demand for wifi, work-friendly cafes, healthy food trend. Tech... reviews (Yelp, Google), social media, fast wifi. Legal... AESAN, HACCP, minimum wage (1,134 euros full-time, 620 part-time). Environmental... sustainable packaging, younger generations care.
 
-PESTLE analysis indicates supportive conditions. Tourism is strong, with over 11 million visitors in 2025. Unemployment is at 9\%, the lowest since 2008. People want work-friendly cafes. Chamber\'i is right by University City. Spain's regulations (Sociedad Limitada, health certifications, labour laws) are clear. Social media and online reviews influence visits. Sustainable packaging aligns with younger generations. SWOT highlights our strengths: location, wifi, printers, community. Weaknesses: menu not on website, prices can add up. Opportunities: university partnerships, tourism, gentrification. Threats: La Bicicleta, Federal Cafe, seasonal tourism, rising costs.
+\textbf{SWOT (from class):} Strengths... location, wifi, printers, community. Weaknesses... no menu online, prices add up. Opportunities... university partnerships, gentrification. Threats... La Bicicleta, Federal Cafe, seasonal tourism.
 
-Our competitive advantage is a work cafe with students as the main focus. La Bicicleta and Federal Cafe are established competitors, but the majority of cafes in Madrid have limited space, limited free wifi, and can turn away laptops at peak hours. Where they fall short, Caf\'eOl\'e! can step in. We have existing infrastructure: high-speed internet, dedicated quiet zones, communal seating. With further additions that help cater more toward a student population, Caf\'eOl\'e! has the potential to become the next best cafe that both students and professionals can thrive in.
-
-Key risks include competitor response and cost pressures. We have contingency plans: if student uptake is low, we push university marketing and can refocus on professionals; if competitors copy us, we emphasise infrastructure and partnerships; if costs rise, we negotiate suppliers; if tourism drops, we target locals; if tech fails, we ensure backup internet. Success depends on execution. University partnerships take time to formalise. Student uptake must be validated. Overall, we conclude that the student-focused improvement is viable and will support customer loyalty, profitability, and reputation.
+\textbf{Key takeaway:} We're the only one targeting students. Most Madrid cafes have limited wifi and turn away laptops at peak. We don't. Viable. Execute.
 
 \vspace{0.5em}
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
@@ -131,17 +140,19 @@ Key risks include competitor response and cost pressures. We have contingency pl
 % ========== COMPANY DESCRIPTION ==========
 \section*{\color{sectionblue}Company Description}\label{sec:company}
 
-Caf\'eOl\'e! Clubworking is a Sociedad Limitada (SL) located in Chamber\'i, Madrid, near University City and corporate areas. Products and services include the work cafe model: 5 euros per hour or 25 euros day pass, unlimited coffee and snacks, wifi, private workspaces, printers, quiet zones. Student membership: 30 euros per month. Events: language exchange, study groups. Mission: provide reliable workspace and community for professionals and students. Values: quality coffee, reliable wifi, inclusive community. Value proposition: ``Feel at home in a new city''---safe, reliable workspace and community for study abroad students. Operations: Madrid; international clientele (Erasmus, study abroad); potential expansion.
+\textbf{Company description (course 4.2):} Caf\'eOl\'e! Clubworking is a Sociedad Limitada (SL) in Chamber\'i, Madrid... near University City, corporate, tourism. Model: 5 euros/hour or 25 euros day pass, unlimited coffee and snacks, wifi, workspaces, printers, quiet zones. Student membership: 30 euros/month. Events: language exchange, study groups. Mission: reliable workspace and community for professionals and students. Values: quality coffee, reliable wifi, inclusive community. Value proposition: ``Feel at home in a new city.'' From class: resources (wifi, printers, space) and capabilities (community building, events).
 
 \vspace{0.5em}
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
-% ========== BUSINESS MODEL CANVAS ==========
+% ========== BUSINESS MODEL CANVAS (course 4.2) ==========
 \section*{\color{sectionblue}Business Model Canvas}\label{sec:bmc}
+
+\textbf{From class:} The BMC has nine blocks. Here's ours:
 
 \textbf{\textcolor{cafebrown}{Customer segments:}} Students (Erasmus, study abroad) and professionals seeking a reliable work environment.
 
-\textbf{\textcolor{cafebrown}{Value proposition:}} Reliable wifi, community events (language exchange, study groups), unlimited coffee and snacks, quiet zones, printers. ``Feel at home in a new city.''
+\textbf{\textcolor{cafebrown}{Value proposition:}} Reliable wifi, community events (language exchange, study groups), unlimited coffee and snacks, quiet zones, printers. ``Feel at home in a new city.'' Community-first, built for the vibe.
 
 \textbf{\textcolor{cafebrown}{Channels:}} In-store, online reservations (cafeole-clubworking.com), social media (Instagram, TikTok).
 
@@ -158,26 +169,30 @@ Caf\'eOl\'e! Clubworking is a Sociedad Limitada (SL) located in Chamber\'i, Madr
 \vspace{0.5em}
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
-% ========== PESTLE ANALYSIS (like PDF - prose) ==========
+% ========== PESTLE ANALYSIS (course 4.3) ==========
 \section*{\color{sectionblue}PESTLE Analysis}\label{sec:pestle}
 
-\textbf{\textcolor{cafebrown}{Political Factors:}} Following Spain's small business regulations, such as Sociedad Limitada, a limited liability company. City of Madrid policies and regulations for small businesses, such as Caf\'eOl\'e!. In Madrid, cafes must have health and hygiene certifications and a business operating license. The cafe must comply with Spain's strict labor laws, like minimum wage requirements and working hour regulations.
+\textbf{From class: PESTLE = macro-environment.} Political, Economic, Social, Technological, Legal, Environmental. Here's how it applies to Caf\'eOl\'e!:
 
-\textbf{\textcolor{cafebrown}{Economic Factors:}} Caf\'eOl\'e! must consider student budgets, as they typically have limited amounts of money. Many students are also unemployed, which would make the student discount helpful. They must also factor in the high cost of living in Madrid, which could decrease the number of customers. However, tourism in Madrid is high, which could increase profits. Tourism could bring travelers who need to work remotely.
+\textbf{\textcolor{cafebrown}{Political:}} Spain Sociedad Limitada (SL). Madrid: health and hygiene certifications, business operating license. Labour laws: minimum wage, working hours.
 
-\textbf{\textcolor{cafebrown}{Social Factors:}} Demand for reliable WiFi and work-friendly cafes in Madrid increases the popularity of places like Caf\'eOl\'e!. Many students are looking for good places to study near their university. Caf\'eOl\'e! is located close to the ``University City'' part of Madrid, which could increase customer numbers. Professionals in need of a change in environment from their work are driven to go to work cafes, increasing Caf\'eOl\'e!'s demand. It is prevalent among many people that cafes should have healthy food and drinks, which could influence demand.
+\textbf{\textcolor{cafebrown}{Economic:}} Student budgets limited... discount helps. Unemployment 9\% (2025) lowest since 2008... more customers. Tourism 11M+... remote workers need workspace. Inflation affects food and supplies.
 
-\textbf{\textcolor{cafebrown}{Technological Factors:}} Online reviews through Yelp or Google could influence a customer on their decision to visit the cafe. Social media activity is another factor because an aesthetic Instagram or a popular TikTok about the cafe could sway a customer into visiting. Fast WiFi and reliable internet are key to retaining customers. Printers and contactless payment systems such as Apple Pay are also useful technological factors for the business.
+\textbf{\textcolor{cafebrown}{Social:}} Demand for reliable wifi and work-friendly cafes. Students want study spaces near university. Professionals want change of environment. Trend: healthy food and drinks in cafes.
 
-\textbf{\textcolor{cafebrown}{Legal Factors:}} Caf\'eOl\'e! must adhere to national health regulations through the Agency for Food Safety and Nutrition (AESAN). HACCP (Hazard Analysis and Critical Control Points) is required for businesses to follow for food safety. They must also follow minimum wage requirements, which means that they must pay employees at least 1,134 euros a month if full-time (40 hours) and 620 euros a month for part-time (20 hours).
+\textbf{\textcolor{cafebrown}{Technological:}} Online reviews (Yelp, Google) influence visits. Social media (Instagram, TikTok) drives traffic. Fast wifi, reliable internet: key for retention. Printers, contactless payment (Apple Pay).
 
-\textbf{\textcolor{cafebrown}{Environmental Factors:}} Brand image can be improved if they use sustainable packaging and practices. Younger generations generally pay attention to recycling and sustainable practices, which would help with the cafe's new focus on student customers. Additionally, Caf\'eOl\'e! could reduce environmental impact and long-term costs by investing in cleaner energy appliances.
+\textbf{\textcolor{cafebrown}{Legal:}} AESAN (Agency for Food Safety and Nutrition). HACCP required. Minimum wage: 1,134 euros full-time (40h), 620 euros part-time (20h).
+
+\textbf{\textcolor{cafebrown}{Environmental:}} Sustainable packaging improves brand image. Younger generations value recycling and sustainability. Cleaner energy: reduce impact and long-term costs.
 
 \vspace{0.5em}
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
-% ========== SWOT ANALYSIS (like PDF - prose) ==========
+% ========== SWOT ANALYSIS (course 4.3) ==========
 \section*{\color{sectionblue}SWOT Analysis}\label{sec:swot}
+
+\textbf{From class:} SWOT = internal (Strengths, Weaknesses) + external (Opportunities, Threats). Be specific.
 
 \textbf{\textcolor{cafebrown}{Strengths:}} Caf\'eOl\'e!'s ability to bring a reliable environment for a wide range of professional and student audiences. Quality coffee and pastries, all included in the hourly usage fee. Central location in Chamber\'i, close to corporate areas and universities. Fast WiFi and printers, variables that are not found in all coffee shops in Madrid. Community aspects like networking and language exchanges.
 
@@ -198,8 +213,10 @@ In 2025, Madrid had over 11 million tourists, meaning that tourism is a reliable
 \vspace{0.5em}
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
-% ========== COMPETITIVE ANALYSIS (like PDF - prose) ==========
+% ========== COMPETITIVE ANALYSIS (course 4.4) ==========
 \section*{\color{sectionblue}Competitive Analysis}\label{sec:competition}
+
+\textbf{So who else is in this market?} From class: competitive analysis asks who serves the market and what's the gap.
 
 As discussed, Caf\'eOl\'e! caters itself as a ``clubworking'' and ``professional/coworking'' coffee destination with premium membership prices up to 300 euros per month with inclusion such as wifi, workstations, available coffee, printers, scanners, storage services, private rooms, and meeting rooms. However, 300 euros a month can be a steep price for students, as many do not work, isolating this cafe as a ``professional'' one. Moreover, Caf\'eOl\'e! faces stiff competition due to Madrid's competitive cafe scene and already-established cafes that are laptop and study-friendly, such as La Bicicleta in Malasa\~na and the Federal Cafe in Chamber\'i. For example, La Bicicleta offers moderate pricing for food and specialty coffees, laptop-friendly tables, access to wifi, and an urban space that makes this cafe highly competitive and extremely appealing to not only professionals, but the student population as well.
 
@@ -208,40 +225,46 @@ However, the majority of cafes in Madrid that cater to students and professional
 \vspace{0.5em}
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
-% ========== STRATEGIC PLAN (like PDF) ==========
+% ========== STRATEGIC PLAN (course 4.5) ==========
 \section*{\color{sectionblue}Strategic Plan}\label{sec:strategy}
 
-Objectives: (1) Make Caf\'eOl\'e! the go-to place for students and Erasmus in Chamber\'i. (2) Retain professionals. We are not replacing them, just adding. The strategy is differentiation. What makes us different: we focus on students, we do community events (language exchange, study groups, tutoring), we have wifi and printers that work, unlimited coffee and snacks. Other cafes in Madrid either limit laptop use or have unreliable wifi. We have the location (Chamber\'i, near universities, corporate, tourism), the infrastructure, the space.
+\textbf{From class:} Strategic plan needs vision, mission, values, objectives, short-term (0--12 months), long-term (1--3 years). Quote from Week 5: ``Strategy is for 15 years, not for 15 days. Slow is fast.''
 
-Short-term (0--12 months): Roll out the student discount (20\% off hourly, 30 euros monthly membership). Put the menu on the website. Get in touch with Complutense for a partnership. Flyers, accept student cards for discount. Run 1 event per week at first (language exchange or study group). Scale to 2--3 per month if attendance justifies it.
+\textbf{Objectives:} (1) Make Caf\'eOl\'e! the go-to place for students and Erasmus in Chamber\'i. (2) Retain professionals. We're not replacing them, just adding. Differentiation: we focus on students, community events (language exchange, study groups), wifi and printers that work, unlimited coffee and snacks. Other cafes limit laptop use or have unreliable wifi. We have the location (Chamber\'i, near universities, corporate, tourism), the infrastructure, the space.
 
-Long-term (1--3 years): Be the recognised work cafe for study abroad students in Madrid. Once that is working, look at a second location or franchise. Key success factors: university partnerships, student retention, word-of-mouth. Maintain wifi, coffee, quiet zones.
+\textbf{Short-term (0--12 months) from class:} Roll out student discount (20\% off hourly, 30 euros monthly membership). Put the menu on the website. Get in touch with Complutense for a partnership. Flyers, accept student cards. Run 1 event per week at first (language exchange or study group). Scale to 2--3 per month if attendance justifies it.
+
+\textbf{Long-term (1--3 years) from class:} Be the recognised work cafe for study abroad in Madrid. Second location or franchise. Key success factors: university partnerships, retention, word-of-mouth. Maintain wifi, coffee, community.
 
 \vspace{0.5em}
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
-% ========== CONTINGENCY PLAN (like PDF) ==========
+% ========== CONTINGENCY PLAN (course 4.6) ==========
 \section*{\color{sectionblue}Contingency Plan}\label{sec:contingency}
 
-\textbf{\textcolor{cafebrown}{Low student uptake:}} If after 6 months we have fewer than 15--20 regular student users, we push harder on university marketing. Complutense, flyers. Run a survey to find out what is not working. Adjust the offer. If it still does not work after 12 months, we refocus on professionals. We are not burning bridges.
+\textbf{From class:} Contingency plan covers key scenarios. Here's what we do if things go wrong:
 
-\textbf{\textcolor{cafebrown}{Competitor response:}} La Bicicleta in Malasa\~na and Federal Cafe in Chamber\'i are the main competitors. If they start copying our student offer, we lean into what they cannot easily copy: the dedicated work setup, printers, quiet zones, university partnerships. We have the infrastructure.
+\textbf{\textcolor{cafebrown}{Low student uptake:}} Push university marketing. Complutense, flyers. Run a survey to find out what's not working. Adjust the offer. If it still doesn't work after 12 months, refocus on professionals. We're not burning bridges.
 
-\textbf{\textcolor{cafebrown}{Rising costs:}} Inflation hits food and supplies. We would talk to suppliers for better terms. Maybe a small price adjustment. We would try to keep the student rate reasonable.
+\textbf{\textcolor{cafebrown}{Competitor response:}} La Bicicleta and Federal Cafe are the main competitors. If they copy our student offer, we lean into what they can't easily copy: dedicated work setup, printers, quiet zones, university partnerships. We have the infrastructure.
 
-\textbf{\textcolor{cafebrown}{Seasonal drop:}} Tourism peaks in summer, dips Jan--Feb. Erasmus arrivals Sept/Feb. When it is quiet, we focus more on locals and semester memberships for students so they are locked in.
+\textbf{\textcolor{cafebrown}{Rising costs:}} Negotiate suppliers for better terms. Maybe a small price adjustment. Keep the student rate reasonable.
 
-\textbf{\textcolor{cafebrown}{Tech failure:}} If the wifi goes, we are in trouble. We would need backup internet and proper maintenance. Fast wifi and reliable internet are key for retention.
+\textbf{\textcolor{cafebrown}{Seasonal drop:}} Tourism peaks summer, dips Jan--Feb. Erasmus arrivals Sept/Feb. When it's quiet, focus on locals and semester memberships for students.
+
+\textbf{\textcolor{cafebrown}{Tech failure:}} If the wifi goes, we're in trouble. From class: ``If the WiFi goes out, we are all in trouble.'' Backup internet and proper maintenance. Fast wifi and reliable internet are key for retention.
 
 \vspace{0.5em}
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
 
-% ========== MARKETING PLAN (like PDF) ==========
+% ========== MARKETING PLAN (course 4.7) ==========
 \section*{\color{sectionblue}Marketing Plan}\label{sec:marketing}
+
+\textbf{From class:} Marketing plan needs market research, 4P's, calendar, budget Year 1. Let's break it down.
 
 \textbf{\textcolor{cafebrown}{Market research:}} Qualitative (interviews with students: what do they want? which events? willingness to pay?) and quantitative (survey: how many would use 30 euros per month? how often? demographics). Both required by the course.
 
-\textbf{\textcolor{cafebrown}{Marketing Mix (4P's):}}
+\textbf{\textcolor{cafebrown}{Marketing Mix (4P's) from class:}}
 \begin{itemize}[leftmargin=*,nosep]
 \item \textbf{Product:} Work cafe with wifi, printers, coffee, snacks, quiet zones, community events, student membership.
 \item \textbf{Price:} 5 euros/hour, 25 euros day pass. Student: 30 euros/month. Premium: up to 300 euros/month.
@@ -249,7 +272,7 @@ Long-term (1--3 years): Be the recognised work cafe for study abroad students in
 \item \textbf{Promotion:} Instagram, TikTok, Yelp, Google, university flyers, Complutense partnership, word-of-mouth.
 \end{itemize}
 
-\textbf{\textcolor{cafebrown}{Calendar:}}
+\textbf{\textcolor{cafebrown}{Calendar (from class):}}
 \begin{itemize}[leftmargin=*,nosep]
 \item Month 1: Social media setup, menu on website, student discount announced.
 \item Month 2: Flyers at Complutense, student card verification, first posts.
@@ -278,6 +301,29 @@ Complutense partnership (in-kind or small fee) & 50 \\
 \bottomrule
 \end{tabular}
 \end{center}
+
+\vspace{0.5em}
+\noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
+
+\vspace{0.5em}
+\noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
+
+% ========== LINK TO COURSE CONCEPTS (from class) ==========
+\section*{\color{sectionblue}Link to Course Concepts}\label{sec:venture}
+
+\textbf{So what did we learn in class that applies here?}
+
+\textbf{\textcolor{cafebrown}{Location is the masterpiece:}} Chamber\'i: universities, corporate, tourism. Right place. From the course.
+
+\textbf{\textcolor{cafebrown}{Go where competitors are:}} La Bicicleta and Federal Cafe validate the market. Caf\'eOl\'e! differentiates with student focus and infrastructure.
+
+\textbf{\textcolor{cafebrown}{Resources vs capabilities:}} Resources: wifi, printers, space. Capabilities: community building, events. From the course.
+
+\textbf{\textcolor{cafebrown}{Four phases:}} Conceive (plan) $\rightarrow$ Execute (improvement) $\rightarrow$ Establish (run) $\rightarrow$ Expand (scale). We're in Execute.
+
+\textbf{\textcolor{cafebrown}{Internationalization:}} Geographic expansion (Barcelona, Valencia, Lisbon) follows the course's internationalization logic. Our competitive advantage (student focus, community) is defensible. The macro (PESTLE) supports it.
+
+\textbf{If you take away one thing:} Business plan = opportunity + market + how to pursue. No standard form; single story. That's what we're doing here.
 
 \vspace{0.5em}
 \noindent{\color{sectionblue}\rule{\textwidth}{0.4pt}}
