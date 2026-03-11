@@ -1,6 +1,6 @@
 # Moments Abroad in Madrid, Spain 🫶🇪🇸
 
-Catch flights, not feelings ✈️  
+Catch flights, not feelings ✈️
 A visual notebook of Madrid's streets, landmarks, and everyday corners.
 
 ---
@@ -135,28 +135,28 @@ The churrigueresque portal of the Museo de Historia de Madrid, its intricate sto
 
 ## Locations Featured
 
-Iglesia de San Jerónimo el Real · Historic church near the Prado  
-Gran Vía · Madrid's main shopping and entertainment avenue  
-Plaza de España · Iconic square with the Cervantes monument  
-Museo del Prado · World‑renowned art museum  
-Palacio Real de Madrid · The Royal Palace  
-Catedral de la Almudena · Madrid's cathedral  
-Centro Histórico · The historic city center  
-Plaza Mayor · Central square with painted façades and arcades  
-Universidad Complutense de Madrid · Campus and surrounding parks  
-Toledo · Medieval hilltop city with river views and fortifications  
-Plaza del Callao · Rooftop views over central Madrid at sunset  
-Arco de la Victoria · Triumphal arch at Moncloa with bronze quadriga  
-Puerta del Sol · Kilometer zero and one of Madrid's main squares  
-El Oso y el Madroño · Bear and strawberry tree statue, symbol of the city  
-Real Casa de Correos · Historic post office and clock tower in Puerta del Sol  
-EY Tower & El Corte Inglés · Landmarks of Madrid's modern business district  
-Mercado de San Miguel · Historic iron market near Plaza Mayor  
-La Latina · Bohemian neighborhood, home to El Rastro Sunday flea market  
-Parque del Retiro · Madrid's beloved central park and green lung  
-Palacio de Cristal · Glass and iron palace within Retiro Park  
-Jardines de Sabatini · Formal gardens bordering the Royal Palace  
-Templo de Debod · Ancient Egyptian temple gifted to Spain, iconic sunset spot  
+Iglesia de San Jerónimo el Real · Historic church near the Prado
+Gran Vía · Madrid's main shopping and entertainment avenue
+Plaza de España · Iconic square with the Cervantes monument
+Museo del Prado · World‑renowned art museum
+Palacio Real de Madrid · The Royal Palace
+Catedral de la Almudena · Madrid's cathedral
+Centro Histórico · The historic city center
+Plaza Mayor · Central square with painted façades and arcades
+Universidad Complutense de Madrid · Campus and surrounding parks
+Toledo · Medieval hilltop city with river views and fortifications
+Plaza del Callao · Rooftop views over central Madrid at sunset
+Arco de la Victoria · Triumphal arch at Moncloa with bronze quadriga
+Puerta del Sol · Kilometer zero and one of Madrid's main squares
+El Oso y el Madroño · Bear and strawberry tree statue, symbol of the city
+Real Casa de Correos · Historic post office and clock tower in Puerta del Sol
+EY Tower & El Corte Inglés · Landmarks of Madrid's modern business district
+Mercado de San Miguel · Historic iron market near Plaza Mayor
+La Latina · Bohemian neighborhood, home to El Rastro Sunday flea market
+Parque del Retiro · Madrid's beloved central park and green lung
+Palacio de Cristal · Glass and iron palace within Retiro Park
+Jardines de Sabatini · Formal gardens bordering the Royal Palace
+Templo de Debod · Ancient Egyptian temple gifted to Spain, iconic sunset spot
 Adolfo Suárez Madrid–Barajas Airport · Gateway in and out of the city
 
 ---
