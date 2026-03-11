@@ -1,0 +1,27 @@
+---
+description: When adding or changing course content, always update the relevant README and INDEX.md
+alwaysApply: true
+---
+
+# Always Update README and INDEX
+
+When you add, rename, or remove course content in this repo, **you must update the corresponding Markdown** before finishing the task.
+
+## What counts as "content"
+
+- New or changed **class notes** (`YYYY-MM-DD-class-notes.md`)
+- New or changed **files in a week folder** (.tex, .pdf, study guides, etc.)
+- New **week folder** or reorganisation of a course
+- Renamed or removed files that are listed in docs
+
+## What to update
+
+| Change in | Update |
+|-----------|--------|
+| A course (e.g. `introduction-to-eu/week-7/`) | That course’s **README.md** (Structure, and File Types if needed) |
+| Dates or topics for a week | Root **INDEX.md** (that course’s week table) |
+| Root-level or cross-course | Root **README.md** and/or **INDEX.md** |
+
+## Before you're done
+
+Ask: **"Did I update the README and INDEX wherever this change is visible?"** If not, update them.

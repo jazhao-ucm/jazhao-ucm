@@ -10,5 +10,13 @@ Course notes and materials for UCM (Universidad Complutense de Madrid). Multi-co
 
 ## When editing
 - Preserve the outline structure in class notes
-- Keep READMEs and INDEX.md in sync with folder contents
 - Use jazhao-ucm remote for push/pull (main branch)
+
+## Always update the .md (required)
+When you **add, rename, or remove** any of the following, you **must** update the corresponding Markdown so the repo stays accurate:
+- **New or changed class notes** (`YYYY-MM-DD-class-notes.md`) → update that course’s **README** (Structure section) and, if dates/topics change, root **INDEX.md** (that course’s table).
+- **New or changed files in a week** (e.g. new .tex, new PDF, new study guide) → update that course’s **README** (Structure and/or File Types).
+- **New week folder or major reorg** → update course **README** and **INDEX.md**.
+- **Root-level or cross-course change** → update **README.md** and/or **INDEX.md** at repo root.
+
+Checklist: after any such edit, ask “Did I update the README and INDEX where needed?” and do it before considering the task done.
