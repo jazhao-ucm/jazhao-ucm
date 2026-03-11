@@ -40,7 +40,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 4 | Feb 16–17 | Global Business Portfolio, Business Plan Reunidas |
 | 5 | Feb 23–24 | Internationalization, export, resources & capabilities |
 | 6 | Mar 2–3 | HR Management (Ditta), midterm |
-| 7 | Mar 9 | Global Management Project, Business Plan (CaféOlé, Tierra Bar) |
+| 7 | Mar 9–10 | Global Management Project, Business Plan (CaféOlé, Tierra Bar), work time |
 
 ---
 
