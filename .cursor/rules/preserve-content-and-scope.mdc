@@ -1,0 +1,15 @@
+---
+description: Preserve note content when cleaning; don't modify jadewowgreen or matchaxmoxie unless asked
+alwaysApply: true
+---
+
+# Preserve Content and Scope
+
+## When improving or cleaning
+
+- **Only change:** formatting, structure, typos, trailing whitespace, LaTeX typography (e.g. `vs.\ `, `--` for ranges, microtype).
+- **Do not change:** the substance of class notes, reading summaries, or any written content. Don't rewrite or "improve" meaning.
+
+## Excluded folders
+
+- **Do not modify** `jadewowgreen/` or `matchaxmoxie/` unless the user explicitly asks. Skip them in mass operations (e.g. "every repo", "all courses").

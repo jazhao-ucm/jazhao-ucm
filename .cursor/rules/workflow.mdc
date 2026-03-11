@@ -1,0 +1,23 @@
+---
+description: Quick workflow for common tasks (new notes, push, which week)
+alwaysApply: true
+---
+
+# Workflow
+
+## New class notes for a date
+
+1. **Which week?** Check **INDEX.md** for that course: dates are in the table (e.g. Mar 9–10 = week 7).
+2. Create or edit `YYYY-MM-DD-class-notes.md` in that course's `week-N/` folder.
+3. Update that course's **README** (Structure) and, if the date/topic is new, root **INDEX.md**.
+
+## User says "push"
+
+1. `git status` to see what changed.
+2. `git add` (relevant files or `-A`), `git commit -m "Clear message"`, `git push`.
+3. If working tree clean: say "Nothing to commit; already up to date" (or similar).
+
+## Where things live
+
+- **INDEX.md** = single place for "which week has which dates/topics" per course. Check it when placing or naming content.
+- **Course README** = Structure (week list), File Types. Update when files or structure change in that course.

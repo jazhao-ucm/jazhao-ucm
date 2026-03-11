@@ -3,14 +3,34 @@
 ## Project
 Course notes and materials for UCM (Universidad Complutense de Madrid). Multi-course monorepo.
 
+## Where to look
+- **INDEX.md** (repo root) = dates and topics per week per course. Use it to decide which week a date belongs to.
+- **Each course folder** = its own README (Structure, File Types). Update when you add/change files there.
+- **ucm-midterm/** = one-page cheat sheets for all 5 courses; separate from course week folders.
+
+## When user says "push"
+Stage relevant changes, commit with a clear message (e.g. "Intro EU Mar 10: add exam admin, update README"), push to main (jazhao-ucm). If nothing to commit, say so.
+
+## Don't (unless user asks)
+- No large renames or reorgs across the repo. Prefer small, targeted changes.
+- No .txt for notes—use .md. No .docx—use .md or .tex.
+- Don't guess which week a date is in—check INDEX.md.
+
 ## Conventions
 - **Class notes:** `YYYY-MM-DD-class-notes.md` in `week-N/` folders
 - **Format:** Formal Outline (I, II, III / A, B, C / 1, 2, 3)
 - **Courses:** product-management, introduction-to-eu, management-global-markets, strategic-management, spanish-for-beginners
+- **Study guides:** Topic-named (e.g. `zweig.tex`, `midterm.tex`), not generic `study-guide.tex`. Week-6 main guide = `midterm.tex` per course.
+- **PDFs:** Clear names (e.g. `judt-origins-of-european-union.pdf`). Spanish: unit PDFs in that unit's week; scans = `scan-YYYY-MM-DD.pdf`.
+
+## Source of truth
+- For **course content** (class notes, reading summaries, study guides, exam prep): use **only** what is in the repo and what the user provides in chat. Do not use web search or other external sources to add, "correct," or expand substantive content. The user's notes and materials are the single source of truth.
 
 ## When editing
 - Preserve the outline structure in class notes
 - Use jazhao-ucm remote for push/pull (main branch)
+- **Preserve content:** When improving or cleaning notes/tex, only fix formatting, structure, typos, whitespace. Don't change the substance of class notes or reading content.
+- **Excluded folders:** Don't modify `jadewowgreen/` or `matchaxmoxie/` unless the user explicitly asks.
 
 ## Always update the .md (required)
 When you **add, rename, or remove** any of the following, you **must** update the corresponding Markdown so the repo stays accurate:
@@ -20,3 +40,8 @@ When you **add, rename, or remove** any of the following, you **must** update th
 - **Root-level or cross-course change** → update **README.md** and/or **INDEX.md** at repo root.
 
 Checklist: after any such edit, ask “Did I update the README and INDEX where needed?” and do it before considering the task done.
+
+## Avoid duplicates
+- **Before adding** a new file (especially PDFs, scans, or study materials), check if the same or equivalent content already exists elsewhere in that course (e.g. same PDF in another week, or " (1)" copy).
+- **When reorganising**, prefer **rename/move** over copy so you don't leave duplicates. Remove or replace the old path.
+- **Clean up when you spot:** duplicate filenames (e.g. `file (1).pdf`), same basename in multiple weeks, backup/copy leftovers (`.bak`, `-copy`, ` (1)`). Rename to a clear name or remove the duplicate; update README/INDEX if paths change.

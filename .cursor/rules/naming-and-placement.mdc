@@ -1,0 +1,21 @@
+---
+description: Use topic-based names for study guides; clear names for PDFs; put files in the correct week
+alwaysApply: true
+---
+
+# Naming and Placement
+
+## Study guides (.tex)
+
+- Use **topic-based names** (e.g. `zweig.tex`, `midterm.tex`, `bmc-value-creation.tex`), not generic `study-guide.tex`.
+- Each course's week-6 main guide = `midterm.tex`.
+
+## PDFs and scans
+
+- **Clear names:** e.g. `judt-origins-of-european-union.pdf` instead of `LECTURA Tony Judt (1).pdf`.
+- **Correct week:** Put each file in the week that matches its unit or date.
+- **Spanish:** Unit PDFs in that unit's week; homework/scans = `scan-YYYY-MM-DD.pdf`.
+
+## After rename or move
+
+Update the course **README** and root **INDEX.md** if paths or listed filenames change (see "Always update README and INDEX" rule).
