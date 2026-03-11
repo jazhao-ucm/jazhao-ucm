@@ -22,6 +22,7 @@ Stage relevant changes, commit with a clear message (e.g. "Intro EU Mar 10: add 
 - **Courses:** product-management, introduction-to-eu, management-global-markets, strategic-management, spanish-for-beginners
 - **Study guides:** Topic-named (e.g. `zweig.tex`, `midterm.tex`), not generic `study-guide.tex`. Week-6 main guide = `midterm.tex` per course.
 - **PDFs:** Clear names (e.g. `judt-origins-of-european-union.pdf`). Spanish: unit PDFs in that unit's week; scans = `scan-YYYY-MM-DD.pdf`.
+ - **Spanish self-intros:** When writing about Jade in Spanish (bio, studies, testimony), aim for clear A2-level sentences: mostly present tense (+ very simple past when needed), short clauses, basic connectors (y, pero, porque), and correctness over fancy structures.
 
 ## Source of truth
 - For **course content** (class notes, reading summaries, study guides, exam prep): use **only** what is in the repo and what the user provides in chat. Do not use web search or other external sources to add, "correct," or expand substantive content. The user's notes and materials are the single source of truth.
