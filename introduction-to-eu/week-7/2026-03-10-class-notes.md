@@ -9,10 +9,14 @@
 
 *Use this section first. Plain language. Short sentences.*
 
+## Simple analogy (Ribera vs von der Leyen)
+
+Imagine the EU has two leaders, like two friends playing together. One is **von der Leyen**, the other **Ribera**. Von der Leyen said something Ribera didn't agree with. Ribera thinks following the rules is very important—like in a game, you have to follow the rules or it's not fair. She says it's not right to leave something important (the rules) without paying attention. Ribera is saying: "We must follow the rules!" She is trying to get everyone in the EU to agree with her.
+
 ## Key Words
 - **Text analysis** = Explain context, main idea, argument, key expressions. Do not just retell the story.
 - **International law** = Rules that states agree to follow (UN Charter, Geneva Conventions, etc.).
-- **Multilateralism** = Many countries deciding together. Opposite of one country acting alone.
+- **Multilateralism** = Many countries working together on global issues by involving multiple nations in discussions and decisions. Instead of one or two countries deciding alone, multilateralism encourages cooperation to find common solutions (trade, security, environment). Creates more balanced and widely accepted agreements. *Short:* Many countries deciding together; opposite of one country acting alone.
 - **EU unity** = EU “speaks with one voice” in foreign policy.
 - **Discourse** = How something is talked about (words, frames, concepts).
 
@@ -88,6 +92,13 @@
    - Then identify the main scenes (Schuman, Rome, Maastricht, Lisbon, etc.).
    - The exam texts are *frames* from that movie.
 
+### D. Admin (from class, 10 March)
+
+1. **Monday:** Professor will prepare something very similar to what you've been working on (short extract(s)), with prompts like: provide context for this statement; identify which debate/statement is being discussed; what is the specific meaning of [word] in this context; what are the main elements of the discourse; similarities/differences between texts.
+2. **PowerPoints:** Only the first three sessions are uploaded so far. Last week's and this week's (sessions 4–5) will be uploaded after this class.
+3. **Scope:** Study materials up to and including session 5 (not session 6). Use midterm guide + PowerPoints + class notes.
+4. **Time:** Two hours for the exam; about one hour to one hour fifteen minutes of solid writing is enough.
+
 ---
 
 ## II. Example Text 1: Ribera vs von der Leyen (Reuters, 10 March 2026)
@@ -100,6 +111,20 @@
    - **Ursula von der Leyen** – President of the European Commission.
    - **European Council** and **High Representative** (Kaja Kallas) – will define common EU position.
 4. Context: Escalation of conflict in the **Middle East**. Debate on how the EU positions itself.
+
+### Full text (Reuters, 10 March 2026)
+
+**Teresa Ribera distances herself from Von der Leyen's speech: "Respect for international law is a basic premise"**
+
+REUTERS. The Vice President for a Clean, Fair, and Competitive Transition of the European Commission, Teresa Ribera, during a press conference.
+
+The European Commission Vice President, Teresa Ribera, has admitted that she openly disagrees with the President of the EU Executive, Ursula Von der Leyen, regarding the European Union's stance following the escalation of conflict in the Middle East, and has warned that it is "very dangerous" to enter into a debate that "seems to question international law."
+
+Although she sought to frame Von der Leyen's words as "a thought spoken aloud" and denied that there was any "intention" to sow doubt, she also stated that "the way she expressed herself" was not "appropriate," as she explained in an interview on Onda Cero's Mas de Uno, reported by Europa Press.
+
+Furthermore, she emphasized that it is up to the European Council to establish a position, which will meet next week along with the High Representative of Foreign Affairs, Kaja Kallas, to agree on a common stance.
+
+"Respect for international law is a basic premise," Ribera continued, insisting that this is not just a "moral" position, but one grounded "from the perspective of European security." In this context, she warned that the international order built since the Second World War "cannot be left hanging," nor can there be any doubt about whether to "update it" or leave it "in a drawer," which she cautioned would be a "serious mistake," and denied that it reflects the position defended by Europeans.
 
 ### B. What Ribera says
 1. She openly disagrees with von der Leyen’s speech.
@@ -201,4 +226,22 @@ You can answer:
   - If the EU sends mixed messages, both **friends and rivals** will doubt it.
   - If international law is weakened, **Europeans are less safe**.
   - It shows why understanding **institutions + history** is essential to read one short news text.
+
+---
+
+## V. In-class discussion: Duff, twin executive, Commission vs Council (from same session)
+
+### A. Duff recap (twin executive)
+
+- **Duff** (Andrew Duff): analyses the "twin executive" in the EU—executive power split between a popularly elected president and a prime minister (or in EU terms: Commission President vs European Council).
+- **Core problem:** Two leaders with legitimate but competing mandates create friction; grey areas (e.g. international/economic policy) lead to rivalry and sometimes policy stagnation. "Cohabitation" (president from one party, PM from another) can cause gridlock.
+- **Duff's proposal:** Merge the two roles into one (e.g. single presidency merging Commission + European Council president) so the EU can "speak with one voice." Also: European Council should act as a high-level guardian, not a secondary executive, so lines of responsibility are clear.
+- **Debate in class:** Merging could mean fewer checks on power; Council as "guardian" not "executive" could preserve some checks. Study the system first (Commission vs Council roles), then you can discuss reform.
+
+### B. Commission vs Council (quick reference from class)
+
+- **European Commission:** Executive body; proposes legislation, manages policy, represents EU (e.g. in trade). Led by Commission President (von der Leyen). Must work with member states to implement.
+- **European Council:** Highest political body; heads of state/government. Sets long-term strategy and priorities; does not legislate. Presidency rotates every 6 months. Meets 70–80 times per year in various formats.
+- **Council of the EU:** Represents member states; negotiates and adopts legislation with the Parliament. Different from the European Council (same building, different role—legislative vs strategic).
+- **Takeaway:** When Ribera says "it is up to the European Council to establish a position," she is pointing to who should set the common line—and to the twin-executive tension (Commission President speaking vs Council + High Representative defining the position).
 

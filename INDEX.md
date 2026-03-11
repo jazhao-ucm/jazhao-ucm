@@ -26,7 +26,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 4 | Feb 16–17 | Anderson, Vinen |
 | 5 | Feb 23–24 | Southern enlargement, Delors, Maastricht, Bijsmans, Gilbert, Kenny & Pearce |
 | 6 | Mar 2–3 | Gibraltar, Spanish accession, Euroscepticism, Brexit |
-| 7 | Mar 9 | EU institutions readings |
+| 7 | Mar 9–10 | EU institutions, exam prep (text analysis), Ribera/von der Leyen, Costa, Duff/twin executive |
 | 8 | — | EU institutions by session (6th–13th) |
 
 ---
