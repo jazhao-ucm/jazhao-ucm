@@ -7,8 +7,8 @@ Course notes and materials for Spanish for Beginners at UCM. Instructor: Mercede
 | Type | Format | Location |
 |------|--------|----------|
 | Class notes | Markdown (`.md`) | Each week folder |
-| Study materials | LaTeX (`.tex`) | `week-6/` (study-guide, midterm-cheat-sheet, study-from-chat). Compile: `pdflatex filename.tex` |
-| Textbook & homework | PDF | `week-6/` (Aula Plus, CamScanner scans) |
+| Study materials | LaTeX (`.tex`) | Each week: topic-named `.tex` (e.g. `unit-1-intro.tex`, `unit-2-por-para.tex`). Week 6: `midterm-units-1-3.tex`, `geography-weather.tex`, `midterm-cheat-sheet.tex`, `study-from-chat.tex`. Compile: `pdflatex <filename>.tex` |
+| Textbook & homework | PDF | By week: `unit-N-*.pdf` in that unit’s week; `scan-YYYY-MM-DD.pdf` in week-2. Class notes keep date in filename (`YYYY-MM-DD-class-notes.md`). |
 
 *Midterm cheat sheets for all 5 UCM courses are in `ucm-midterm/` at the repo root (spanish-only.tex, blue-notes-all.tex, etc.).*
 
@@ -29,22 +29,12 @@ All class notes follow the **Formal Outline Note Taking System** format:
 
 ## Structure
 
-- `week-1/` — Jan 28–29: Course intro, Unit 1 start (preguntas, ser/tener/llamarse, números)
-- `week-2/` — Feb 4–5: Unit 1 (números 0–50, nacionalidades, profesiones, 5 lenguas de España)
-- `week-3/` — Feb 12: Unit 2 (por/para/porque, actividades para aprender)
-- `week-4/` — Feb 18–19: Unit 3 (C o qu, pronunciación Carlos/García/Javier/Celia, presente)
-- `week-5/` — Feb 25–26: Unit 3 (listening, vocabulario, exam tips)
-- `week-6/` — Mar 4: Midterm prep; study materials (tex); Aula Plus materials
-
-### Week 6 contents
-
-- `study-guide.tex` — EU blue theme; Units 1–3
-- `midterm-cheat-sheet.tex` — Pink/peach highlight; cheat sheet for Units 1–3 (datos personales, por/para, nacionalidades, pronunciación)
-- `study-from-chat.tex` — Additional study material
-- `au_plus_1_proyectable_u02.pdf`, `au_plus_1_proyectable_u03.pdf` — Unit 2 & 3 slides
-- `au_plus_1_u01_fichas-inmersion.pdf`, `au_plus_1_u01_fichas-trabajo.pdf` — Unit 1 immersion & work worksheets
-- `au_plus_1_transcripcion_u03.pdf` — Unit 3 transcriptions
-- `CamScanner 4-2-26 09.31.pdf`, `CamScanner 5-2-26 09.46.pdf` — Scanned homework/pages
+- `week-1/` — Jan 28–29: Course intro, Unit 1 start. `unit-1-intro.tex`; `unit-1-fichas-inmersion.pdf`, `unit-1-fichas-trabajo.pdf`; `2026-01-28-class-notes.md`.
+- `week-2/` — Feb 4–5: Unit 1. `unit-1-numeros-nacionalidades.tex`; `scan-2026-02-04.pdf`, `scan-2026-02-05.pdf`; `2026-02-04-class-notes.md`.
+- `week-3/` — Feb 12: Unit 2. `unit-2-por-para.tex`; `unit-2-proyectable.pdf`; `2026-02-12-class-notes.md`.
+- `week-4/` — Feb 18–19: Unit 3. `unit-3-pronunciacion-presente.tex`; `unit-3-proyectable.pdf`, `unit-3-transcripcion.pdf`; `2026-02-18-class-notes.md`.
+- `week-5/` — Feb 25–26: Unit 3. `unit-3-listening-exam.tex`; `2026-02-25-class-notes.md`.
+- `week-6/` — Mar 4: Midterm prep. `midterm-units-1-3.tex`, `geography-weather.tex`, `midterm-cheat-sheet.tex`, `study-from-chat.tex`; `2026-03-04-class-notes.md`.
 
 ## Homework reference
 

@@ -7,7 +7,7 @@ Course notes and materials for Management in Global Markets at UCM.
 | Type | Format | Location |
 |------|--------|----------|
 | Class notes | Markdown (`.md`) | Each week folder |
-| Study materials | LaTeX (`.tex`) | `week-6/` (study-guide, midterm-cheat-sheet). Compile: `pdflatex filename.tex` |
+| Study materials | LaTeX (`.tex`) | Each week: topic-named guides (e.g. `globalization-slowbalization.tex`, `midterm.tex` in week-6). Compile: `pdflatex filename.tex` |
 | Business plans | LaTeX (`.tex`) | `week-7/` (business-plan-guide, business-plan-tierra-bar). Compile: `pdflatex filename.tex` |
 | Slides & readings | PDF, DOCX | Week folders |
 
@@ -23,10 +23,10 @@ This format provides a highly structured, logically organized outline that clear
 
 ## Structure
 
-- `week-1/` - Jan 26 & 27: class notes, globalization/slowbalization slides, syllabus, economic complexity
-- `week-2/` - Feb 2 & 3: class notes, supply chain slides, products by country, culture & competition
-- `week-3/` - Feb 9 & 10: class notes, Business Strategies in International Contexts slides, EJE Industrial program
-- `week-4/` - Feb 16 & 17: class notes, Managing the Global Business Portfolio slides, Business Plan Reunidas case
-- `week-5/` - Feb 23 & 24: class notes, three scopes of activities, product scope (specialization vs. diversification), geographic internationalization, export vs. internationalization, resources & capabilities
-- `week-6/` - Mar 2 & 3: class notes, Human Resources Management chapter (Geoffrey Ditta); `study-guide.tex` (EU blue theme), `midterm-cheat-sheet.tex` (pink/peach highlight)
-- `week-7/` - Mar 9: class notes, Global Management Project, Business Plan (Tierra Bar); `business-plan-guide.tex`, `business-plan-tierra-bar.tex`
+- `week-1/` - Jan 26 & 27: class notes, globalization/slowbalization; `globalization-slowbalization.tex`
+- `week-2/` - Feb 2 & 3: class notes, supply chain, culture & competition; `supply-chains-culture.tex`
+- `week-3/` - Feb 9 & 10: class notes, Business Strategies, EJE Industrial; `business-strategies-eje.tex`
+- `week-4/` - Feb 16 & 17: class notes, Global Portfolio, Reunidas; `global-portfolio-reunidas.tex`
+- `week-5/` - Feb 23 & 24: class notes, internationalization, export, resources; `internationalization-export.tex`
+- `week-6/` - Mar 2 & 3: class notes, HR (Ditta); `midterm.tex`, `midterm-cheat-sheet.tex`
+- `week-7/` - Mar 9: class notes, Business Plan (Tierra Bar); `business-plan.tex`, `business-plan-guide.tex`, `business-plan-tierra-bar.tex`

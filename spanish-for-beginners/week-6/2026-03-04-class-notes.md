@@ -21,7 +21,7 @@ I. Pronunciación (Carlos, García, Javier, Celia)
 
 ## II. Study materials (week-6)
 
-A. study-guide.tex — EU blue theme
+A. midterm-units-1-3.tex — EU blue theme
 B. midterm-cheat-sheet.tex — Pink/peach highlight
 C. study-from-chat.tex — Additional material
 D. Aula Plus: proyectable u02, u03; fichas u01; transcripción u03

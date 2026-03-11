@@ -8,7 +8,7 @@ Course notes and materials for Strategic Management at UCM.
 |------|--------|----------|
 | Class notes | Markdown (`.md`) | Each week folder |
 | Unit summaries | Markdown (`.md`) | Week folders (e.g. `unit-1-strategy-summary.md`) |
-| Study materials | LaTeX (`.tex`) | `week-6/` (study-guide, midterm-cheat-sheet). Compile: `pdflatex filename.tex` |
+| Study materials | LaTeX (`.tex`) | Each week: topic-named guides (e.g. `strategy-art-of-war.tex`, `midterm.tex` in week-6). Compile: `pdflatex filename.tex` |
 | Slides & readings | PDF, DOCX | Week folders |
 
 ## Note-Taking Format
@@ -23,9 +23,9 @@ This format provides a highly structured, logically organized outline that clear
 
 ## Structure
 
-- `week-1/` - Jan 28 & 29: class notes, course intro, Unit 0 & 1 Strategy slides, SM-Illustration Unit 1 (Art of War), syllabus template
-- `week-2/` - Feb 4 & 5: class notes, Unit 2 Objectives and Values slides, SM-Illustration Unit 2 (CSR, Shareholder Value)
-- `week-3/` - Feb 12: class notes, Unit 3 Environment Analysis slides
-- `week-4/` - Feb 18 & 19: class notes, SM-Illustration Unit 3 (Five Forces, Clusters, Climate Change), external analysis
-- `week-5/` - Feb 25 & 26: class notes, Madonna/Lola Flores business case (Art of War, climate change, Five Forces, clusters), RBV, VRIN
-- `week-6/` - Mar 4: class notes (RBV continued, tangible vs. intangible, Madonna vs. Lola Flores, human capital); `study-guide.tex` (EU blue theme), `midterm-cheat-sheet.tex` (pink/peach highlight)
+- `week-1/` - Jan 28 & 29: class notes, Strategy, Art of War; `strategy-art-of-war.tex`
+- `week-2/` - Feb 4 & 5: class notes, Objectives, Values, CSR; `objectives-values-csr.tex`
+- `week-3/` - Feb 12: class notes, Environment Analysis; `environment-analysis.tex`
+- `week-4/` - Feb 18 & 19: class notes, Five Forces, Clusters; `five-forces-clusters.tex`
+- `week-5/` - Feb 25 & 26: class notes, Madonna/Lola Flores, RBV, VRIN; `rbv-vrin.tex`
+- `week-6/` - Mar 4: class notes, RBV, midterm prep; `midterm.tex`, `midterm-cheat-sheet.tex`
