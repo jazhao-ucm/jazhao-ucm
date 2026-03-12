@@ -5,18 +5,18 @@
 
 ---
 
-# Section 1: Summary (AP Level / Accessible)
+# Section 1: Quick Study Page (Use This First)
 
-*Use this section first. Plain language. Short sentences.*
+*Use this section when you are tired or in a rush. Then only go down to the details you need.*
 
-## Key Words
+## Key Words (Very Short)
 - **Business plan** = Document that explains a business opportunity, identifies the market, and details how the organization will pursue it (Harvard Business School).
 - **PESTLE** = Political, Economic, Social, Technological, Legal, Environmental. Macro-environment analysis.
 - **SWOT** = Strengths, Weaknesses, Opportunities, Threats. Internal + external.
 - **Business Model Canvas** = Nine blocks: customer segments, value proposition, channels, revenue streams, key resources, key activities, key partnerships, cost structure.
 - **Competitive advantage** = Why customers choose you over rivals. CaféOlé: student focus, reliable wifi, community.
 
-## Main Ideas (Simple Version)
+## Big Ideas (Plain Language)
 
 1. **CaféOlé! = work cafe in Chamberí, Madrid.**
    - 5€/hour or 25€ day pass. Unlimited coffee, snacks, wifi, workspaces.
@@ -56,7 +56,18 @@
 
 ---
 
-# Section 2: Full Notes (from CaféOlé! Business Plan Project)
+### If You Have 5 Minutes Before the Exam
+
+1. Write **PESTLE, SWOT, BMC** and one bullet for each about CaféOlé! in Madrid.
+2. Add a short line: “Value prop = student‑friendly work cafe with wifi, snacks, community.”
+3. Note that the **plan structure 4.1–4.7** is your template for any business‑plan question.
+4. Use these bullets whenever the exam asks you to outline or critique a business plan.
+
+---
+
+# Section 2: Full Notes (For Deep Understanding)
+
+*Use this section when you want to understand the logic slowly. You can skim headings and examples.*
 
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 

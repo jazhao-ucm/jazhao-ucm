@@ -5,16 +5,16 @@
 
 ---
 
-# Section 1: Summary (AP Level / Accessible)
+# Section 1: Quick Study Page (Use This First)
 
-*Use this section first. Plain language. Short sentences.*
+*Use this section when you are tired or in a rush. Then only go down to the details you need.*
 
-## Key Words
+## Key Words (Very Short)
 - **Globalization** = Countries trading more with each other. Goods and money move across borders.
 - **Slowbalization** = Globalization slowing down. Countries protect their own industries more.
 - **GDP** = How much a country produces in one year. Bigger = stronger economy.
 
-## Main Ideas (Simple Version)
+## Big Ideas (Plain Language)
 
 1. **Globalization is slowing.**
    - Countries are more protective.
@@ -40,7 +40,18 @@
 
 ---
 
-# Section 2: Full Notes (College Prep Academic)
+### If You Have 5 Minutes Before the Exam
+
+1. Draw two words: **globalization** and **slowbalization**, with one example each.
+2. Note “economic complexity” and list 2–3 complex products to mention (phones, cars, etc.).
+3. Add one line on **demographics** (old Europe vs. young Africa) and one on **protectionism** (tariffs).
+4. Use these bullets for any question about how the global environment shapes firms and countries.
+
+---
+
+# Section 2: Full Notes (For Deep Understanding)
+
+*Use this section when you want to understand the logic slowly. You can skim headings and examples.*
 
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 

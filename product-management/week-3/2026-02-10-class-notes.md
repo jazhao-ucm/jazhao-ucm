@@ -5,16 +5,16 @@
 
 ---
 
-# Section 1: Summary (AP Level / Accessible)
+# Section 1: Quick Study Page (Use This First)
 
-*Use this section first. Plain language. Short sentences.*
+*Use this section when you are tired or in a rush. Then only go down to the details you need.*
 
-## Key Words
+## Key Words (Very Short)
 - **Market share** = Your part of the market. % of total sales.
 - **Forecast** = Predict demand. Plan ahead.
 - **Customization** = Make it for each customer. Slower.
 
-## Main Ideas (Simple Version)
+## Big Ideas (Plain Language)
 
 1. **Car industry: efficiency matters.**
    - Lexus, Mercedes, BMW. Different brands.
@@ -34,7 +34,18 @@
 
 ---
 
-# Section 2: Full Notes (College Prep Academic)
+### If You Have 5 Minutes Before the Exam
+
+1. Draw a tiny table: **fast & standard** vs **slow & custom** and put McDonald’s “old” and “made‑for‑you” in it.
+2. Write one line on car brands: different strategies, same industry.
+3. Add “No one‑size‑fits‑all; production must match business model and customer promise.”
+4. Use this when the exam asks about production choices, trade‑offs, or fast food/cars.
+
+---
+
+# Section 2: Full Notes (For Deep Understanding)
+
+*Use this section when you want to understand the logic slowly. You can skim headings and examples.*
 
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
@@ -395,3 +406,13 @@ B. Remember
 - **Ethos:** Industry-specific strategies; business model alignment.
 - **Logos:** Trade-offs; no one-size-fits-all; design → efficiency.
 - **Pathos:** Speed vs. customization; stakes of production choice.
+
+---
+
+## Exam Prep – Very Short Version (Production & Business Model)
+
+1. **Fit production to the model:** Mass production suits high volume, standardized products; responsive/lean suits variety and uncertainty.
+2. **Fixed vs variable costs:** High fixed costs force you to chase volume; if volume is low or unstable, choose a more flexible setup.
+3. **Trade-offs:** Faster, cheaper, more variety – you usually can’t maximize all three; say clearly which one the business prioritises.
+4. **McDonald's lesson:** Moving from forecast-based to made-to-order reduced waste and added customization but weakened the speed advantage.
+5. **Exam answers:** Always link production choice to demand pattern, product type, and cost structure (not just “lean is good”).

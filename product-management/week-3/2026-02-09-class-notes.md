@@ -5,16 +5,16 @@
 
 ---
 
-# Section 1: Summary (AP Level / Accessible)
+# Section 1: Quick Study Page (Use This First)
 
-*Use this section first. Plain language. Short sentences.*
+*Use this section when you are tired or in a rush. Then only go down to the details you need.*
 
-## Key Words
+## Key Words (Very Short)
 - **Fixed cost** = Same cost no matter how much you produce. Building. Insurance.
 - **Variable cost** = Changes with amount. Materials. Wages.
 - **Economies of scale** = Bigger = cheaper per unit.
 
-## Main Ideas (Simple Version)
+## Big Ideas (Plain Language)
 
 1. **Cost ≠ price.**
    - Low cost doesn't always mean low price.
@@ -34,7 +34,18 @@
 
 ---
 
-# Section 2: Full Notes (College Prep Academic)
+### If You Have 5 Minutes Before the Exam
+
+1. Write **cost ≠ price** and one example where low cost does NOT mean low price.
+2. Draw a tiny picture: fixed bar + variable triangle to remind yourself how scale spreads fixed costs.
+3. Add two bullets: **mass production needs volume** and **first mover advantage can help but is not enough alone**.
+4. Use this to answer any question on costs, scale, or mass production strategy.
+
+---
+
+# Section 2: Full Notes (For Deep Understanding)
+
+*Use this section when you want to understand the logic slowly. You can skim headings and examples.*
 
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
@@ -621,3 +632,13 @@ B. Remember
 - **Ethos:** Mass production; economies of scale; fixed costs.
 - **Logos:** Cost ≠ price; scale logic; standardization trade-offs.
 - **Pathos:** Stakes of scale; "enough volume to cover fixed costs."
+
+---
+
+## Exam Prep – Very Short Version (Costs, Scale & First Movers)
+
+1. **Cost vs price:** Low cost gives you room to choose price; you can keep prices high and earn margin or lower price to gain volume.
+2. **Fixed vs variable costs:** High fixed costs mean you must sell a lot to survive; low fixed costs allow smaller, more flexible operations.
+3. **Economies of scale:** Standardisation, division of labour, and learning-by-doing reduce unit costs when volume is high.
+4. **Boredom and replacement:** Highly specialised, repetitive jobs are efficient but create motivation and replacement problems you must manage.
+5. **First mover advantage:** Being early can help you “claim the land”, but only if you later defend it with scale, learning, and good execution.

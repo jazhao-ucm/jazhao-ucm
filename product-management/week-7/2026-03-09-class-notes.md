@@ -156,3 +156,13 @@ B. Lesson
 ---
 
 *Note: These notes were reconstructed from a voice transcription. Some details may be incomplete or approximate. Refer to class materials and slides for accuracy.*
+
+---
+
+## Exam Prep – Very Short Version (Value Engineering & Platforms)
+
+1. **Value engineering:** Ask “Where can we change material, size, or features to reduce cost or improve ease‑of‑use without breaking the core job?”
+2. **Platform + variants:** One strong base platform can support many versions (models, trims, options) at lower cost than separate products.
+3. **Mass customisation:** Use modules and configurations so customers feel products are “for them” while you still get economies of scale.
+4. **Less can be more:** Removing little‑used features can improve usability and margins; say this explicitly in answers.
+5. **Connect to interviews:** Use what you hear from users to decide which features to keep, simplify, or cut.

@@ -5,11 +5,22 @@
 
 ---
 
-# Section 1: Summary
+# Section 1: Quick Study Page (Use This First)
+
+*Use this section when you are tired or in a rush. Then only go down to the details you need.*
 
 - **March 10 = work time.** Class was dedicated to working on the business plan (e.g. CaféOlé, Tierra Bar, or your group’s project).
 - Use the **business plan structure** and **checklist** below to organise your work.
 - Refer to **week-7/2026-03-09-class-notes.md** for full content: PESTLE, SWOT, competitive analysis, strategic plan, contingency plan, marketing plan, CaféOlé example.
+
+---
+
+### If You Have 5 Minutes Before the Exam
+
+1. Write the **4.1–4.7** headings from the table (intro → company → PESTLE/SWOT → competition → strategy → contingency → marketing).
+2. Add “executive summary 1 page” and “6 pages max” as constraints.
+3. Note: “Use CaféOlé / Tierra Bar as template; structure is more important than decoration.”
+4. Use this whenever you need to outline a business plan quickly in answers.
 
 ---
 

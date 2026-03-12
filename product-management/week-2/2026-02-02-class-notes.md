@@ -5,16 +5,16 @@
 
 ---
 
-# Section 1: Summary (AP Level / Accessible)
+# Section 1: Quick Study Page (Use This First)
 
-*Use this section first. Plain language. Short sentences.*
+*Use this section when you are tired or in a rush. Then only go down to the details you need.*
 
-## Key Words
+## Key Words (Very Short)
 - **Needs assessment** = Find out what people want. Before you build.
 - **Community** = Group of people. Shared interests.
 - **Willingness to pay** = Will they pay? How much?
 
-## Main Ideas (Simple Version)
+## Big Ideas (Plain Language)
 
 1. **"Community before product."**
    - Understand what they need first.
@@ -34,7 +34,18 @@
 
 ---
 
-# Section 2: Full Notes (College Prep Academic)
+### If You Have 5 Minutes Before the Exam
+
+1. Write “**community before product**” and “**don’t build and hope they will come**”.
+2. Add “needs assessment” and “willingness to pay” as the two checks before investing.
+3. Remember: tests and small prototypes are **part of the investment**, not extra.
+4. Use this structure in any question about idea selection or early‑stage product work.
+
+---
+
+# Section 2: Full Notes (For Deep Understanding)
+
+*Use this section when you want to understand the logic slowly. You can skim headings and examples.*
 
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
@@ -524,3 +535,13 @@ A. Remember
 - **Ethos:** Community-first; customer needs; iterative testing.
 - **Logos:** Needs assessment; willingness to pay; feedback loops.
 - **Pathos:** "Don't build and hope"; stakes of real-world application.
+
+---
+
+## Exam Prep – Very Short Version (Community & Testing)
+
+1. **Community before product:** First understand the group's needs and connections; building without this usually wastes time and money.
+2. **Testing is part of investment:** Small experiments (MVPs, interviews, pilots) are not extra—they are how you avoid big mistakes later.
+3. **Willingness to pay:** Never assume people will pay; measure it early and change the model if nobody pays (pivot or kill).
+4. **Free vs paid models:** Sometimes value is captured indirectly (e.g. Google: free service, money from ads), not by charging users directly.
+5. **Define success:** Decide concrete metrics (users, engagement, revenue) so you know if your product, community, or pivot is actually working.

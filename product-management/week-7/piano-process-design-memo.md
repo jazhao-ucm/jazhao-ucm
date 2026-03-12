@@ -69,3 +69,13 @@ D. **Geographic context (from class)**
 ## VI. Conclusion
 
 The Spanish craftsman and Yamaha factory represent opposite ends of the process-design spectrum: flexibility and quality vs. speed and standardization. In reality, most manufacturing processes are hybrids—use the framework to analyze where a process sits, not to label it perfectly. A firm's choices across lot size, equipment, skills, scheduling, product range, and inventory should align with its strategic position.
+
+---
+
+## Exam Prep – Very Short Version (How to Use This Memo)
+
+1. **Name the six dimensions:** Lot size, equipment, skills, scheduling, product range, inventory.
+2. **Position each process:** Place the Spanish craftsman and Yamaha factory on each dimension (small vs large batch, general vs specific equipment, etc.).
+3. **State the trade‑off:** Craft = flexibility/quality; factory = cost/scale; hybrids mix elements depending on strategy.
+4. **Answer pattern:** “This firm is closer to the craft/factory side on X, Y, Z dimensions, which fits its strategy of ___.”
+5. **Reuse the frame:** In any operations question, quickly sketch where the case company sits along these six axes.

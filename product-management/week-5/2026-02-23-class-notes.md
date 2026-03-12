@@ -5,16 +5,16 @@
 
 ---
 
-# Section 1: Summary (AP Level / Accessible)
+# Section 1: Quick Study Page (Use This First)
 
-*Use this section first. Plain language. Short sentences.*
+*Use this section when you are tired or in a rush. Then only go down to the details you need.*
 
-## Key Words
+## Key Words (Very Short)
 - **Exploration** = Finding new things. Sensing. Searching.
 - **Exploitation** = Doing what works. Seizing. Scaling.
 - **Lean validation** = Test before you spend. Validate first.
 
-## Main Ideas (Simple Version)
+## Big Ideas (Plain Language)
 
 1. **Ambidextrous organization.**
    - Need both: exploration and exploitation.
@@ -39,7 +39,18 @@
 
 ---
 
-# Section 2: Full Notes (College Prep Academic)
+### If You Have 5 Minutes Before the Exam
+
+1. Draw two boxes: **explore** (find) and **exploit** (scale) and write 1–2 examples in each.
+2. Note **“validate before you spend”** and **SDLC** as the spine for any product example.
+3. List 2–3 products (Peloton, Tesla Cybertruck, Vision Pro, etc.) you can mention.
+4. In any question about product strategy or process, explain where the case is exploring vs exploiting and how they validate.
+
+---
+
+# Section 2: Full Notes (For Deep Understanding)
+
+*Use this section when you want to understand the logic slowly. You can skim headings and examples.*
 
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
@@ -208,3 +219,13 @@ B. Market research
 - **Ethos:** Ambidextrous organization; lean validation; SDLC.
 - **Logos:** Exploration vs. exploitation; product design process.
 - **Pathos:** Product examples (Peloton, Tesla); stakes of market fit.
+
+---
+
+## Exam Prep – Very Short Version (Exploration, Exploitation & Design)
+
+1. **Explore vs exploit:** Healthy firms both search for new opportunities (explore) and optimise the current business (exploit); too much of either is dangerous.
+2. **Validate before you spend:** Use customer discovery, prototypes, and small tests before committing big budgets.
+3. **Use SDLC as a spine:** Idea → requirements → design → build → test → launch → iterate; place your examples (Peloton, Tesla, apps) on that spine.
+4. **BMC + design process:** Link “Who/Why/How” (canvas) to each design step so your answers feel structured, not like a list of buzzwords.
+5. **Name concrete products:** In the exam, drop in 2–3 current examples (Vision Pro, Tesla, streaming, fast‑food apps) to show you can apply the theory.

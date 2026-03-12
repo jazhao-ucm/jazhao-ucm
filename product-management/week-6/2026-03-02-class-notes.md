@@ -5,17 +5,17 @@
 
 ---
 
-# Section 1: Summary (AP Level / Accessible)
+# Section 1: Quick Study Page (Use This First)
 
-*Use this section first. Plain language. Short sentences.*
+*Use this section when you are tired or in a rush. Then only go down to the details you need.*
 
-## Key Words
+## Key Words (Very Short)
 - **Design thinking** = Process to solve problems by understanding users first. Empathize. Observe. Don't assume.
 - **Empathy** = Understanding what users feel and do. Not what they say they want.
 - **Extreme users** = People who use a product intensely. Often reveal problems others don't see.
 - **Gemba** = Go where the work happens. Observe in the real context.
 
-## Main Ideas (Simple Version)
+## Big Ideas (Plain Language)
 
 1. **Don't ask users what they want.**
    - They often can't articulate it.
@@ -51,7 +51,18 @@
 
 ---
 
-# Section 2: Full Notes (College Prep Academic)
+### If You Have 5 Minutes Before the Exam
+
+1. Write the **design thinking steps** and circle **“empathise”** and **“observe”**.
+2. Add “Don’t ask what they want” and “Go to the Gemba” as two big phrases.
+3. Note **extreme users** and **two observers** as tricks to get better insight.
+4. In any question about user research or design thinking, reuse these four bullets.
+
+---
+
+# Section 2: Full Notes (For Deep Understanding)
+
+*Use this section when you want to understand the logic slowly. You can skim headings and examples.*
 
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
@@ -269,3 +280,13 @@ C. Two observers rule
 - **Ethos:** IDEO, design thinking, David Kelley.
 - **Logos:** Empathize-define-ideate-prototype-test; observation vs. asking.
 - **Pathos:** "People don't know what they want"; kids injured by carts; importance of going to the field.
+
+---
+
+## Exam Prep – Very Short Version (Design Thinking & Gemba)
+
+1. **Don’t just ask, observe:** Users often cannot explain what they need; watch behaviour in context and ask about past experience.
+2. **Design thinking loop:** Empathise → define → ideate → prototype → test; you can always map a case answer onto these five steps.
+3. **Go to the Gemba:** Real insight comes from the place where the work or use happens, not from your desk.
+4. **Extreme users:** Look at unusual or intense users to spot problems and opportunities that average users hide.
+5. **Process expertise:** Good design teams are experts in the process, not in a single product category; mention IDEO and diverse teams in answers.

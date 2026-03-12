@@ -730,3 +730,13 @@ A. Remember
 - **Ethos:** Disruptive innovation; innovator's dilemma; first mover.
 - **Logos:** S-curve; lower performance → new markets; timing.
 - **Pathos:** Stakes of adaptation; "established leaders can fail."
+
+---
+
+## Exam Prep – Very Short Version (Disruption & S‑Curves)
+
+1. **Technology S‑curve:** At first improvements are slow, then rapid, then flatten; show where a technology sits on the curve.
+2. **Disruption pattern:** New tech starts worse on old metrics but better on new ones (price, convenience, access), then improves and takes the market.
+3. **Innovator’s dilemma:** Incumbents protect profitable old tech and under‑invest in new tech, so entrants (often outsiders) lead the disruption.
+4. **Timing and windows:** Being too early or too late both hurt; you must match the moment when customers are ready to switch.
+5. **Use cases in answers:** Mention Kodak, iPhone, Uber, and silicon chips to illustrate S‑curves, disruption, and persistence.
