@@ -5,16 +5,16 @@
 
 ---
 
-# Section 1: Quick Study Page (Use This First)
+# Section 1: Summary (AP Level / Accessible)
 
-*Use this section when you are tired or in a rush. Then only go down to the details you need.*
+*Use this section first. Plain language. Short sentences.*
 
-## Key Words (Very Short)
+## Key Words
 - **Business Model Canvas** = Framework. Nine blocks. How you create, deliver, capture value.
 - **Value proposition** = Why they buy. What you offer.
 - **Customer segment** = Who you sell to. Be specific.
 
-## Big Ideas (Plain Language)
+## Main Ideas (Simple Version)
 
 1. **Three questions: Who? Why? How?**
    - Who are we selling to?
@@ -37,18 +37,7 @@
 
 ---
 
-### If You Have 5 Minutes Before the Exam
-
-1. Write **Who? Why? How?** and put the Zara skinny‑jeans example under each.
-2. Sketch the **nine blocks** quickly and fill only the 3–4 most important for this case.
-3. Add one line: “Our segment is 17–27, urban, trend‑focused, so we design the value proposition and channels for them.”
-4. In any business‑model question, reuse this structure even if the product is different.
-
----
-
-# Section 2: Full Notes (For Deep Understanding)
-
-*Use this section when you want to understand the logic slowly. You can skim headings and examples.*
+# Section 2: Full Notes (College Prep Academic)
 
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
@@ -329,13 +318,3 @@ B. Key Success Factors
 - **Ethos:** Zara; Business Model Canvas; Who? Why? How?
 - **Logos:** Nine components; value proposition; segmentation logic.
 - **Pathos:** Scarcity, urgency; full-price sales stakes.
-
----
-
-## Exam Prep – Very Short Version (Zara & BMC)
-
-1. **Who / Why / How:** Use the Business Model Canvas to answer these three: Who is the customer? Why do they buy? How do we deliver and earn money?
-2. **Sharp segmentation:** Narrow the case (e.g. skinny jeans for 17–27 urban trend‑seekers) so your analysis isn’t vague.
-3. **Value proposition mix:** Combine trend, acceptable quality, convenience, price, and scarcity to create a clear “reason to buy now”.
-4. **Revenue and cost logic:** Small batches + full‑price sales beat huge volumes + discounts for this model.
-5. **Exam answers:** Name Zara’s key activities (design, supply chain, store ops) and connect them to the value proposition and revenue logic.

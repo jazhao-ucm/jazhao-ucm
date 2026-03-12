@@ -5,16 +5,16 @@
 
 ---
 
-# Section 1: Quick Study Page (Use This First)
+# Section 1: Summary (AP Level / Accessible)
 
-*Use this section when you are tired or in a rush. Then only go down to the details you need.*
+*Use this section first. Plain language. Short sentences.*
 
-## Key Words (Very Short)
+## Key Words
 - **Value creation** = Making something useful. Total value for users.
 - **Value capture** = How much money you make from it.
 - **Market access** = Can you reach customers? Distribution. Channels.
 
-## Big Ideas (Plain Language)
+## Main Ideas (Simple Version)
 
 1. **Creating value ≠ capturing value.**
    - You need both. A great product is not enough.
@@ -34,18 +34,7 @@
 
 ---
 
-### If You Have 5 Minutes Before the Exam
-
-1. Write **value creation** on the left and **value capture** on the right with one sentence each.
-2. Add the **€15K → €250M** story as proof that market access and IP matter.
-3. Note “Porter = value chain, Teece = market access, Takeda = case”.
-4. Use this in any question about why some firms make money from an idea and others don’t.
-
----
-
-# Section 2: Full Notes (For Deep Understanding)
-
-*Use this section when you want to understand the logic slowly. You can skim headings and examples.*
+# Section 2: Full Notes (College Prep Academic)
 
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
@@ -320,13 +309,3 @@ C. Value Capture Mechanisms
 - **Ethos:** Porter, Teece; Takeda; Spanish research institution as case.
 - **Logos:** Value creation ≠ value capture; market access as causal logic.
 - **Pathos:** Gap between creation and capture; stakes of market access.
-
----
-
-## Exam Prep – Very Short Version (Value Creation & Capture)
-
-1. **Value creation vs value capture:** A firm can create a lot of value (good science, good product) but capture little if it lacks market access, patents, or brand.
-2. **Porter value chain:** Use it to show where in the activities the firm actually creates value (R&D, production, marketing, service).
-3. **Teece / market access:** Who has the channels, partners, and scale to sell? That actor often captures more value than the original inventor.
-4. **Mechanisms to capture value:** Patents, strong brands, control of distribution, and specialised assets protect your share of the created value.
-5. **Spanish/European problem:** Smaller home markets and weaker global distribution make it harder to turn innovation into high captured value.

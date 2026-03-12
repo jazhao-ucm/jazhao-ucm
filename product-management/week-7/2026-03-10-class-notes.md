@@ -5,25 +5,25 @@
 
 ---
 
-# Section 1: Quick Study Page (Use This First)
+# Section 1: Summary (AP Level / Accessible)
 
-*Use this section when you are tired or in a rush. Then only go down to the details you need.*
+*Use this section first. Plain language. Short sentences.*
 
-## Key Words (Very Short)
+## Key Words
 
 - **Lot size / batch size** = How many units you produce at once. Large = economies of scale. Small = differentiation.
 - **General-purpose equipment** = Not made for one specific process. Can be used for different production processes. Flexible. Lower fixed investment.
 - **Specific-purpose equipment** = Designed specifically for that product/process. Cannot be used for other products. High fixed investment. Need many units to justify (e.g., $10M).
 - **Make-to-order** = Produce when order comes in. Flexible. Changes from order to order.
-- **Make-to-stock** = Produce in advance. Standardized. Assembly line: same speed for all units (e.g. Yamaha factory).
+- **Make-to-stock** = Produce in advance. Standardized. Assembly line: same speed for all units.
 
-## Big Ideas (Plain Language)
+## Main Ideas (Simple Version)
 
 1. **Process design = trade-offs.**
    - Bespoke/quality vs. speed.
    - You cannot optimize everything. Choose based on strategy.
 
-2. **Six dimensions to describe any manufacturing process:** (you can draw a 2×3 box)
+2. **Six dimensions to describe any manufacturing process:**
    - Lot size (large vs. small batch)
    - Equipment (general vs. specific purpose)
    - Skills (specialized vs. general workers)
@@ -41,7 +41,7 @@
    - Must compete on product, branding, customization.
    - General-purpose equipment, lower fixed investment.
 
-5. **Higher skills = higher wages (but more flexibility).**
+5. **Higher skills = higher wages.**
    - Worker who knows the whole craft — how to build, how to design, how to sign the rights — gets higher wages.
    - Worker who knows a bit of many processes: lower wages. Used when cost is priority.
 
@@ -49,7 +49,7 @@
    - Restaurants: we don't know how many customers or what they'll order.
    - Keeps people employed but we don't know exact demand — make-to-order avoids overproduction.
 
-7. **In-class exercise: two piano videos.** (good example to reuse in answers)
+7. **In-class exercise: two piano videos.**
    - Video 1: Spanish traditional craftsman — wood, frames, intricate details; small batch; general tools; high artisan skill; one person does many steps; "sounds the most high."
    - Video 2: Yamaha Japan — "chairs moving" (conveyor belts); assembly line; same speed for all units; standardized; many workers each specialized; many machines.
    - Fill in table: lot size, equipment, skills, scheduling, product range, inventory.
@@ -61,18 +61,7 @@
 
 ---
 
-### If You Have 5 Minutes Before the Exam
-
-1. Write the **six dimensions** on scrap paper and put “craft” on one side and “factory” on the other.
-2. Next to each dimension, place your **case company** closer to one side (e.g. Zara skinny jeans, pianos, fast food).
-3. Add **one sentence on strategy**: “Because they compete on ___ (cost / quality / speed / variety), they choose ___ on each dimension.”
-4. If there is a **process comparison question**, reuse the piano example: Spanish craftsman vs. Yamaha factory.
-
----
-
-# Section 2: Full Notes (For Deep Understanding)
-
-*Use this section when you want to understand the logic slowly. It is longer on purpose. You can skim the headings and examples.*
+# Section 2: Full Notes (College Prep Academic)
 
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
@@ -288,16 +277,6 @@ F. Geographic comparison (from class discussion)
 3. **Small batch** → differentiation, general equipment, make-to-order, higher customization.
 4. **Make-to-order** when demand is uncertain (restaurants, custom goods); **make-to-stock** when demand is predictable.
 5. **Exercise:** Use the table to compare the two piano videos.
-
----
-
-## Exam Prep – Very Short Version (Piano Process & Six Dimensions)
-
-1. **Six dimensions lens:** In the exam, describe any process by lot size, equipment, skills, scheduling, product range, and inventory.
-2. **Craft vs factory:** Small‑batch, general‑purpose, high‑skill, make‑to‑order vs large‑batch, specific‑purpose, specialised, make‑to‑stock.
-3. **Cost vs flexibility:** Craft side supports differentiation and quality; factory side supports low cost and availability.
-4. **Hybrid reality:** Most firms sit between the extremes; say clearly where on each dimension your example lies.
-5. **Link to strategy:** Always connect process choices back to how the firm competes (cost, quality, speed, variety).
 6. **Real processes** are usually hybrids — use the framework to analyze, not to label perfectly.
 
 ---

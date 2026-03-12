@@ -5,16 +5,16 @@
 
 ---
 
-# Section 1: Quick Study Page (Use This First)
+# Section 1: Summary (AP Level / Accessible)
 
-*Use this section when you are tired or in a rush. Then only go down to the details you need.*
+*Use this section first. Plain language. Short sentences.*
 
-## Key Words (Very Short)
+## Key Words
 - **Rational** = Based on facts. Logic. Information.
 - **Irrational** = Based on emotion. Gut feeling.
 - **Brand** = What people think of you. Reputation.
 
-## Big Ideas (Plain Language)
+## Main Ideas (Simple Version)
 
 1. **Decisions = information + emotion.**
    - More information → more rational.
@@ -36,18 +36,7 @@
 
 ---
 
-### If You Have 5 Minutes Before the Exam
-
-1. Draw the **information circle** and mark ~5% as “known”, the rest as “emotion space”.
-2. Write “**less information → more emotion**” and add one example (brand choice, risky purchase).
-3. Add a line: “Innovation alone is not enough; you need brand, IP, and commercialization to capture value.”
-4. Use this whenever the question is about decision‑making, brands, or why good ideas fail.
-
----
-
-# Section 2: Full Notes (For Deep Understanding)
-
-*Use this section when you want to understand the logic slowly. You can skim headings and examples.*
+# Section 2: Full Notes (College Prep Academic)
 
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
@@ -72,7 +61,7 @@ B. The Information-Emotion Relationship
 3. "The less information we have, the more we rely on emotion in decision-making"
 
 C. Key insight
-1. Decisions are \textbf{imperfect} because we never have full information; we cannot make a perfectly rational decision in real life.
+1. "Decisions are imperfect because we must the donation, we will need to lie. You know that make perfect decision."
 
 D. Reality
 1. People don't always have complete information to make "perfect" rational decisions.
@@ -82,13 +71,13 @@ D. Reality
 ### II. Information & Decision Making
 
 A. The Circle Model
-1. Black circle = we only have \textbf{limited information}.
-2. Professor's rule of thumb: we often have maybe \textbf{5\%} of the information we would need for a ``perfect'' decision.
-3. When we have \textbf{less information} → emotion plays a stronger role.
-4. When we have \textbf{more information} → decisions can be more rational, based on structured information.
+1. Black circle = We only have limited information
+2. If you just say this, that means that we all have a good 5% of the information we actually need. Down informant decision."
+3. When we have less information → Emotion plays a stronger role
+4. When we have more information → Rational decisions based on structured information
 
 B. Key point
-1. The smaller the information circle, the \textbf{larger the space for emotion} to influence the decision.
+1. "So if on the needs, how we des circle is, emotion, we play a stronger or play a stronger role."
 
 C. Decision Making Factors
 1. Structured information
@@ -112,10 +101,10 @@ B. Factors Influencing Decisions
 5. Emotion - Feelings and gut reactions
 
 C. Key insight
-1. Real decisions mix many factors: information, perceived ability, risk, opportunities, brand image and past experience.
+1. "So we have information, ability, risk all opportunities, or like, by little of brand. This is all your experience."
 
 D. Reality
-1. Behavioural economics reminds us that people use \textbf{heuristics} and shortcuts; they do not process all information like a perfect ``economic man''.
+1. "You're not E has. So, for instance, how do you build up on that? Yes. Well is your risk if you get to school in my."
 
 ---
 
@@ -132,16 +121,7 @@ B. Weak Brands
 3. "If the brand has no identity, they have to provide it themselves in order to help"
 
 C. Key principle
-1. Strong brands = less need to share detailed information; they create emotional connections instead.
-
----
-
-## Exam Prep – Very Short Version (Decision Making \& Brand)
-
-- Decisions always mix \textbf{information} and \textbf{emotion}; less information $\Rightarrow$ more weight for emotion.
-- We rarely have full information (``5\% circle''), so perfectly rational decisions are impossible.
-- Behavioural economics: people use heuristics; risk perception, brand and past experience shape choices.
-- Strong brands allow firms to rely more on \textbf{emotional connections}; weak brands must provide more detailed information and help customers decide.
+1. "Strong brands = less need to share detailed information; they create emotional connections instead."
 
 ---
 
@@ -469,13 +449,3 @@ B. Remember
 - **Ethos:** Strong brands; patents; commercialization strategy.
 - **Logos:** Information + emotion; value capture logic.
 - **Pathos:** Emotion over information; stakes of innovation.
-
----
-
-## Exam Prep – Very Short Version (Innovation, Brands & Value Capture)
-
-1. **Decision making:** People rarely have full information, so they rely on heuristics; strong brands reduce uncertainty and make choices easier.
-2. **Strong vs weak brands:** Strong brands can charge more and give less information; weak brands must provide more detail to compensate.
-3. **Information & emotion:** Good marketing manages both rational information and emotional response to shift perceived value.
-4. **Innovation vs commercialization:** A good idea is not enough; firms need IP, partners, and channels to actually capture value from innovation.
-5. **Tools to protect value:** Patents, standards, and control of key assets/relationships help the firm keep more of the value it creates.

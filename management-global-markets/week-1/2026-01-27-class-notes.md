@@ -5,16 +5,16 @@
 
 ---
 
-# Section 1: Quick Study Page (Use This First)
+# Section 1: Summary (AP Level / Accessible)
 
-*Use this section when you are tired or in a rush. Then only go down to the details you need.*
+*Use this section first. Plain language. Short sentences.*
 
-## Key Words (Very Short)
+## Key Words
 - **Power distance** = How much people accept that the boss has more power. High = boss is clearly above. Low = more equal.
 - **Value chain** = All the steps to make and sell a product. From raw materials to customer.
 - **Internationalization** = Moving your company to another country. Step by step.
 
-## Big Ideas (Plain Language)
+## Main Ideas (Simple Version)
 
 1. **Working in another country is harder.**
    - Different culture. Different language.
@@ -38,18 +38,7 @@
 
 ---
 
-### If You Have 5 Minutes Before the Exam
-
-1. Write **power distance** with two examples (Spain/Mexico vs. US/Northern Europe).
-2. Add the **internationalization order**: Sales → Marketing → Production (value chain logic).
-3. Note “good manager blames yourself” as a phrase for culture/leadership questions.
-4. Use these bullets in any question on cross‑cultural management or moving abroad.
-
----
-
-# Section 2: Full Notes (For Deep Understanding)
-
-*Use this section when you want to understand the logic slowly. You can skim headings and examples.*
+# Section 2: Full Notes (College Prep Academic)
 
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 

@@ -5,15 +5,15 @@
 
 ---
 
-# Section 1: Quick Study Page (Use This First)
+# Section 1: Summary (AP Level / Accessible)
 
-*Use this section when you are tired or in a rush. Then only go down to the details you need.*
+*Use this section first. Plain language. Short sentences.*
 
-## Key Words (Very Short)
+## Key Words
 - **Market problem** = Many people have this problem. Will pay to fix it.
 - **Personal problem** = You have it. Others might not.
 
-## Big Ideas (Plain Language)
+## Main Ideas (Simple Version)
 
 1. **"Personal problems don't always translate to market problems."**
    - Your problem ≠ everyone's problem.
@@ -33,18 +33,7 @@
 
 ---
 
-### If You Have 5 Minutes Before the Exam
-
-1. Write **personal ≠ market** and “test if others have the same problem”.
-2. Add “community before product” and “willingness to pay” as two bold phrases.
-3. Note that design happens in **cycles**: each round = learn + small change.
-4. Use this whenever the question is about ideas, markets, or “is this a good startup problem?”.
-
----
-
-# Section 2: Full Notes (For Deep Understanding)
-
-*Use this section when you want to understand the logic slowly. You can skim headings and examples.*
+# Section 2: Full Notes (College Prep Academic)
 
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
@@ -681,13 +670,3 @@ B. Remember
 - **Ethos:** Community-first; test willingness to pay; iterate.
 - **Logos:** Personal vs. market problems; feedback loops.
 - **Pathos:** Stakes of validation; "real world application."
-
----
-
-## Exam Prep – Very Short Version (Personal vs Market Problem)
-
-1. **Start from the market, not yourself:** Your own frustration is only a hint; you must check if many people share the same problem.
-2. **Talk to the community:** Use interviews and observation to understand needs, language, and willingness to pay.
-3. **Design in cycles:** Each iteration should add learning and/or a feature, not just more complexity.
-4. **Kill or pivot early:** If tests show no demand or no payments, stop or change direction before you sink big costs.
-5. **Connect to examples:** In answers, mention social apps, Google, or brand cases to show you understand how theory meets reality.

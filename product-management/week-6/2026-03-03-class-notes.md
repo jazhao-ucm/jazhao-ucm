@@ -5,18 +5,18 @@
 
 ---
 
-# Section 1: Quick Study Page (Use This First)
+# Section 1: Summary (AP Level / Accessible)
 
-*Use this section when you are tired or in a rush. Then only go down to the details you need.*
+*Use this section first. Plain language. Short sentences.*
 
-## Key Words (Very Short)
+## Key Words
 - **Brainstorming rules** = One conversation at a time. No judging. Wild ideas. Build on others.
 - **Prototype** = A quick, rough version you build to test an idea.
 - **Design thinking is not magic** = A good process does not fix a bad business model.
 - **Interview guide** = List of questions you use when talking to customers.
 - **Behavioral questions** = Ask about real past events, not dreams or “features.”
 
-## Big Ideas (Plain Language)
+## Main Ideas (Simple Version)
 
 1. **IDEO shows design thinking in real life.**
    - They use clear rules for brainstorming.
@@ -45,18 +45,7 @@
 
 ---
 
-### If You Have 5 Minutes Before the Exam
-
-1. Jot down the **design thinking stages** (empathise → define → ideate → prototype → test).
-2. Underline **“good interviews = past behaviour, not features”** and remember “Tell me about the last time…”.
-3. Write 3 bullets: **IDEO** (shopping cart), **limits** (“good process, bad model still fails”), **interview guide** (one shared script).
-4. In any question about “how to research customers” or “why design thinking can fail”, reuse these three bullets.
-
----
-
-# Section 2: Full Notes (For Deep Understanding)
-
-*Use this section when you want to understand the logic slowly. You can skim headings and examples.*
+# Section 2: Full Notes (College Prep Academic)
 
 **Rhetorical Framework (Ethos, Logos, Pathos)**
 
@@ -283,13 +272,3 @@ B. Customization and Flexibility
 3. Design thinking is powerful but not a magic wand; a product can still fail if the market, channel, or economics are wrong.
 4. Good customer interviews focus on real past behavior, not hypothetical features or imagined apps.
 5. A clear, shared interview guide helps teams collect comparable, high‑quality data for product decisions.
-
----
-
-## Exam Prep – Very Short Version (Customer Interviews)
-
-1. **Talk about the last time:** Anchor questions in real events (“Tell me about the last time you…”) instead of “Would you use…?” hypotheticals.
-2. **Avoid feature talk at first:** Early interviews are for understanding problems and behaviour, not designing the app live with the user.
-3. **Open, neutral questions:** Use “how/what/when/tell me about…” and avoid leading questions that contain the answer you want.
-4. **One script, many interviews:** A shared guide across the team makes results comparable; flexibility comes from follow‑up questions.
-5. **Exam answers:** When a question mentions “customer research”, briefly describe this interview style and why it produces better data.
