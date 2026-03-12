@@ -7,10 +7,8 @@ Course notes and materials for Spanish for Beginners at UCM. Instructor: Mercede
 | Type | Format | Location |
 |------|--------|----------|
 | Class notes | Markdown (`.md`) | Each week folder |
-| Study materials | LaTeX (`.tex`) | Each week: topic-named `.tex` (e.g. `unit-1-intro.tex`, `unit-2-por-para.tex`). Week 6: `midterm-units-1-3.tex`, `geography-weather.tex`, `midterm-cheat-sheet.tex`, `study-from-chat.tex`. Compile: `pdflatex <filename>.tex` |
+| Study materials | LaTeX (`.tex`) | Each week: topic-named `.tex` (e.g. `unit-1-intro.tex`, `unit-2-por-para.tex`). Week 6: `midterm-units-1-3.tex`, `geography-weather.tex`, `study-from-chat.tex`. Compile: `pdflatex <filename>.tex` |
 | Textbook & homework | PDF | By week: `unit-N-*.pdf` in that unit’s week; `scan-YYYY-MM-DD.pdf` in week-2. Class notes keep date in filename (`YYYY-MM-DD-class-notes.md`). |
-
-*Midterm cheat sheets for all 5 UCM courses are in `ucm-midterm/` at the repo root (spanish-only.tex, blue-notes-all.tex, etc.).*
 
 ## Note-Taking Format
 
@@ -34,7 +32,7 @@ All class notes follow the **Formal Outline Note Taking System** format:
 - `week-3/` — Feb 12: Unit 2. `unit-2-por-para.tex`; `unit-2-proyectable.pdf`; `2026-02-12-class-notes.md`.
 - `week-4/` — Feb 18–19: Unit 3. `unit-3-pronunciacion-presente.tex`; `unit-3-proyectable.pdf`, `unit-3-transcripcion.pdf`; `2026-02-18-class-notes.md`.
 - `week-5/` — Feb 25–26: Unit 3. `unit-3-listening-exam.tex`; `2026-02-25-class-notes.md`.
-- `week-6/` — Mar 4: Midterm prep. `midterm-units-1-3.tex`, `geography-weather.tex`, `midterm-cheat-sheet.tex`, `study-from-chat.tex`; `2026-03-04-class-notes.md`.
+- `week-6/` — Mar 4: Midterm prep. `midterm-units-1-3.tex`, `geography-weather.tex`, `study-from-chat.tex`; `2026-03-04-class-notes.md`.
 
 ## Homework reference
 

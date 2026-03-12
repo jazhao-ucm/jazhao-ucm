@@ -70,6 +70,5 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 ---
 
 ## Other
-- **ucm-midterm/** — One-page cheat sheets for all 5 courses (spanish-only, intro-eu-only, etc., blue-notes-all combined)
 - **jadewowgreen/** — Project images
 - **matchaxmoxie/** — Resume and portfolio

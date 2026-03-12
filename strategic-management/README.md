@@ -29,5 +29,5 @@ This format provides a highly structured, logically organized outline that clear
 - `week-3/` - Feb 12: class notes, Environment Analysis; `environment-analysis.tex`
 - `week-4/` - Feb 18 & 19: class notes, Five Forces, Clusters; `five-forces-clusters.tex`
 - `week-5/` - Feb 25 & 26: class notes, Madonna/Lola Flores, RBV, VRIN; `rbv-vrin.tex`
-- `week-6/` - Mar 4: class notes, RBV, midterm prep; `midterm.tex` (full guide + exam-writing patterns), `midterm-cheat-sheet.tex`
+- `week-6/` - Mar 4: class notes, RBV, midterm prep; `midterm.tex` (full guide + exam-writing patterns), `midterm-exam-phrases.tex`
 - `week-7/` - Mar 12: class notes, Unit 5 Competitive Strategy (cost leadership, differentiation, focus, strategy clock); `2026-03-12-class-notes.md`
