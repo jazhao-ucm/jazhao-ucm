@@ -28,5 +28,5 @@ This format provides a highly structured, logically organized outline that clear
 - `week-3/` - Feb 9 & 10: class notes, PM3; `pm3-csda.tex`
 - `week-4/` - Feb 16 & 17: class notes, Zara, BMC; `zara-bmc.tex`
 - `week-5/` - Feb 23: class notes, design process, lean, SDLC; `design-process-lean.tex`
-- `week-6/` - Mar 2 & 3: class notes, design thinking, IDEO; `midterm.tex`, `midterm-cheat-sheet.tex`
+- `week-6/` - Mar 2 & 3: class notes, design thinking, IDEO; `midterm.tex`
 - `week-7/` - Mar 9 & 10: class notes, manufacturing, piano memo; `manufacturing-piano-memo.tex`

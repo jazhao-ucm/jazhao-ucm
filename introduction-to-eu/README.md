@@ -31,6 +31,6 @@ This format provides a highly structured, logically organized outline that clear
 - `week-3/` - Feb 9 & 10: class notes, Seidel, Warlouzet summaries; `warlouzet-reinventing-europe.tex`
 - `week-4/` - Feb 16 & 17: class notes, Anderson, Vinen summaries; `anderson-vinen.tex`
 - `week-5/` - Feb 23 & 24: class notes, Southern enlargement, Maastricht; `maastricht-enlargement.tex`
-- `week-6/` - Mar 2 & 3: class notes, Gibraltar/Spanish accession, Euroscepticism, Brexit; `midterm.tex`, `midterm-cheat-sheet.tex`
+- `week-6/` - Mar 2 & 3: class notes, Gibraltar/Spanish accession, Euroscepticism, Brexit; `midterm.tex`
 - `week-7/` - Mar 9 & 10: class notes, Twin Executive readings, exam format (text analysis), Ribera vs von der Leyen, Costa/multilateralism, Duff/Commission vs Council; `eu-institutions.tex`
 - `week-8/` - EU institutions by session; `eu-institutions-sessions.tex`

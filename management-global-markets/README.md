@@ -28,5 +28,5 @@ This format provides a highly structured, logically organized outline that clear
 - `week-3/` - Feb 9 & 10: class notes, Business Strategies, EJE Industrial; `business-strategies-eje.tex`
 - `week-4/` - Feb 16 & 17: class notes, Global Portfolio, Reunidas; `global-portfolio-reunidas.tex`
 - `week-5/` - Feb 23 & 24: class notes, internationalization, export, resources; `internationalization-export.tex`
-- `week-6/` - Mar 2 & 3: class notes, HR (Ditta); `midterm.tex`, `midterm-cheat-sheet.tex`
+- `week-6/` - Mar 2 & 3: class notes, HR (Ditta); `midterm.tex`
 - `week-7/` - Mar 9 & 10: class notes (Mar 9 = business plan intro, CaféOlé; Mar 10 = work time on project); `business-plan.tex`, `business-plan-guide.tex`, `business-plan-tierra-bar.tex`
