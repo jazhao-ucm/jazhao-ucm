@@ -182,3 +182,13 @@
 3. **RBV:** Resources (tangible, intangible, human) + Capabilities (combination, coordination).
 4. **Strategic analysis:** Generating (scarcity, relevance), Sustaining (durability, inimitability, etc.), Appropriating (who captures value).
 5. **SWOT** summarizes internal and external analysis; useful but static.
+
+---
+
+## Exam Prep – Very Short Version (from handwritten notes)
+
+- Internal analysis goal: \textbf{identify strengths (S) and weaknesses (W)}.
+- Use \textbf{firm identity}, \textbf{value chain}, and \textbf{RBV/VRIN} to see which resources and capabilities can generate and sustain competitive advantage.
+- Remember: not all resources create advantage; only those that are \textbf{valuable, rare, inimitable, non-substitutable} and supported by the organisation.
+- \textbf{Human and intangible resources} are often most important but hardest to control and appropriate.
+- Strategic analysis must consider: \textbf{generation} (scarcity + relevance), \textbf{sustainability} (durability + inimitability + limited tradeability/substitution), and \textbf{appropriation} (who captures the value).

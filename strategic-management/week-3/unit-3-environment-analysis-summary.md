@@ -163,3 +163,25 @@ Determine industry attractiveness → likelihood of generating return/profit.
 3. Stronger forces → less attractive industry.
 4. Industry vs firm effect: both matter.
 5. Clusters: geographical agglomeration creates extra opportunities.
+
+---
+
+## Exam Prep – Very Short Version (from handwritten notes)
+
+### Purpose
+- Analyse external factors the firm \textbf{cannot control} but that influence behaviour and results.
+- Identify \textbf{opportunities} and \textbf{threats}.
+- Understand impact on profitability and competitiveness.
+
+### Levels
+- \textbf{Macro} (PESTEL): broad context.
+- \textbf{Industry} (Five Forces): specific competitive arena.
+
+### Five Forces (one line each)
+1. Rivalry among existing firms.
+2. Threat of new entrants (barriers to entry).
+3. Threat of substitutes.
+4. Bargaining power of buyers.
+5. Bargaining power of suppliers.
+
+Strong forces $\Rightarrow$ low profit potential; weak forces $\Rightarrow$ high profit potential. Performance = industry effect + firm effect.
