@@ -9,6 +9,7 @@ Course notes and materials for Strategic Management at UCM.
 | Class notes | Markdown (`.md`) | Each week folder |
 | Unit summaries | Markdown (`.md`) | Week folders (e.g. `unit-1-strategy-summary.md`) |
 | Study materials | LaTeX (`.tex`) | Each week: topic-named guides (e.g. `strategy-art-of-war.tex`, `midterm.tex` in week-6). Compile: `pdflatex filename.tex` |
+| Exam phrases | LaTeX (`.tex`) | `week-6/midterm-exam-phrases.tex` (one-page stock sentences for written answers). |
 | Slides & readings | PDF, DOCX | Week folders |
 
 ## Note-Taking Format
@@ -29,3 +30,4 @@ This format provides a highly structured, logically organized outline that clear
 - `week-4/` - Feb 18 & 19: class notes, Five Forces, Clusters; `five-forces-clusters.tex`
 - `week-5/` - Feb 25 & 26: class notes, Madonna/Lola Flores, RBV, VRIN; `rbv-vrin.tex`
 - `week-6/` - Mar 4: class notes, RBV, midterm prep; `midterm.tex` (full guide + exam-writing patterns), `midterm-cheat-sheet.tex`
+- `week-7/` - Mar 12: class notes, Unit 5 Competitive Strategy (cost leadership, differentiation, focus, strategy clock); `2026-03-12-class-notes.md`

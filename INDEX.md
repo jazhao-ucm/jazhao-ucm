@@ -53,6 +53,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 4 | Feb 18–19 | Five Forces, Clusters, Climate Change |
 | 5 | Feb 25–26 | Madonna/Lola Flores case, RBV, VRIN |
 | 6 | Mar 4 | RBV continued, midterm prep |
+| 7 | Mar 12 | Competitive Strategy (cost leadership, differentiation, focus, strategy clock) |
 
 ---
 
