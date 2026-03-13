@@ -5,9 +5,9 @@
 
 ---
 
-# Section 1: Summary (AP Level / Accessible)
+# Section 1: Summary (super simple)
 
-*Use this section first. Plain language. Short sentences.*
+*Read this part when you are tired or stressed. Very short sentences. No fancy words.*
 
 ## Key Words
 - **Value creation** = Making something useful. Total value for users.

@@ -5,17 +5,16 @@
 
 ---
 
-# Section 1: Summary (AP Level / Accessible)
+# Section 1: Summary (super simple)
 
-*Use this section first. Plain language. Short sentences.*
+*Use this when you want the “explain it like I’m 14” version.*
 
-## Key Words
-- **Strategy** = Long-run goals + courses of action + allocation of resources (Chandler).
-- **Strategic decisions** = Uncertainty, complexity, expensive mistakes (even survival).
-- **Corporate strategy** = What businesses to compete in; scope; synergies.
-- **Competitive strategy** = How to compete in a business; cost leadership, differentiation.
-- **Functional strategy** = How each function (operations, HR, marketing, etc.) supports the above.
-- **Deliberate vs emergent** = Planned vs. strategy that emerges from action and learning.
+## Key Words (14-year-old version)
+- **Strategy** = long-term plan to win: big goals + actions + where we put money and effort.
+- **Strategic decisions** = very big choices that are risky and hard to undo.
+- **Corporate strategy** = which businesses we are in.
+- **Competitive strategy** = how we fight rivals in one business.
+- **Functional strategy** = what each department does (HR, marketing, finance, etc.) to support the plan.
 
 ## Main Ideas (Simple Version)
 

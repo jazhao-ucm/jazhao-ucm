@@ -5,9 +5,9 @@
 
 ---
 
-# Section 1: Summary (AP Level / Accessible)
+# Section 1: Summary (super simple)
 
-*Use this section first. Plain language. Short sentences.*
+*Read this part when you are tired or stressed. Very short sentences. No fancy words.*
 
 ## Key Words
 - **Brainstorming rules** = One conversation at a time. No judging. Wild ideas. Build on others.

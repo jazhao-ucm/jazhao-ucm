@@ -5,42 +5,33 @@
 
 ---
 
-# Section 1: Summary (AP Level / Accessible)
+# Section 1: Summary (super simple)
 
-*Use this section first. Plain language. Short sentences.*
+*Read this part when your brain is tired. Very short. No jargon.*
 
-## Key Words
-- **Strategic Management** = The craft of strategy: identifying a superior competitive position, analyzing situations, creating organizational context for strategy to work.
-- **Sustainable Development** = Big challenge explored in the course; climate change and strategic management.
-- **ABC Model** = Academics, Business, Consultants — synergies and tensions in the field.
+## Key Words (14-year-old version)
+- **Strategic Management** = learning **how companies win and survive** in the long term.
+- **Strategy** = a **long-term plan** about where to go and how to get there.
+- **Sustainable development** = trying to win **without destroying** people or the planet.
 
-## Main Ideas (Simple Version)
+## Main Ideas (what this course wants from you)
 
-1. **Course focus: strategy as a craft.**
-   - How to identify and choose a superior competitive position.
-   - How to analyze strategic situations.
-   - How to create the organizational context for strategy to work.
-   - Sustainable development and climate change.
+1. **What the course is really about.**
+   - Not “magic CEO”. It is **tools + thinking** to make better long-term decisions.
+   - You learn to see why some companies win and others fail.
 
-2. **Learning objectives.**
-   - Understand complexities and paradoxes of strategic management.
-   - Analyze real situations of leading companies.
-   - Evaluate and make business decisions.
-   - Develop critical thinking, communication, leadership, teamwork.
-   - Develop sustainable development awareness.
+2. **Big blocks of the syllabus.**
+   - **Part I – Analysis**: look **outside** (environment) and **inside** (resources).
+   - **Part II – Formulation**: choose where to compete and how to compete.
+   - **Part III – Future**: sustainability, climate, poor markets.
 
-3. **Course structure: Part I (Analysis), Part II (Formulation), Part III (Future).**
-   - Units 1–4: Strategy, Objectives, Environment, Internal Analysis.
-   - Units 5–8: Competitive advantage, Directions, Methods, Internationalization.
-   - Unit 9: Sustainable development, natural environment, base of pyramid.
+3. **How you are graded (very short).**
+   - **Continuous**: midterm, group case, small assignments, participation.
+   - **Final**: mix of **theory questions + one big case**.
 
-4. **Evaluation: 50% continuous, 50% final.**
-   - Mid-term (15%), Business case (20%), Illustrations (10%), Participation (5%).
-   - Final: theory (5 pts) + business case (5 pts).
-
-5. **Methodology: mixed, active learning.**
-   - ~50% theory (professor + discussion).
-   - ~50% practice (illustrations, business cases, group work).
+4. **How class works.**
+   - About half is **slides + explanation**, half is **cases and exercises**.
+   - You are expected to **read, talk, and write**, not just listen.
 
 ---
 

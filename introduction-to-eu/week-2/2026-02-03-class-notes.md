@@ -5,9 +5,9 @@
 
 ---
 
-# Section 1: Summary (AP Level / Accessible)
+# Section 1: Summary (super simple)
 
-*Use this section first. Plain language. Short sentences.*
+*Use this part when you are tired or stressed. Very short sentences. No fancy words.*
 
 ## Key Words
 - **ECSC** = European Coal and Steel Community. First supranational body. Coal and steel. 1951.

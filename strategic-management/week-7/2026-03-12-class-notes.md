@@ -5,43 +5,59 @@
 
 ---
 
-# Section 1: Summary (AP Level / Accessible)
+# Section 1: Summary (super simple)
 
-*Use this section first. Plain language. Short sentences.*
+*Read this part when you are tired or stressed. Very short sentences. No fancy words.*
 
-## Key Words
-- **Competitive advantage** = Something important the firm does better than rivals; based on industry key success factors; must be substantial and sustainable.
-- **Competitive strategy** = Offensive–defensive actions to create a defendable position in the industry and achieve better performance (how to compete).
-- **Cost leadership** = Being able to offer similar quality at lower cost than rivals.
-- **Differentiation** = Offering something customers see as unique so they are willing to pay more or stay loyal.
-- **Focus** = Competing in a narrow segment (niche), with cost or differentiation.
-- **Stuck in the middle** = Neither clearly low-cost nor clearly differentiated → weak position.
+## Key Words (14-year-old version)
+- **Competitive advantage** = you do something important **better than rivals**, so you earn **more money**.
+- **Competitive strategy** = **plan to win** in the market (how you attack and defend).
+- **Cost leadership** = you are the **cheapest** for normal quality.
+- **Differentiation** = you are **special**, so people pay **more** or stay **loyal**.
+- **Focus** = you pick a **small group** of customers and are cheap or special **only for them**.
+- **Stuck in the middle** = you are **not really cheap** and **not really special** → bad position.
 
-## Main Ideas (Simple Version)
+## Main Ideas (what today was about)
 
-1. **Competitive advantage = better position in the market.**
-   - Comes from firm features linked to key success factors (cost, quality, service, innovation, etc.).
-   - Must be large enough and last long enough to matter for performance.
+1. **From “is the industry good?” to “how do we play inside it?”.**
+   - Five Forces tells us if the **industry is attractive or not**.
+   - Then we choose a **strategy for the firm** inside that industry.
 
-2. **Competitive strategy = how to win vs competitors.**
-   - Offensive/defensive moves to create and defend advantage.
-   - Links resources/capabilities (RBV) to market behaviour (Five Forces).
+2. **Competitive advantage = reason why we win.**
+   - Must be linked to what really matters: **cost, quality, brand, service, innovation**.
+   - Must be big enough and last long enough to change performance.
 
-3. **Three generic strategies (Porter).**
-   - **Cost leadership:** lower cost than rivals for similar product.
-   - **Differentiation:** customers perceive uniqueness and accept higher price.
-   - **Focus:** serve one segment deeply (cost focus or differentiation focus).
+3. **Porter’s three strategies = cheap / special / small group.**
+   - **Cost leadership** → cheap.
+   - **Differentiation** → special.
+   - **Focus** → small group (niche) with cheap **or** special inside that group.
 
-4. **Danger of ``stuck in the middle''.**
-   - Firm that is neither clear low-cost nor clearly differentiated suffers low margins and no strong customer loyalty.
-   - Important risk in mature, competitive industries.
+4. **“Stuck in the middle” is the danger.**
+   - Trying to be cheap **and** special at the same time with no clear choice.
+   - Result: **low margins** and **no strong loyalty**.
 
-5. **Drivers of cost leadership.**
-   - Economies of scale, learning, process innovation, standardised product design, input cost advantages, high capacity utilisation, residual efficiency (organisation, motivation).
+5. **How to be cost leader (reasons costs are low).**
+   - Big scale, learning by doing, better processes, simple/standard product, cheap inputs, using capacity well, good organisation and motivation.
 
-6. **Strategy clock idea (from illustrations).**
-   - Different combinations of price and perceived value.
-   - Only some positions are viable long-term; others lead to failure (e.g. high price/low value).
+6. **Strategy clock = price vs value picture.**
+   - Some spots work: **low price/OK value** (cost leader), **higher value/higher price** (differentiation).
+   - Some spots fail: **high price/low value** → customers leave.
+
+7. **Ford Model T = classic example.**
+   - Ford made **one car, one colour, super cheap**. Huge success.
+   - But then **customers wanted variety**. Ford couldn't adapt. GM won.
+   - Lesson: cost leadership works **until tastes change**.
+
+8. **Risks of being the cheapest.**
+   - **Market changes**: people stop caring only about price.
+   - **New technology**: your efficient system becomes worthless overnight.
+   - **Cutting quality too much**: customers leave for slightly more expensive but better.
+   - **Rivals catch up**: if they match your costs, you have nothing special.
+
+9. **X-efficiency = the "art" part.**
+   - Getting more from the same inputs through **motivation, good management, culture**.
+   - Hard to copy because it lives in people, not machines.
+   - Example: flamenco "duende" — you can't teach it, but it makes all the difference.
 
 ---
 
@@ -108,7 +124,53 @@
 
 ---
 
-## V. Industry Evolution and Strategy (5.5) \textit{(to complete with class discussion)}
+## V. Risks of Cost Leadership (from class)
+
+### A. Ford Model T example
+1. Ford standardised everything: one colour (black), one model, same technology, same floor.
+2. Result: massive economies of scale, cheapest car, huge success.
+3. **But then market tastes changed.** Customers had more money, wanted variety, style, customisation.
+4. General Motors understood this: same platform, different configurations (mass customisation).
+5. Ford's production system became obsolete because it couldn't adapt.
+
+### B. Main risks
+1. **Market tastes change.** Customers stop caring only about price; they want features, style, experience.
+2. **Technology disruption.** A new technology makes your efficient system worthless overnight. All your learning and scale disappear.
+3. **Quality reduction backfires.** If you cut costs by using cheaper materials, customers notice and leave. Example: cheapest cars (Dacia, older Eastern European brands) lose to slightly more expensive but better-quality options.
+4. **Competitors catch up.** If rivals match your cost position, you have no advantage left.
+
+### C. X-efficiency (residual efficiency)
+1. Technical term: the "art" of getting more output from the same inputs.
+2. Depends on motivation, management quality, organisation, culture.
+3. Example: flamenco "duende" — something you cannot teach, but makes all the difference.
+4. Hard to copy because it lives in people and routines, not in machines.
+
+---
+
+## VI. Industry Examples (from class)
+
+### A. Spanish supermarket (Mercadona-style)
+1. Cost leadership: standardised products, efficient logistics, high volume, low margins.
+2. Buyer power high: customers can switch easily.
+3. Success depends on scale and operational efficiency.
+
+### B. Energy / renewables (Spain, EU)
+1. Five Forces applied:
+   - Rivalry: few big players (France, Germany have national champions).
+   - Substitutes: renewable vs. fossil; regulatory push.
+   - Supplier power: depends on technology providers.
+   - Buyer power: governments, large industrial buyers.
+   - Entry barriers: capital, regulation, technology.
+2. Industry attractiveness depends on country policy (subsidies, tax, regulation).
+3. Example: Spain promoting renewables → changes industry structure.
+
+### C. Professional services vs. commodities
+1. **Commodities (e.g. restaurants, retail):** many customers, low margins, price-based decisions. Economies of scale matter a lot.
+2. **Professional services (e.g. consulting, law):** few clients, high margins, relationship-based. Scale matters less; expertise and trust matter more.
+
+---
+
+## VII. Industry Evolution and Strategy (5.5)
 
 1. Different stages of industry life cycle (emergence, growth, maturity, decline) favour different strategies.
 2. Early stages: innovation, differentiation, experimentation.
