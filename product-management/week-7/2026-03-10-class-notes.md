@@ -1,284 +1,126 @@
-# Product Management - Class Notes
-## March 10, 2026 - Week 7
+# Product Management — Class Notes
+## March 10, 2026 — Week 7
 
-**Focus:** Manufacturing process design — six dimensions (lot size, equipment, skills, scheduling, product range, inventory). Trade-off: bespoke/quality vs. speed. Exercise: compare two piano manufacturing videos (traditional craftsman vs. Yamaha factory).
-
----
-
-# Section 1: Summary (super simple)
-
-*Read this part when you are tired or stressed. Very short sentences. No fancy words.*
-
-## Key Words
-
-- **Lot size / batch size** = How many units you produce at once. Large = economies of scale. Small = differentiation.
-- **General-purpose equipment** = Not made for one specific process. Can be used for different production processes. Flexible. Lower fixed investment.
-- **Specific-purpose equipment** = Designed specifically for that product/process. Cannot be used for other products. High fixed investment. Need many units to justify (e.g., $10M).
-- **Make-to-order** = Produce when order comes in. Flexible. Changes from order to order.
-- **Make-to-stock** = Produce in advance. Standardized. Assembly line: same speed for all units.
-
-## Main Ideas (Simple Version)
-
-1. **Process design = trade-offs.**
-   - Bespoke/quality vs. speed.
-   - You cannot optimize everything. Choose based on strategy.
-
-2. **Six dimensions to describe any manufacturing process:**
-   - Lot size (large vs. small batch)
-   - Equipment (general vs. specific purpose)
-   - Skills (specialized vs. general workers)
-   - Scheduling (make-to-order vs. flow/line)
-   - Product range (standard vs. broad variety)
-   - Inventory (high vs. low)
-
-3. **Large batches = economies of scale.**
-   - Lower unit cost (fixed cost spread over many units).
-   - Can compete on price.
-   - Need specific-purpose equipment. If you spend $10M on specific equipment, you need many units to justify it.
-
-4. **Small batches = differentiation.**
-   - Economies of scale difficult. Cannot compete on price.
-   - Must compete on product, branding, customization.
-   - General-purpose equipment, lower fixed investment.
-
-5. **Higher skills = higher wages.**
-   - Worker who knows the whole craft — how to build, how to design, how to sign the rights — gets higher wages.
-   - Worker who knows a bit of many processes: lower wages. Used when cost is priority.
-
-6. **Make-to-order when demand is uncertain.**
-   - Restaurants: we don't know how many customers or what they'll order.
-   - Keeps people employed but we don't know exact demand — make-to-order avoids overproduction.
-
-7. **In-class exercise: two piano videos.**
-   - Video 1: Spanish traditional craftsman — wood, frames, intricate details; small batch; general tools; high artisan skill; one person does many steps; "sounds the most high."
-   - Video 2: Yamaha Japan — "chairs moving" (conveyor belts); assembly line; same speed for all units; standardized; many workers each specialized; many machines.
-   - Fill in table: lot size, equipment, skills, scheduling, product range, inventory.
-
-8. **Why so many machines in the factory?**
-   - To produce many units. Each station does one task. Standardization allows scale.
-
-9. **Reality:** Most manufacturing processes are hybrids. Not perfect types. Use the framework to describe where a process sits.
+**Topic:** Manufacturing process design — six dimensions; trade-offs (bespoke vs. speed); piano manufacturing comparison exercise.
 
 ---
 
-# Section 2: Full Notes (College Prep Academic)
+I. Manufacturing Process Design — Overview
+   A. Core decision
+      1. How to manufacture the product
+      2. Trade-off: bespoke/quality vs. speed
+      3. Cannot optimize everything — choose based on strategy
+   B. Six dimensions
+      1. Lot size (batch size)
+      2. Equipment type
+      3. Worker skills
+      4. Scheduling approach
+      5. Product range
+      6. Inventory level
+   C. Key insight
+      1. Most processes are hybrids
+      2. Framework helps describe where process sits
+      3. Strategic fit matters
 
-**Rhetorical Framework (Ethos, Logos, Pathos)**
+II. Lot Size / Batch Size
+   A. Large batches
+      1. Economies of scale
+      2. Lower unit cost (fixed cost spread)
+      3. Can compete on price
+      4. Need high demand to justify
+   B. Small batches
+      1. Economies of scale difficult
+      2. Cannot compete on price
+      3. Must compete on differentiation
+      4. Flexible production
 
-| Appeal | In this lecture |
-| ------ | ---------------- |
-| **Ethos** | Manufacturing frameworks; real piano factories (Spain, Japan, Kansas/Steinway) |
-| **Logos** | Six dimensions; trade-off logic (batch size ↔ equipment ↔ cost) |
-| **Pathos** | "Why seaboard important?" — wood, craft, sound quality; tension between craft and scale |
+III. Equipment Type
+   A. General-purpose equipment
+      1. Can be used for different processes
+      2. Flexible, adaptable
+      3. Lower fixed investment
+      4. Used with small batches
+   B. Specific-purpose equipment
+      1. Designed for one product/process
+      2. Cannot be used for other products
+      3. High fixed investment (e.g., $10M)
+      4. Need many units to justify cost
 
----
+IV. Worker Skills
+   A. Specialized/high skill
+      1. Worker knows whole craft
+      2. Can build, design, quality check
+      3. Higher wages
+      4. Used for bespoke production
+   B. General/lower skill
+      1. Knows bit of many processes
+      2. Does one task repeatedly
+      3. Lower wages
+      4. Used when cost is priority
 
-## I. Introduction: Manufacturing Process Design
+V. Scheduling Approach
+   A. Make-to-order
+      1. Produce when order comes in
+      2. Flexible, changes from order to order
+      3. Good when demand uncertain
+      4. Ex: restaurants — don't know what customers order
+   B. Make-to-stock / flow line
+      1. Produce in advance
+      2. Standardized products
+      3. Same speed for all units
+      4. Ex: assembly line manufacturing
 
-A. Purpose
-- One of the key decisions in product design: **how to manufacture**.
-- Trade-off: **bespoke/quality** vs. **speed**.
-- Manufacturing choices affect cost, flexibility, and competitive position.
+VI. Product Range
+   A. Standard / narrow range
+      1. Few product variants
+      2. High volume per SKU
+      3. Efficiency through repetition
+   B. Broad variety
+      1. Many product variants
+      2. Lower volume per SKU
+      3. Flexibility required
 
-B. Framework
-- Six dimensions to describe and compare any production process.
-- Use these to analyze goods, computers, pianos, etc.
-- In real life, most manufacturing processes are hybrids — not perfect types.
+VII. Inventory Level
+   A. High inventory
+      1. Buffer against demand variation
+      2. Quick delivery possible
+      3. Higher carrying costs
+      4. Risk of obsolescence
+   B. Low inventory
+      1. Lower carrying costs
+      2. Just-in-time approach
+      3. Requires reliable supply chain
+      4. Risk of stockouts
 
----
+VIII. Case Study — Piano Manufacturing
+   A. Traditional craftsman (Spanish)
+      1. Small batch / one at a time
+      2. General-purpose tools
+      3. High artisan skill
+      4. One person does many steps
+      5. Make-to-order
+      6. High quality, high cost
+   B. Yamaha factory (Japan)
+      1. Large batch production
+      2. Assembly line (conveyor belts)
+      3. Each worker specialized in one task
+      4. Many machines, each for one task
+      5. Make-to-stock
+      6. Standardized, lower unit cost
+   C. Trade-off lesson
+      1. Craftsman: quality, customization, high price
+      2. Factory: efficiency, standardization, lower price
+      3. Both valid — depends on target market
 
-## II. Dimension 1: Lot Size (Batch Size)
-
-A. Definition
-- How many units of the product are we going to produce at once?
-- Large batches vs. small batches.
-
-B. Large batches
-   1. Economies of scale.
-   2. Lower unit cost (fixed cost spread over many units).
-   3. Can compete on price.
-   4. Typically need specific-purpose equipment.
-   5. Example: If you spend $10M on specific equipment, you need to produce many units to justify it.
-
-C. Small batches
-   1. Economies of scale are difficult.
-   2. Cannot easily compete on price.
-   3. Must compete on product, branding, differentiation.
-   4. Typically use general-purpose equipment.
-   5. Focus on customization, quality, uniqueness.
-
----
-
-## III. Dimension 2: Equipment Type
-
-A. General-purpose equipment
-   1. Not made for one specific process.
-   2. Can be used for different production processes.
-   3. Flexible.
-   4. **Lower fixed investment.**
-
-B. Specific-purpose equipment
-   1. Designed specifically for that product/process.
-   2. Cannot be used for other products.
-   3. **High fixed investment.**
-   4. Must produce many units to justify cost.
-   5. **Linked to large batch sizes.**
-
----
-
-## IV. Dimension 3: Skills / Workforce
-
-A. Specialized workers (high skill in one area)
-   1. Know one process deeply.
-   2. Higher wages.
-   3. Example: Worker who knows the whole craft — how to build, how to design, how to sign the rights.
-
-B. General workers (lower skill, broader knowledge)
-   1. Know a bit of many processes.
-   2. Lower wages.
-   3. Used when cost is priority.
-
-C. Trade-off
-- Pay more for specialized depth.
-- Pay less for general breadth.
-
----
-
-## V. Dimension 4: Scheduling
-
-A. Relevance
-- Critical for fast food, deliveries, make-to-order businesses.
-
-B. Make-to-order
-- Produce when order comes in.
-- Flexible.
-- Changes from order to order.
-
-C. Make-to-stock / flow
-- Produce in advance.
-- Standardized.
-- Assembly line: same speed for all units.
-- Example: University selling computers — standard models, make-to-stock.
-
-D. When to use make-to-order
-- When demand is uncertain (e.g., restaurants: we don't know how many customers will come).
-- When we don't know what customers will order.
-- Keeps people employed but we don't know exact demand — make-to-order avoids overproduction.
-
-E. Product range link
-- Make-to-order → broad range, customized.
-- Make-to-stock → limited standard models.
-- Example: Restaurant = make-to-order (unknown demand); supermarket = make-to-stock.
-
----
-
-## VI. Dimension 5: Product Range / Variety
-
-A. Standard products
-- Limited models.
-- Simple.
-- Make-to-stock.
-- Large batches.
-
-B. Broad variety
-- Many configurations.
-- Customized.
-- Make-to-order.
-- Small batches.
-
----
-
-## VII. Dimension 6: Inventory Level
-
-A. High inventory
-   1. Expensive to hold (storage, capital).
-   2. But: flexible to changes in demand.
-   3. Can respond to orders quickly.
-
-B. Low inventory
-   1. Cheaper.
-   2. Less flexible.
-   3. Must produce to order or risk stockouts.
-
-C. Three types of inventory
-- Raw materials.
-- Work-in-progress (WIP).
-- Finished goods.
-
----
-
-## VIII. Process Types: Make-to-Order vs. Make-to-Stock
-
-A. Make-to-order
-- High customization.
-- Produce when customer orders.
-- Flexible scheduling.
-- Lower finished-goods inventory.
-
-B. Make-to-stock
-- Standardized.
-- Produce in advance.
-- Flow/line scheduling.
-- Higher inventory.
-
-C. Reality
-- Most factories are hybrids.
-- Not perfect types. Use the dimensions to describe where a process sits.
-
----
-
-## IX. In-Class Exercise: Piano Manufacturing Videos
-
-A. Task
-- Watch two videos of piano manufacturing.
-- Fill in a table for each: lot size, equipment, skills, scheduling, product range, inventory.
-
-B. Video 1: Traditional craftsman (Spain)
-   1. Wood, frames, intricate details.
-   2. Small batch.
-   3. General-purpose tools.
-   4. High artisan skill.
-   5. One person does many steps.
-   6. Make-to-order feel.
-   7. Sound quality emphasized ("sounds the most high").
-   8. "Why seaboard important?" — wood, craft, sound.
-
-C. Video 2: Yamaha factory (Japan)
-   1. Assembly line.
-   2. "Chairs moving" — conveyor belts carrying units through.
-   3. Same speed for all units through the process.
-   4. Standardization of the process for all units.
-   5. Many workers, each specialized.
-   6. Large batch.
-   7. Specific-purpose equipment.
-   8. Many machines — to produce many units.
-
-D. Key question: Why so many machines in the factory?
-- To produce many units.
-- Each station does one task.
-- Standardization allows scale.
-
-E. Contrast
-- Craftsman: flexibility, quality, small scale.
-- Factory: speed, standardization, large scale.
-
-F. Geographic comparison (from class discussion)
-- Spanish craftsman: traditional, small batch, general-purpose.
-- American (e.g., Steinway in Kansas): different approach.
-- Japanese (Yamaha): assembly line, standardization.
-- Same product (pianos), different process configurations.
-
----
-
-## Key Takeaways
-
-1. **Six dimensions** describe any manufacturing process: lot size, equipment, skills, scheduling, product range, inventory.
-2. **Large batch** → economies of scale, specific equipment, make-to-stock, lower unit cost.
-3. **Small batch** → differentiation, general equipment, make-to-order, higher customization.
-4. **Make-to-order** when demand is uncertain (restaurants, custom goods); **make-to-stock** when demand is predictable.
-5. **Exercise:** Use the table to compare the two piano videos.
-6. **Real processes** are usually hybrids — use the framework to analyze, not to label perfectly.
-
----
-
-*Note: These notes were reconstructed from a voice transcription of the March 10, 2026 lecture. Some details may be incomplete or approximate. Refer to class materials and slides for accuracy.*
+IX. Why Many Machines in Factory
+   A. Reason
+      1. Produce many units efficiently
+      2. Each station does one task
+      3. Standardization allows scale
+   B. Investment logic
+      1. High fixed cost in equipment
+      2. Spread over many units
+      3. Low variable cost per unit
+   C. Key insight
+      1. Volume justifies investment
+      2. Without volume, machinery unprofitable

@@ -11,15 +11,41 @@ Course notes and materials for Product Management at UCM.
 | Study materials | LaTeX (`.tex`) | Each week: topic-named guides (e.g. `bmc-value-creation.tex`, `midterm.tex` in week-6). Compile: `pdflatex filename.tex` |
 | Readings & slides | PDF, DOCX | Week folders |
 
-## Note-Taking Format
+## Note-Taking Format — Formal Outline System
 
-All class notes follow the **Formal Outline Note Taking System** format:
-- **Roman numerals (I, II, III, IV, V, etc.)** for main topics
-- **Capital letters (A, B, C, D, etc.)** for subheadings
-- **Arabic numerals (1, 2, 3, etc.)** for supporting details
-- **Lowercase letters (a, b, c, etc.)** for nested sub-details
+All class notes follow the **Formal Outline Note Taking System**.
 
-This format provides a highly structured, logically organized outline that clearly shows levels of information.
+### Hierarchy
+
+```
+I. Topic
+   A. Main idea
+      1. Supporting detail
+      2. Supporting detail
+         a. More detail
+         b. More detail
+            i. Even more info
+            ii. Even more info
+   B. Main idea
+      1. Supporting detail
+      2. Supporting detail
+II. Topic
+   A. Main idea
+   B. Main idea
+```
+
+### Rules
+
+1. **Roman numerals (I, II, III)** for topics.
+2. **Capital letters (A, B, C)** for main ideas.
+3. **Arabic numerals (1, 2, 3)** for supporting details.
+4. **Lowercase letters (a, b, c)** for sub-details.
+5. **Lowercase roman numerals (i, ii, iii)** for further detail.
+6. **Period after each numeral or letter.**
+7. **Begin all lines with uppercase.**
+8. **Line up each level under the one above.**
+9. **No sentences** — rephrase briefly using abbreviations and symbols.
+10. **If you have 1, you must have 2. If A, you must have B.**
 
 ## Structure
 

@@ -1,320 +1,156 @@
-# Product Management - Class Notes
-## February 17, 2026 - Week 4
+# Product Management — Class Notes
+## February 17, 2026 — Week 4
 
-**Focus:** Business Model Canvas, value creation and capture.
-
----
-
-# Section 1: Summary (super simple)
-
-*Read this part when you are tired or stressed. Very short sentences. No fancy words.*
-
-## Key Words
-- **Business Model Canvas** = Framework. Nine blocks. How you create, deliver, capture value.
-- **Value proposition** = Why they buy. What you offer.
-- **Customer segment** = Who you sell to. Be specific.
-
-## Main Ideas (Simple Version)
-
-1. **Three questions: Who? Why? How?**
-   - Who are we selling to?
-   - Why does it matter? What are we selling?
-   - How do we get them to buy more?
-
-2. **Zara: skinny jeans example.**
-   - Customer: 17–27. Big cities. Trend-focused.
-   - Scarcity: "Might not be here next week."
-   - Urgency. Buy now.
-
-3. **Nine building blocks.**
-   - Customer segments. Value proposition. Channels.
-   - Customer relationships. Revenue streams.
-   - Key resources. Key activities. Key partners. Cost structure.
-
-4. **Be specific.**
-   - "Everyone" = too broad. No meaning.
-   - Focus on one product. One segment.
+**Topic:** Business Model Canvas; value creation and capture; Zara case study.
 
 ---
 
-# Section 2: Full Notes (College Prep Academic)
-
-**Rhetorical Framework (Ethos, Logos, Pathos)**
-
-| Appeal | In this lecture |
-|--------|-----------------|
-| **Ethos** | Zara; Business Model Canvas; Who? Why? How? |
-| **Logos** | Nine components; value proposition; revenue model |
-| **Pathos** | Scarcity, urgency; "community before product" |
-
----
-
-## Key Concepts
-
-### I. Business Model Canvas - Overview
-
-Purpose: Framework to describe and analyze a business model
-
-Structure: Nine building blocks that describe how a company creates, delivers, and captures value
-
-A. Key insight
-1. The canvas helps break down a business into its essential components and understand the connections between different parts.
-
-B. **Note:** While there are nine steps/blocks, they can be grouped into three main questions
-1. Who are we selling to? (Customer segments)
-2. Why does it matter / What are we selling to them? (Value proposition)
-3. How can we get them to buy more? (Channels, customer relationships, revenue streams)
-
----
-
-## Business Model Canvas Applied: Zara - Skinny Jeans
-
-### II. Customer Segments
-
-Focus: People who buy skinny jeans from Zara
-
-A. Demographics
-1. Age: 17–27 years old (younger adults and older teens)
-2. Location: Big cities (e.g. New York, LA, Miami) - urban shopping areas
-3. Behavior: Trend-focused shoppers who want to look current/fashionable
-
-B. Key Characteristics
-1. Want jeans without paying premium prices
-2. Want new jeans and feel they should buy now (scarcity/trend-driven)
-3. Concerned that items might not be available next week or might not be in trend next week
-
-Segmentation Note: Important to be specific—if you say "everyone," the customer segment becomes too broad and loses meaning. Focus on one specific product (e.g. skinny jeans) and the people who buy that product.
-
----
-
-### III. Value Proposition
-
-A. What Zara offers for skinny jeans
-
-1. On-trend / Current styling
-   a. Jeans feel current and fashionable
-   b. "You have to buy it now" mentality
-   c. If you don't buy now, it might not be trendy later
-
-2. Good quality
-   a. Compared to competitors (Old Navy, Gap, Abercrombie & Fitch, Levi's)
-   b. Comfortable and durable
-   c. Good sizing and fit
-
-3. Convenience
-   a. Available online
-   b. Easy to find and purchase
-   c. Can complete outfits with other Zara items
-
-4. Mid-price positioning
-   a. Not premium pricing (like designer brands)
-   b. Not the cheapest option
-   c. Positioned between low-end and high-end competitors
-   d. Average price around $30 for skinny jeans
-
-5. Scarcity / Limited quantities
-   a. Fast fashion model: items available for limited time
-   b. Creates urgency ("buy now or miss out")
-
-B. Why customers care
-1. People who want jeans without paying premium prices
-2. Want to look trendy and current
-3. Value convenience and good fit
-
----
-
-### IV. Channels
-
-A. Distribution channels
-
-1. Physical stores
-   a. Located in big cities (New York, LA, Miami)
-   b. Urban shopping areas
-   c. Visual merchandising and store layout important
-
-2. Online / Website
-   a. E-commerce platform
-   b. Can browse and purchase online
-
-B. Key point
-1. Zara uses both physical and digital channels to reach customers.
-
----
-
-### V. Customer Relationships
-
-A. How Zara maintains relationships with customers
-
-1. Self-service
-   a. Customers browse and shop independently
-   b. Both in-store and online
-
-2. Repeat visits
-   a. Fast fashion model encourages frequent shopping
-   b. New items arrive twice a week
-   c. Limited quantities create urgency for return visits
-
-3. Online relationships
-   a. Website and digital presence
-   b. Email marketing, social media
-
-Key Strategy: High turnover of products (items only available for ~2 weeks) encourages customers to return frequently to see new items.
-
----
-
-### VI. Revenue Streams
-
-A. How Zara makes money from skinny jeans
-
-1. Full-price sales
-   a. Sell jeans at full price (not discounted)
-   b. Avoid mass production and constant discounting (unlike competitors like Gap, Old Navy)
-
-2. Price positioning
-   a. Price carefully compared to competitors (Gap, AE, Levi's)
-   b. Not too high (would lose price-sensitive customers)
-   c. Not too low (would reduce margins)
-   d. Mid-price positioning ($30 average for skinny jeans)
-
-3. Inventory management
-   a. Only restock items that are selling well
-   b. Cut items that aren't performing
-   c. Minimize overproduction and markdowns
-
-B. Key insight
-1. Zara avoids the discount cycle that many competitors use—instead of producing large quantities and then discounting, they produce smaller batches and sell at full price.
-
----
-
-### VII. Key Resources
-
-A. What Zara needs to deliver the value proposition
-
-1. Design and trend identification
-   a. Ability to identify current trends quickly
-   b. Design team that can create on-trend products
-
-2. Manufacturing and supply chain
-   a. Fast production capabilities
-   b. Ability to produce small batches quickly
-   c. Restock only what's selling well
-
-3. Testing and data
-   a. System to test which products perform well
-   b. Data on customer behavior and preferences
-   c. Ability to scale successful items and cut unsuccessful ones
-
-4. Physical and digital infrastructure
-   a. Stores in key urban locations
-   b. E-commerce platform
-   c. Visual merchandising capabilities
-
----
-
-### VIII. Key Activities
-
-A. What Zara does to operate
-
-1. Fast fashion production
-   a. Design and produce items quickly
-   b. Small batch production
-   c. Test market response
-
-2. Inventory management
-   a. Monitor which items sell well
-   b. Restock successful items
-   c. Discontinue unsuccessful items quickly
-
-3. Pricing strategy
-   a. Set prices competitively (not too high, not too low)
-   b. Maintain full-price sales (avoid discounting)
-
-4. Store operations
-   a. Visual merchandising
-   b. Store layout and presentation
-   c. Customer service
-
-5. Digital operations
-   a. Online store management
-   b. E-commerce fulfillment
-
----
-
-### IX. Key Partners
-
-A. Who Zara works with
-
-1. Suppliers and manufacturers
-   a. Fast production partners
-   b. Ability to produce small batches quickly
-
-2. Real estate / Store locations
-   a. Prime urban locations
-   b. Shopping centers and retail districts
-
-Note: The fast fashion model requires partners who can respond quickly to demand changes.
-
----
-
-### X. Cost Structure
-
-A. Main costs
-
-1. Production costs
-   a. Manufacturing skinny jeans
-   b. Small batch production (more expensive per unit than mass production)
-
-2. Inventory management
-   a. Cost of testing products
-   b. Cost of discontinuing unsuccessful items
-
-3. Store operations
-   a. Rent in prime locations
-   b. Visual merchandising
-   c. Staff
-
-4. Digital operations
-   a. E-commerce platform
-   b. Online fulfillment
-
-Key Strategy: By avoiding overproduction and discounting, Zara reduces costs associated with unsold inventory and markdowns.
-
----
-
-## Summary: Zara's Business Model for Skinny Jeans
-
-Customer: 17–27 year olds in big cities who want trendy jeans without premium prices
-
-Value Proposition: On-trend skinny jeans, good quality, convenient, mid-price ($30), limited quantities
-
-A. How it works
-1. Test products with small batches
-2. Watch which ones sell well
-3. Scale successful items, cut unsuccessful ones
-4. Sell at full price (avoid discounting)
-5. Price competitively compared to Gap, AE, Levi's, Old Navy
-6. Restock twice a week
-7. Items only available for ~2 weeks (creates scarcity)
-
-B. Key Success Factors
-1. Fast response to trends
-2. Limited quantities create urgency
-3. Full-price sales (no discounting cycle)
-4. Data-driven inventory decisions
-5. Both physical and online channels
-
----
-
-## Key Takeaways
-
-1. Business Model Canvas breaks down a business into nine components, but can be simplified to three core questions: Who? Why? How?
-2. Zara's fast fashion model relies on scarcity, trend-focus, and full-price sales rather than mass production and discounting
-3. Customer segmentation must be specific—focusing on one product (skinny jeans) and one customer group (17–27, urban, trend-focused) makes the analysis clearer
-4. Value proposition combines multiple elements: trend, quality, convenience, price, and scarcity
-5. Revenue model avoids discounting by producing smaller batches and selling at full price
-
-## Key Takeaways (Rhetorical)
-
-- **Ethos:** Zara; Business Model Canvas; Who? Why? How?
-- **Logos:** Nine components; value proposition; segmentation logic.
-- **Pathos:** Scarcity, urgency; full-price sales stakes.
+I. Business Model Canvas — Overview
+   A. Purpose
+      1. Framework to describe/analyze business model
+      2. Visual representation of how company works
+      3. Tool for planning and communication
+   B. Three core questions
+      1. Who are we selling to? (Customer segments)
+      2. Why do they buy? (Value proposition)
+      3. How do we make money? (Revenue model)
+   C. Nine building blocks
+      1. Customer segments
+      2. Value proposition
+      3. Channels
+      4. Customer relationships
+      5. Revenue streams
+      6. Key resources
+      7. Key activities
+      8. Key partners
+      9. Cost structure
+
+II. Customer Segments
+   A. Definition
+      1. Groups of people you serve
+      2. Different segments = different needs
+      3. Must be specific
+   B. Segmentation criteria
+      1. Demographics (age, income, location)
+      2. Behavior (buying patterns, preferences)
+      3. Needs (problems to solve)
+   C. Key principle
+      1. "Everyone" = too broad
+      2. Focus on specific segment
+      3. Better to dominate niche than spread thin
+
+III. Value Proposition
+   A. Definition
+      1. Why customers choose you
+      2. What problem you solve
+      3. What value you deliver
+   B. Elements
+      1. Functional benefits (what it does)
+      2. Emotional benefits (how it feels)
+      3. Social benefits (what it signals)
+   C. Key insight
+      1. Must match segment needs
+      2. Must be differentiated from competitors
+      3. Must be communicable
+
+IV. Case Study — Zara Skinny Jeans
+   A. Customer segment
+      1. Age: 17–27 years old
+      2. Location: big cities (NYC, LA, Miami)
+      3. Behavior: trend-focused, fashion-conscious
+   B. Value proposition
+      1. Latest trends quickly
+      2. Affordable prices
+      3. Scarcity creates urgency
+   C. Scarcity strategy
+      1. "Might not be here next week"
+      2. Limited quantities
+      3. Buy now or miss out
+
+V. Channels
+   A. Definition
+      1. How you reach customers
+      2. Communication, distribution, sales
+   B. Types
+      1. Direct (own stores, website)
+      2. Indirect (retailers, marketplaces)
+      3. Partner channels
+   C. Considerations
+      1. Customer preferences
+      2. Cost to serve
+      3. Control vs. reach trade-off
+
+VI. Customer Relationships
+   A. Types
+      1. Personal assistance (human interaction)
+      2. Self-service (customer does it themselves)
+      3. Automated (algorithms, recommendations)
+      4. Communities (users help users)
+   B. Purpose
+      1. Acquisition (get new customers)
+      2. Retention (keep existing customers)
+      3. Upselling (increase revenue per customer)
+   C. Key insight
+      1. Different segments want different relationships
+      2. Cost of relationship must match value
+
+VII. Revenue Streams
+   A. Types
+      1. Asset sale (sell ownership)
+      2. Usage fee (pay per use)
+      3. Subscription (recurring payment)
+      4. Licensing (pay for permission)
+      5. Advertising (pay for attention)
+   B. Pricing mechanisms
+      1. Fixed pricing (set price)
+      2. Dynamic pricing (changes based on demand)
+      3. Negotiation (case by case)
+   C. Key question
+      1. What are customers willing to pay for?
+      2. How do they prefer to pay?
+
+VIII. Key Resources
+   A. Types
+      1. Physical (facilities, equipment)
+      2. Intellectual (patents, brands, data)
+      3. Human (skills, expertise)
+      4. Financial (cash, credit)
+   B. Key insight
+      1. Must support value proposition
+      2. Difficult to replicate = competitive advantage
+
+IX. Key Activities
+   A. Categories
+      1. Production (making the product)
+      2. Problem solving (consulting, services)
+      3. Platform/network (maintaining and developing)
+   B. Key insight
+      1. Focus on activities that create value
+      2. Outsource non-core activities
+
+X. Key Partners
+   A. Types
+      1. Strategic alliances (non-competitors)
+      2. Coopetition (competitors partnering)
+      3. Joint ventures (new entities)
+      4. Supplier relationships
+   B. Reasons to partner
+      1. Access resources you don't have
+      2. Reduce risk
+      3. Economies of scale
+   C. Key insight
+      1. Partners can be source of competitive advantage
+      2. Or dependency risk
+
+XI. Cost Structure
+   A. Types
+      1. Cost-driven (minimize costs)
+      2. Value-driven (focus on quality)
+   B. Elements
+      1. Fixed costs
+      2. Variable costs
+      3. Economies of scale
+      4. Economies of scope
+   C. Key insight
+      1. Cost structure must enable business model
+      2. Align with value proposition

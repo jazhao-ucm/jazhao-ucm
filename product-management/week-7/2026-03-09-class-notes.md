@@ -1,158 +1,109 @@
-# Product Management - Class Notes
-## March 9, 2026 - Week 7
+# Product Management — Class Notes
+## March 9, 2026 — Week 7
 
-**Focus:** Final exam prep, user interview assignment, design thinking process (ideation → prototype → test), and product design examples (value engineering, platform design, mass customization).
-
----
-
-# Section 1: Summary (super simple)
-
-*Read this part when you are tired or stressed. Very short sentences. No fancy words.*
-
-## Key Words
-- **User interviews** = Main assignment: interview real users (not friends in USA). Must be Zoom or in person.
-- **Value engineering** = Changing a product’s design to reduce cost or simplify, sometimes by removing features.
-- **Platform design** = Building a base (platform) that many product variants share.
-- **Mass customization** = Same platform, different configurations (e.g., BMW models).
-- **Ideation** = Next step in design thinking: generate ideas from your interview insights.
-
-## Main Ideas (Simple Version)
-
-1. **Assignment for this week: conduct user interviews.**
-   - Interview people (ideally not close friends back in the USA).
-   - Use Zoom or in-person; not text.
-   - Your own notes from the interview are fine.
-   - Find out: how they describe the problem, what they want, what frustrates them.
-
-2. **Design thinking flow: empathize → ideate → prototype → test.**
-   - Next week: ideation practice together in class.
-   - Then: prototyping and building something to show.
-   - Final deliverable: something you can present to users.
-
-3. **Value engineering = change design to cut cost or simplify.**
-   - Example: tea/coffee spoon made smaller → less metal, cheaper.
-   - Example: sugar dispenser with holes (90s) → more efficient portioning.
-   - Example: plastic instead of ceramic → cheaper, lighter.
-
-4. **Platform design enables many products from one base.**
-   - Shared components across models.
-   - Different configurations for different segments.
-   - Example: BMW — same platform, many model variants.
-
-5. **Sometimes less is more.**
-   - Removing features can reduce cost and complexity.
-   - Users may not need every function.
-   - Simpler products can win if they solve the core need.
+**Topic:** Final exam prep; user interview assignment; design thinking process; value engineering; platform design; mass customization.
 
 ---
 
-# Section 2: Full Notes (College Prep Academic)
+I. Final Exam and Assignment Overview
+   A. Final exam
+      1. Prepare answers that are valuable and defensible
+      2. Apply concepts to real cases
+   B. User interview assignment
+      1. Interview real users (not close friends)
+      2. Format: Zoom or in-person, not text
+      3. Output: your own notes acceptable
+      4. Goal: understand how users describe problems
+   C. Design thinking timeline
+      1. This week: conduct interviews
+      2. Next week: ideation practice in class
+      3. After: prototyping and building
+      4. Final: present to users/professor
 
-**Rhetorical Framework (Ethos, Logos, Pathos)**
+II. Design Thinking Flow
+   A. Empathize
+      1. Understand users through research
+      2. Observe and interview
+      3. Build empathy for their experience
+   B. Ideate
+      1. Generate ideas from insights
+      2. Quantity over quality initially
+      3. Build on others' ideas
+   C. Prototype
+      1. Build quick versions to test
+      2. Low fidelity acceptable
+      3. Learn before investing
+   D. Test
+      1. Get feedback from real users
+      2. Iterate based on learning
+      3. Validate or pivot
 
-| Appeal | In this lecture |
-|--------|-----------------|
-| **Ethos** | Professor’s examples from product design history; real-world cases |
-| **Logos** | Value engineering, platform design, mass customization; design thinking stages |
-| **Pathos** | Pressure of final exam; anxiety about interviews and “getting it right” |
+III. Value Engineering
+   A. Definition
+      1. Changing design to reduce cost or simplify
+      2. Sometimes by removing features
+      3. Focus on value vs. cost ratio
+   B. Examples
+      1. Tea spoon made smaller — less metal, cheaper
+      2. Sugar dispenser with holes — efficient portioning
+      3. Plastic instead of ceramic — cheaper, lighter
+   C. Key insight
+      1. Cost reduction through design
+      2. Not just cutting quality
+      3. Smarter solutions for same function
 
----
+IV. Platform Design
+   A. Definition
+      1. Building base that many variants share
+      2. Shared components across products
+      3. Efficiency through commonality
+   B. Benefits
+      1. Lower development costs
+      2. Faster time to market for variants
+      3. Economies of scale in manufacturing
+   C. Example — BMW
+      1. Same platform, many model variants
+      2. Different configurations for segments
+      3. Shared engineering, differentiated products
 
-## I. Final Exam and Assignment Overview
+V. Mass Customization
+   A. Definition
+      1. Combining mass production with customization
+      2. Same platform, different configurations
+      3. Personalization at scale
+   B. How it works
+      1. Modular components
+      2. Late-stage differentiation
+      3. Configure-to-order
+   C. Examples
+      1. Dell computers — customize online
+      2. Nike ID — personalized shoes
+      3. Car manufacturers — option packages
 
-A. Final exam
-- Prepare for the final.
-- Think about how your answers will be valuable and defensible.
+VI. Product Simplification
+   A. Core principle
+      1. Sometimes less is more
+      2. Remove features to reduce cost/complexity
+      3. Focus on core user need
+   B. When to simplify
+      1. Users don't use all features
+      2. Complexity creates confusion
+      3. Cost must be reduced
+   C. Key insight
+      1. Simpler products can win
+      2. If they solve core need well
+      3. Feature bloat is common problem
 
-B. Main assignment: User interviews
-   1. **What to do:** Conduct user interviews.
-   2. **Who to interview:** People who match your target user (not necessarily friends back in the USA).
-   3. **Format:** Zoom or in-person; not text.
-   4. **Output:** Your own notes from the interview are acceptable.
-   5. **Goal:** Find out how users describe the problem, what they want, what frustrates them.
-
-C. Design thinking timeline
-- This week: finalize interview guide, conduct interviews.
-- Next week: ideation practice in class (group session).
-- After that: prototyping and building something to show.
-- Final: present something to users / professor.
-
----
-
-## II. Product Design Examples: Value Engineering
-
-Purpose: Show how changing a product’s form or materials can reduce cost, simplify use, or improve performance.
-
-A. Tea / coffee spoon
-   1. **Original:** Large spoon for serving tea/coffee to many people.
-   2. **Change:** Smaller spoon.
-   3. **Why:** More people used it → smaller portions needed → less material, cheaper.
-   4. **Lesson:** Portion size and usage drive design changes.
-
-B. Sugar dispenser (1990s)
-   1. **Design:** Dispenser with holes; pour sugar through holes into cup.
-   2. **Advantage:** More efficient than a loose bowl; controlled portioning.
-   3. **Lesson:** Small design changes can improve efficiency.
-
-C. Plastic vs ceramic
-   1. **Change:** Switch from ceramic to plastic for a product.
-   2. **Reasons:** Cheaper, lighter, easier to produce.
-   3. **Lesson:** Material choice is part of value engineering — analyze function and cost.
-
-D. Car side mirror (bioengineering example)
-   1. **Problem:** Standard mirror caused confusion (reflection, orientation).
-   2. **Change:** Smaller mirror, different angle/position.
-   3. **Result:** Less confusion for driver; safer.
-   4. **Lesson:** Sometimes reducing size or changing placement improves usability.
-
----
-
-## III. Platform Design and Mass Customization
-
-Purpose: Show how one base design can support many product variants.
-
-A. Platform-based design
-   1. **Concept:** Build a shared base (platform) with common components.
-   2. **Variants:** Different models share the platform but have different features, styling, or specs.
-   3. **Example:** Car industry — one platform, many models (e.g., BMW).
-
-B. Mass customization
-   1. **Idea:** Same platform, different configurations for different customers.
-   2. **Benefit:** Economies of scale + variety.
-   3. **Example:** BMW models share architecture, engines, parts; differ in body, interior, options.
-
-C. Modular design
-   1. **Concept:** Products built from interchangeable modules.
-   2. **Example (mentioned):** Music composition using modular/BION design — different modules combined to create new songs.
-   3. **Lesson:** Modularity allows innovation and variety without starting from scratch each time.
-
----
-
-## IV. When Less Is More: Removing Features
-
-Purpose: Challenge the idea that more features = better product.
-
-A. Example: Product with many functions
-   1. **Observation:** Users bought it for one or two main functions.
-   2. **Insight:** Extra features added cost and complexity without adding value for many users.
-   3. **Response:** Simplify — keep core functions, remove the rest.
-   4. **Result:** Cheaper, easier to use, still meets the main need.
-
-B. Lesson
-- Understand which functions users actually use.
-- Do not assume “more” is better.
-- Value engineering can mean subtracting, not only improving.
-
----
-
-## Key Takeaways
-
-1. **User interviews** are the main assignment: conduct them via Zoom or in person; use your own notes.
-2. **Design thinking** continues: ideation next week, then prototyping, then something to show.
-3. **Value engineering** = changing design (size, material, features) to reduce cost or improve usability.
-4. **Platform design** and **mass customization** let one base support many product variants.
-5. **Sometimes less is more** — removing features can make a product cheaper and better for users.
-
----
-
-*Note: These notes were reconstructed from a voice transcription. Some details may be incomplete or approximate. Refer to class materials and slides for accuracy.*
+VII. Interview Best Practices
+   A. Who to interview
+      1. Match target user profile
+      2. Not just convenient people
+      3. Diverse perspectives valuable
+   B. How to conduct
+      1. Open-ended questions
+      2. Listen more than talk
+      3. Follow up on interesting points
+   C. What to capture
+      1. How they describe problem
+      2. What frustrates them
+      3. What they wish existed
