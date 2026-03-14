@@ -5,288 +5,208 @@
 
 ---
 
-# Section 1: Summary (AP Level / Accessible)
-
-*Use this section first. Plain language. Short sentences.*
-
-## Key Words
-- **Business plan** = Document that explains a business opportunity, identifies the market, and details how the organization will pursue it (Harvard Business School).
-- **PESTLE** = Political, Economic, Social, Technological, Legal, Environmental. Macro-environment analysis.
-- **SWOT** = Strengths, Weaknesses, Opportunities, Threats. Internal + external.
-- **Business Model Canvas** = Nine blocks: customer segments, value proposition, channels, revenue streams, key resources, key activities, key partnerships, cost structure.
-- **Competitive advantage** = Why customers choose you over rivals. CaféOlé: student focus, reliable wifi, community.
-
-## Main Ideas (Simple Version)
-
-1. **CaféOlé! = work cafe in Chamberí, Madrid.**
-   - 5€/hour or 25€ day pass. Unlimited coffee, snacks, wifi, workspaces.
-   - **Improvement:** Shift focus to students (Erasmus, study abroad). Discounts, events, community.
-
-2. **Location = masterpiece.**
-   - Chamberí: near University City, corporate areas. Central Madrid.
-   - Tourism: 11M+ in 2025. Gentrification. Good for work cafes.
-
-3. **PESTLE from the project.**
-   - **Political:** Spain SL (Sociedad Limitada), Madrid regulations, health certs.
-   - **Economic:** Student budgets, unemployment 9% (2025), inflation, tourism.
-   - **Social:** Demand for wifi, work-friendly cafes, cafe culture, healthy food trend.
-   - **Technological:** Reviews (Yelp, Google), social media, fast wifi, Apple Pay.
-   - **Legal:** AESAN, HACCP, minimum wage (1,134€ full-time, 620€ part-time).
-   - **Environmental:** Sustainable packaging, younger generations care.
-
-4. **SWOT from the project.**
-   - **Strengths:** Reliable environment, quality coffee, central location, wifi, printers, community.
-   - **Weaknesses:** No menu online, prices can add up, dependence on in-store.
-   - **Opportunities:** University partnerships (Complutense), tourism, gentrification, sustainable options.
-   - **Threats:** Other coworking spaces, La Bicicleta, Federal Cafe, seasonal tourism, coffee bean costs.
-
-5. **Competitive advantage.**
-   - Few work cafes cater to students. CaféOlé can fill the gap.
-   - Customer loyalty when students find community.
-   - Infrastructure: high-speed internet, quiet zones, communal seating.
-
-6. **Business plan structure (course requirement).**
-   - 4.1 Introduction, scope, competitive advantages
-   - 4.2 Company description, BMC
-   - 4.3 PESTLE, SWOT, economic/social
-   - 4.4 Competitive analysis
-   - 4.5 Strategic plan
-   - 4.6 Contingency plan
-   - 4.7 Marketing plan
-
----
-
-# Section 2: Full Notes (from CaféOlé! Business Plan Project)
-
-**Rhetorical Framework (Ethos, Logos, Pathos)**
-
-| Appeal | In this lecture |
-|--------|-----------------|
-| **Ethos** | Harvard Business School definition; course Business Plan guide; real Madrid market |
-| **Logos** | PESTLE, SWOT, competitive analysis; business plan structure |
-| **Pathos** | Student need for community; study abroad isolation; "feel at home in a new city" |
-
----
-
-## I. Project Overview
-
-### A. CaféOlé! Clubworking
-- **Existing** work cafe in Chamberí, Madrid.
-- **Pricing:** 5€/hour or 25€ day pass. Unlimited coffee and snacks.
-- **Features:** Wifi, private workspaces, networking events, reservations.
-
-### B. Scope–Objective
-- **Current:** Geared towards professionals.
-- **Improvement:** Make it suitable for students, especially study abroad / Erasmus.
-- **Proposed:** Student discounts, monthly memberships (e.g. 30€), events (study groups, language exchanges, tutoring).
-- **Target:** Students who need safe, reliable workspace and community.
-
-### C. Competitive Advantage (from course)
-- **Location:** Chamberí, near universities. "Location is the masterpiece."
-- **Gap:** Most Madrid cafes have limited space, limited free wifi, can turn away laptops at peak times.
-- **CaféOlé:** Dedicated quiet zones, high-speed internet, communal seating. Can bridge the gap.
-- **Customer loyalty:** When students find community, they return. Increases profit and reputation.
-- **Partnerships:** Complutense, other universities.
-
----
-
-## II. PESTLE Analysis (from project)
-
-### A. Political
-- Spain: Sociedad Limitada (SL). Limited liability.
-- Madrid: health and hygiene certifications, business operating license.
-- Labor laws: minimum wage, working hours.
-
-### B. Economic
-- Student budgets: limited. Student discount helps.
-- Unemployment: 9% (2025), lowest since 2008. More customers.
-- Cost of living in Madrid: high. Could reduce customers.
-- Tourism: 11M+ (2025). Remote workers, travelers need workspace.
-- Inflation: affects food and supplies. May require price increases.
-
-### C. Social
-- Demand for reliable wifi and work-friendly cafes.
-- Students want study spaces near university.
-- Professionals want change of environment.
-- Trend: healthy food and drinks in cafes.
-
-### D. Technological
-- Online reviews (Yelp, Google) influence visits.
-- Social media: Instagram, TikTok can drive traffic.
-- Fast wifi, reliable internet: key for retention.
-- Printers, contactless payment (Apple Pay).
-
-### E. Legal
-- AESAN (Agency for Food Safety and Nutrition).
-- HACCP (Hazard Analysis and Critical Control Points).
-- Minimum wage: 1,134€/month full-time (40h), 620€ part-time (20h).
-
-### F. Environmental
-- Sustainable packaging: improves brand image.
-- Younger generations value recycling, sustainability.
-- Cleaner energy appliances: reduce impact and long-term costs.
-
----
-
-## III. SWOT Analysis (from project)
-
-### A. Strengths
-- Reliable environment for professionals and students.
-- Quality coffee and pastries included in fee.
-- Central location in Chamberí (corporate + universities).
-- Fast wifi, printers (not in all Madrid cafes).
-- Community: networking, language exchanges.
-
-### B. Weaknesses
-- Menu not on website. Hard for customers to decide.
-- Prices can get expensive for long stays.
-- Dependence on in-store sales (no delivery).
-
-### C. Opportunities
-- University partnerships (Complutense, Erasmus networks).
-- Tourism increasing. Chamberí gentrification.
-- Sustainable packaging, vegan options.
-- Collaborations with local bakeries.
-
-### D. Threats
-- Other coworking spaces in different locations.
-- La Bicicleta (Malasaña), Federal Cafe (Chamberí): laptop-friendly, competitive.
-- Consumer preferences change (aesthetic, location).
-- Seasonal tourism fluctuations.
-- Fluctuating costs: coffee beans, milk, pastries.
-
----
-
-## IV. Competitive Analysis
-
-### A. La Bicicleta (Malasaña)
-- Moderate pricing, specialty coffees.
-- Laptop-friendly tables, wifi.
-- Urban space. Appeals to professionals and students.
-- **CaféOlé differentiator:** Dedicated work infrastructure, student focus, membership model.
-
-### B. Federal Cafe (Chamberí)
-- Same neighborhood. Direct competitor.
-- **CaféOlé differentiator:** Unlimited coffee/snacks, quiet zones, printers, student events.
-
-### C. General gap
-- Many cafes: limited space, limited free wifi, turn away laptops at peak.
-- CaféOlé: high-speed internet, quiet zones, communal seating. Can work "any time during the day, into late afternoon."
-
----
-
-## V. Business Plan Structure (Course Requirement)
-
-From *Business plan reunidas* and *Global MGMT Business Plan*:
-
-| Section | Content |
-|---------|---------|
-| **4.1** | Introduction. Scope, objective, idea/improvement. Competitive advantages, justification. |
-| **4.2** | Company description. Name, type, location, products/services, mission, values, value proposition. Business Model Canvas. |
-| **4.3** | Macro + micro. PESTLE, SWOT. Economic and social situation (unemployment, opportunities). |
-| **4.4** | Competitive analysis. |
-| **4.5** | Strategic plan. |
-| **4.6** | Contingency plan. |
-| **4.7** | Marketing plan. Market research. Marketing Mix (4P's). Calendar and budget. |
-
-### Preliminaries
-- Front page: faculty, title, students, tutor, date.
-- Copyright.
-- Table of contents.
-- Executive summary with conclusions.
-
----
-
-## VI. Link to Course Concepts
-
-| Course concept | CaféOlé application |
-|----------------|---------------------|
-| **Location is the masterpiece** | Chamberí: universities, corporate, tourism. Right place. |
-| **Go where competitors are** | La Bicicleta, Federal Cafe validate market. CaféOlé differentiates. |
-| **Culture** | Student/Erasmus community. Language exchanges. "Feel at home." |
-| **Supply chain** | Coffee beans, milk, pastries from local bakeries. Fluctuating costs. |
-| **Four phases** | Conceive (plan) → Execute (improvement) → Establish (run) → Expand (scale). |
-| **Resources vs capabilities** | Resources: wifi, printers, space. Capabilities: community building, events. |
-| **Competitive advantage** | Student focus + reliable infrastructure. Customer loyalty. |
-
----
-
-## Key Takeaways
-
-1. **Business plan** = opportunity + market + how to pursue. No standard form; single story.
-2. **PESTLE** = macro-environment. Political, Economic, Social, Technological, Legal, Environmental.
-3. **SWOT** = internal (S/W) + external (O/T). Be specific.
-4. **Competitive analysis** = who else serves the market? What's the gap? CaféOlé: students, infrastructure.
-5. **Location** = Chamberí. Near universities. Tourism. Gentrification.
-6. **Structure** = 4.1–4.7. Introduction, company, PESTLE/SWOT, competitive, strategic, contingency, marketing.
-
----
-
-# Section 3: In-Class Session (March 9, 2026)
-
-*Notes from group work and in-class discussion.*
-
-## Logistics and Requirements
-
-| Item | Requirement |
-|------|--------------|
-| **Page limit** | 6 pages total (excluding front page, copyright, TOC) |
-| **Executive summary** | ~1 page (like a thesis abstract) |
-| **Format** | Match *Global Management Project.pdf* (colours, layout) |
-| **Presentation** | Yes – plan may need to be presented |
-| **Professor** | Geoffrey Ditta (pronounced Jeffrey) |
-
-## Business Plan Checklist (from class)
-
-- [ ] Introduction (scope, objective, competitive advantages)
-- [ ] Company description (BMC, mission, values, value proposition)
-- [ ] PESTLE analysis
-- [ ] SWOT analysis
-- [ ] Economic and social analysis
-- [ ] Competitive analysis
-- [ ] **Strategic plan** (vision, mission, values; objectives; short-term 0–12 months; long-term 1–3 years)
-- [ ] **Contingency plan**
-- [ ] **Marketing plan** (market research, 4P's, **calendar**, **budget Year 1**)
-
-## Strategic Plan – What to Include
-
-- **Vision, mission, values** – clarify what the company stands for
-- **Current status** – describe where the business is now
-- **Future focus** – make it forward-looking (not only current)
-- **Objectives** – e.g. make CaféOlé the go-to place for students in Chamberí
-- **Short-term (0–12 months)** – roll out discounts, events, university partnerships
-- **Long-term (1–3 years)** – second location, franchise, recognition
-
-*Quote from Week 5 (Feb 23):* “Strategy is for 15 years, not for 15 days. Slow is fast.”
-
-## Contingency Plan – Key Scenarios
-
-| Scenario | Response |
-|----------|----------|
-| **Low student uptake** | Push university marketing; survey; refocus on professionals if needed |
-| **Competitor response** | Emphasise infrastructure, printers, quiet zones, university partnerships |
-| **Rising costs** | Negotiate suppliers; small price adjustment; keep student rate reasonable |
-| **Seasonal drop** | Focus on locals; semester memberships; target Erasmus arrivals (Sept/Feb) |
-| **Tech failure (WiFi)** | Backup internet; maintenance plan – “If the WiFi goes out, we are all in trouble” |
-
-## Marketing Plan – Calendar and Budget
-
-- **Calendar** – month-by-month (e.g. Month 1: social media, menu on website; Month 2: flyers at Complutense; Month 3: first event; etc.)
-- **Budget Year 1** – realistic line items (social media, flyers, event materials, website, partnership fees)
-- **Marketing mix (4P's)** – Product, Price, Place, Promotion
-
-## Porter's Five Forces
-
-- Mentioned in discussion; may be from another class (e.g. Strategic Management)
-- If used: threat of new entrants, bargaining power of suppliers/buyers, threat of substitutes, rivalry
-
-## Exam / Professor Logistics
-
-- Professor may be away for a conference
-- Class ends 5:30; office hours until 5
-- Some students may take exam earlier – check Moodle for updates
-
-## Formatting Tips (from group work)
-
-- Use colours to match *Global Management Project.pdf* (blue section headers, accent colours)
-- Executive summary: concise, one page, covers proposal, market gap, PESTLE/SWOT summary, competitive advantage, risks, conclusion
+I. Project Overview
+   A. CaféOlé! Clubworking
+      1. Existing work cafe in Chamberí, Madrid
+      2. Pricing: 5€/hour or 25€ day pass
+      3. Unlimited coffee and snacks included
+      4. Features: wifi, private workspaces, networking events, reservations
+   B. Scope-Objective
+      1. Current: geared towards professionals
+      2. Improvement: make suitable for students (study abroad, Erasmus)
+      3. Proposed: student discounts, monthly memberships (e.g., 30€)
+      4. Events: study groups, language exchanges, tutoring
+      5. Target: students who need safe, reliable workspace and community
+   C. Competitive Advantage
+      1. Location: Chamberí, near universities - "location is the masterpiece"
+      2. Gap: most Madrid cafes have limited space, limited free wifi
+      3. CaféOlé: dedicated quiet zones, high-speed internet, communal seating
+      4. Customer loyalty: when students find community, they return
+      5. Partnerships: Complutense, other universities
+
+II. PESTLE Analysis
+   A. Political
+      1. Spain: Sociedad Limitada (SL) - limited liability
+      2. Madrid: health and hygiene certifications, business license
+      3. Labor laws: minimum wage, working hours
+   B. Economic
+      1. Student budgets: limited - student discount helps
+      2. Unemployment: 9% (2025), lowest since 2008
+      3. Cost of living in Madrid: high - could reduce customers
+      4. Tourism: 11M+ (2025) - remote workers, travelers need workspace
+      5. Inflation: affects food and supplies - may require price increases
+   C. Social
+      1. Demand for reliable wifi and work-friendly cafes
+      2. Students want study spaces near university
+      3. Professionals want change of environment
+      4. Trend: healthy food and drinks in cafes
+   D. Technological
+      1. Online reviews (Yelp, Google) influence visits
+      2. Social media: Instagram, TikTok can drive traffic
+      3. Fast wifi, reliable internet: key for retention
+      4. Printers, contactless payment (Apple Pay)
+   E. Legal
+      1. AESAN (Agency for Food Safety and Nutrition)
+      2. HACCP (Hazard Analysis and Critical Control Points)
+      3. Minimum wage: 1,134€/month full-time, 620€ part-time
+   F. Environmental
+      1. Sustainable packaging: improves brand image
+      2. Younger generations value recycling, sustainability
+      3. Cleaner energy appliances: reduce impact and long-term costs
+
+III. SWOT Analysis
+   A. Strengths
+      1. Reliable environment for professionals and students
+      2. Quality coffee and pastries included in fee
+      3. Central location in Chamberí (corporate + universities)
+      4. Fast wifi, printers (not in all Madrid cafes)
+      5. Community: networking, language exchanges
+   B. Weaknesses
+      1. Menu not on website - hard for customers to decide
+      2. Prices can get expensive for long stays
+      3. Dependence on in-store sales (no delivery)
+   C. Opportunities
+      1. University partnerships (Complutense, Erasmus networks)
+      2. Tourism increasing - Chamberí gentrification
+      3. Sustainable packaging, vegan options
+      4. Collaborations with local bakeries
+   D. Threats
+      1. Other coworking spaces in different locations
+      2. La Bicicleta (Malasaña), Federal Cafe (Chamberí) - laptop-friendly, competitive
+      3. Consumer preferences change (aesthetic, location)
+      4. Seasonal tourism fluctuations
+      5. Fluctuating costs: coffee beans, milk, pastries
+
+IV. Competitive Analysis
+   A. La Bicicleta (Malasaña)
+      1. Moderate pricing, specialty coffees
+      2. Laptop-friendly tables, wifi
+      3. Urban space, appeals to professionals and students
+      4. CaféOlé differentiator: dedicated work infrastructure, student focus, membership model
+   B. Federal Cafe (Chamberí)
+      1. Same neighborhood - direct competitor
+      2. CaféOlé differentiator: unlimited coffee/snacks, quiet zones, printers, student events
+   C. General Gap
+      1. Many cafes: limited space, limited free wifi, turn away laptops at peak
+      2. CaféOlé: high-speed internet, quiet zones, communal seating
+      3. Can work "any time during the day, into late afternoon"
+
+V. Business Plan Structure (Course Requirement)
+   A. Section 4.1: Introduction
+      1. Scope, objective, idea/improvement
+      2. Competitive advantages, justification
+   B. Section 4.2: Company Description
+      1. Name, type, location, products/services
+      2. Mission, values, value proposition
+      3. Business Model Canvas
+   C. Section 4.3: Macro + Micro
+      1. PESTLE analysis
+      2. SWOT analysis
+      3. Economic and social situation (unemployment, opportunities)
+   D. Section 4.4: Competitive Analysis
+   E. Section 4.5: Strategic Plan
+   F. Section 4.6: Contingency Plan
+   G. Section 4.7: Marketing Plan
+      1. Market research
+      2. Marketing Mix (4P's)
+      3. Calendar and budget
+
+VI. Link to Course Concepts
+   A. "Location is the masterpiece"
+      1. Chamberí: universities, corporate, tourism
+      2. Right place
+   B. "Go where competitors are"
+      1. La Bicicleta, Federal Cafe validate market
+      2. CaféOlé differentiates
+   C. Culture
+      1. Student/Erasmus community
+      2. Language exchanges
+      3. "Feel at home"
+   D. Supply Chain
+      1. Coffee beans, milk, pastries from local bakeries
+      2. Fluctuating costs
+   E. Four Phases
+      1. Conceive (plan) → Execute (improvement) → Establish (run) → Expand (scale)
+   F. Resources vs. Capabilities
+      1. Resources: wifi, printers, space
+      2. Capabilities: community building, events
+   G. Competitive Advantage
+      1. Student focus + reliable infrastructure
+      2. Customer loyalty
+
+VII. In-Class Session Requirements
+   A. Logistics
+      1. Page limit: 6 pages total (excluding front page, copyright, TOC)
+      2. Executive summary: ~1 page (like thesis abstract)
+      3. Format: match Global Management Project.pdf (colors, layout)
+      4. Presentation: yes - plan may need to be presented
+   B. Business Plan Checklist
+      1. Introduction (scope, objective, competitive advantages)
+      2. Company description (BMC, mission, values, value proposition)
+      3. PESTLE analysis
+      4. SWOT analysis
+      5. Economic and social analysis
+      6. Competitive analysis
+      7. Strategic plan (vision, mission, values; objectives; short-term 0-12 months; long-term 1-3 years)
+      8. Contingency plan
+      9. Marketing plan (market research, 4P's, calendar, budget Year 1)
+
+VIII. Strategic Plan - What to Include
+   A. Vision, Mission, Values
+      1. Clarify what company stands for
+   B. Current Status
+      1. Describe where business is now
+   C. Future Focus
+      1. Make forward-looking (not only current)
+   D. Objectives
+      1. E.g., make CaféOlé go-to place for students in Chamberí
+   E. Short-Term (0-12 Months)
+      1. Roll out discounts, events, university partnerships
+   F. Long-Term (1-3 Years)
+      1. Second location, franchise, recognition
+   G. Key Quote
+      1. "Strategy is for 15 years, not for 15 days. Slow is fast."
+
+IX. Contingency Plan - Key Scenarios
+   A. Low Student Uptake
+      1. Push university marketing
+      2. Survey
+      3. Refocus on professionals if needed
+   B. Competitor Response
+      1. Emphasise infrastructure, printers, quiet zones
+      2. University partnerships
+   C. Rising Costs
+      1. Negotiate suppliers
+      2. Small price adjustment
+      3. Keep student rate reasonable
+   D. Seasonal Drop
+      1. Focus on locals
+      2. Semester memberships
+      3. Target Erasmus arrivals (Sept/Feb)
+   E. Tech Failure (WiFi)
+      1. Backup internet
+      2. Maintenance plan
+      3. "If WiFi goes out, we are all in trouble"
+
+X. Marketing Plan - Calendar and Budget
+   A. Calendar
+      1. Month-by-month
+      2. Month 1: social media, menu on website
+      3. Month 2: flyers at Complutense
+      4. Month 3: first event
+   B. Budget Year 1
+      1. Realistic line items
+      2. Social media, flyers, event materials, website, partnership fees
+   C. Marketing Mix (4P's)
+      1. Product
+      2. Price
+      3. Place
+      4. Promotion
+
+XI. Key Takeaways
+   A. Business plan = opportunity + market + how to pursue
+   B. PESTLE = macro-environment (Political, Economic, Social, Technological, Legal, Environmental)
+   C. SWOT = internal (S/W) + external (O/T) - be specific
+   D. Competitive analysis = who else serves market? What's the gap?
+   E. Location = Chamberí - near universities, tourism, gentrification
+   F. Structure = 4.1-4.7 (Introduction, company, PESTLE/SWOT, competitive, strategic, contingency, marketing)
