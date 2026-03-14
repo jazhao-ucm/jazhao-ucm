@@ -15,12 +15,38 @@ Course notes and materials for Strategic Management at UCM.
 ## Note-Taking Format
 
 All class notes follow the **Formal Outline Note Taking System** format:
-- **Roman numerals (I, II, III, IV, V, etc.)** for main topics
-- **Capital letters (A, B, C, D, etc.)** for subheadings
-- **Arabic numerals (1, 2, 3, etc.)** for supporting details
-- **Lowercase letters (a, b, c, etc.)** for nested sub-details
 
-This format provides a highly structured, logically organized outline that clearly shows levels of information.
+```
+I. Topic
+   A. Main idea
+      1. Details that support the main idea
+      2. More details
+         a. Details that explain main idea
+         b. More details
+            i. Even more info
+            ii. Even more info
+   B. Main idea
+      1. Details of explanation
+      2. Details of explanation
+II. Topic
+   A. Main idea
+   B. Main idea
+```
+
+**Hierarchy:**
+- **Roman numerals (I, II, III)** for main topics
+- **Capital letters (A, B, C)** for main ideas
+- **Arabic numerals (1, 2, 3)** for supporting details
+- **Lowercase letters (a, b, c)** for nested sub-details
+- **Lowercase Roman numerals (i, ii, iii)** for further detail
+
+**Rules:**
+- Begin with a Roman numeral for the topic
+- After each Roman numeral, letter, or number put a period
+- Begin all lines with an uppercase letter
+- Line up every letter or numeral under the one above
+- No sentences allowed—rephrase briefly, using abbreviations and symbols
+- If you have a 1, you must have a 2; if you have an A, you must have a B
 
 ## Structure
 
