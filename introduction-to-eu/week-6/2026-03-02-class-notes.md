@@ -1,129 +1,109 @@
-# Introduction to the EU - Class Notes
-## March 2, 2026 - Week 6
+# Introduction to the EU — Class Notes
+## March 2, 2026 — Week 6
 
-**Focus:** Guest lecture – Luz Martinez Kampo on Gibraltar, Spanish accession, and the border (1969–1986).
-
----
-
-# Section 1: Summary (super simple)
-
-*Read this part when you are tired or stressed. Very short sentences. No fancy words.*
-
-## Key Words
-- **Gibraltar** = British territory in southern Spain. ~6 sq miles. ~38,000 people. Spain claims sovereignty.
-- **Sovereignty** = Who owns it. Who controls it. Spain wants it back.
-- **Accession** = When a country joins the EU. Spain joined 1986.
-
-## Main Ideas (Simple Version)
-
-1. **Gibraltar: British since early 18th century.**
-   - Treaty of Utrecht. Spain has been claiming it ever since.
-
-2. **Border closed 1969.**
-   - Franco closed it. To pressure UK. Gibraltar isolated.
-   - Families split. People had to shout across the fence to talk to relatives.
-
-3. **1973: UK, Ireland, Denmark joined EC.**
-   - Spain not yet in. UK already in. Gibraltar issue.
-
-4. **1982: Border partially reopened.**
-   - Felipe González (Socialist). Pedestrians only. Spain joined NATO same day.
-
-5. **1986: Spain joined EC.**
-   - Negotiations: Spain wanted something in exchange for reopening the border.
-   - Gibraltar was part of the accession talks.
-
-6. **1982: Falklands War.**
-   - UK vs Argentina. Similar territorial dispute. UK had two conflicts at once.
-
-7. **Group activity: Document analysis.**
-   - Group 1: Cabinet conclusions, Thatcher letter.
-   - Group 2: Telegrams from British ambassador.
-   - Group 3: Law and treaties (Brussels agreements).
-   - Group 4: Newspapers (British vs Spanish coverage).
-   - Group 5: Border documents (closed vs open, culture).
+**Topic:** Guest lecture — Gibraltar, Spanish accession, and the border (1969–1986).
 
 ---
 
-# Section 2: Full Notes (College Prep Academic)
+I. Gibraltar — Context
+   A. Geography
+      1. Southern tip of Spain
+      2. Peninsula connected to La Línea
+      3. ~6 square miles, ~38,000 people
+   B. Status
+      1. British since early 18th century
+      2. Treaty of Utrecht (War of Spanish Succession)
+      3. Spain continuously claims sovereignty
 
-**Guest lecturer:** Luz Martinez Kampo (replacing Prof. David)
+II. Key Timeline
+   A. 1969 — Border closed
+      1. Franco closed it to pressure UK
+      2. Gibraltar isolated
+      3. Families split
+   B. 1973 — UK joins EC
+      1. First enlargement
+      2. Spain not yet member
+      3. Gibraltar issue persists
+   C. 1975 — Franco dies
+      1. Spanish transition begins
+   D. 1982 — Border partially reopens
+      1. Felipe González (Socialist)
+      2. Pedestrians only
+      3. Spain joins NATO same day
+   E. 1986 — Spain joins EC
+      1. Gibraltar part of accession talks
+      2. Negotiations on border
 
-**Format:** Practical session. Groups created. Jigsaw activity with primary documents.
+III. Border Closure (1969)
+   A. Franco's strategy
+      1. Pressure UK to return Gibraltar
+      2. Economic isolation
+   B. Human impact
+      1. Families separated
+      2. People shouted across fence
+      3. Relatives in La Línea cut off
+   C. Duration
+      1. Closed 13 years
+      2. Until 1982
 
-**Rhetorical Framework (Ethos, Logos, Pathos)**
+IV. Negotiation Context
+   A. Spain's position
+      1. Wanted something for reopening border
+      2. Gibraltar as condition in accession
+   B. UK's position
+      1. Two territorial disputes at once
+      2. Gibraltar (Spain) and Falklands (Argentina)
+      3. Falklands War 1982
 
-| Appeal | In this lecture |
-|--------|-----------------|
-| **Ethos** | Guest expert (diplomacy); primary documents; Thatcher, González |
-| **Logos** | Timeline 1969–1986; Gibraltar in accession; document comparison |
-| **Pathos** | Families split; shouting across fence; Falklands parallel |
+V. 1982 — Falklands War
+   A. Similar dispute
+      1. UK vs. Argentina
+      2. Territorial sovereignty
+   B. Timing
+      1. Same period as Gibraltar negotiations
+      2. UK distracted by two fronts
+   C. Parallel
+      1. Both involve British overseas territories
+      2. Both involve sovereignty claims
 
----
+VI. Document Analysis Groups
+   A. Group 1 — Cabinet documents
+      1. UK cabinet meeting conclusions
+      2. Thatcher letters to Spanish ministers
+   B. Group 2 — Diplomatic telegrams
+      1. British ambassador communications
+      2. UK-Spain negotiations
+   C. Group 3 — Legal documents
+      1. Brussels agreements
+      2. Treaty provisions
+   D. Group 4 — Newspapers
+      1. British coverage
+      2. Spanish coverage
+      3. Compare perspectives
+   E. Group 5 — Border documents
+      1. Open vs. closed periods
+      2. Cultural impact
+      3. Daily life effects
 
-## Gibraltar – Context and Timeline
+VII. Felipe González Role
+   A. Background
+      1. Socialist leader
+      2. Elected 1982
+   B. Actions
+      1. Reopened border partially
+      2. Joined NATO
+      3. Pursued EC membership
+   C. Strategy
+      1. Modernize Spain
+      2. Integrate with Europe
+      3. Democratic consolidation
 
-### Geography and status
-- Gibraltar: southern tip of Spain. Peninsula. Connected to mainland Spain by La Línea de la Concepción.
-- British since early 18th century (Treaty of Utrecht, War of Spanish Succession).
-- Spain has continuously claimed sovereignty over the territory.
-- ~6 square miles. ~38,000 people.
-
-### Key dates
-
-| Year | Event |
-|------|-------|
-| 1969 | Franco closes the border. Gibraltar isolated. Families split. |
-| 1973 | UK, Ireland, Denmark join EC (first enlargement). Spain not yet a member. |
-| 1975 | Franco dies. |
-| 1982 | Border partially reopened (pedestrians only). Felipe González. Spain joins NATO. |
-| 1982 | Falklands War (UK vs Argentina) – similar territorial dispute. |
-| 1986 | Spain joins EC. Gibraltar part of accession negotiations. |
-
-### The border closure (1969)
-- Franco closed the border to pressure UK to return Gibraltar.
-- People living in Gibraltar (Gibraltarians) had relatives in Spain (La Línea, Campo de Gibraltar).
-- Families had to shout across the fence to communicate.
-- Border remained closed until 1982.
-
-### Negotiation context
-- Spain wanted something in exchange for reopening the border.
-- Gibraltar was a condition in Spain’s accession negotiations.
-- UK had two territorial disputes at once: Gibraltar (Spain) and Falklands (Argentina).
-
----
-
-## Group Activity – Document Analysis (Jigsaw)
-
-### Group 1: Cabinet and government documents
-- Conclusions of UK cabinet meetings.
-- Letter from Margaret Thatcher to Spanish minister (Felipe González period).
-- Focus: UK government position on Gibraltar and the border.
-
-### Group 2: Diplomatic telegrams
-- Telegrams from British ambassador to Spain (Richard Parsons).
-- Focus: What Spain wanted. How the UK understood Spanish demands.
-
-### Group 3: Law and treaties
-- Treaty of Brussels (Article).
-- Agreements reached at the start of the process.
-- Focus: What changed between 1969 and 1986. Legal framework.
-
-### Group 4: Newspapers
-- British and Spanish newspapers.
-- Focus: How each side covered the issue. What they highlighted. Differences in framing.
-
-### Group 5: Border documents
-- Documents from the border period (closed vs open).
-- Culture. Life on both sides.
-- Focus: Human impact. Daily life. Families.
-
----
-
-## Takeaways
-
-1. Gibraltar was a key issue in Spain’s EC accession (1986).
-2. The border was a tool: closed (1969) to pressure, partially reopened (1982) as part of negotiations.
-3. UK and Spain had different narratives. Newspapers reflected this.
-4. 1982: Falklands and Gibraltar. UK faced two territorial disputes.
-5. Primary documents (cabinet papers, telegrams, treaties, newspapers) show how negotiations worked in practice.
+VIII. Gibraltar Today
+   A. Status
+      1. Still British overseas territory
+      2. Spain still claims sovereignty
+      3. Ongoing tensions
+   B. Brexit impact
+      1. Gibraltar voted 96% Remain
+      2. Border issues returned
+      3. New negotiations needed

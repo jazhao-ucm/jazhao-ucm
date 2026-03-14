@@ -1,332 +1,122 @@
-# Introduction to the EU - Class Notes
-## March 3, 2026 - Week 6
+# Introduction to the EU — Class Notes
+## March 3, 2026 — Week 6
 
-**Focus:** Patrick Bijsmans on Euroscepticism as a multifaceted phenomenon – history, concepts, drivers, and democratic implications.
-
----
-
-# Section 1: Summary (super simple)
-
-*Read this part when you are tired or stressed. Very short sentences. No fancy words.*
-
-## Key Words
-- **Euroscepticism** = Criticism of, or opposition to, the EU and European integration.
-- **Hard vs. soft Euroscepticism** = Out vs. in‑but‑critical.
-- **Permissive consensus** = Citizens mostly ignore the EU and let elites decide.
-- **Constraining dissensus** = Citizens pay attention and can block EU decisions.
-- **Healthy scepticism** = Criticism that improves debate instead of destroying it.
-
-## Main Ideas (Simple Version)
-
-1. **Euroscepticism is not new.**
-   - It existed already in the 1950s and 1960s.
-   - Different parties and countries had doubts from the start.
-
-2. **There are many kinds of Euroscepticism.**
-   - Some actors reject the EU completely (hard).
-   - Others accept membership but criticise specific policies (soft).
-
-3. **We see Euroscepticism in parties, public opinion and media.**
-   - Parties use “Brussels” in their strategies.
-   - Citizens compare EU membership with the alternative of leaving.
-   - Media can amplify scepticism, especially tabloids.
-
-4. **Three big reasons drive Euroscepticism.**
-   - Economy: who feels they win or lose from integration.
-   - Identity: strong national identity vs. weak European identity.
-   - Democracy: feeling that decisions are taken “far away” by unelected people.
-
-5. **Euroscepticism can be problem and resource.**
-   - Problem: can block decisions or lead to exits (Brexit).
-   - Resource: can make the EU more democratic by bringing conflict into the open.
-
-6. **To judge criticism, look at goals, methods and alternatives.**
-   - Constructive: wants reform, uses facts, offers realistic alternatives.
-   - Destructive: wants to delegitimise the EU, uses scapegoats, offers no real plan.
+**Topic:** Patrick Bijsmans on Euroscepticism — history, concepts, drivers, and democratic implications.
 
 ---
 
-# Section 2: Full Notes (College Prep Academic)
+I. What Is Euroscepticism?
+   A. Definition
+      1. Criticism of, or opposition to, EU
+      2. Skepticism about European integration
+      3. Range of positions, not monolithic
+   B. Key distinction
+      1. Hard Euroscepticism — want out
+      2. Soft Euroscepticism — in, but critical
+   C. Key insight
+      1. Euroscepticism is not new
+      2. Existed since 1950s–1960s
+      3. Different parties/countries had doubts
 
-**Rhetorical Framework (Ethos, Logos, Pathos)**
+II. Historical Roots (1950s–1970s)
+   A. Within founding six
+      1. Social democrats: worried about welfare states
+      2. Liberals: feared over-regulation
+      3. National concerns varied
+   B. Not linear path
+      1. Some states stayed outside
+      2. Some territories left (e.g., Greenland)
+   C. First enlargement (1973)
+      1. UK, Denmark, Ireland more cautious
+      2. "Awkward partner" label for UK
 
-| Appeal | In this lecture |
-|--------|-----------------|
-| **Ethos** | Patrick Bijsmans’ overview article; long tradition of EU studies on parties, opinion, media |
-| **Logos** | Historical evolution of Euroscepticism; typologies (hard/soft etc.); three arenas (parties, public, media); three families of explanations (economic, identity, democratic) |
-| **Pathos** | Brexit as both warning and example; tension between “ever closer union” and democratic contestation |
+III. Three Arenas of Euroscepticism
+   A. Political parties
+      1. Use "Brussels" in strategies
+      2. Blame EU for unpopular policies
+      3. Both left and right
+   B. Public opinion
+      1. Citizens compare membership with alternative
+      2. Eurobarometer surveys
+      3. Support varies by country/period
+   C. Media
+      1. Can amplify skepticism
+      2. Tabloids especially
+      3. Framing matters
 
----
+IV. Permissive Consensus vs. Constraining Dissensus
+   A. Permissive consensus
+      1. Citizens mostly ignore EU
+      2. Let elites decide
+      3. Low salience
+   B. Constraining dissensus
+      1. Citizens pay attention
+      2. Can block EU decisions
+      3. Referendums, elections
+   C. Shift over time
+      1. From consensus to dissensus
+      2. EU more visible
+      3. More contested
 
-## Key Concepts
+V. Three Drivers of Euroscepticism
+   A. Economic factors
+      1. Who wins/loses from integration
+      2. Globalization effects
+      3. Regional inequality
+   B. Identity factors
+      1. Strong national identity
+      2. Weak European identity
+      3. Cultural concerns
+   C. Democratic factors
+      1. Decisions "far away"
+      2. Unelected officials
+      3. Democratic deficit perception
 
-### I. Patrick Bijsmans and the Three Main Questions
+VI. Euroscepticism as Problem and Resource
+   A. Problem
+      1. Can block decisions
+      2. Lead to exits (Brexit)
+      3. Polarization
+   B. Resource
+      1. Can make EU more democratic
+      2. Bring conflict into open
+      3. Force accountability
+   C. Key insight
+      1. Not all criticism destructive
+      2. "Healthy skepticism" possible
+      3. Debate can improve EU
 
-Purpose: Situate Euroscepticism within the broader history and theory of European integration.
+VII. Judging Criticism — Framework
+   A. Look at goals
+      1. Reform vs. destroy
+      2. Constructive vs. destructive
+   B. Look at methods
+      1. Uses facts vs. scapegoats
+      2. Evidence-based vs. emotional
+   C. Look at alternatives
+      1. Realistic proposals vs. none
+      2. Concrete plans vs. vague promises
 
-A. Who is Bijsmans?
-1. Political scientist at Maastricht University.
-2. Works on EU politics, public opinion and media.
-3. 2020 article in *Oxford Research Encyclopedia of Politics*: “Euroskepticism, a Multifaceted Phenomenon.”
+VIII. Brexit as Case Study
+   A. Warning
+      1. Euroscepticism can lead to exit
+      2. Consequences real
+   B. Example
+      1. Showed contestation possible
+      2. Democratic choice
+   C. Lessons
+      1. Don't ignore skepticism
+      2. Engage with concerns
+      3. Reform where needed
 
-B. Three guiding questions of the article
-1. What do we mean when we say “Euroscepticism”?
-2. How has it developed over time?
-3. What are the implications for EU politics and for democracy?
-
-C. Links to course themes
-1. Connects back to:
-   a. History of integration (Maastricht, enlargements, crises).
-   b. Crisis narratives (eurozone, migration, Brexit).
-   c. Political science work on parties, public opinion and media.
-
----
-
-## II. Historical Roots: Euroscepticism Before Brexit
-
-Purpose: Show that Euroscepticism is older than the euro crisis or Brexit and has many forms.
-
-A. Early decades (1950s–1970s)
-1. Within the six founding members:
-   a. Social democrats: worried economic integration might erode national welfare states.
-   b. Liberals: feared over‑regulation, constraints on markets.
-   c. National concerns: e.g. Germany, Netherlands thinking about reunification, NATO, Atlantic ties.
-2. No simple linear path to “ever closer union.”
-   a. Some states remained outside (e.g. UK for ECSC / EEC).
-   b. Some territories left later (e.g. Greenland).
-
-B. First enlargement and the “awkward partner”
-1. 1973: UK, Denmark, Ireland join the EC.
-2. All three more cautious about deep integration than the Six.
-3. UK soon labelled “awkward partner.”
-4. Margaret Thatcher’s Bruges speech (1988)
-   a. Strongly supports the single market.
-   b. Rejects a European “superstate.”
-   c. Key crystallisation of a British mainstream Eurosceptic narrative (Exhibit A).
-
-C. Maastricht and the end of “permissive consensus”
-1. Maastricht Treaty deepens integration (EMU, political union).
-2. Ratification is difficult:
-   a. Narrow referendum results in France and Denmark.
-   b. Visible public controversy in many states.
-3. Hooghe and Marks:
-   a. Shift from **permissive consensus** (citizens largely indifferent)
-   b. To **constraining dissensus** (citizens can block EU decisions).
-
-D. Crises of the 2000s and 2010s
-1. Eurozone crisis, migration crisis, Brexit.
-2. These do not *create* Euroscepticism from nothing.
-3. They reinforce and reveal existing patterns of criticism.
-4. Comparative charts before and after Brexit (Exhibit B):
-   a. UK: hard Euroscepticism wins the referendum.
-   b. Elsewhere: support for leaving actually declines; support for membership increases.
-
----
-
-## III. Concepts and Typologies of Euroscepticism
-
-Purpose: Clarify what counts as Euroscepticism and show why there is no single definition.
-
-A. Broad working definition
-1. Euroscepticism = criticism of, or opposition to:
-   a. The EU as a political system, and/or
-   b. The process of European integration, and/or
-   c. Specific institutions (Commission, Court, ECB) or policies (euro, Schengen, enlargement, austerity).
-2. Important: criticism can be about:
-   a. **The project** itself (“ever closer union”), or
-   b. **The specific direction** or policies.
-
-B. Classic distinction: hard vs. soft Euroscepticism (Taggart & Szczerbiak)
-1. **Hard Euroscepticism**
-   a. Principled rejection of the EU project.
-   b. Often calls for withdrawal or major repatriation of powers.
-   c. Examples: Brexit campaign, some radical right and left parties.
-2. **Soft Euroscepticism** (Euro‑criticism)
-   a. Accepts membership and the basic idea of integration.
-   b. Opposes specific policies, treaties, or deepening.
-   c. Question is “on what terms,” not simply “in or out.”
-
-C. Further typologies
-1. Kopecký & Mudde:
-   a. Euro‑enthusiasts, Euro‑pragmatists, Eurosceptics, Euro‑rejects.
-2. Flood’s six positions, and others.
-3. Overall point:
-   a. No single, universally accepted definition.
-   b. The concept is contested, like the EU itself.
-
----
-
-## IV. Where We See Euroscepticism: Parties, Citizens, Media
-
-Purpose: Map the “arenas” where Euroscepticism appears and the main explanations used.
-
-A. Party politics
-1. Earlier view: Euroscepticism = fringe or single‑issue parties only.
-2. Now: mainstream parties on both left and right express critical positions.
-3. Two key explanations:
-   a. **Ideology**
-      - Left‑wing concerns: welfare state, social protection, labour rights.
-      - Right‑wing concerns: sovereignty, immigration, national identity.
-   b. **Strategy**
-      - Blame “Brussels” for unpopular policies (“it was an EU requirement”).
-      - Claim credit nationally for popular decisions.
-4. Eurosceptic parties also coordinate at EU level (EP groups).
-
-B. Public opinion
-1. Data sources:
-   a. Eurobarometer, national polls, referendums.
-2. Attitudes vary over time and across countries:
-   a. Support for membership vs. support for the euro vs. support for more integration.
-3. “Second‑order” issue?
-   a. For a long time, EU politics considered secondary to national politics.
-   b. Referendums (Maastricht, Constitutional Treaty, Brexit) show it can become first‑order.
-4. De Vries’ benchmark theory:
-   a. Citizens compare **membership now** with a perceived **alternative** (exit or other arrangement).
-   b. They do not judge “the EU” in the abstract.
-
-C. Media and the public sphere
-1. EU news is often framed through national conflicts and stereotypes.
-2. Drama and conflict are more “newsworthy” than routine cooperation.
-3. This can produce a “spiral of Euroscepticism”:
-   a. Media focus on negative stories →
-   b. Citizens perceive the EU as distant, conflict‑ridden →
-   c. Politicians respond with more critical rhetoric.
-4. The British tabloid press as clear example:
-   a. Long tradition of hostile and mocking coverage.
-   b. Helped normalise Eurosceptic frames well before Brexit.
-
-D. Three families of explanations (across arenas)
-1. Economic
-   a. Perceived winners vs. losers of integration (regions, sectors, individuals).
-   b. Crises sharpen these perceptions.
-2. Identity‑related
-   a. Strong, exclusive national identity + weak European identity = higher scepticism.
-   b. Multiple identities possible; issue is exclusivity and threat perception.
-3. Democratic
-   a. Perceived “democratic deficit”:
-      - Decisions taken by distant, little‑known institutions.
-      - Limited sense of influence or accountability.
-   b. Links to turnout, trust and satisfaction with democracy.
-
----
-
-## V. Democratic Implications: Problem or Resource?
-
-Purpose: Explore how Euroscepticism affects the quality of democracy in the EU.
-
-A. Euroscepticism as a **problem**
-1. Obstacle to “ever closer union”:
-   a. Hard to reach agreement on new treaties and reforms.
-2. Complicates decision‑making:
-   a. More veto players, more red lines, more domestic constraints.
-3. Openings for radical or anti‑system forces:
-   a. Mobilisation against “Brussels” as elite project.
-   b. Brexit as the clearest case of hard Euroscepticism in power.
-
-B. Euroscepticism as a **potential resource**
-1. Healthy scepticism:
-   a. Criticism is part of democratic politics.
-   b. Can lead to better policies and more accountability.
-2. Politicisation:
-   a. Authors like Føllesdal & Hix argue that more visible conflict is needed.
-   b. Politicisation can connect citizens to EU‑level choices.
-3. Conditions:
-   a. Contestation must remain within democratic rules.
-   b. Aim should be to improve or reform, not simply to destroy.
-
-C. The British case as example and warning
-1. Long history as “awkward partner”:
-   a. Late entry, budget battles, symbol of Westminster sovereignty.
-   b. Eurosceptic currents on Labour left and Conservative right.
-2. From margin to mainstream:
-   a. Thatcher’s Bruges speech.
-   b. Opposition to Maastricht.
-   c. Rise of UKIP and internal Conservative splits.
-3. 2016 referendum:
-   a. Hard Euroscepticism wins in the UK (Leave).
-   b. UK withdraws; deep domestic political and economic consequences.
-4. Reaction in the rest of the EU:
-   a. No “domino effect” – no wave of exits.
-   b. In many member states, support for membership **increases** after Brexit.
-   c. Brexit acts as both precedent and deterrent.
-
----
-
-## VI. Constructive vs. Destructive Euroscepticism
-
-Purpose: Provide criteria for distinguishing criticism that can strengthen democracy from criticism that undermines it.
-
-A. Three filters: goals, methods, alternatives
-
-1. **Goals**
-   a. Constructive criticism:
-      - Accepts the basic idea of shared European governance.
-      - Seeks to reform institutions, policies, or power balances.
-   b. Destructive Euroscepticism:
-      - Treats the EU as inherently illegitimate.
-      - Aims at withdrawal or dismantling, regardless of concrete reforms.
-
-2. **Methods**
-   a. Constructive criticism:
-      - Uses evidence‑based arguments; recognises trade‑offs.
-      - Operates within democratic rules and accepts adverse outcomes.
-   b. Destructive forms:
-      - Rely on scapegoating, conspiracy‑like narratives, blanket rejection.
-      - Ignore or dismiss inconvenient facts, legal constraints, and pluralism.
-
-3. **Alternatives**
-   a. Constructive critics:
-      - Can spell out workable alternatives (e.g. “better EU,” revised treaty, differentiated integration).
-   b. Destructive Euroscepticism:
-      - Offers vague or unrealistic alternatives, or none beyond an idealised nation‑state.
-
-B. Reflection question (from class)
-1. How do we draw the line between “healthy scepticism” and destructive rejection?
-2. Bijsmans and the lecture suggest using the three filters above when we evaluate parties, media and movements.
-
----
-
-## Key Takeaways
-
-1. Euroscepticism is as old as integration itself; crises like Brexit reveal and reinforce long‑standing patterns rather than invent them.
-2. There is no single definition of Euroscepticism; typologies (hard/soft, etc.) reflect the complexity of how the EU is contested.
-3. We observe Euroscepticism across parties, citizens and media, driven by economic, identity‑related and democratic factors in different combinations.
-4. Euroscepticism can be both a challenge and a resource for EU democracy, depending on whether it aims to reform or to delegitimise the project.
-5. Distinguishing constructive from destructive Euroscepticism requires looking at goals, methods and the realism of proposed alternatives.
-
----
-
-# Section 3: Slides – Europe 1973–1992
-
-Slides: `6. Europe 1973–1992.pptx.pdf`.
-
-> Timeline: enlargement, oil crisis, Eurosclerosis, EMS, Delors, SEA, Schengen, Thatcher, Maastricht. Use for exam chronology.
-
-## Key Words (Slides)
-- **Eurosclerosis** = 1970s–early 1980s when integration seemed stuck.
-- **Southern enlargement** = Greece (1981), Spain & Portugal (1986).
-- **EMS / ERM / ECU** = European Monetary System, Exchange Rate Mechanism, European Currency Unit.
-- **Single European Act (SEA)** = 1986; single market by 1992, more QMV, Parliament powers.
-- **Schengen** = 1985 Agreement, 1990 Convention; no internal borders; 26 countries, 400M+ today.
-- **Maastricht (TEU)** = 1991/92; EC → EU; EMU path; citizenship; subsidiarity; UK opt‑outs.
-- **Paquet Delors** = Budget/cohesion reforms; EBRD; Committee of the Regions.
-
-## Main Ideas (Slides)
-1. **Enlargement:** 1973 (UK, IE, DK); 1981 Greece; 1986 Spain & Portugal. Fears: CAP, fisheries, steel, textiles, cheap labour.
-2. **Oil crisis & Eurosclerosis:** 1973 shock; no common energy policy; stagflation; “Eurosclerosis” = economic + political paralysis.
-3. **EMS (1978–79):** ECU, ERM (±2.25%); step toward EMU, not yet single currency.
-4. **Delors (from 1985):** Paquet Delors; cohesion; single market relaunch.
-5. **SEA (1986):** Single market by 1992; more QMV; Spinelli federalist plan rejected earlier.
-6. **Schengen:** 1985/1990; internal border checks abolished; common visa.
-7. **Thatcher Bruges (1988):** Against “European conglomerate”; for single market, against over‑regulation and federalism.
-8. **Maastricht (1992):** EU created; three pillars; EMU path; citizenship; subsidiarity; cohesion fund; UK opt‑outs; “multi‑speed Europe.”
-
-## Enlargement waves (from slides)
-1973: UK, Ireland, Denmark. 1981: Greece. 1986: Spain, Portugal. 1995: Austria, Finland, Sweden. 2004: Big Bang (10). 2007: Bulgaria, Romania. 2013: Croatia.
-
-## Activities from slides (self‑check)
-1. Learn dates and countries for the seven enlargements.
-2. Why was enlargement 1973–1992 slow and opposed?
-3. Thatcher vs Delors: two visions of Europe.
-4. Steps toward deeper integration 1973–1992 (EMS, SEA, Schengen, Maastricht…).
-5. Main features of the Maastricht Treaty.
+IX. Implications for EU Politics
+   A. Cannot assume support
+      1. Must earn legitimacy
+      2. Address democratic deficit
+   B. Contestation normal
+      1. Democracy involves disagreement
+      2. Not all criticism is threat
+   C. Future
+      1. Euroscepticism will persist
+      2. Management, not elimination
+      3. Balance integration with democracy
