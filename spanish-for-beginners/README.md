@@ -10,13 +10,49 @@ Course notes and materials for Spanish for Beginners at UCM. Instructor: Mercede
 | Study materials | LaTeX (`.tex`) | Each week: topic-named `.tex` (e.g. `unit-1-intro.tex`, `unit-2-por-para.tex`). Week 6: `midterm-units-1-3.tex`, `geography-weather.tex`, `study-from-chat.tex`. Compile: `pdflatex <filename>.tex` |
 | Textbook & homework | PDF | By week: `unit-N-*.pdf` in that unit’s week; `scan-YYYY-MM-DD.pdf` in week-2. Class notes keep date in filename (`YYYY-MM-DD-class-notes.md`). |
 
-## Note-Taking Format
+## Note-Taking Format — Formal Outline System
 
-All class notes follow the **Formal Outline Note Taking System** format:
-- **Roman numerals (I, II, III, IV, V, etc.)** for main topics
-- **Capital letters (A, B, C, D, etc.)** for subheadings
-- **Arabic numerals (1, 2, 3, etc.)** for supporting details
-- **Lowercase letters (a, b, c, etc.)** for nested sub-details
+All class notes follow the **Formal Outline Note Taking System**.
+
+### Hierarchy
+
+```
+I. Topic
+   A. Main idea
+      1. Supporting detail
+      2. Supporting detail
+         a. More detail
+         b. More detail
+            i. Even more info
+            ii. Even more info
+   B. Main idea
+      1. Supporting detail
+      2. Supporting detail
+II. Topic
+   A. Main idea
+   B. Main idea
+      1. Supporting detail
+      2. Supporting detail
+      3. Supporting detail
+         a. More information
+         b. More information
+         c. More information
+            i. Even more info
+            ii. Even more info
+```
+
+### Rules
+
+1. **Roman numerals (I, II, III)** for topics.
+2. **Capital letters (A, B, C)** for main ideas.
+3. **Arabic numerals (1, 2, 3)** for supporting details.
+4. **Lowercase letters (a, b, c)** for sub-details.
+5. **Lowercase roman numerals (i, ii, iii)** for further detail.
+6. **Period after each numeral or letter.**
+7. **Begin all lines with uppercase.**
+8. **Line up each level under the one above.**
+9. **No sentences** — rephrase briefly using abbreviations and symbols.
+10. **If you have 1, you must have 2. If A, you must have B.**
 
 ## Course info
 

@@ -5,40 +5,56 @@
 
 ---
 
-## I. Por vs. Para vs. Porque
+I. Por vs. Para vs. Porque
+   A. Para + Infinitivo = Purpose (In order to)
+      1. Quiero aprender español para hablar con mis amigos
+      2. Vivir con familia para practicar
+   B. Porque + Clause = Reason (Because)
+      1. Quiero visitar el Prado porque quiero ver los cuadros
+      2. Ir a conciertos porque quiero conocer grupos
+   C. Por + Sustantivo = Reason (For/because of)
+      1. Quiero visitar Roma por la comida y los monumentos
+   D. Trick (Memory Aid)
+      1. Para + infinitive
+      2. Porque + conjugated verb
+      3. Por + noun
 
-A. **Para** + infinitivo = purpose (in order to)
-   1. Quiero aprender español para hablar con mis amigos.
-   2. Vivir con familia para practicar.
+II. Actividades para Aprender
+   A. Ver
+      1. Películas
+      2. Series
+      3. La televisión
+      4. Vídeos
+   B. Escuchar
+      1. Música
+      2. La radio
+      3. Podcasts
+   C. Leer
+      1. Libros
+      2. Novelas
+      3. Artículos
+   D. Escribir
+      1. Un diario
+      2. Mensajes
+      3. Emails
+   E. Practicar
+      1. Con nativos
+      2. La pronunciación
+      3. La gramática
+   F. Hacer
+      1. Ejercicios
+      2. Deberes
+      3. Un intercambio
 
-B. **Porque** + clause = reason (because)
-   1. Quiero visitar el Prado porque quiero ver los cuadros.
-   2. Ir a conciertos porque quiero conocer grupos.
-
-C. **Por** + sustantivo = reason (for/because of)
-   1. Quiero visitar Roma por la comida y los monumentos.
-
-D. Trick: Para + infinitive. Porque + conjugated verb. Por + noun.
-
----
-
-## II. Actividades para aprender
-
-A. ver: películas, series, la televisión, vídeos
-B. escuchar: música, la radio, podcasts
-C. leer: libros, novelas, artículos
-D. escribir: un diario, mensajes, emails
-E. practicar: con nativos, la pronunciación, la gramática
-F. hacer: ejercicios, deberes, un intercambio
-
----
-
-## III. Lenguas por país
-
-A. Rusia → ruso. Italia → italiano. China → chino.
-B. Francia → francés. Alemania → alemán. Japón → japonés.
-C. Brasil → portugués. Corea → coreano.
-
----
-
-*Notes inferred from study guide. No in-class notes available.*
+III. Lenguas por País
+   A. Europa
+      1. Rusia → ruso
+      2. Italia → italiano
+      3. Francia → francés
+      4. Alemania → alemán
+   B. Asia
+      1. China → chino
+      2. Japón → japonés
+      3. Corea → coreano
+   C. Sudamérica
+      1. Brasil → portugués

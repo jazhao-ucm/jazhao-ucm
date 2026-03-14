@@ -1,41 +1,70 @@
 # Spanish for Beginners - Class Notes
 ## February 18–19, 2026 - Week 4
 
-**Focus:** Unit 3 — C o qu; pronunciación.
+**Focus:** Unit 3 — C o qu; pronunciación; presente.
 
 ---
 
-## I. C o qu (spelling rule)
+I. C o Qu (Spelling Rule)
+   A. Qu Before e, i
+      1. Quién
+      2. Qué
+      3. Quince
+      4. Arquitectura
+      5. Marroquí
+   B. C Elsewhere
+      1. Once
+      2. Camarero
+      3. Cocinero
+      4. Científica
+      5. Gracias
+      6. Comercial
+      7. Cuántos
+      8. Cuatro
+   C. Exception
+      1. Quién needs qu (not just q)
 
-A. **qu** before e, i: quién, qué, quince, arquitectura, marroquí
-B. **c** elsewhere: once, camarero, cocinero, científica, gracias, comercial, cuántos, cuatro
-C. Exception: **quién** needs **qu** (not just q)
+II. Pronunciación — Reference Words
+   A. Como Carlos: C before a, o, u; Q = [k]
+      1. Colombiana
+      2. Costa
+      3. Quito
+      4. Ecuatoriano
+   B. Como García: G before a, o, u = [g]
+      1. Bogotá
+   C. Como Javier: J; G before e, i = [x]
+      1. Argentina
+      2. San José
+   D. Como Celia: C before e, i; Z = [s] or [θ]
+      1. Rica
+      2. Tegucigalpa
+      3. Asunción
 
----
-
-## II. Pronunciación — Reference words
-
-A. **Como Carlos**: C before a, o, u; Q = [k]
-   1. Examples: colombiana, Costa, Quito, ecuatoriano
-
-B. **Como García**: G before a, o, u = [g]
-   1. Example: Bogotá
-
-C. **Como Javier**: J; G before e, i = [x]
-   1. Examples: argentina, San José
-
-D. **Como Celia**: C before e, i; Z = [s] or [θ]
-   1. Examples: Rica, Tegucigalpa, Asunción
-
----
-
-## III. Presente — Verbos regulares
-
-A. -ar: hablo, hablas, habla, hablamos, habláis, hablan
-B. -er: como, comes, come, comemos, coméis, comen
-C. -ir: vivo, vives, vive, vivimos, vivís, viven
-D. Irregulares: ser, estar, ir, tener, hacer
-
----
-
-*Notes inferred from study guide. No in-class notes available.*
+III. Presente — Verbos Regulares
+   A. -ar (Hablar)
+      1. Hablo
+      2. Hablas
+      3. Habla
+      4. Hablamos
+      5. Habláis
+      6. Hablan
+   B. -er (Comer)
+      1. Como
+      2. Comes
+      3. Come
+      4. Comemos
+      5. Coméis
+      6. Comen
+   C. -ir (Vivir)
+      1. Vivo
+      2. Vives
+      3. Vive
+      4. Vivimos
+      5. Vivís
+      6. Viven
+   D. Verbos Irregulares
+      1. Ser
+      2. Estar
+      3. Ir
+      4. Tener
+      5. Hacer
