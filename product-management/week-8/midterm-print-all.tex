@@ -1,15 +1,16 @@
 % Product Management — Full Midterm (all week-8 content)
 % Compile: pdflatex midterm-print-all.tex
+% PAGE 1 = one-page cheat sheet; rest = reference (More concepts, Q&A)
 
-\documentclass[10pt,a4paper]{article}
+\documentclass[8pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage[margin=2cm,top=1.5cm,bottom=1.5cm]{geometry}
+\usepackage[margin=1cm]{geometry}
 \usepackage{enumitem}
-\setlist{leftmargin=*,itemsep=0.35em,topsep=0.4em,partopsep=0.25em}
+\setlist{nosep,leftmargin=*,itemsep=0.15em,topsep=0.15em}
 \usepackage{booktabs}
 \usepackage{parskip}
-\setlength{\parskip}{0.4em}
+\setlength{\parskip}{0.15em}
 \usepackage{xcolor}
 \usepackage{microtype}
 \usepackage{multicol}
@@ -21,189 +22,49 @@
 
 \begin{document}
 \raggedright
+\pagestyle{empty}
+\enlargethispage{2mm}
 
-% ========== TITLE ==========
-\begin{center}
-{\large\bfseries\textcolor{eublue}{Product Management — Midterm}}\\[0.2em]
-\small Mar 16 \quad|\quad Open notes
-\end{center}
-\vspace{0.4em}
+% ==================== ONE-PAGE CHEAT SHEET ====================
+\begin{center}\textbf{\color{eublue}{Product Management — Midterm}}\quad Mar 16 | Open notes\end{center}
+\vspace{-0.3em}
+\begin{multicols}{3}
+\scriptsize
 
-% ==================== PAGE 1 — FIRST 5 MINUTES ====================
-\noindent\fcolorbox{eublue}{softgrey}{\parbox{\dimexpr\textwidth-2\fboxsep-2\fboxrule}{
-\begin{center}\textbf{\color{eublue}THE FOUR MAGIC QUESTIONS}\end{center}\vspace{0.2em}
-\begin{enumerate}[leftmargin=1.2em]
-\item Cost leadership, differentiation or response?
-\item Mass producing or customizing?
-\item Creating value or capturing it?
-\item Exploring or exploiting?
-\end{enumerate}
-}}\vspace{0.5em}
+\textbf{\color{eublue}Four questions:} (1) Cost/diff/response? (2) Mass/custom? (3) Create/capture value? (4) Explore/exploit?\\
+\textbf{\color{eublue}Template:} Name concept $\to$ Define 1 sentence $\to$ 3 evidence $\to$ Conclude. Style: Short, structured, specific.
 
-\noindent\fcolorbox{eublue}{softgrey}{\parbox{\dimexpr\textwidth-2\fboxsep-2\fboxrule}{
-\begin{center}\textbf{\color{eublue}THE ANSWER TEMPLATE}\end{center}\vspace{0.2em}
-\begin{enumerate}[leftmargin=1.2em]
-\item Name the concept
-\item Define in one sentence
-\item Three pieces of evidence from the case
-\item Conclude clearly
-\end{enumerate}
-}}\vspace{0.5em}
+\textbf{\color{eublue}Innovation:} Similar exist? YES=Sustaining, NO=Disruptive. Tech existed? YES=Incremental, NO=Radical. Disruptive = low price vs similar \emph{or} first in new market (blue ocean). Yiami=Sust+Incr; Dacia=Sust+Incr; Moley=Disrupt+Rad; Netflix=Disrupt+Incr.
 
-\noindent\textbf{\color{eublue}INNOVATION FLOWCHART}\\[0.2em]
-Does something similar exist? \textbf{YES} $\to$ Sustaining. \textbf{NO} $\to$ Disruptive.\\
-Did the technology exist before? \textbf{YES} $\to$ Incremental. \textbf{NO} $\to$ Radical.
+\textbf{\color{eublue}Strategies:} Cost (cheap, std) $\to$ Dacia, Ryanair. Diff (premium, unique) $\to$ Apple, Moley. Response (fast, flex) $\to$ Zara. Dacia exam: ``low cost based on task specialisation and standardisation.'' HR: \textbf{specialised} workers (repetitive, lower wages).
 
-\vspace{0.4em}
-\begin{center}
-\begin{tabular}{@{}ll@{}}
-\toprule
-\textbf{\color{eublue}Case} & \textbf{Classification} \\
-\midrule
-Yiami & Sustaining + Incremental \\
-Dacia & Sustaining + Incremental \\
-Moley & Disruptive + Radical \\
-Netflix & Disruptive + Incremental \\
-\bottomrule
-\end{tabular}
-\end{center}
-\vspace{0.25em}
-\small
-\textbf{Disruptive (exam wording):} ``Disruptive innovations imply either a low price value proposition that competes with similar value propositions at higher prices, or being the first company to target a completely new market (blue ocean market).'' Yiami = neither (friend apps exist; no low-price undercut). Moley = second type (new market).\\
-\textbf{Answer style:} Short. Structured. Specific. One sentence name + define + evidence + conclude.
-\vspace{0.6em}
+\textbf{\color{eublue}BMC:} Roof=VP. Right=Segments, Channels, Relationships. Left=Resources, Activities, Partners. Floor=Revenue, Cost. Specific names; VP=core+secondary; Cost=explain why; Rel=recurrent vs non-recurrent; Revenue=all sources.
+
+\textbf{\color{eublue}Design:} Observe$\to$Personas$\to$Needs$\to$Ideate$\to$Prototype$\to$Test real users. Yiami did: Personas$\to$Observing$\to$Functionality$\to$Tech test$\to$Launch. Mistakes: (1) Personas too early (2) No needs What/How/Why (3) No ideation (4) Tested with devs not users. Ambassador (6): market \& competitors; personas; value prop \& differentiators; product usage; demos \& features; objections \& responses.
+
+\textbf{\color{eublue}Moore:} Innovators (broken, low WTP)$\to$Early Adopters (works, high WTP)$\to$Early Majority$\to$Late$\to$Laggards.
+
+\textbf{\color{eublue}Mfg:} Craft=small, general, high skill, MTO, wide, low inv. Factory=large, specialised, low skill, MTS, narrow, high inv.
+
+\textbf{\color{eublue}Break even:} Fixed$\div$(Price$-$Var). 6000$\div$20=300. Learning: platform+volume; low price$\to$demand$\to$volume. EoS: more output$\to$lower per-unit fixed cost.
+
+\textbf{\color{eublue}HoQ:} 3 customer reqs (what they said), weights 1/3/5. Rate components 5/3/1. Score=$\sum$(w$\times$r). Highest first. Yiami: DB 41, Match 31, Geo 31, Event 29, Search 21, ID 17, Conv 13. Focus: Matching \& Geolocation.
+
+\textbf{\color{eublue}Goods vs services:} Heterogeneity; info asymmetry (brand strategy); customer involvement (low productivity, automation).
+
+\textbf{\color{eublue}Porter:} Primary: Inbound, Operations, Outbound, Mktg\&Sales, Service. Support: Infra, HRM, Tech, Procurement.
+
+\textbf{\color{eublue}Distinctions:} MTS=before orders; MTO=after. Lean=test pay; Design=observe. S-curve=tech graph; Dilemma=firm trap. Radical=never existed; Incr=recombined. Learning=experience; EoS=math.
+
+\textbf{\color{eublue}Cases:} Takeda, Xerox, IBM, Samsung, Dacia (cost, CMF-A, Zity), Yiami (Sust+Incr, DT, B2B), Moley (Disrupt+Rad, diff), McD (MTS$\to$MTO), Blockbuster/Netflix, Kodak, Zara (response), IDEO, Chanel, Spanish researchers.
+
+\textbf{\color{redtrap}Traps:} Zara=RESPONSE. MTS=before. Innovators=broken/low WTP; Early Adopters=works/high WTP. S-curve=graph; Dilemma=trap. Radical=never; Incr=existed. Craft=general+high; Factory=specialised+low. Lean=pay; DT=observe. Moley=Disrupt (Thermomix blends, MRK cooks). Specific names.
+\end{multicols}
+\vspace{0.3em}
+\noindent\rule{\textwidth}{0.5pt}
 \newpage
-
-% ==================== PAGE 2 — FRAMEWORKS ====================
-\section*{\color{eublue}1. Competitive strategies}
-\begin{tabular}{@{}p{3.2cm}p{2.2cm}p{8.5cm}@{}}
-\toprule
-\textbf{Strategy} & \textbf{Clue words} & \textbf{Examples} \\
-\midrule
-Cost leadership & cheap, affordable, standardized, high volume & Dacia, McDonald's, Ryanair \\
-Differentiation & premium, unique, luxury, exclusive, high price & Apple, Chanel, Moley \\
-Response & fast, flexible, speed, responsive, customization & Zara, FedEx, Made for You \\
-\bottomrule
-\end{tabular}
-\small \textbf{Dacia (exam):} ``Low cost strategy based on task specialisation and standardisation of components.'' HR: hire \textbf{highly specialised} workers (repetitive tasks, lower wages); skilled = higher wages = undermines low cost.
-\vspace{0.5em}
-
-\section*{\color{eublue}2. Business Model Canvas (nine boxes)}
-\textbf{Roof:} Value Proposition. \textbf{Right:} Customer Segments, Channels, Customer Relationships. \textbf{Left:} Key Resources, Key Activities, Key Partners. \textbf{Floor:} Revenue Streams, Cost Structure.\\
-\small Rule: specific names; one story. \textbf{Professor expects:} VP = core benefit + secondary services. Activities = short (e.g.\ mfg, marketing). Resources/Partners = specific names (e.g.\ CMF-A, Renault, Zity). Cost = explain \emph{why} (e.g.\ low fixed \emph{due to} shared platform). Relationships = recurrent vs non-recurrent. Segments = specific groups (not ``people who want cheap cars''). Revenue = \emph{all} sources.
-\vspace{0.4em}
-
-\section*{\color{eublue}3. Design thinking (5 steps) + Yiami mistakes (exact)}
-\textbf{Correct order:} Observe $\to$ Personas $\to$ Needs $\to$ Ideate $\to$ Prototype $\to$ Test with \emph{real} users.\\
-\textbf{What Yiami did (exam):} ``Definition of personas $\to$ Observing customers $\to$ Defining the functionality $\to$ Technical Testing $\to$ Launch.''\\
-\textbf{Four mistakes (exam):} (1) ``Definition of personas was too early — first they should have observed the customers.'' (2) ``There was no analysis of customer needs (What, How, Why) or the customer journey.'' (3) ``There was no Ideation — they basically defined some functionality which had weak connections with the customer requirements.'' (4) ``The prototype was not tested with target users but with other developers.''\\
-\textbf{Ambassador training (6, exam):} Market landscape overview \& competitors; target user \& buyer personas; key value propositions \& product differentiators; basic product usage; how to give demos \& which features to demonstrate; common questions \& objections and how to respond.
-\vspace{0.4em}
-
-\section*{\color{eublue}4. Moore's Chasm (5 stages)}
-Innovators (broken, don't care) $\to$ Early Adopters (works, see vision) $\to$ Early Majority (proven) $\to$ Late Majority $\to$ Laggards.\\
-\small \textbf{Professor (exam):} Innovators ``correspond to customers high reservation prices (low willingness to pay).'' Early Adopters = high willingness to pay (see competitive advantage).
-\vspace{0.4em}
-
-\section*{\color{eublue}5. Manufacturing — six dimensions}
-\begin{tabular}{@{}lcc@{}}
-\toprule
-\textbf{Dimension} & \textbf{Craftsman} & \textbf{Factory} \\
-\midrule
-Batch size & Small & Large \\
-Equipment & General purpose & Specialized \\
-Worker skills & High (whole craft) & Low (one task) \\
-Scheduling & Make to order & Make to stock \\
-Product range & Wide & Narrow \\
-Inventory & Low & High \\
-\bottomrule
-\end{tabular}
-\vspace{0.4em}
-
-\section*{\color{eublue}6. Break even}
-\textbf{Formula:} Fixed costs $\div$ (Price $-$ Variable cost). Bracket first.\\
-\textbf{Example:} 6,000 $\div$ (40 $-$ 20) = 6,000 $\div$ 20 = \textbf{300 units}.
-\small \textbf{Learning effect (Dacia exam):} Two things — (1) Same platform as Renault/Dongfeng $\to$ high volume $\to$ reinforces learning effect. (2) Low price $\to$ boost demand $\to$ volume $\to$ strong learning effects. \textbf{EoS (exam):} ``The greater the quantity of output produced, the lower the per-unit fixed cost.'' Low prices and shared components boost EoS.
-\vspace{0.35em}
-
-\section*{\color{eublue}7. House of Quality (exact method)}
-\textbf{Step 1:} Pick 3 \emph{customer} requirements from focus group (what they said they wanted). Weights: 1 = low, 3 = medium, 5 = high impact on decision. \textbf{Step 2:} Rate each technical component vs each requirement: 5 = highly related, 3 = somewhat, 1 = little. \textbf{Step 3:} Score = $\sum$(weight $\times$ rating). Highest score = invest first. \textbf{Yiami table:} Chatting 1, Compatible 3, Events 5; scores: DB filters 41, Matching 31, Geolocation 31, Event 29, Search 21, ID 17, Conversation 13. \textbf{Exam conclusion:} ``Focus investments on Matching and Re-matching Algorithm, and Geolocation system.'' Customer requirements = what customers \emph{said} — not technical features.
-\vspace{0.35em}
-
-\section*{\color{eublue}8. Goods vs services (exact professor terms)}
-(1) \textbf{Heterogeneity} — ``Subjective and inconsistent quality perceptions over time.'' (2) \textbf{Information asymmetry} — ``Seller know[s] better the real quality than the buyer. The stronger asymmetries the more relevant the brand strategy.'' (3) \textbf{Customer involvement} — ``Customer is involved in Process and capacity design, implying low productivity and difficult automation.'' (Slides 20--21.)
-\vspace{0.35em}
-
-\section*{\color{eublue}9. Porter Value Chain (order)}
-\textbf{Primary:} 1. Inbound Logistics 2. Operations 3. Outbound Logistics 4. Marketing \& Sales 5. Service. \textbf{Support:} Firm Infrastructure, HRM, Technology Development, Procurement.
-\vspace{0.6em}
-\newpage
-
-% ==================== PAGE 3 — CONCEPTS THAT TRIP YOU UP ====================
-\section*{\color{eublue}Key distinctions (2 lines max)}
-
-\textbf{Make to Stock vs Make to Order vs Assemble to Order}\\
-Stock = made \emph{before} orders (bread). Order = made \emph{after} (piano). Assemble = parts before, assemble after (Dell).
-
-\textbf{Lean validation vs Design thinking}\\
-Lean = test \emph{payment} before building. Design = observe users, find problem, then build.
-
-\textbf{Innovators vs Early Adopters}\\
-Innovators = product broken, they don't care (tinker). Early Adopters = product works, they see the vision.
-
-\textbf{S-Curve vs Innovator's Dilemma}\\
-S-Curve = technology graph over time (slow $\to$ rapid $\to$ plateau). Innovator's Dilemma = why firms fail (trap).
-
-\textbf{Radical vs Incremental}\\
-Radical = technology never existed. Incremental = existed, recombined or improved.
-
-\textbf{Craftsman vs Factory}\\
-Craftsman = general equipment, high skill, MTO, wide variety. Factory = specialized equipment, low skill, MTS, narrow.
-
-\textbf{Learning effect vs Economies of scale}\\
-Learning = repetition $\to$ better/cheaper (experience). EoS = more units $\to$ fixed cost spread (math).
-\vspace{0.6em}
-\newpage
-
-% ==================== PAGE 4 — CASE STUDIES (ONE LINE EACH) ====================
-\section*{\color{eublue}Case studies — one line each}
-
-\begin{itemize}[itemsep=0.25em]
-\item \textbf{Takeda} — created vs captured; complementary assets
-\item \textbf{Xerox} — invented everything, captured nothing; no market access
-\item \textbf{IBM} — free software, money from hardware; open innovation
-\item \textbf{Samsung} — 40\% revenue from licensing
-\item \textbf{Dacia} — cost leadership, CMF-A platform, Zity, China manufacturing
-\item \textbf{Yiami} — sustaining + incremental, design thinking mistakes, B2B pivot
-\item \textbf{Moley} — disruptive + radical, differentiation, innovators stage
-\item \textbf{McDonald's} — old = make to stock; Made for You = make to order
-\item \textbf{Blockbuster/Netflix} — Innovator's Dilemma
-\item \textbf{Kodak} — invented digital, went bankrupt; Innovator's Dilemma
-\item \textbf{Zara} — response strategy, 2 weeks to shelf, scarcity
-\item \textbf{IDEO cart} — extreme users, 22,000 kids, observation over asking
-\item \textbf{Chanel} — brand, emotion, no Amazon, exclusivity
-\item \textbf{Spanish researchers} — created value; Takeda captured it
-\end{itemize}
-\vspace{0.6em}
-\newpage
-
-% ==================== PAGE 5 — TRAPS TO AVOID ====================
-\section*{\color{redtrap}Traps to avoid}
-
-\begin{itemize}[itemsep=0.4em]
-\item \textcolor{redtrap}{\textbf{Zara = RESPONSE}} not differentiation
-\item \textcolor{redtrap}{\textbf{Make to STOCK}} = already made \emph{before} orders
-\item \textcolor{redtrap}{\textbf{INNOVATORS}} = broken don't care. \textcolor{redtrap}{\textbf{EARLY ADOPTERS}} = works see vision
-\item \textcolor{redtrap}{\textbf{S-CURVE}} = technology graph. \textbf{INNOVATOR'S DILEMMA} = company trap
-\item \textcolor{redtrap}{\textbf{RADICAL}} = never existed. \textbf{INCREMENTAL} = existed, recombined
-\item \textcolor{redtrap}{\textbf{Craftsman}} = GENERAL equipment + HIGH skill
-\item \textcolor{redtrap}{\textbf{Factory}} = SPECIALIZED equipment + LOW skill
-\item \textcolor{redtrap}{\textbf{LEAN}} = test payment. \textbf{DESIGN THINKING} = observe users
-\item \textcolor{redtrap}{\textbf{Moley = DISRUPTIVE}} — Thermomix blends, Moley \emph{cooks}; different market
-\item \textcolor{redtrap}{Always use \textbf{SPECIFIC} names from case. Never generic.}
-\end{itemize}
-\vspace{0.8em}
-\newpage
+\pagestyle{plain}
+\fontsize{10}{12}\selectfont
 
 % ========== MORE CONCEPTS ==========
 \section*{\color{eublue}More concepts}
