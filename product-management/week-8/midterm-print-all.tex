@@ -1,252 +1,106 @@
-% Product Management — Full Midterm (all week-8 content in one file)
-% Compile: pdflatex midterm-print-all.tex  |  Open notes. One print.
+% Product Management — Full Midterm (all week-8 content, word-packed)
+% Compile: pdflatex midterm-print-all.tex
 
-\documentclass[10pt,a4paper]{article}
+\documentclass[9pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage[margin=1.6cm]{geometry}
+\usepackage[margin=1.1cm,top=0.9cm,bottom=0.9cm]{geometry}
 \usepackage{enumitem}
-\setlist{nosep,leftmargin=*}
+\setlist{nosep,leftmargin=*,itemsep=0.15em,topsep=0.2em}
 \usepackage{booktabs}
 \usepackage{parskip}
+\setlength{\parskip}{0.15em}
 \usepackage{xcolor}
 \usepackage{microtype}
+\usepackage{multicol}
 \usepackage[colorlinks=true,linkcolor=eublue,urlcolor=eublue]{hyperref}
 \definecolor{eublue}{RGB}{0,51,153}
 \definecolor{charcoal}{RGB}{51,51,51}
 \definecolor{softgrey}{RGB}{248,248,252}
 
-\setlength{\parskip}{0.35em}
-
 \begin{document}
-\begin{center}
-{\LARGE\bfseries\textcolor{eublue}{Product Management — Midterm (All-in-One)}}\\[0.2em]
-\footnotesize Midterm: March 16 \quad|\quad Open notes \quad|\quad One file to print
-\end{center}
-\vspace{0.3em}
-
-\noindent\fcolorbox{eublue}{white}{\parbox{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}{%
-\small\textbf{How to use:} \textit{Page 1} = Exam day + Cheat sheet (§1--18, Key cases). \textit{Next pages} = Model answers from your PDFs (Yiami, Dacia, Moley). During exam: read case first, underline clues, answer the four magic questions; then use the answer template for every question.
-}}
-\vspace{0.5em}
-
-% ========== PART 1: EXAM DAY ==========
-\fcolorbox{eublue}{softgrey}{\parbox{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}{%
-\centering\textbf{\color{eublue}EXAM DAY — Use every answer}\\[0.2em]
 \raggedright
-\textbf{Answer template:} (1) Name the concept (2) Define in one sentence (3) Three pieces of evidence from the case (4) Conclude clearly.\\
-\textbf{Four magic questions} (answer for the company in the case): Cost leadership, differentiation or response? Mass producing or customizing? Creating value or capturing it? Exploring or exploiting?\\
-\textit{Read the whole case before writing. Underline clue words. Ask the four questions first.}\\[0.2em]
-\textbf{Use your time:} First 5 min — read case, underline, answer four questions. Then one question at a time; use template. Last 15 min — check each answer has concept, definition, evidence, conclusion. Your notes are a safety net; you already know most of this.
+\begin{center}
+{\large\bfseries\textcolor{eublue}{Product Management — Midterm (All-in-One)}}\\[0.1em]
+\footnotesize Mar 16 \quad|\quad Open notes
+\end{center}
+\vspace{-0.2em}
+
+\noindent\fcolorbox{eublue}{white}{\parbox{\dimexpr\textwidth-2\fboxsep-2\fboxrule}{\footnotesize\textbf{How to use:} Page 1 = Exam day + Cheat sheet. Next pages = Model answers (Yiami, Dacia, Moley). Exam: read case first, underline clues, answer four magic questions; use answer template every question.}}
+\vspace{0.25em}
+
+\fcolorbox{eublue}{softgrey}{\parbox{\dimexpr\textwidth-2\fboxsep-2\fboxrule}{\footnotesize
+\textbf{\color{eublue}EXAM DAY.} \textbf{Template:} (1) Name concept (2) Define one sentence (3) Three evidence from case (4) Conclude. \textbf{Four questions:} Cost/diff/response? Mass/custom? Create/capture value? Explore/exploit? Read case first; underline clues; ask four questions. \textbf{Time:} 5 min read; then template per question; last 15 min check concept+definition+evidence+conclusion.
 }}
-\vspace{0.6em}
+\vspace{0.25em}
 
-% ========== PART 2: FULL CHEAT SHEET (SECTIONS 1–18 + KEY CASES) ==========
-\section*{\color{eublue}1. Make to Stock vs.\ Make to Order}
-
-\textbf{STOCK} = on the shelf \emph{before} anyone orders.
-
-\begin{itemize}[leftmargin=*]
-\item \textbf{Make to Stock} = before orders. Ex.: supermarket bread, McDonald's (pre-made).
-\item \textbf{Make to Order} = after order. Ex.: handmade piano, bespoke suit, McDonald's Made for You.
-\item \textbf{Assemble to Order} = parts before, assemble after. Ex.: Dell, BMW.
-\end{itemize}
-
-\emph{Memory:} Stock = already there. Order = you asked, then we make it.
-
-\section*{\color{eublue}2. Lean Validation vs.\ Design Thinking}
-
-\begin{itemize}[leftmargin=*]
-\item \textbf{Design Thinking} = understand users by \textbf{observation} and \textbf{empathy}. Go where they are; watch; find the real problem. Stages: Empathize $\to$ Define $\to$ Ideate $\to$ Prototype $\to$ Test.
-\item \textbf{Lean Validation} = test whether people will \textbf{pay} before building. Build–Measure–Learn; MVP; iterate or pivot.
-\end{itemize}
-
-Design Thinking = understand problem. Lean = test the money.
-
-\section*{\color{eublue}3. Innovation: Sustaining/Disruptive, Radical/Incremental}
-
-\textbf{Q1 — Sustaining or Disruptive?} Does something similar already exist? YES $\to$ Sustaining. NO or way cheaper / new market $\to$ Disruptive.
-
-\textbf{Q2 — Radical or Incremental?} Did the core technology exist before? YES $\to$ Incremental. NO $\to$ Radical.
-
-\begin{center}
+% ========== CHEAT SHEET IN TWO COLUMNS ==========
+\begin{multicols}{2}
 \footnotesize
-\begin{tabular}{@{}lll@{}}
-\toprule
-\textbf{Case} & \textbf{Sust./Disrupt.} & \textbf{Rad./Incr.} \\
-\midrule
-Yiami & Sustaining & Incremental \\
-Dacia Spring & Sustaining & Incremental \\
-Moley robot kitchen & Disruptive & Radical \\
-Netflix 1997 & Disruptive & Incremental \\
-First iPhone & Disruptive & Radical \\
-\bottomrule
-\end{tabular}
-\end{center}
 
-\section*{\color{eublue}4. Extreme Users vs.\ Target Personas}
+\textbf{\color{eublue}1. Make/Stock/Order.} STOCK = before orders. Make to Stock = before (bread, McD pre-made). Make to Order = after (piano, Made for You). Assemble to Order = parts before, assemble after (Dell, BMW). Memory: Stock = there; Order = you asked.
 
-\begin{itemize}[leftmargin=*]
-\item \textbf{Extreme users} = use product \emph{intensely} or in unusual ways; reveal hidden problems (e.g.\ IDEO cart, kids injured).
-\item \textbf{Personas} = who you design \emph{for}; fictional typical customer. Define after observing.
-\end{itemize}
+\textbf{\color{eublue}2. Lean vs.\ Design.} Design = observe, empathize, find problem. Lean = test \textbf{pay} before building. Stages: Empathize$\to$Define$\to$Ideate$\to$Prototype$\to$Test.
 
-Observe \textbf{extreme users} to find problems; define \textbf{personas} to describe who you serve.
+\textbf{\color{eublue}3. Innovation.} Sustaining/Disruptive: similar exist? YES$\to$Sust. NO or cheaper/new market$\to$Disrupt. Radical/Incremental: tech existed? YES$\to$Incr. NO$\to$Rad. Yiami/Dacia=Sust.+Incr.; Moley=Disrupt.+Rad.; Netflix=Disrupt.+Incr.; iPhone=Disrupt.+Rad.
 
-\section*{\color{eublue}5. Innovator's Dilemma vs.\ S-Curve}
+\textbf{\color{eublue}4. Extreme users vs.\ Personas.} Extreme = use intensely; reveal problems (IDEO cart). Personas = who you design for; define after observing.
 
-\textbf{S-Curve} = how technology performs over time: slow $\to$ rapid $\to$ plateau $\to$ decline. \textbf{Innovator's Dilemma} = why companies fail (e.g.\ Kodak, Blockbuster). Memory: S-Curve = graph; Innovator's Dilemma = company trap.
+\textbf{\color{eublue}5. S-Curve vs.\ Innovator's Dilemma.} S-Curve = tech over time (slow$\to$rapid$\to$plateau). Innovator's Dilemma = why firms fail (Kodak, Blockbuster). Graph vs.\ trap.
 
-\section*{\color{eublue}6. Innovators vs.\ Early Adopters (Moore's Chasm)}
+\textbf{\color{eublue}6. Moore's Chasm.} Innovators = broken, tinker. Early Adopters = works, vision. Early Majority = proven. Late/Laggards = last. Memory: broken don't care / works see vision.
 
-\begin{center}
-\footnotesize
-\begin{tabular}{@{}lll@{}}
-\toprule
-\textbf{Stage} & \textbf{Who} & \textbf{Accepts} \\
-\midrule
-Innovators & Tech enthusiasts & Unfinished; they tinker \\
-Early Adopters & Visionaries & Product works; see vision \\
-Early Majority & Pragmatists & Proven, references \\
-Late Majority / Laggards & Skeptics & Last to adopt \\
-\bottomrule
-\end{tabular}
-\end{center}
+\textbf{\color{eublue}7. Value create/capture.} Create = useful. Capture = money. Three: Brand (Chanel); Market access (Takeda); IP/Patents (Samsung). Need both.
 
-Memory: Innovators = broken, don't care. Early Adopters = works, see vision.
+\textbf{\color{eublue}8. Break even.} Fixed$\div$(Price$-$Variable). Example: 6000$\div$(40$-$20)=300. Bracket first.
 
-\section*{\color{eublue}7. Value Creation vs.\ Value Capture}
+\textbf{\color{eublue}9. Learning effect.} More volume $\to$ better/cheaper. Dacia: (1) CMF-A shared $\to$ volume (2) Low price $\to$ demand $\to$ volume.
 
-\textbf{Value creation} = making something useful. \textbf{Value capture} = money you make.
+\textbf{\color{eublue}10. Economies of scale.} More units $\to$ lower cost/unit (fixed spread). Vs.\ learning = repetition.
 
-Three ways to capture value (Teece: complementary assets):
-\begin{itemize}[leftmargin=*]
-\item \textbf{Brand} — customer trust, premium pricing, emotion over information (e.g.\ Chanel).
-\item \textbf{Market access} — distribution, sales force, geographic presence, customer relationships (e.g.\ Takeda).
-\item \textbf{IP/Patents} — legal protection, licensing (e.g.\ Samsung 40\% from licensing).
-\end{itemize}
+\textbf{\color{eublue}11. Strategies.} Cost (Dacia, Ryanair). Differentiation (Apple, Chanel, Moley). Response (Zara, FedEx). Clues: cheap$\to$Cost; premium$\to$Diff.; fast$\to$Response.
 
-Great product is not enough; you need a way to \emph{capture} value (e.g.\ Takeda captured what Spanish researchers created).
+\textbf{\color{eublue}12. BMC.} Roof: Value Prop. Right: Segments, Channels, Relationships. Left: Resources, Activities, Partners. Floor: Revenue, Cost. Specific names; one story.
 
-\section*{\color{eublue}8. Break Even Formula}
+\textbf{\color{eublue}13. Design — Yiami.} Order: Observe$\to$Personas$\to$Needs$\to$Ideate$\to$Prototype$\to$Test real users. Mistakes: personas first; no needs; straight to functionality; tested with devs. Good: ``last time...'' Bad: ``what features?''
 
-\[ \text{Break Even (units)} = \frac{\text{Fixed Costs}}{\text{Price} - \text{Variable Cost}} \]
+\textbf{\color{eublue}14. Four questions.} Cost/diff/response? Mass/custom? Create/capture? Explore/exploit?
 
-Bracket first, then divide. \textbf{Example:} Fixed €6,000, Price €40, Variable €20 $\Rightarrow$ 6,000 $\div$ (40$-$20) = 300 units. Each unit gives €20 above variable cost; need 300 to cover €6,000 fixed.
+\textbf{\color{eublue}15. Manufacturing.} Craftsman: small, general, high skill, MTO, wide, low inv. Factory: large, specialized, low skill, MTS, narrow, high inv. Craft=diff.; Factory=cost.
 
-\section*{\color{eublue}9. Learning Effect}
+\textbf{\color{eublue}16. House of Quality.} 3 requirements, weight 5/3/1. Rate components 5/3/1. Score=$\sum$(weight$\times$rating). Highest first.
 
-The more you produce, the better and cheaper you get. Triggered by volume. Dacia: (1) Share CMF-A $\to$ massive volume $\to$ learning effect. (2) Low price $\to$ demand $\to$ volume $\to$ learning effect.
+\textbf{\color{eublue}17. Explore vs.\ Exploit.} Explore = new; risky. Exploit = what works; safe. Need both. Lean = test before invest.
 
-\section*{\color{eublue}10. Economies of Scale}
+\textbf{\color{eublue}18. Goods vs.\ services.} Heterogeneity; info asymmetry; customer involvement.
 
-More units $\to$ lower cost per unit (fixed costs spread). Vs.\ Learning effect = getting better at the process through repetition.
+\textbf{\color{eublue}Key cases.} Moley: Disrupt+Rad, diff, innovators, R\&D. Dacia: Sust+Incr, cost, CMF-A, Zity, learning. Yiami: Sust+Incr, DT mistakes, B2B, innovators. Takeda, Xerox, IBM, McD, Blockbuster, Kodak, Zara, IDEO, Chanel.
 
-\section*{\color{eublue}11. Competitive Strategies}
+\end{multicols}
 
-\textbf{Cost} = cheap, standardized, high volume (Dacia, Ryanair). \textbf{Differentiation} = unique, premium (Apple, Chanel, Moley). \textbf{Response} = fast, flexible (Zara, FedEx). Clues: cheap$\to$Cost; premium$\to$Diff.; fast$\to$Response.
-
-\section*{\color{eublue}12. Business Model Canvas — Nine Boxes}
-
-Roof: Value Proposition. Right: Customer Segments, Channels, Customer Relationships. Left: Key Resources, Key Activities, Key Partners. Floor: Revenue Streams, Cost Structure. Golden rule: specific names; all nine tell one story.
-
-\section*{\color{eublue}13. Design Thinking — Yiami Checklist}
-
-Correct order: Observe $\to$ Personas $\to$ Needs Analysis $\to$ Ideate $\to$ Prototype $\to$ Test with real users. Yiami's mistakes: personas before observing; no needs analysis; straight to functionality; tested with developers. Good: ``Tell me about the last time...'' Bad: ``What features do you want?''
-
-\section*{\color{eublue}14. The Four Magic Questions}
-
-(1) Cost leadership, differentiation or response? (2) Mass producing or customizing? (3) Creating value or capturing it? (4) Exploring or exploiting?
-
-\section*{\color{eublue}15. Manufacturing Six Dimensions}
-
-\begin{center}
-\footnotesize
-\begin{tabular}{@{}lll@{}}
-\toprule
-\textbf{Dimension} & \textbf{Craftsman} & \textbf{Factory} \\
-\midrule
-Batch size & Small & Large \\
-Equipment & General & Specialized \\
-Worker skills & High & Low \\
-Scheduling & Make to order & Make to stock \\
-Product range & Wide & Narrow \\
-Inventory & Low & High \\
-\bottomrule
-\end{tabular}
-\end{center}
-
-Craftsman = differentiation. Factory = cost leadership.
-
-\section*{\color{eublue}16. House of Quality}
-
-Pick 3 requirements; weight 5/3/1. Rate components 5/3/1. Score = $\sum$(weight$\times$rating). Highest = build first.
-
-\section*{\color{eublue}17. Exploration vs.\ Exploitation}
-
-Exploration = finding new opportunities; risky; necessary. Exploitation = doing more of what works; safe; dangerous if market changes. Need both. Lean validation = test before you invest.
-
-\section*{\color{eublue}18. Goods vs.\ Services}
-
-Heterogeneity (services vary). Information asymmetry (brand as signal). Customer involvement (low productivity, hard to automate).
-
-\section*{\color{eublue}Key Cases}
-
-\textbf{Moley:} Disruptive+radical, differentiation, innovators, R\&D heavy. \textbf{Dacia:} Sustaining+incremental, cost leadership, CMF-A, Zity, learning effect. \textbf{Yiami:} Sustaining+incremental, design thinking mistakes, B2B pivot, innovators. Others: Takeda, Xerox, IBM, McDonald's, Blockbuster, Kodak, Zara, IDEO, Chanel.
-
+\vspace{0.2em}
 \newpage
-% ========== PART 3: EXAM Q&A FROM YOUR PDFs ==========
-\section*{\color{eublue}Model Answers from Your Exam PDFs}
+% ========== MODEL ANSWERS (DENSE) ==========
+\footnotesize
+\section*{\color{eublue}Model Answers (Yiami, Dacia, Moley)}
 
-\subsection*{Yiami Midterm (May 2024)}
+\textbf{Yiami Q1.} Sustaining (Tinder/Meetup exist). Incremental (AI, geo, chat exist).\\
+\textbf{Yiami Q2.} Personas$\to$Observing$\to$Functionality$\to$Tech test$\to$Launch. Mistakes: (1) Personas before observing (2) No needs What/How/Why (3) No ideation (4) Tested Reddit devs not target users. HoQ: Chatting 1, Compatible 3, Events offline 5. Scores: DB filters 41 first, Matching 31, Geo 31, Event 29, Search 21, ID 17, Conv 13.\\
+\textbf{Yiami Q3.} Innovators; not finished; target tech enthusiasts. Niche: unis Milan/Paris/Utrecht/Munich = beachhead.\\
+\textbf{Yiami Q4.} Training: market/competitors; personas; value prop; product/demos; objections.
 
-\textbf{Q1. Disruptive or sustaining? Radical or incremental?}\\
-Yiami is \textbf{sustaining} (friend-making apps like Tinder already exist; no new market, not way cheaper). \textbf{Incremental} (AI, geolocation, chat — existing tech).
+\textbf{Dacia Q1.} Cost leadership. Evidence: CMF-A Renault/Dongfeng/Nissan; China specialised workers; minimal features; simple marketing.\\
+\textbf{Dacia Q2.} Specialised. Repetitive = lower wages = cost leadership. Skilled = whole craft = higher = undermines.\\
+\textbf{Dacia Q3.} (1) Share CMF-A $\to$ volume $\to$ learning. (2) Low price $\to$ demand $\to$ volume $\to$ learning.\\
+\textbf{Dacia Q4.} EoS = more output $\to$ lower per-unit fixed cost. Dacia: low price (volume); shared platform (volume).\\
+\textbf{Dacia Q5.} Heterogeneity (services vary). Info asymmetry (brand signal). Customer involvement (low productivity).\\
+\textbf{Dacia Q6.} VP: affordable EV, Zity. Activities: mfg, marketing. Resources: CMF-A. Partners: Renault, Dongfeng, Nissan, Zity. Cost: low fixed/marketing/variable (China). Rel: non-recurrent showrooms, recurrent Zity. Segments: cheap EV, Zity, Cargo, car-share. Channels: showrooms, Zity. Revenue: sales, sharing.
 
-\textbf{Q2. Design thinking correct? Mistakes?}\\
-Procedure: Personas $\to$ Observing $\to$ Functionality $\to$ Tech testing $\to$ Launch. Mistakes: (1) Personas before observing. (2) No needs analysis (What/How/Why). (3) No ideation — straight to functionality. (4) Tested with Reddit devs/beta testers, not target users. \textbf{House of Quality:} Requirements: Chatting (1), Compatible friends (3), Events offline (5). Scores: Database of filters 41 (build first), Matching 31, Geolocation 31, Event mgmt 29, Search 21, ID 17, Conversation 13.
+\textbf{Moley Q1.} Differentiation. Evidence: £248k; autonomous 5k recipes; enthusiasts; Thermomix €1k can't cook. Sustainable: R\&D; patents; recipe ecosystem; cheaper later.\\
+\textbf{Moley Q2.} VP: first autonomous chef, 5k recipes, restaurant at home. Segments: wealthy, enthusiasts, chefs, hotels. Channels: Moley, showrooms, trade. Rel: premium, updates. Revenue: £248k, subs, maintenance. Resources: arms, recipe DB, AI, patents. Activities: R\&D, capture, software, mfg. Partners: chefs, suppliers, luxury. Cost: high R\&D, value driven.\\
+\textbf{Moley Q3.} Intro/innovators. R\&D 35\%, Tech design 25\%, Market research 15\%, Production 10\%, Marketing 10\%, Sales 5\%.\\
+\textbf{Moley Q4.} Disruptive (new market; Thermomix blends, MRK cooks). Radical (arms = new tech). Budget: radical+disrupt early $\to$ heavy R\&D (60\%); sustaining+incr like Dacia $\to$ more marketing.
 
-\textbf{Q3. Moore's Chasm stage? Niche?}\\
-\textbf{Innovators} — app not finished, not selling commercially; target tech enthusiasts. Niche: universities (Milan, Paris, Utrecht, Munich) = beachhead; word of mouth; dominate one then next.
-
-\textbf{Q4. Ambassador training plan?}\\
-Market landscape and competitors; target personas; value prop and differentiators; product usage and demos; common objections and responses.
-
-\subsection*{Dacia Spring Midterm (Dec 2024)}
-
-\textbf{Q1. Competitive strategy?}\\
-\textbf{Cost leadership} (task specialisation, standardisation). Evidence: CMF-A with Renault/Dongfeng/Nissan; China, specialised workers; minimal features; simple marketing.
-
-\textbf{Q2. Skilled or specialised workers?}\\
-\textbf{Specialised.} Repetitive tasks, lower wages, supports cost leadership. Skilled = whole craft = higher wages = undermines low cost.
-
-\textbf{Q3. Learning effect?}\\
-(1) Share CMF-A $\to$ huge volume on same platform $\to$ repetition $\to$ learning effect, lower cost/unit. (2) Low price $\to$ demand $\to$ volume $\to$ learning effect again.
-
-\textbf{Q4. Economies of scale?}\\
-Greater output $\to$ lower per-unit fixed cost. Dacia: low prices (volume); shared platform with Renault/Dongfeng (volume).
-
-\textbf{Q5. Three differences goods vs.\ services?}\\
-(1) \textbf{Heterogeneity} — services inconsistent (same restaurant, different experience). (2) \textbf{Information asymmetry} — seller knows quality; brand as signal. (3) \textbf{Customer involvement} — customer in process; low productivity, hard to automate.
-
-\textbf{Q6. BMC Dacia Spring.}\\
-Value Prop: affordable EV, functional, Zity. Activities: manufacturing, marketing. Resources: CMF-A. Partners: Renault, Dongfeng, Nissan, Zity. Cost: low fixed (platform), low marketing, low variable (China). Relationships: non-recurrent (showrooms), recurrent (Zity). Segments: cheap EV buyers, Zity renters, Cargo, car-sharing. Channels: showrooms, Zity. Revenue: car sales, car sharing.
-
-\subsection*{Moley Robot Kitchen — Final Sample}
-
-\textbf{Q1. Product strategy and sustainability?}\\
-\textbf{Differentiation} — uniqueness not price. Evidence: £248k; autonomous cooking, 5,000 recipes; targets enthusiasts/early adopters; Thermomix €1k, can't cook. Sustainable: R\&D; patents; recipe ecosystem; cheaper models later.
-
-\textbf{Q2. BMC MRK.}\\
-Value Prop: first autonomous robot chef, 5,000+ recipes, self-clean, restaurant quality at home. Segments: wealthy, tech enthusiasts, chefs, hotels. Channels: Moley site, showrooms, trade shows. Relationships: premium service, updates, support. Revenue: hardware £248k, subscriptions, maintenance. Resources: robotic arms, recipe DB, AI, patents. Activities: R\&D, motion capture, software, manufacturing. Partners: chefs, suppliers, luxury distribution. Cost: high R\&D, high manufacturing, value driven.
-
-\textbf{Q3. Budget allocation (\$1M).}\\
-Intro/innovators stage. R\&D 35\%; Technical design 25\%; Market research 15\%; Production process 10\%; Marketing 10\%; Sales forecasts 5\%. Rationale: limitations (peel, dice); precision and cheaper models; early adopters; manufacturing; targeted campaigns; forecasts secondary.
-
-\textbf{Q4. Disruptive/sustaining, radical/incremental, and budget?}\\
-\textbf{Disruptive} (new market — autonomous home chef; Thermomix blends, MRK cooks). \textbf{Radical} (robotic arms replicating chef movements = new tech; Yiami = incremental). Budget: radical+disruptive in early stage $\to$ heavy R\&D and technical (60\%); if sustaining+incremental like Dacia $\to$ more marketing and production.
-
-\vspace{0.5em}
-\noindent\rule{0.5\textwidth}{0.4pt}\\
-\small\textcolor{charcoal}{JZ — UCM Product Management. Cheat sheet + exam Q\&A in one print.}
+\vspace{0.3em}
+\noindent\rule{0.4\textwidth}{0.3pt}\quad \small\textcolor{charcoal}{JZ — UCM Product Management.}
 \end{document}
