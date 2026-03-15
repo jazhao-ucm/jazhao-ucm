@@ -14,6 +14,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 5 | Feb 23 | Product design process, lean validation, SDLC |
 | 6 | Mar 2–3 | Design thinking, IDEO, empathy, observation, brainstorming |
 | 7 | Mar 9–10 | Manufacturing process design, piano memo (craftsman vs. Yamaha) |
+| 8 | — | Midterm prep (Mar 16), all-in-one midterm-print-all.tex |
 
 ---
 

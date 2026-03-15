@@ -49,10 +49,11 @@ II. Topic
 
 ## Structure
 
-- `week-1/` - Jan 26 & 27: class notes, BMC, value creation/capture, PM1; `bmc-value-creation.tex`
+- `week-1/` - Jan 26 & 27: class notes, BMC, value creation/capture, PM1; `bmc-value-creation.tex`. Exam samples: `FirstMidtermSolved.pdf`, `MIDTERM1_2024_2025.pdf`, `FINALEXAMSAMPLE.pdf`
 - `week-2/` - Feb 2 & 3: class notes, PM2, PM roles; `pm-roles-value-chain.tex`
 - `week-3/` - Feb 9 & 10: class notes, PM3; `pm3-csda.tex`
 - `week-4/` - Feb 16 & 17: class notes, Zara, BMC; `zara-bmc.tex`
 - `week-5/` - Feb 23: class notes, design process, lean, SDLC; `design-process-lean.tex`
 - `week-6/` - Mar 2 & 3: class notes, design thinking, IDEO; `midterm.tex`
 - `week-7/` - Mar 9 & 10: class notes, manufacturing, piano memo; `manufacturing-piano-memo.tex`
+- `week-8/` - Midterm prep (Mar 16); `midterm-print-all.tex` (all-in-one: exam day, cheat sheet §1–18, key cases, model answers from PDFs). Compile: `pdflatex midterm-print-all.tex`
