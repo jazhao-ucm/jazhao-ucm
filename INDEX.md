@@ -28,7 +28,8 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 5 | Feb 23–24 | Southern enlargement, Delors, Maastricht, Bijsmans, Gilbert, Kenny & Pearce |
 | 6 | Mar 2–3 | Gibraltar, Spanish accession, Euroscepticism, Brexit |
 | 7 | Mar 9–10 | EU institutions, exam prep (text analysis), Ribera/von der Leyen, Costa, Duff/twin executive |
-| 8 | — | EU institutions by session (6th–13th) |
+| 8 | Mar 16 | Midterm prep (day before exam), institutions recap |
+| 9 | — | EU institutions by session (6th–13th) |
 
 ---
 
@@ -42,6 +43,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 5 | Feb 23–24 | Internationalization, export, resources & capabilities |
 | 6 | Mar 2–3 | HR Management (Ditta), midterm |
 | 7 | Mar 9–10 | Global Management Project, Business Plan (CaféOlé, Tierra Bar), work time |
+| 8 | Mar 16 | Midterm prep: complexity, skills, training, economic blocks |
 
 ---
 

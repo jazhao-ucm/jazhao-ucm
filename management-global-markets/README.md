@@ -64,3 +64,4 @@ II. Topic
 - `week-5/` - Feb 23 & 24: class notes, internationalization, export, resources; `internationalization-export.tex`
 - `week-6/` - Mar 2 & 3: class notes, HR (Ditta); `midterm.tex`
 - `week-7/` - Mar 9 & 10: class notes (Mar 9 = business plan intro, CaféOlé; Mar 10 = work time on project); `business-plan.tex`, `business-plan-guide.tex`, `business-plan-tierra-bar.tex`
+- `week-8/` - Mar 16: class notes (midterm prep: complexity, skills, training, economic blocks); `midterm-closed-notes.tex`, slides on markets \& areas (`PP Mercaso y areas 2019-20 III .pptx [Repaired](1).pptx.pdf`, `LC0036-PPT-ENG (5).pptx`)
