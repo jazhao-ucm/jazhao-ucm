@@ -56,4 +56,4 @@ II. Topic
 - `week-5/` - Feb 23: class notes, design process, lean, SDLC; `design-process-lean.tex`
 - `week-6/` - Mar 2 & 3: class notes, design thinking, IDEO; `midterm.tex`
 - `week-7/` - Mar 9 & 10: class notes, manufacturing, piano memo; `manufacturing-piano-memo.tex`
-- `week-8/` - Midterm prep (Mar 16); `midterm-print-all.tex` (all-in-one: exam day, cheat sheet §1–18, key cases, model answers from PDFs). Compile: `pdflatex midterm-print-all.tex`
+- `week-8/` - Mar 16 & 17: midterm prep and customer interviews project (meeting new people); `midterm-print-all.tex` (all-in-one: exam day, cheat sheet §1–18, key cases, model answers from PDFs), `2026-03-17-class-notes.md` (interview brief and analysis framework). Compile: `pdflatex midterm-print-all.tex`
