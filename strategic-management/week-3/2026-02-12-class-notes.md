@@ -6,28 +6,28 @@
 ---
 
 I. Cost of Equity - Review
-   A. Formula
+A. Formula
       1. Cost of Equity = Rf + β × (Market Return − Rf)
-   B. Components
+B. Components
       1. Rf = risk-free rate (govt bonds)
       2. β = company-specific risk vs. market
       3. Market Return = avg return (e.g., IBEX 35)
-   C. Satisfaction
+C. Satisfaction
       1. Shareholders satisfied when return > cost of equity
       2. Or when better than industry avg
 
 II. Illustration Assignments
    A. Three Options
       1. Art of War (Unit 1)
-      2. Climate Change (Unit 2)
-      3. Five Forces Model (Unit 2)
-   B. Format
+2. Climate Change (Unit 2)
+3. Five Forces Model (Unit 2)
+B. Format
       1. Voluntary basis
       2. 10-15 min presentation
       3. Read and interpret
 
 III. Art of War Illustration
-   A. Challenge
+A. Challenge
       1. Apply four elements of strategy
       2. Find key quotations
    B. Four Elements
@@ -37,10 +37,10 @@ III. Art of War Illustration
       4. Effective implementation
 
 IV. Climate Change Illustration
-   A. Task
+A. Task
       1. Explain as economic phenomenon
       2. Effects on economic activity
-   B. Structure
+B. Structure
       1. Part 1: Explain using PESTEL
       2. Part 2: Four industries
          a. Two w/ positive effects (opportunities)
@@ -64,7 +64,7 @@ V. Five Forces - Substitutive Products
          b. Same need: transportation
 
 VI. Why Identifying Rivals Is Difficult
-   A. Challenge
+A. Challenge
       1. Similar tech = easy to identify
       2. But many competitors ≠ rivals
    B. Car Industry Example
@@ -115,10 +115,10 @@ IX. What Are Economies of Scale?
          a. Use 24/7 → reduce idle capacity
 
 X. Services vs. Manufacturing
-   A. Manufacturing
+A. Manufacturing
       1. Learning curve very high
       2. Must be very large to compete
-   B. Services
+B. Services
       1. Depends on type
       2. Many services can be small and profitable
       3. Harder to achieve scale
@@ -230,11 +230,11 @@ XXII. Five Forces Model
 
 XXIII. Five Forces - Elements
    A. Five Forces
-      1. Rivalry among existing competitors
+1. Rivalry among existing competitors
       2. Threat of new entrants
-      3. Bargaining power of suppliers
-      4. Bargaining power of buyers
-      5. Threat of substitutive products
+3. Bargaining power of suppliers
+4. Bargaining power of buyers
+5. Threat of substitutive products
    B. Important Note
       1. Analyze from inside industry
       2. As current competitor

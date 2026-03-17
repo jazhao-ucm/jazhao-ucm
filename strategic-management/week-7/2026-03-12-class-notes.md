@@ -113,7 +113,7 @@ VII. Industry Examples
       2. High volume, low margins
       3. Buyer power high (easy to switch)
    B. Energy/Renewables (Spain, EU)
-      1. Five Forces applied:
+1. Five Forces applied:
          a. Rivalry: few big players
          b. Substitutes: renewable vs. fossil
          c. Supplier power: tech providers

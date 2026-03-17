@@ -6,22 +6,22 @@
 ---
 
 I. Historical Origins of Strategy
-   A. Ancient Origins
+A. Ancient Origins
       1. Greek "strategos" = the general
       2. Political sphere: Machiavelli's The Prince
       3. Military: know your rivals
       4. Sports: competitive games
-   B. Modern Business Strategy
-      1. Started ~70 years ago in business schools
-      2. First label: "Business Policy"
-      3. Second label: "Strategic Planning"
-      4. Current label: "Strategic Management"
+B. Modern Business Strategy
+1. Started ~70 years ago in business schools
+2. First label: "Business Policy"
+3. Second label: "Strategic Planning"
+4. Current label: "Strategic Management"
 
 II. Strategy Definition
    A. Core Meaning
       1. Strategy = having a plan
       2. Having a plan = course of action
-   B. Components
+B. Components
       1. Objective = what you want
       2. Course of action = how to achieve
       3. Alignment = plan w/ business reality
@@ -29,8 +29,8 @@ II. Strategy Definition
 III. Types of Strategies
    A. Many Types Exist
       1. Local vs. international
-      2. Cultural strategies
-      3. Alliances
+2. Cultural strategies
+3. Alliances
       4. Vertical integration
       5. Diversification vs. specialization
    B. Key Insight
@@ -38,7 +38,7 @@ III. Types of Strategies
       2. Framework for understanding
 
 IV. Michael Porter Era
-   A. Timeline
+A. Timeline
       1. Two publications: 1980 and 1985
       2. First strategy course in faculty: 1991
    B. Foundation
@@ -46,8 +46,8 @@ IV. Michael Porter Era
       2. American origin
 
 V. Main Questions of Strategic Management
-   A. Three Core Questions
-      1. What is company success?
+A. Three Core Questions
+1. What is company success?
          a. How to make success
          b. When stakeholders satisfied
          c. "Golden issue" = Unit 2
@@ -55,14 +55,14 @@ V. Main Questions of Strategic Management
          a. Long-term impact decisions
          b. Key info for best decision
       3. What is current situation?
-         a. Analyze current conditions
+   a. Analyze current conditions
          b. No guarantee situation maintained
 
 VI. Uncertainty and Forecasting
-   A. Reality
+A. Reality
       1. Impossible to forecast accurately
       2. Political decisions unpredictable
-   B. Implications
+B. Implications
       1. Strategic decisions last 5-50 years
       2. Must face uncertainty
    C. Examples
@@ -71,9 +71,9 @@ VI. Uncertainty and Forecasting
       3. Conditions change unpredictably
 
 VII. Complexity of Strategic Decisions
-   A. Personal Life Examples
+A. Personal Life Examples
       1. Choosing bachelor's degree
-      2. Where to live
+2. Where to live
       3. Having children
    B. Processing Challenge
       1. Too many variables
@@ -84,7 +84,7 @@ VII. Complexity of Strategic Decisions
       3. Emotional process
 
 VIII. Companies as Legal Fictions
-   A. Key Concept
+A. Key Concept
       1. Companies = legal fictions
       2. Real decisions by persons (CEO)
    B. Stakeholder Acceptance
@@ -152,7 +152,7 @@ XIII. Rational vs. Real Decision-Making
    A. Theory (Rational Model)
       1. Analyze all info
       2. Use technical reports
-      3. Find optimal solution
+3. Find optimal solution
    B. Reality
       1. Impossible to analyze everything
       2. Decisions made by people (CEOs)
@@ -199,20 +199,20 @@ XVI. Utility Functions of Stakeholders
       4. Power
 
 XVII. Managerial Incentives and Growth
-   A. Manager Motivation
+A. Manager Motivation
       1. Want: remuneration, status, power
-   B. How Managers Gain These
+B. How Managers Gain These
       1. More people in charge
       2. More sales/revenues
       3. Larger company
       4. Public recognition
-   C. Problem
+C. Problem
       1. Growth ≠ profitability
       2. Managers prefer growth (benefits them)
       3. Even against profitability
 
 XVIII. M&A - Managerial Perspective
-   A. Example
+A. Example
       1. Tech worth 25M to develop
       2. Company price: 100M
       3. Willing to pay 125M+

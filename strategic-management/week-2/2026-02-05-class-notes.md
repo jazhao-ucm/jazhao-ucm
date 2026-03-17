@@ -66,7 +66,7 @@ V. Why Market Valuation Is Better (Four Reasons)
       2. Based on investor consensus
 
 VI. Limitation - Only Listed Companies
-   A. Reality
+A. Reality
       1. Only works for listed firms
       2. No market = impossible to calculate
    B. Who Can Use It
