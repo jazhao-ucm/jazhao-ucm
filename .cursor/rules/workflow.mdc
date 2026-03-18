@@ -17,7 +17,7 @@ alwaysApply: true
 2. `git add` (relevant files or `-A`), `git commit -m "Clear message"`, `git push`.
 3. If working tree clean: say "Nothing to commit; already up to date" (or similar).
 
-**Never include:** anything under `j.azhaozhao/`.
+**Never include:** anything under `j.adezhao/`.
 
 ## Where things live
 
