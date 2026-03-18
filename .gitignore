@@ -14,3 +14,6 @@
 *.synctex.gz
 *.bbl
 *.blg
+
+# Never commit/push this folder
+j.azhaozhao/

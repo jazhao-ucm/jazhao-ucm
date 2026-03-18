@@ -16,6 +16,7 @@ Course notes and materials for UCM (Universidad Complutense de Madrid).
 - **`ucm-midterm/`** – One-page cheat sheets for all 5 UCM courses (spanish-only, intro-eu-only, product-mgmt-only, strategic-only, management-global-only) and combined `blue-notes-all.tex`
 - **`jadewowgreen/`** – Project images and materials
 - **`matchaxmoxie/`** – Resume and portfolio materials
+- **`j.azhaozhao/`** – DO NOT COMMIT OR PUSH (local-only)
 
 ## Note-Taking Format
 
