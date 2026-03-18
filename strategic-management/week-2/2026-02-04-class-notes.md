@@ -43,7 +43,7 @@ III. Vision - Future State
 IV. Strategic Objectives - Bridge Mission to Vision
    A. Role
       1. Gap between mission and vision = steps to follow
-B. Characteristics
+   B. Characteristics
       1. Time frame: 6 months to 5 years
       2. Step by step, concrete actions
       3. Measurable: targets, numbers, ratios
@@ -64,14 +64,14 @@ VI. Economic Nature - Making Money
       2. Different rules → different results
       3. 30+ issues can change outcome
    C. Components
-1. Revenues − expenses = gross profit
+      1. Revenues − expenses = gross profit
       2. − taxes, − interest = net income
 
 VII. Relative Measures - Profitability Ratios
    A. Problem w/ Absolute Profit
       1. Company A: 1M profit, Company B: 1.5M profit
       2. Who performed better? Depends on resources
-B. Example
+   B. Example
       1. A: 1M profit, 100 workers = 10,000/worker
       2. B: 1.5M profit, 200 workers = 7,500/worker
       3. A performs better per worker

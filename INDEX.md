@@ -57,6 +57,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 5 | Feb 25–26 | Madonna/Lola Flores case, RBV, VRIN |
 | 6 | Mar 4 | RBV continued, midterm prep |
 | 7 | Mar 12 | Competitive Strategy (cost leadership, differentiation, focus, strategy clock) |
+| 8 | Mar 18 | Exam prep overview (Units 1–4); external vs. internal analysis; deliberate vs. emergent strategy |
 
 ---
 

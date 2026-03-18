@@ -113,7 +113,7 @@ VII. Industry Examples
       2. High volume, low margins
       3. Buyer power high (easy to switch)
    B. Energy/Renewables (Spain, EU)
-1. Five Forces applied:
+      1. Five Forces applied:
          a. Rivalry: few big players
          b. Substitutes: renewable vs. fossil
          c. Supplier power: tech providers
@@ -134,13 +134,15 @@ VIII. Industry Evolution and Strategy
 
 ## Key Takeaways
 
-1. Competitive advantage = do something important BETTER THAN rivals → earn more
-2. Cost leadership = cheapest for normal quality
-3. Differentiation = special, so people pay more or stay loyal
-4. Focus = pick small group, be cheap or special for them
-5. Stuck in the middle = not cheap, not special → bad position
-6. Cost drivers: scale, learning, production, design, inputs, capacity, X-efficiency
-7. Ford Model T: worked until tastes changed; GM won w/ variety
-8. Risks of cost leadership: taste change, tech disruption, quality cuts, competitors catch up
-9. X-efficiency = "art" part; motivation, culture (like flamenco duende)
-10. Strategy clock: low price/OK value OR higher value/higher price
+I. Key Takeaways
+   A. Summary Points
+      1. Competitive advantage = do something important BETTER THAN rivals → earn more
+      2. Cost leadership = cheapest for normal quality
+      3. Differentiation = special, so people pay more or stay loyal
+      4. Focus = pick small group, be cheap or special for them
+      5. Stuck in the middle = not cheap, not special → bad position
+      6. Cost drivers: scale, learning, production, design, inputs, capacity, X-efficiency
+      7. Ford Model T: worked until tastes changed; GM won w/ variety
+      8. Risks of cost leadership: taste change, tech disruption, quality cuts, competitors catch up
+      9. X-efficiency = "art" part; motivation, culture (like flamenco duende)
+      10. Strategy clock: low price/OK value OR higher value/higher price
