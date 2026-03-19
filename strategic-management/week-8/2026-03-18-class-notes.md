@@ -246,3 +246,37 @@ VII. Miscellaneous Notes (From Photo Page)
       2. Cuba: year of foundation (1511); Havana city; population; climate; other notes
       3. Ecuador: capital Quito; official language Spanish; currency USD; Galápagos; climate notes
 
+VIII. Class Fragments (Transcript Add-On: Mixed Confidence)
+   A. Scope Note
+      1. Source = noisy auto-transcript with heavy recognition errors
+      2. Goal = preserve usable ideas without mixing uncertain phrases into core sections
+      3. Method = separate high-confidence themes from low-confidence fragments
+   B. High-Confidence Themes
+      1. Competitive strategy focus
+         a. Repeated contrast: cost leadership vs differentiation
+         b. Emphasis on choosing one clear position, not mixing incompatible options
+      2. Value, price, and customer perception
+         a. Core idea repeated: willingness to pay (WTP) vs price charged
+         b. Logic repeated: differentiation only works if customers accept premium price
+         c. Mentioned relation between perceived value and ability to recover extra costs
+      3. Market positioning logic
+         a. Mentions of mapping positions by price and perceived quality/value
+         b. Repeated warning about weak positions that are high price with low perceived value
+      4. Product/Service differentiation dimensions
+         a. Product features (technical/physical)
+         b. Service features (availability, convenience, support, speed)
+         c. Symbolic/intangible attributes (brand/image/perception)
+      5. Industry dynamics over time
+         a. Mentions of stage-like market evolution and strategic choice by stage
+         b. Notes imply timing choice between early mover vs follower behavior
+   C. Low-Confidence Fragments (Keep Separate)
+      1. Many lines contain broken terms and unclear references ("Abi hand", "price on Christ", "position 6/7/8" context unclear)
+      2. Several partial examples appear to reference tourism/hospitality and transport/services, but entities are not reliably recognized
+      3. Numeric examples exist but are too corrupted for safe use in exam answers
+      4. Use only as memory prompts, not as citation-level notes
+   D. Safe Exam Use Rule (From This Fragment Set)
+      1. Use the robust framework only
+         a. WTP -> price -> cost recovery -> profitability
+         b. Cost leadership OR differentiation trade-offs
+         c. Perceived value as customer-side test of strategic validity
+     2. Do not quote unclear names, numbers, or company examples from this transcript
