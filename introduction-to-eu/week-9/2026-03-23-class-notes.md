@@ -37,10 +37,11 @@ III. Institutions & Actors — Parliamentary Debate Lens
    A. European Parliament (frame)
       1. Use parliament vocabulary (as indicated)
       2. Groups in parliament → represent positions
+      3. Role-play running order: “President” manages the debate flow (mini-plenary)
    B. Mentioned admin/political dimension (from transcript)
       1. Ministers / ministries referenced
       2. Member states / partners referenced
-      3. Process logic: if can pass → continue; if cannot → cannot read (unclear, but follow-through rule stated)
+      3. Procedure logic: if the proposal can proceed / “pass” in the parliamentary flow → continue; otherwise stop / skip reading
 
 IV. Case Example (Historical Policy) — Vienna Housing
    A. What to notice (as example in class)
