@@ -17,7 +17,7 @@ All class notes follow the **Formal Outline Note Taking System**.
 
 ### Hierarchy
 
-```
+```text
 I. Topic
    A. Main idea
       1. Supporting detail
@@ -65,3 +65,4 @@ II. Topic
 - `week-6/` - Mar 2 & 3: class notes, HR (Ditta); `midterm.tex`
 - `week-7/` - Mar 9 & 10: class notes (Mar 9 = business plan intro, CaféOlé; Mar 10 = work time on project); `business-plan.tex`, `business-plan-guide.tex`, `business-plan-tierra-bar.tex`
 - `week-8/` - Mar 16: class notes (midterm prep: complexity, skills, training, economic blocks); `midterm-closed-notes.tex`, slides on markets \& areas (`PP Mercaso y areas 2019-20 III .pptx [Repaired](1).pptx.pdf`, `LC0036-PPT-ENG (5).pptx`)
+- `week-9/` - Mar 23: class notes (TBD)

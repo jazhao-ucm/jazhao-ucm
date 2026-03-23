@@ -1,0 +1,196 @@
+% Loveable MVP Helper (Week 9)
+% Compile: pdflatex loveable-mvp-helper.tex
+
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=1.2cm]{geometry}
+\usepackage{enumitem}
+\setlist{nosep,leftmargin=*}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{microtype}
+
+\definecolor{eublue}{RGB}{0,51,153}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[L]{\small Product Mgmt | Week 9}
+\fancyfoot[R]{\small\thepage}
+\raggedright
+
+\begin{document}
+
+\begin{center}
+{\large\bfseries\color{eublue} Loveable MVP Helper}\\[0.2em]
+\footnotesize Week 9 -- Mar 23 (social app / dating concept)
+\end{center}\vspace{0.5em}
+
+\section*{\color{eublue}What to build (the concept)}
+
+An app that reduces awkward, repetitive "small talk only" by:
+\begin{itemize}
+\item \textbf{App lightly guides the interaction} (suggests where/what to do next) to avoid "factory feeling"
+\item Starting connection through \textbf{structured gamified activities} (shared action)
+\item \textbf{Partner/Organisation} connection to connect outside the app (add your organisation in the app)
+\item Adding a \textbf{Bridge to Chat} after \textbf{UNFILTERED Q\&A} (Conversation Summary / "Spark Notes") to prevent the chat from falling back into generic small talk
+\item \textbf{INTEREST MATCHING} --- \textbf{COMMON INTEREST MATCHING} to spark conversation naturally
+\item \textbf{Current Obsession Prompts} (from lead profiles; build a "Current Obsession" model) to decide what to do next
+\item \textbf{Bucket List Buddies} (a travel moment) --- check off your BUCKET LIST today
+\item \textbf{Weekly Resets} --- stops profiles from remaining static
+\item \textbf{Social buffering features} (bring a +1 / join with a friend) for safer first steps
+\item \textbf{Friends feature} --- match with people off mutual friends
+\item \textbf{Casual events} --- app hosts casual events online or in person
+\item Using a \textbf{quality over quantity} interaction model (fewer, more intentional interactions)
+\item Making first contact easy via an \textbf{UNFILTERED Q\&A} flow (both people answer the same prompt; answer first to reduce anxiety)
+\item Nudging toward depth via \textbf{deep prompt styles} (e.g., "would you rather" style)
+\item Adding a \textbf{Post-Interaction Reflection} feedback loop (energizing vs.\ draining) so the system learns what keeps conversations high-quality
+\end{itemize}
+
+\section*{\color{eublue}Core "Factor/Feeling" (success feeling)}
+
+Users should feel:
+\begin{itemize}
+\item Safe/comfortable to start talking
+\item Less stuck in repetitive openers
+\item Less fear/anxiety via \textbf{social buffering} and clearer next steps
+\item That the app leads them toward deeper conversation with the right people
+\end{itemize}
+
+\section*{\color{eublue}MVP feature checklist (minimum to match the notes)}
+
+\subsection*{\color{eublue}Onboarding + profile inputs}
+\begin{itemize}
+\item Interests / what you value
+\item Deal breakers (what you cannot stand)
+\item Bucket-list goals (shared goals / activities to do together)
+\item Personality test results used as matchmaking input for conversation starters
+\item Partner/Organisation input to connect outside the app (add your organisation in the app)
+\item Profile refresh cycle (refresh weekly / every 2 weeks / monthly as discussed)
+\end{itemize}
+
+\subsection*{\color{eublue}Matching + interest hooks}
+\begin{itemize}
+\item \textbf{INTEREST MATCHING} --- \textbf{COMMON INTEREST MATCHING} (most relevant overlap)
+\item \textbf{BUCKET LIST} building (shared goals + "bucket list story" prompts)
+\item \textbf{Bucket List Buddies}: a travel moment --- check off your BUCKET LIST today
+\item Early surfacing of values / deal breakers via signals
+\end{itemize}
+
+\subsection*{\color{eublue}Current Obsession Prompts}
+\begin{itemize}
+\item \textbf{Current Obsession prompts} come from (or are inspired by) lead profiles
+\item Build a \textbf{"Current Obsession" model} that decides what prompt/action to serve next
+\end{itemize}
+
+\subsection*{\color{eublue}First contact (ice-breaker)}
+\begin{itemize}
+\item Start with a gamified activity / structured prompt, not just free chat
+\item Provide an interaction path where the "next step" is clear
+\end{itemize}
+
+\subsection*{\color{eublue}Conversation mechanics}
+\begin{itemize}
+\item \textbf{UNFILTERED Q\&A}:
+\begin{itemize}
+\item Both people answer the same question/prompt
+\item User answers first to reduce anxiety
+\end{itemize}
+\item \textbf{Deep question prompts} beyond shallow greetings
+\item \textbf{Quality over quantity}:
+\begin{itemize}
+\item Limit interactions / encourage deeper engagement per day
+\end{itemize}
+\end{itemize}
+
+\subsection*{\color{eublue}Bridge to Chat (ghosting guardrail)}
+\begin{itemize}
+\item After the UNFILTERED Q\&A, show a \textbf{Conversation Summary} screen
+\item Include the \textbf{3 biggest things in common} (e.g., shared bucket-list items + deal-breaker alignment)
+\item Turn the summary into immediate, specific "start the real chat" suggestions
+\end{itemize}
+
+\subsection*{\color{eublue}Social Buffer / Wingman entry point}
+\begin{itemize}
+\item Let users join activities as a \textbf{pair with a friend} (not just alone)
+\item Support \textbf{double dates} / small group interest matching for a bucket-list prompt
+\item Include a \textbf{friends feature} that matches you with people off mutual friends
+\end{itemize}
+
+\subsection*{\color{eublue}Post-interaction reflection (feedback loop)}
+\begin{itemize}
+\item Ask: was the conversation \textbf{energizing} or \textbf{draining}?
+\item Use the reflection to adjust future prompt style and matchmaking (e.g., deep vs.\ shallow comfort level)
+\end{itemize}
+
+\subsection*{\color{eublue}Weekly reset forcing function}
+\begin{itemize}
+\item Weekly Reset must require a mandatory \textbf{Current Obsession} update
+\item If the user does not update it, the Discovery feed stays stale (stops profiles from remaining static)
+\end{itemize}
+
+\subsection*{\color{eublue}Journey flow (what screens should support)}
+\begin{itemize}
+\item Awareness
+\item Discovery
+\item Social buffering features (bring a +1)
+\item Casual events (online or in person)
+\item First contact (activity/messages)
+\item Evaluation (shared values + "vibe")
+\item Bridge to Chat (Conversation Summary / "Spark Notes")
+\item Follow-up (move from first contact to repeated connection)
+\item Post-interaction reflection (energizing vs.\ draining)
+\item Relationship building (repeat interactions OR transition out)
+\item Weekly reset / refresh (stop small talk; keep vibe fresh via Current Obsession)
+\end{itemize}
+
+\subsection*{\color{eublue}Screens / prototype flow to implement in Loveable}
+\begin{enumerate}
+\item Onboarding
+\item Profile setup (values, interests, deal breakers, bucket list goals, personality test)
+\item Discovery / matching (interest-based recommendations + "most matching")
+\item Mutual-friend matching (friends feature)
+\item Casual events hub (online or in person)
+\item Activity / game start (structured first contact)
+\item Unfiltered Q\&A (same prompt for both; user answers first)
+\item Conversation depth prompt (deep prompts to reduce "small talk only")
+\item Bridge to Chat (Conversation Summary / "Spark Notes" with 3 things in common)
+\item Social Buffer / Wingman option (double dates / join with a friend)
+\item Follow-up / next step (move toward repeated connection)
+\item Post-interaction reflection (energizing vs.\ draining)
+\item Weekly reset / refresh (new prompts + refreshed inputs cycle; mandatory "Current Obsession"; stop small talk)
+\end{enumerate}
+
+\section*{\color{eublue}Copy/paste prompt for Loveable}
+
+Build a mobile app prototype for a \textbf{social/dating concept} inspired by these rules:
+\begin{itemize}
+\item Reduce repetitive small talk by providing \textbf{structured gamified ice-breakers} and \textbf{shared interest hooks}.
+\item Add \textbf{App lightly guides the interaction} (suggests where/what to do next) to avoid a "factory feeling".
+\item Add \textbf{Partner/Organisation connection} to connect outside the app (add your organisation in the app).
+\item Add a \textbf{"Bridge to Chat"} screen after UNFILTERED Q\&A that highlights the \textbf{3 biggest things} they have in common (from bucket-list items + alignment) to prevent ghosting back into generic conversation.
+\item Implement \textbf{INTEREST MATCHING} --- \textbf{COMMON INTEREST MATCHING} to generate natural conversation topics.
+\item Add \textbf{Current Obsession Prompts} (from lead profiles) and a \textbf{"Current Obsession"} model to decide what prompt/action comes next.
+\item Add \textbf{Bucket List Buddies}: a travel moment --- check off your BUCKET LIST today.
+\item Include \textbf{Weekly Resets} that stop profiles from remaining static (Discovery feed stays fresh).
+\item Include \textbf{Social buffering features}: bring a +1 / join with a friend for safer first steps.
+\item Include a \textbf{friends feature}: match with people off mutual friends.
+\item Add a \textbf{casual events} hub: host casual events online or in person.
+\item Use an app journey that guides interactions comfort-first (step into the unknown gradually).
+\item Use a \textbf{quality over quantity} interaction model: fewer interactions per day, more intentional engagement.
+\item First contact flow must include an \textbf{UNFILTERED Q\&A} mechanic: both users answer the same prompt; the user answers first to feel comfortable.
+\item Add \textbf{deep prompt styles} (e.g., "would you rather" type prompts) to move conversations beyond shallow greetings.
+\item Include an evaluation step based on shared values / "vibe" and deal-breaker signals.
+\item Add a \textbf{Post-Interaction Reflection} (energizing vs.\ draining) and explain how the feedback loop learns what prompt style/vibe actually works for quality over quantity.
+\item Add \textbf{visual/vibe instructions}: avoid a "factory/SaaS dashboard" look; use a warm, organic aesthetic with soft edges, haptic-style feedback, and a calm palette (e.g., sage, sunset oranges, deep navy).
+\item Add a \textbf{profile refresh cycle} (weekly / every 2 weeks / monthly) and a \textbf{weekly reset} moment that includes a mandatory \textbf{"Current Obsession"} update (stop small talk; keep Discovery fresh; prevent static profiles).
+\end{itemize}
+
+Please produce:
+\begin{itemize}
+\item A clear screen-by-screen UX (onboarding, profile, matching/discovery, activity start, unfiltered Q\&A, conversation depth, follow-up, weekly refresh).
+\item The user journey supporting: Awareness -> Discovery -> First contact -> Evaluation -> Follow-up -> Relationship building.
+\item In the UI copy, prioritize: comfort/safety, less anxiety, and less repetitive conversation.
+\end{itemize}
+
+\end{document}
+
