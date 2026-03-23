@@ -68,4 +68,4 @@ II. Topic
 - `week-6/` - Mar 2 & 3: class notes, Gibraltar/Spanish accession, Euroscepticism, Brexit; `midterm.tex`
 - `week-7/` - Mar 9 & 10: class notes, Twin Executive readings, exam format (text analysis), Ribera vs von der Leyen, Costa/multilateralism, Duff/Commission vs Council; `eu-institutions.tex`
 - `week-8/` - Mar 16: class notes, midterm prep (day before exam).
-- `week-9/` - Mar 23: European Parliament session readings (`7a Parlamentary Europe.pdf`, `7b Olsen European Parliament.pdf`, `European Parliament.pdf`) + housing crisis workshop (Europarl search, group debate; political-spectrum snapshot + stance comparison); `eu-institutions-sessions.tex`
+- `week-9/` - Mar 23: European Parliament session readings (`7a Parlamentary Europe.pdf`, `7b Olsen European Parliament.pdf`, `European Parliament.pdf`) + reading summaries (`7a-Parlamentary-Europe-reading-summary.tex`, `7b-Olsen-European-Parliament-reading-summary.tex`, `European-Parliament-reading-summary.tex`) + housing crisis workshop (Europarl search, group debate; political-group stance extraction + templates); `eu-housing-crisis-workshop.tex`

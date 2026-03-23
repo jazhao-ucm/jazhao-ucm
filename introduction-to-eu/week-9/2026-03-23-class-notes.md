@@ -66,3 +66,13 @@ V. Presentation & Debate Mechanics
 VI. Materials Link (for reference)
    A. Europarl housing search (provided)
       1. [Europarl housing search](https://www.europarl.europa.eu/portal/en/search?planet=_all&searchQuery=housing)
+
+VII. Extra institutional recap (from transcript) — democratic deficit
+   A. Democratic deficit (core concept)
+      1. Gap: EU decision-making vs citizens' influence/control
+      2. If citizens cannot control "how much influences citizens have", then democratic deficit
+   B. Early integration dynamic (as described)
+      1. Decisions made largely via national contexts + officials (esp. within Council)
+      2. Commission/Council had strong role; EP supposed to represent citizens but limited power
+   C. Why it matters for today's debate lens
+      1. Connects "institutions + who controls law-making" to workshop tasks (parliament vocabulary, procedures, groups)
