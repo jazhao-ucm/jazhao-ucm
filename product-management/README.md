@@ -17,7 +17,7 @@ All class notes follow the **Formal Outline Note Taking System**.
 
 ### Hierarchy
 
-```
+```text
 I. Topic
    A. Main idea
       1. Supporting detail
@@ -57,3 +57,4 @@ II. Topic
 - `week-6/` - Mar 2 & 3: class notes, design thinking, IDEO; `midterm.tex`
 - `week-7/` - Mar 9 & 10: class notes, manufacturing, piano memo; `manufacturing-piano-memo.tex`
 - `week-8/` - Mar 16 & 17: midterm prep and customer interviews project (meeting new people); `midterm-print-all.tex` (all-in-one: exam day, cheat sheet §1–18, key cases, model answers from PDFs), `2026-03-17-class-notes.md` (interview brief and analysis framework), `customer-interviews-synthesis.tex` (rewritten interview Q\&A format for Karol, Aina, Laura, Mimi, plus cross-interview pattern snapshot). Compile: `pdflatex midterm-print-all.tex` or `pdflatex customer-interviews-synthesis.tex`
+- `week-9/` - Mar 23: social app / dating app concept; gamification + common interests; quality over quantity; user journey + personas; next-step recommendations; `2026-03-23-class-notes.md`

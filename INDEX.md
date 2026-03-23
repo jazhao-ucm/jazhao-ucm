@@ -16,6 +16,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 6 | Mar 2–3 | Design thinking, IDEO, empathy, observation, brainstorming |
 | 7 | Mar 9–10 | Manufacturing process design, piano memo (craftsman vs. Yamaha) |
 | 8 | Mar 16–17 | Midterm prep (Mar 16), all-in-one midterm-print-all.tex, customer interview project (meeting new people) |
+| 9 | Mar 23 | Social app / dating app concept (gamification + common interests + quality over quantity) |
 
 ---
 
@@ -31,7 +32,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 6 | Mar 2–3 | Gibraltar, Spanish accession, Euroscepticism, Brexit |
 | 7 | Mar 9–10 | EU institutions, exam prep (text analysis), Ribera/von der Leyen, Costa, Duff/twin executive |
 | 8 | Mar 16 | Midterm prep (day before exam), institutions recap |
-| 9 | — | EU institutions by session (6th–13th) |
+| 9 | Mar 23 | EU institutions by session + housing crisis workshop (Europarl search, group debate) |
 
 ---
 
