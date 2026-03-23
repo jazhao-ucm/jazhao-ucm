@@ -16,7 +16,7 @@ All class notes follow the **Formal Outline Note Taking System**.
 
 ### Hierarchy
 
-```
+```text
 I. Topic
    A. Main idea
       1. Supporting detail
@@ -69,6 +69,8 @@ II. Topic
 - `week-4/` — Feb 18–19: Unit 3. `unit-3-pronunciacion-presente.tex`; `unit-3-proyectable.pdf`, `unit-3-transcripcion.pdf`; `2026-02-18-class-notes.md`.
 - `week-5/` — Feb 25–26: Unit 3. `unit-3-listening-exam.tex`; `2026-02-25-class-notes.md`.
 - `week-6/` — Mar 4: Midterm prep. `midterm-units-1-3.tex`, `geography-weather.tex`, `study-from-chat.tex`; `2026-03-04-class-notes.md`.
+- `week-7/` — Mar 12: Unit 4 grammar focus (`tener`, `tener que`, `preferir`, `ir` + planes; objetos con `de`); `2026-03-12-class-notes.md`.
+- `week-8/` — Mar 19: Unit 4 vocab/practice (ropa `es/es de`, colores, combinaciones); `2026-03-19-class-notes.md`.
 
 ## Homework reference
 

@@ -5,6 +5,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 ---
 
 ## Product Management
+
 | Week | Dates | Topics |
 | ---- | ----- | ------ |
 | 1 | Jan 26–27 | Business Model Canvas, value creation/capture, PM1 slides |
@@ -19,6 +20,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 ---
 
 ## Introduction to the EU
+
 | Week | Dates | Topics |
 | ---- | ----- | ------ |
 | 1 | Jan 26–27 | Zweig *The World of Yesterday* |
@@ -34,6 +36,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 ---
 
 ## Management in Global Markets
+
 | Week | Dates | Topics |
 | ---- | ----- | ------ |
 | 1 | Jan 26–27 | Globalization, slowbalization, syllabus |
@@ -48,6 +51,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 ---
 
 ## Strategic Management
+
 | Week | Dates | Topics |
 | ---- | ----- | ------ |
 | 1 | Jan 28–29 | Course intro, Strategy, Art of War |
@@ -57,11 +61,12 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 5 | Feb 25–26 | Madonna/Lola Flores case, RBV, VRIN |
 | 6 | Mar 4 | RBV continued, midterm prep |
 | 7 | Mar 12 | Competitive Strategy (cost leadership, differentiation, focus, strategy clock) |
-| 8 | Mar 18 | Exam prep overview (Units 1–4); external vs. internal analysis; deliberate vs. emergent strategy |
+| 8 | Mar 18–19 | Exam prep overview (Units 1–4); external vs. internal analysis; deliberate vs. emergent strategy; Unit 6 Corporate Strategy Development (firm scope, specialization vs. diversification, vertical integration, reestructuring) |
 
 ---
 
 ## Spanish for Beginners
+
 | Week | Dates | Topics |
 | ---- | ----- | ------ |
 | 1 | Jan 28–29 | Course intro, Unit 1 (preguntas, ser/tener/llamarse) |
@@ -70,6 +75,8 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 4 | Feb 18–19 | C o qu, pronunciación, presente |
 | 5 | Feb 25–26 | Listening, vocabulario, exam tips |
 | 6 | Mar 4 | Midterm prep, Aula Plus materials |
+| 7 | Mar 12 | Unit 4: `tener`/`tener que`, `preferir`, `ir` (planes), objetos con `de` |
+| 8 | Mar 19 | Unit 4: ropa (`es/es de`), colores, combinaciones |
 
 ---
 
