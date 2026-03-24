@@ -4,4 +4,4 @@
 
 **Cursor / AI:** all repo rules are in **[`.cursorrules`](../.cursorrules)** at the root (one file). See also [`.cursor/rules/README.md`](../.cursor/rules/README.md).
 
-**Lint / git:** use the repo root **[`.markdownlint.yaml`](../.markdownlint.yaml)** and **[`.gitignore`](../.gitignore)** for course folders—no copies inside each course.
+**Lint / git:** use the repo root **[`.markdownlint.yaml`](../.markdownlint.yaml)** and **[`.gitignore`](../.gitignore)** for course folders no copies inside each course.

@@ -1,4 +1,4 @@
-# UCM Course Notes — Index
+# UCM Course Notes Index
 
 Quick reference for all courses and weeks. *Last updated: March 2026*
 
@@ -83,5 +83,5 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 ---
 
 ## Other
-- **jadewowgreen/** — Project images
-- **matchaxmoxie/** — Portfolio README at folder root; **`site/`** = pink GitHub Pages ([matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)); **`latex/`** = TeX sources; **`docs/DEPLOY.md`**
+- **jadewowgreen/** Project images
+- **matchaxmoxie/** Portfolio README at folder root (includes deploy); **`site/`** = pink GitHub Pages ([matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)); **`latex/`** = TeX sources; **`docs/`** = Markdown lint config

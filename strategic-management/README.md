@@ -45,7 +45,7 @@ II. Topic
 - After each Roman numeral, letter, or number put a period
 - Begin all lines with an uppercase letter
 - Line up every letter or numeral under the one above
-- No sentences allowed—rephrase briefly, using abbreviations and symbols
+- No sentences allowed rephrase briefly, using abbreviations and symbols
 - If you have a 1, you must have a 2; if you have an A, you must have a B
 
 ## Structure

@@ -1,7 +1,7 @@
 # Strategic Management - Unit 0 Summary
 ## Course Presentation (from SM_Unit 0 Presentation Jan28-2026.pdf)
 
-**Source:** Martín de Castro (2026) — Course intro. Overview of the full Strategic Management syllabus.
+**Source:** Martín de Castro (2026) Course intro. Overview of the full Strategic Management syllabus.
 
 ---
 

@@ -9,7 +9,7 @@
 
 ## I. Purpose
 
-One of the key decisions in product design is **how to manufacture**. In manufacturing, the main trade-off is **bespoke/quality vs. speed**. This memo compares two piano manufacturing processes—a traditional Spanish craftsman and the Yamaha factory in Japan—using the six dimensions of manufacturing process design. Manufacturing choices affect cost, flexibility, and competitive position.
+One of the key decisions in product design is **how to manufacture**. In manufacturing, the main trade-off is **bespoke/quality vs. speed**. This memo compares two piano manufacturing processes a traditional Spanish craftsman and the Yamaha factory in Japan using the six dimensions of manufacturing process design. Manufacturing choices affect cost, flexibility, and competitive position.
 
 ---
 
@@ -46,10 +46,10 @@ Process design involves trade-offs across six dimensions. You cannot optimize ev
 ## IV. Key Observations from the Videos
 
 A. **Video 1 (Spanish craftsman)**
-   Wood, frames, and intricate details. One craftsman or small team handles many steps—from design to build to signing. General-purpose tools, high artisan skill, flexible scheduling. Sound quality emphasized ("sounds the most high"). "Why seaboard important?" — wood, craft, and sound are central. Suited to differentiation and premium positioning. Cannot compete on price; must compete on product and craftsmanship. More intricate details require more knowledge of the craft.
+   Wood, frames, and intricate details. One craftsman or small team handles many steps from design to build to signing. General-purpose tools, high artisan skill, flexible scheduling. Sound quality emphasized ("sounds the most high"). "Why seaboard important?" wood, craft, and sound are central. Suited to differentiation and premium positioning. Cannot compete on price; must compete on product and craftsmanship. More intricate details require more knowledge of the craft.
 
 B. **Video 2 (Yamaha Japan)**
-   Assembly line with "chairs moving"—conveyor belts carrying units through the factory. Same speed for all units. Standardization of the process for all units through. Many workers, each specialized. Specific-purpose equipment; many machines to support high volume. Economies of scale; suited to cost and availability.
+   Assembly line with "chairs moving" conveyor belts carrying units through the factory. Same speed for all units. Standardization of the process for all units through. Many workers, each specialized. Specific-purpose equipment; many machines to support high volume. Economies of scale; suited to cost and availability.
 
 C. **Why so many machines in the factory?**
    To produce many units. Each station does one task repeatedly. Standardization allows scale. Many units in process at once.
@@ -68,4 +68,4 @@ D. **Geographic context (from class)**
 
 ## VI. Conclusion
 
-The Spanish craftsman and Yamaha factory represent opposite ends of the process-design spectrum: flexibility and quality vs. speed and standardization. In reality, most manufacturing processes are hybrids—use the framework to analyze where a process sits, not to label it perfectly. A firm's choices across lot size, equipment, skills, scheduling, product range, and inventory should align with its strategic position.
+The Spanish craftsman and Yamaha factory represent opposite ends of the process-design spectrum: flexibility and quality vs. speed and standardization. In reality, most manufacturing processes are hybrids use the framework to analyze where a process sits, not to label it perfectly. A firm's choices across lot size, equipment, skills, scheduling, product range, and inventory should align with its strategic position.

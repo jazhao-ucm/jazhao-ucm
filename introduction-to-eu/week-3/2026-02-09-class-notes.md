@@ -1,11 +1,11 @@
-# Introduction to the EU — Class Notes
-## February 9, 2026 — Week 3
+# Introduction to the EU Class Notes
+## February 9, 2026 Week 3
 
 **Topic:** EEC; four institutions; empty chair crisis; Luxembourg Compromise; UK reluctance; CAP.
 
 ---
 
-I. Recap — EDC and Cold War Context
+I. Recap EDC and Cold War Context
    A. USSR expanding west
       1. Real fear in West (e.g. Czechoslovakia)
       2. Military response: NATO
@@ -13,11 +13,11 @@ I. Recap — EDC and Cold War Context
    B. French objection to EDC
       1. Loss of sovereignty
       2. Army under supranational body
-   C. Key figure — De Gaulle
+   C. Key figure De Gaulle
       1. French president 1958–1969
       2. Symbol of French independence
 
-II. UK and France — Reluctant but Engaged
+II. UK and France Reluctant but Engaged
    A. Most reluctant to join EEC
       1. Both wanted to collaborate with Six
       2. Both feared loss of control
@@ -41,7 +41,7 @@ III. Spaak Report (1956)
       1. Refused to participate
       2. British reluctance (more tomorrow)
 
-IV. Treaty of Rome (1957) — EEC Objectives
+IV. Treaty of Rome (1957) EEC Objectives
    A. Three main objectives
       1. Raise standard of living
       2. Closer union among peoples
@@ -54,7 +54,7 @@ IV. Treaty of Rome (1957) — EEC Objectives
 V. Four Institutions (Same Structure Today)
    A. Commission
       1. Runs and implements treaty
-      2. Like supervisor — checks compliance
+      2. Like supervisor checks compliance
    B. Council of Ministers
       1. Represents member states
       2. Decision-making body

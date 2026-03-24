@@ -1,11 +1,11 @@
-# Introduction to the EU — Class Notes
-## March 2, 2026 — Week 6
+# Introduction to the EU Class Notes
+## March 2, 2026 Week 6
 
-**Topic:** Guest lecture — Gibraltar, Spanish accession, and the border (1969–1986).
+**Topic:** Guest lecture Gibraltar, Spanish accession, and the border (1969–1986).
 
 ---
 
-I. Gibraltar — Context
+I. Gibraltar Context
    A. Geography
       1. Southern tip of Spain
       2. Peninsula connected to La Línea
@@ -16,21 +16,21 @@ I. Gibraltar — Context
       3. Spain continuously claims sovereignty
 
 II. Key Timeline
-   A. 1969 — Border closed
+   A. 1969 Border closed
       1. Franco closed it to pressure UK
       2. Gibraltar isolated
       3. Families split
-   B. 1973 — UK joins EC
+   B. 1973 UK joins EC
       1. First enlargement
       2. Spain not yet member
       3. Gibraltar issue persists
-   C. 1975 — Franco dies
+   C. 1975 Franco dies
       1. Spanish transition begins
-   D. 1982 — Border partially reopens
+   D. 1982 Border partially reopens
       1. Felipe González (Socialist)
       2. Pedestrians only
       3. Spain joins NATO same day
-   E. 1986 — Spain joins EC
+   E. 1986 Spain joins EC
       1. Gibraltar part of accession talks
       2. Negotiations on border
 
@@ -55,7 +55,7 @@ IV. Negotiation Context
       2. Gibraltar (Spain) and Falklands (Argentina)
       3. Falklands War 1982
 
-V. 1982 — Falklands War
+V. 1982 Falklands War
    A. Similar dispute
       1. UK vs. Argentina
       2. Territorial sovereignty
@@ -67,20 +67,20 @@ V. 1982 — Falklands War
       2. Both involve sovereignty claims
 
 VI. Document Analysis Groups
-   A. Group 1 — Cabinet documents
+   A. Group 1 Cabinet documents
       1. UK cabinet meeting conclusions
       2. Thatcher letters to Spanish ministers
-   B. Group 2 — Diplomatic telegrams
+   B. Group 2 Diplomatic telegrams
       1. British ambassador communications
       2. UK-Spain negotiations
-   C. Group 3 — Legal documents
+   C. Group 3 Legal documents
       1. Brussels agreements
       2. Treaty provisions
-   D. Group 4 — Newspapers
+   D. Group 4 Newspapers
       1. British coverage
       2. Spanish coverage
       3. Compare perspectives
-   E. Group 5 — Border documents
+   E. Group 5 Border documents
       1. Open vs. closed periods
       2. Cultural impact
       3. Daily life effects

@@ -1,5 +1,5 @@
-# Introduction to the EU — Class Notes
-## February 2, 2026 — Week 2
+# Introduction to the EU Class Notes
+## February 2, 2026 Week 2
 
 **Topic:** Zweig; borders; theory vs. practice; migration and regularization; EU values.
 
@@ -14,7 +14,7 @@ I. Theory vs. Practice
       1. Impregnated with meaning
       2. Theory cannot fully capture
 
-II. Migration and Regularization — Spain Context
+II. Migration and Regularization Spain Context
    A. Background
       1. Spain has implemented regularization of migrants
       2. Three major regularizations (1980s, 1990s, 2005)
@@ -28,7 +28,7 @@ II. Migration and Regularization — Spain Context
       2. Far right: "what about nationals?"
       3. Same word, opposite meanings
 
-III. Stefan Zweig — *The World of Yesterday* (1942)
+III. Stefan Zweig *The World of Yesterday* (1942)
    A. Why text matters
       1. Testimony of Europe that disappeared
       2. War, nationalism, persecution destroyed his world
@@ -38,7 +38,7 @@ III. Stefan Zweig — *The World of Yesterday* (1942)
       2. Colonial dimensions
       3. How catastrophes shaped "Europe" idea
 
-IV. Zweig — Uprooting and Loss
+IV. Zweig Uprooting and Loss
    A. Personal experience
       1. Born 1881 in Habsburg monarchy (now gone)
       2. Grew up in Vienna (2,000-year metropolis)
@@ -50,7 +50,7 @@ IV. Zweig — Uprooting and Loss
    C. Moral dimension
       1. "Never has a generation fallen from such intellectual heights to such moral depths"
 
-V. Zweig — Xenophobia and Bureaucracy After WWI
+V. Zweig Xenophobia and Bureaucracy After WWI
    A. Before the war
       1. Travel without permits or visas
       2. No questions asked
@@ -67,7 +67,7 @@ V. Zweig — Xenophobia and Bureaucracy After WWI
       5. Letters of recommendation
       6. Forms in triplicate and quadruplicate
 
-VI. Zweig — Freedom vs. Security
+VI. Zweig Freedom vs. Security
    A. His position
       1. Freedom matters more than security
       2. Willing to risk danger for freedom
@@ -80,7 +80,7 @@ VI. Zweig — Freedom vs. Security
       2. Fear after WWI created borders
       3. Not natural or inevitable
 
-VII. Far Right Discourse — Complexity
+VII. Far Right Discourse Complexity
    A. France example
       1. Rassemblement National (formerly National Front)
       2. Rebranding to seem mainstream

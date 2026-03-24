@@ -1,5 +1,5 @@
-# Introduction to the EU — Class Notes
-## March 10, 2026 — Week 7
+# Introduction to the EU Class Notes
+## March 10, 2026 Week 7
 
 **Topic:** Exam preparation; text analysis; Ribera vs. von der Leyen; international law; multilateralism; EU unity.
 
@@ -33,7 +33,7 @@ II. How to Approach Text Analysis
       1. Show you understand "movie"
       2. Place "scene" inside it
 
-III. Example Text — Ribera vs. von der Leyen
+III. Example Text Ribera vs. von der Leyen
    A. Context
       1. Public disagreement on Middle East
       2. Ribera criticizes von der Leyen's words
@@ -60,7 +60,7 @@ IV. Key Concepts in Text
       2. Common foreign policy
       3. Credibility with partners
 
-V. Costa Text — Multilateralism
+V. Costa Text Multilateralism
    A. Main argument
       1. Defends multilateralism
       2. Criticizes one-sided US policy
@@ -72,11 +72,11 @@ V. Costa Text — Multilateralism
       2. Not just follow another power
 
 VI. Connection to Course Blocks
-   A. Block 2 — Institutions
+   A. Block 2 Institutions
       1. Who speaks for EU externally?
       2. Twin executive confusion
       3. Many voices problem
-   B. Block 4 — Foreign and Security
+   B. Block 4 Foreign and Security
       1. EU as multilateral actor
       2. Defending international law
       3. Post-1945 order

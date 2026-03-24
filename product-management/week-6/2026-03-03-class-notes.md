@@ -1,14 +1,14 @@
-# Product Management — Class Notes
-## March 3, 2026 — Week 6
+# Product Management Class Notes
+## March 3, 2026 Week 6
 
 **Topic:** Design thinking in practice (IDEO shopping cart); limits of design thinking; customer interview design.
 
 ---
 
-I. Design Thinking in Practice — IDEO Shopping Cart
+I. Design Thinking in Practice IDEO Shopping Cart
    A. Brainstorming rules
       1. One conversation at a time
-      2. Defer judgment — no criticism during ideation
+      2. Defer judgment no criticism during ideation
       3. Encourage wild ideas
       4. Build on others' ideas ("yes, and...")
       5. Go for quantity first, quality later
@@ -50,7 +50,7 @@ IV. Limits of Design Thinking
       1. Great design cannot save weak business model
       2. Process is necessary, not sufficient
       3. Still need strategy, pricing, channels
-   B. Example — folding bike company
+   B. Example folding bike company
       1. Good product design
       2. Bad market fit
       3. Company failed despite good design

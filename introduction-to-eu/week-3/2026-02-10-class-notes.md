@@ -1,11 +1,11 @@
-# Introduction to the EU — Class Notes
-## February 10, 2026 — Week 3
+# Introduction to the EU Class Notes
+## February 10, 2026 Week 3
 
 **Topic:** Judt on British reluctance; historiography "of and for" Europe; UK identity.
 
 ---
 
-I. Judt's Argument — European Integration
+I. Judt's Argument European Integration
    A. Key thesis
       1. Integration was slow, uneven, reluctant
       2. Not single unified vision
@@ -27,7 +27,7 @@ II. Timeline of Early Integration
    C. Schuman Plan (1950)
       1. "Founding software" of EU
       2. Led to ECSC
-      3. High Authority — supranational executive
+      3. High Authority supranational executive
    D. Treaties of Rome (1957)
       1. EEC and Euratom created
       2. Six countries proceeded
@@ -35,7 +35,7 @@ II. Timeline of Early Integration
 
 III. Why Was Britain Reluctant?
    A. Identity factors
-      1. "We won" — WWII nationalism
+      1. "We won" WWII nationalism
       2. "Never surrendered" myth
       3. Island identity, not invaded
    B. Empire/Commonwealth
@@ -43,7 +43,7 @@ III. Why Was Britain Reluctant?
       2. Imperial and global identity
       3. Not primarily "European"
    C. Great power status
-      1. Yalta, Potsdam — equal with US, USSR
+      1. Yalta, Potsdam equal with US, USSR
       2. Not "one of small European countries"
       3. Nuclear weapons reinforced rank
    D. Institutional differences
@@ -62,7 +62,7 @@ IV. UK–US Relationship
       1. Western camp
       2. But UK saw itself as equal partner
 
-V. Historiography — "Of and For" Europe
+V. Historiography "Of and For" Europe
    A. Key distinction
       1. "Of" = describing what happened
       2. "For" = prescriptive, normative
@@ -73,19 +73,19 @@ V. Historiography — "Of and For" Europe
       3. Different books, different angles
 
 VI. Five Books Reviewed
-   A. Hopkins — Intellectual project
+   A. Hopkins Intellectual project
       1. Enlightenment to today
-      2. Elite bias — great thinkers
+      2. Elite bias great thinkers
       3. Ordinary Europeans absent
-   B. Yourgos — Peace settlements
+   B. Yourgos Peace settlements
       1. Vienna, Versailles, postwar
       2. Unity from negotiations
       3. Periphery downplayed
-   C. Gilbert — Institutional history
+   C. Gilbert Institutional history
       1. Treaty politics, executive decisions
       2. Pragmatic, less ideological
       3. Citizens as passive
-   D. Patel — Critical approach
+   D. Patel Critical approach
       1. Dissent and agency included
       2. Contested history
       3. More balanced

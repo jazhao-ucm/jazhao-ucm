@@ -1,21 +1,21 @@
-# Product Management — Class Notes
-## March 2, 2026 — Week 6
+# Product Management Class Notes
+## March 2, 2026 Week 6
 
 **Topic:** Design thinking; human-centered design; IDEO process; observation vs. asking; extreme users.
 
 ---
 
-I. Design Thinking — Overview
+I. Design Thinking Overview
    A. Definition
       1. Process to solve problems by understanding users first
       2. Human-centered approach
       3. Iterative and creative
    B. Five stages
-      1. Empathize — understand the user
-      2. Define — find the real problem
-      3. Ideate — generate ideas
-      4. Prototype — build something to test
-      5. Test — learn from real use
+      1. Empathize understand the user
+      2. Define find the real problem
+      3. Ideate generate ideas
+      4. Prototype build something to test
+      5. Test learn from real use
    C. Key insight
       1. Not linear process
       2. Cycle back as needed

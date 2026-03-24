@@ -1,5 +1,5 @@
-# Product Management — Class Notes
-## February 23, 2026 — Week 5
+# Product Management Class Notes
+## February 23, 2026 Week 5
 
 **Topic:** Exploration vs. exploitation; lean validation; product design process; SDLC.
 
@@ -20,12 +20,12 @@ I. Exploration vs. Exploitation
       1. Need both exploration and exploitation
       2. Exploration finds, exploitation captures
       3. Balance required for long-term success
-   D. Example — Microsoft
+   D. Example Microsoft
       1. Strong in exploitation (scaling products)
       2. Weaker in exploration historically
       3. Recent shift toward more exploration
 
-II. Product Design Process — Stages
+II. Product Design Process Stages
    A. Problem-solution fit
       1. Does your solution solve the problem?
       2. Validate before building
@@ -45,9 +45,9 @@ III. Lean Validation
       2. Validate hypotheses early
       3. Fail fast, fail cheap
    B. Process
-      1. Build — create minimum viable product
-      2. Measure — collect data
-      3. Learn — analyze and decide
+      1. Build create minimum viable product
+      2. Measure collect data
+      3. Learn analyze and decide
       4. Iterate or pivot
    C. Key insight
       1. Don't build until validation
@@ -68,19 +68,19 @@ IV. Case Studies
       2. Market fit uncertain
       3. Too early to judge success
 
-V. SDLC — Software Development Life Cycle
+V. SDLC Software Development Life Cycle
    A. Phases
-      1. Planning — define requirements
-      2. Analysis — understand needs
-      3. Design — create architecture
-      4. Development — build product
-      5. Testing — verify quality
-      6. Deployment — release to users
-      7. Maintenance — ongoing support
+      1. Planning define requirements
+      2. Analysis understand needs
+      3. Design create architecture
+      4. Development build product
+      5. Testing verify quality
+      6. Deployment release to users
+      7. Maintenance ongoing support
    B. Methodologies
-      1. Waterfall — sequential, plan upfront
-      2. Agile — iterative, adaptive
-      3. DevOps — continuous integration/delivery
+      1. Waterfall sequential, plan upfront
+      2. Agile iterative, adaptive
+      3. DevOps continuous integration/delivery
    C. Key insight
       1. Process should match product type
       2. Agile better for uncertainty

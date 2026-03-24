@@ -1,4 +1,4 @@
-# UCM Course Notes — Cursor rules (single file)
+# UCM Course Notes Cursor rules (single file)
 
 Everything for this repo lives here. No separate rule modules.
 
@@ -50,13 +50,13 @@ For class notes, reading summaries, study guides, exam prep, business plans:
 - Do **not** use web search or outside sources to add, “fix,” or expand **substance**.
 - **Exception:** user explicitly asks to look something up.
 
-When cleaning notes/tex: **formatting, structure, typos, whitespace, LaTeX typography only** — do **not** change meaning or rewrite voice.
+When cleaning notes/tex: **formatting, structure, typos, whitespace, LaTeX typography only**. Do **not** change meaning or rewrite voice.
 
 ---
 
 ## Default scope (folders)
 
-- **`jadewowgreen/`** and **`matchaxmoxie/`:** do **not** change unless the user clearly asks (skip in bulk “all courses” work). **`matchaxmoxie/`** layout: root **`README.md` only**; **`site/`** = Pages assets; **`latex/`** = `jade-zhao-*.tex`; **`docs/`** = `DEPLOY.md`, lint config.
+- **`jadewowgreen/`** and **`matchaxmoxie/`:** do **not** change unless the user clearly asks (skip in bulk “all courses” work). **`matchaxmoxie/`** layout: root **`README.md` only** (includes GitHub Pages deploy); **`site/`** = Pages assets; **`latex/`** = `jade-zhao-*.tex`; **`docs/`** = Markdown lint config only.
 - User request for those paths **overrides** this.
 
 ---
@@ -100,7 +100,7 @@ Before finishing: *Did I update README and docs/INDEX where this shows up?*
 
 ## Don’t (unless the user asks)
 
-- Large repo-wide renames/reorgs — prefer small, targeted edits.
-- Guess which week a date belongs to — use **docs/INDEX.md**.
+- Large repo-wide renames/reorgs: prefer small, targeted edits.
+- Guess which week a date belongs to: use **docs/INDEX.md**.
 
 ---

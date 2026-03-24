@@ -1,11 +1,11 @@
-# Introduction to the EU — Class Notes
-## February 23, 2026 — Week 5
+# Introduction to the EU Class Notes
+## February 23, 2026 Week 5
 
 **Topic:** Southern enlargement (Greece, Spain, Portugal); Delors; Single European Act; Maastricht; Schengen.
 
 ---
 
-I. Luxembourg Compromise — Recap
+I. Luxembourg Compromise Recap
    A. Effect
       1. Countries could veto on national interest
       2. National interest over supranational decisions
@@ -13,7 +13,7 @@ I. Luxembourg Compromise — Recap
       1. US role in Cold War
       2. France insisted on sovereignty
 
-II. Southern Enlargement — Greece (1981)
+II. Southern Enlargement Greece (1981)
    A. Before accession
       1. Military dictatorship (colonels) 1967–1974
       2. Community initially hesitant
@@ -26,7 +26,7 @@ II. Southern Enlargement — Greece (1981)
       1. Joining EC = consolidating democracy
       2. Anchoring in the West
 
-III. Southern Enlargement — Portugal (1986)
+III. Southern Enlargement Portugal (1986)
    A. Carnation Revolution (1974)
       1. Peaceful revolution
       2. Flowers in the streets
@@ -36,14 +36,14 @@ III. Southern Enlargement — Portugal (1986)
       2. Colonies in Africa
       3. Decolonization movements
 
-IV. Southern Enlargement — Spain (1986)
+IV. Southern Enlargement Spain (1986)
    A. Transition after Franco
       1. Franco died 1975
-      2. No revolution — negotiated transition
+      2. No revolution negotiated transition
       3. Democratic consolidation required
    B. Process
       1. Negotiations 1977–1986
-      2. 1982 World Cup — soft power
+      2. 1982 World Cup soft power
    C. Challenges
       1. France worried about CAP
       2. Fishing industry concerns

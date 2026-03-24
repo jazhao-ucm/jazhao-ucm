@@ -1,15 +1,15 @@
-# Product Management — Class Notes
-## March 10, 2026 — Week 7
+# Product Management Class Notes
+## March 10, 2026 Week 7
 
-**Topic:** Manufacturing process design — six dimensions; trade-offs (bespoke vs. speed); piano manufacturing comparison exercise.
+**Topic:** Manufacturing process design six dimensions; trade-offs (bespoke vs. speed); piano manufacturing comparison exercise.
 
 ---
 
-I. Manufacturing Process Design — Overview
+I. Manufacturing Process Design Overview
    A. Core decision
       1. How to manufacture the product
       2. Trade-off: bespoke/quality vs. speed
-      3. Cannot optimize everything — choose based on strategy
+      3. Cannot optimize everything choose based on strategy
    B. Six dimensions
       1. Lot size (batch size)
       2. Equipment type
@@ -63,7 +63,7 @@ V. Scheduling Approach
       1. Produce when order comes in
       2. Flexible, changes from order to order
       3. Good when demand uncertain
-      4. Ex: restaurants — don't know what customers order
+      4. Ex: restaurants don't know what customers order
    B. Make-to-stock / flow line
       1. Produce in advance
       2. Standardized products
@@ -92,7 +92,7 @@ VII. Inventory Level
       3. Requires reliable supply chain
       4. Risk of stockouts
 
-VIII. Case Study — Piano Manufacturing
+VIII. Case Study Piano Manufacturing
    A. Traditional craftsman (Spanish)
       1. Small batch / one at a time
       2. General-purpose tools
@@ -110,7 +110,7 @@ VIII. Case Study — Piano Manufacturing
    C. Trade-off lesson
       1. Craftsman: quality, customization, high price
       2. Factory: efficiency, standardization, lower price
-      3. Both valid — depends on target market
+      3. Both valid depends on target market
 
 IX. Why Many Machines in Factory
    A. Reason

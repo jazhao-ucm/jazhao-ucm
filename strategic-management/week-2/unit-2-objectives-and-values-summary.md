@@ -1,7 +1,7 @@
 # Strategic Management - Unit 2 Summary
 ## Objectives and Values (from SM_Unit 2 Objectives and Values 04022026.pdf)
 
-**Source:** Martín de Castro (2026) — Unit 2 slides. Mission, vision, stakeholders, governance, values.
+**Source:** Martín de Castro (2026) Unit 2 slides. Mission, vision, stakeholders, governance, values.
 
 ---
 
@@ -108,7 +108,7 @@
 - **Problem:** Who establishes objectives? Managers may pursue own interests (remuneration, power, status).
 
 ### B. Mechanisms
-1. **Incentives:** Bonuses, stock options, shares — align managers with owners.
+1. **Incentives:** Bonuses, stock options, shares align managers with owners.
 2. **Board of Directors:**
    - Strategic advice.
    - Management supervision.

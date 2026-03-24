@@ -1,7 +1,7 @@
-# Introduction to the EU — Class Notes
-## March 3, 2026 — Week 6
+# Introduction to the EU Class Notes
+## March 3, 2026 Week 6
 
-**Topic:** Patrick Bijsmans on Euroscepticism — history, concepts, drivers, and democratic implications.
+**Topic:** Patrick Bijsmans on Euroscepticism history, concepts, drivers, and democratic implications.
 
 ---
 
@@ -11,8 +11,8 @@ I. What Is Euroscepticism?
       2. Skepticism about European integration
       3. Range of positions, not monolithic
    B. Key distinction
-      1. Hard Euroscepticism — want out
-      2. Soft Euroscepticism — in, but critical
+      1. Hard Euroscepticism want out
+      2. Soft Euroscepticism in, but critical
    C. Key insight
       1. Euroscepticism is not new
       2. Existed since 1950s–1960s
@@ -86,7 +86,7 @@ VI. Euroscepticism as Problem and Resource
       2. "Healthy skepticism" possible
       3. Debate can improve EU
 
-VII. Judging Criticism — Framework
+VII. Judging Criticism Framework
    A. Look at goals
       1. Reform vs. destroy
       2. Constructive vs. destructive

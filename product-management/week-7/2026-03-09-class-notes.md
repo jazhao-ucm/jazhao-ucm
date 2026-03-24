@@ -1,5 +1,5 @@
-# Product Management — Class Notes
-## March 9, 2026 — Week 7
+# Product Management Class Notes
+## March 9, 2026 Week 7
 
 **Topic:** Final exam prep; user interview assignment; design thinking process; value engineering; platform design; mass customization.
 
@@ -44,9 +44,9 @@ III. Value Engineering
       2. Sometimes by removing features
       3. Focus on value vs. cost ratio
    B. Examples
-      1. Tea spoon made smaller — less metal, cheaper
-      2. Sugar dispenser with holes — efficient portioning
-      3. Plastic instead of ceramic — cheaper, lighter
+      1. Tea spoon made smaller less metal, cheaper
+      2. Sugar dispenser with holes efficient portioning
+      3. Plastic instead of ceramic cheaper, lighter
    C. Key insight
       1. Cost reduction through design
       2. Not just cutting quality
@@ -61,7 +61,7 @@ IV. Platform Design
       1. Lower development costs
       2. Faster time to market for variants
       3. Economies of scale in manufacturing
-   C. Example — BMW
+   C. Example BMW
       1. Same platform, many model variants
       2. Different configurations for segments
       3. Shared engineering, differentiated products
@@ -76,9 +76,9 @@ V. Mass Customization
       2. Late-stage differentiation
       3. Configure-to-order
    C. Examples
-      1. Dell computers — customize online
-      2. Nike ID — personalized shoes
-      3. Car manufacturers — option packages
+      1. Dell computers customize online
+      2. Nike ID personalized shoes
+      3. Car manufacturers option packages
 
 VI. Product Simplification
    A. Core principle

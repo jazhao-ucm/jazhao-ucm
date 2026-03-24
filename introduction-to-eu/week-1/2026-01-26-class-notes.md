@@ -1,5 +1,5 @@
-# Introduction to the EU — Class Notes
-## January 26, 2026 — Week 1
+# Introduction to the EU Class Notes
+## January 26, 2026 Week 1
 
 **Topic:** Course intro; structure; assessment; two perspectives (official + critical).
 
@@ -11,33 +11,33 @@ I. Course Overview
       2. Dense material, understanding is goal
       3. Prior familiarity with European history helpful
    B. Two perspectives
-      1. Official story — how EU narrates itself (success, unity)
-      2. Critical view — realist history (contingency, crises)
+      1. Official story how EU narrates itself (success, unity)
+      2. Critical view realist history (contingency, crises)
    C. Comparative angle
       1. Compare EU with US, China, Russia
       2. Different models of governance
    D. Key insight
       1. EU in tense moment now
-      2. Not first crisis — history full of crises
+      2. Not first crisis history full of crises
       3. Crises shape what EU is
 
-II. Course Structure — Four Blocks
-   A. Block 1 — History and origins
+II. Course Structure Four Blocks
+   A. Block 1 History and origins
       1. Timeline: before and after Treaty of Rome
       2. World Wars context
       3. First economic union (coal/steel)
       4. Schuman Plan logic
-   B. Block 2 — Institutions
+   B. Block 2 Institutions
       1. Executive (Council + Commission)
       2. Legislative (Parliament + Council of EU)
       3. Judiciary (Court of Justice)
       4. Other bodies (ECB, agencies)
-   C. Block 3 — Policies and challenges
+   C. Block 3 Policies and challenges
       1. Euro currency
       2. Identity and membership
       3. Enlargement
       4. Migration
-   D. Block 4 — Foreign and security policy
+   D. Block 4 Foreign and security policy
       1. Guest expert session
       2. CFSP and defence
       3. Comparison with USA approach

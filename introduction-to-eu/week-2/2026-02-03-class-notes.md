@@ -1,5 +1,5 @@
-# Introduction to the EU — Class Notes
-## February 3, 2026 — Week 2
+# Introduction to the EU Class Notes
+## February 3, 2026 Week 2
 
 **Topic:** 1945–1954; three strands (economic, political, military); ECSC; NATO; EDC failure.
 
@@ -42,7 +42,7 @@ III. Council of Europe (1949)
       2. Separate organization (47 members)
       3. Focus: human rights, democracy, rule of law
 
-IV. Economic Strand — Marshall Plan and OEEC
+IV. Economic Strand Marshall Plan and OEEC
    A. Marshall Plan (1947–1948)
       1. US aid for European reconstruction
       2. Huge sums arriving in Europe
@@ -69,7 +69,7 @@ V. Schuman Declaration (9 May 1950)
       2. Above national governments
       3. First step toward deeper integration
 
-VI. ECSC — European Coal and Steel Community (1951)
+VI. ECSC European Coal and Steel Community (1951)
    A. Treaty of Paris
       1. Signed April 1951
       2. Entered force 1952
@@ -79,9 +79,9 @@ VI. ECSC — European Coal and Steel Community (1951)
    C. Significance
       1. First supranational body in Europe
       2. War industries under common control
-      3. "Functionalism" — sector-by-sector integration
+      3. "Functionalism" sector-by-sector integration
 
-VII. Military Strand — NATO (1949)
+VII. Military Strand NATO (1949)
    A. Context
       1. Cold War beginning
       2. Soviet threat perceived
@@ -95,7 +95,7 @@ VII. Military Strand — NATO (1949)
       2. Overlapping membership
       3. Defense remained national/NATO
 
-VIII. EDC — European Defense Community (Failed)
+VIII. EDC European Defense Community (Failed)
    A. The proposal
       1. European army under supranational control
       2. Modeled on ECSC logic
@@ -115,7 +115,7 @@ IX. Key Differences from Post-WWI
       2. "You lost, you pay" approach
       3. Created resentment
    B. After WWII
-      1. Multilateralization — shared responsibility
+      1. Multilateralization shared responsibility
       2. Shared institutions
       3. Germany included, not singled out
    C. Result

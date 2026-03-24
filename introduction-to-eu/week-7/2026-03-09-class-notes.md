@@ -1,11 +1,11 @@
-# Introduction to the EU — Class Notes
-## March 9, 2026 — Week 7
+# Introduction to the EU Class Notes
+## March 9, 2026 Week 7
 
 **Topic:** 1992–present; enlargements; EEA/EFTA; Commission crisis; Constitution vs. Lisbon; Greek crisis; NATO; Turkey debate.
 
 ---
 
-I. Context — International Order Challenged
+I. Context International Order Challenged
    A. Post-WWII rules
       1. Western liberal order being challenged
       2. Uncertainty about US commitment
@@ -15,26 +15,26 @@ I. Context — International Order Challenged
       2. New challenges (Ukraine, energy, COVID)
       3. Economic interdependence exposed
 
-II. Timeline — 1992 to Present
-   A. 1993 — Maastricht in force
+II. Timeline 1992 to Present
+   A. 1993 Maastricht in force
       1. EU officially founded
       2. Three pillars established
-   B. 1995 — EFTA enlargement
+   B. 1995 EFTA enlargement
       1. Austria, Finland, Sweden join
       2. Norway referendum: no (fishing)
-   C. 1999 — Commission crisis
+   C. 1999 Commission crisis
       1. Fraud and corruption exposed
       2. Parliament refused budget
       3. Commission resigned
-   D. 2004 — Big Bang
+   D. 2004 Big Bang
       1. 10 countries join
       2. Constitution rejected (France, Netherlands)
-   E. 2007 — Eastern expansion
+   E. 2007 Eastern expansion
       1. Romania, Bulgaria join
       2. Lisbon Treaty signed
-   F. 2013 — Croatia
+   F. 2013 Croatia
       1. Last country to join
-   G. 2022 — Ukraine invasion
+   G. 2022 Ukraine invasion
       1. Energy crisis
       2. Defense debates
 
@@ -92,7 +92,7 @@ VI. Constitution vs. Lisbon
       2. Cheap labor concerns
       3. Sovereignty fears
    C. Lisbon Treaty (2007)
-      1. Plan B — more modest
+      1. Plan B more modest
       2. President of European Council
       3. High Representative for Foreign Affairs
       4. Rolling presidency system

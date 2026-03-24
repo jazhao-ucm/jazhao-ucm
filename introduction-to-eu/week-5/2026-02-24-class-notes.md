@@ -1,28 +1,28 @@
-# Introduction to the EU — Class Notes
-## February 24, 2026 — Week 5
+# Introduction to the EU Class Notes
+## February 24, 2026 Week 5
 
 **Topic:** Review of enlargements; political vs. economic integration; Vinen and Anderson on post-1989 Europe.
 
 ---
 
 I. Review of EU Enlargements
-   A. 1973 — First enlargement
+   A. 1973 First enlargement
       1. UK, Ireland, Denmark
       2. Six → Nine
       3. France vetoed UK twice before
-   B. 1981 — Greece
+   B. 1981 Greece
       1. Democracy consolidation
-   C. 1986 — Spain and Portugal
+   C. 1986 Spain and Portugal
       1. Southern enlargement
-   D. 1995 — EFTA countries
+   D. 1995 EFTA countries
       1. Austria, Finland, Sweden
-   E. 2004 — "Big Bang"
+   E. 2004 "Big Bang"
       1. Estonia, Latvia, Lithuania, Poland
       2. Slovenia, Slovakia, Czech Republic, Hungary
       3. Malta, Cyprus
-   F. 2007 — Romania and Bulgaria
+   F. 2007 Romania and Bulgaria
       1. Conditions applied
-   G. 2013 — Croatia
+   G. 2013 Croatia
       1. Most recent member
 
 II. Economic vs. Political Integration
@@ -31,7 +31,7 @@ II. Economic vs. Political Integration
       2. Political union too sensitive
       3. Fear of rearming Germany
    B. Economics easier
-      1. Benefits visible — growth, trade, jobs
+      1. Benefits visible growth, trade, jobs
       2. Sovereignty less threatened
       3. Political issues postponed
    C. When political returned
@@ -39,7 +39,7 @@ II. Economic vs. Political Integration
       2. Maastricht (1992)
       3. EMU, CFSP, citizenship
 
-III. Vinen — Did 1989 Unite Europe?
+III. Vinen Did 1989 Unite Europe?
    A. Main question
       1. Berlin Wall fell 1989
       2. Did it really "unite" Europe?
@@ -53,7 +53,7 @@ III. Vinen — Did 1989 Unite Europe?
       2. New nation-states
       3. Internal borders became physical
 
-IV. Vinen — Integration Created Tensions
+IV. Vinen Integration Created Tensions
    A. More integration = more friction
       1. Scapegoating across borders
       2. "Polish plumber" stereotype
@@ -67,7 +67,7 @@ IV. Vinen — Integration Created Tensions
       2. Integration has costs
       3. Not everyone benefits equally
 
-V. Anderson — Critical Perspective
+V. Anderson Critical Perspective
    A. Approach
       1. Critical of triumphalist narrative
       2. Europe as fragments
@@ -81,7 +81,7 @@ V. Anderson — Critical Perspective
       2. Democratic deficits
       3. Contestation normal
 
-VI. Euroscepticism — Causes
+VI. Euroscepticism Causes
    A. Sovereignty concerns
       1. Loss of national control
       2. Brussels bureaucracy

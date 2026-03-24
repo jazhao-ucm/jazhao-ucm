@@ -20,7 +20,7 @@ I. Course Information
       1. Campus Difusión
       2. Group code: SS62PEMR
 
-II. Unit 1 — Preguntas de Identificación
+II. Unit 1 Preguntas de Identificación
    A. ¿Cómo te llamas?
       1. Me llamo...
       2. Francisco
@@ -33,7 +33,7 @@ II. Unit 1 — Preguntas de Identificación
    E. ¿En qué trabajas?
       1. Soy camarero
 
-III. Verbos — Ser, Tener, Llamarse
+III. Verbos Ser, Tener, Llamarse
    A. Ser (Identity, Origin, Profession)
       1. Soy
       2. Eres

@@ -1,4 +1,4 @@
-# Strategic Management — Week 8
+# Strategic Management Week 8
 
 - Class notes: `2026-03-18-class-notes.md`, `2026-03-19-class-notes.md`
 - Unit 6 slides: `sm-unit-6-corporate-strategy-development.pdf`

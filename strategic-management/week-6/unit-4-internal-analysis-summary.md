@@ -1,7 +1,7 @@
 # Strategic Management - Unit 4 Summary
 ## Internal Analysis (from SM_Unit 4 Internal Analysis 04032026.pdf)
 
-**Source:** Martín de Castro (2025) — Unit 4 slides. Use with `2026-03-04-class-notes.md` for full Week 6 coverage.
+**Source:** Martín de Castro (2025) Unit 4 slides. Use with `2026-03-04-class-notes.md` for full Week 6 coverage.
 
 ---
 
@@ -15,7 +15,7 @@
 - **Supporting activities** = Procurement, HR, technology, infrastructure.
 - **Resources** = What the firm has (tangible, intangible, human).
 - **Capabilities** = How the firm combines resources to do things well.
-- **VRIN / VRIO** = Valuable, Rare, Inimitable, (Organized to capture) — criteria for sustained competitive advantage.
+- **VRIN / VRIO** = Valuable, Rare, Inimitable, (Organized to capture) criteria for sustained competitive advantage.
 - **SWOT** = Strengths, Weaknesses, Opportunities, Threats. Summary of internal + external analysis.
 
 ## Main Ideas (Simple Version)
@@ -52,7 +52,7 @@
 
 ## 4.1. A Firm’s Internal Diagnosis
 
-### A. Firm Identity — Key Variables
+### A. Firm Identity Key Variables
 
 | Variable | Options |
 |----------|---------|
@@ -93,7 +93,7 @@
 
 ### E. Examples
 - **Ford (Valencia):** Vertical links in factory.
-- **Mercadona:** Value chain and system — primary & supporting activities, horizontal links (1 coordination, 1 optimization), vertical links (1 coordination, 1 optimization).
+- **Mercadona:** Value chain and system primary & supporting activities, horizontal links (1 coordination, 1 optimization), vertical links (1 coordination, 1 optimization).
 
 ---
 
@@ -120,7 +120,7 @@
 - **Organizational routines:** Regular, predictable patterns of activities.
 - **Types:** Functional (performing activities), Cultural (ways to integrate), Dynamic.
 
-### D. Strategic Analysis of R&C — Three Dimensions
+### D. Strategic Analysis of R&C Three Dimensions
 
 **1. Generating Competitive Advantage**
 - **Scarcity:** Not available to “many” competitors. Heterogeneity.

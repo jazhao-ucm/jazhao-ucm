@@ -1,11 +1,11 @@
 # Spanish for Beginners - Class Notes
 ## February 25–26, 2026 - Week 5
 
-**Focus:** Unit 3 — Listening, vocabulario; exam preparation.
+**Focus:** Unit 3 Listening, vocabulario; exam preparation.
 
 ---
 
-I. Listening — Datos Personales
+I. Listening Datos Personales
    A. Mark 5 Correct
       1. Nombre
       2. Lugar de origen
@@ -17,7 +17,7 @@ I. Listening — Datos Personales
       2. Aficiones
       3. Lenguas que aprende
 
-II. Listening — Una Fiesta
+II. Listening Una Fiesta
    A. Format
       1. True/False
       2. Listen carefully

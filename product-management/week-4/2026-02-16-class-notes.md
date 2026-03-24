@@ -1,5 +1,5 @@
-# Product Management — Class Notes
-## February 16, 2026 — Week 4
+# Product Management Class Notes
+## February 16, 2026 Week 4
 
 **Topic:** Technology adoption curve (S-curve); disruptive innovation; first mover advantage.
 
@@ -10,10 +10,10 @@ I. Technology S-Curve
       1. Technology performance follows S-shaped pattern over time
       2. Describes lifecycle of technology adoption
    B. Phases
-      1. Beginning — slow improvement, technology evolving
-      2. Middle — rapid performance improvement (steep curve)
-      3. Maturity — performance plateaus, incremental gains
-      4. Decline — old tech replaced by new
+      1. Beginning slow improvement, technology evolving
+      2. Middle rapid performance improvement (steep curve)
+      3. Maturity performance plateaus, incremental gains
+      4. Decline old tech replaced by new
    C. Key insight
       1. Every technology has limits
       2. Investment should shift as tech matures

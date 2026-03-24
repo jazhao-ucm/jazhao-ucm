@@ -5,7 +5,7 @@
 
 ---
 
-I. Ropa — `La prenda es...` (cualidad)
+I. Ropa `La prenda es...` (cualidad)
    A. Ejemplos del ejercicio
       1. Es sencilla
       2. Es cómoda
@@ -13,7 +13,7 @@ I. Ropa — `La prenda es...` (cualidad)
       4. Es elegante
       5. Es fácil de llevar
 
-II. Ropa — `La prenda es de...` (tipo/diseño/material)
+II. Ropa `La prenda es de...` (tipo/diseño/material)
    A. Partes / diseños
       1. De rayas
       2. De tirantes
@@ -25,7 +25,7 @@ II. Ropa — `La prenda es de...` (tipo/diseño/material)
    B. Nota ejercicio
       1. Concordancia liso/a, blanco/a, etc. (fem/masc)
 
-III. Colores — concordancia + ejemplos
+III. Colores concordancia + ejemplos
    A. Colores (formas del ejercicio)
       1. Blanco/a
       2. Amarillo/a

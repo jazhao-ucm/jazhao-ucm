@@ -1,5 +1,5 @@
-# Product Management — Class Notes
-## February 2, 2026 — Week 2
+# Product Management Class Notes
+## February 2, 2026 Week 2
 
 **Topic:** Community needs assessment; finding connections; willingness to pay.
 
@@ -33,7 +33,7 @@ II. Finding User Needs
 
 III. Development Cycles
    A. Iterative process
-      1. First sprint — initial development
+      1. First sprint initial development
       2. Testing with users
       3. Iteration and improvement
       4. Repeat cycle
@@ -45,7 +45,7 @@ III. Development Cycles
       1. "Testing as Investing" approach
       2. Testing is part of development, not separate
 
-IV. Case Study — Social App Failure
+IV. Case Study Social App Failure
    A. The story
       1. App to help people meet friends
       2. AI matching based on interests
@@ -86,7 +86,7 @@ VI. Pivoting the Business Model
       3. Solve retention problem for schools
 
 VII. Business Model Alternatives
-   A. Initial model — direct payment
+   A. Initial model direct payment
       1. Users pay for service
       2. Often fails for social apps
    B. Partnership model

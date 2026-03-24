@@ -11,7 +11,7 @@ Course notes and materials for Management in Global Markets at UCM.
 | Business plans | LaTeX (`.tex`) | `week-7/` (business-plan-guide, business-plan-tierra-bar). Compile: `pdflatex filename.tex` |
 | Slides & readings | PDF, DOCX | Week folders |
 
-## Note-Taking Format — Formal Outline System
+## Note-Taking Format Formal Outline System
 
 All class notes follow the **Formal Outline Note Taking System**.
 
@@ -52,7 +52,7 @@ II. Topic
 6. **Period after each numeral or letter.**
 7. **Begin all lines with uppercase.**
 8. **Line up each level under the one above.**
-9. **No sentences** — rephrase briefly using abbreviations and symbols.
+9. **No sentences** rephrase briefly using abbreviations and symbols.
 10. **If you have 1, you must have 2. If A, you must have B.**
 
 ## Structure

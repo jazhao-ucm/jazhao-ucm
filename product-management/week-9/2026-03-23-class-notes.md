@@ -1,7 +1,7 @@
-# Product Management — Class Notes
-## March 23, 2026 — Week 9
+# Product Management Class Notes
+## March 23, 2026 Week 9
 
-**Topic:** Social app / dating app concept — gamification + common interests to reduce repetitive conversations; user journey; personas; interaction model; onboarding stages
+**Topic:** Social app / dating app concept gamification + common interests to reduce repetitive conversations; user journey; personas; interaction model; onboarding stages
 
 ---
 
@@ -14,7 +14,7 @@ I. Problem framing (from interviews + team discussion)
       1. Use structured activities to break ice
       2. Reduce “small talk only” and increase meaningful connection
 
-II. App concept — matching + interaction design
+II. App concept matching + interaction design
    A. Gamification as ice-breaker
       1. Group activities + games (shared action)
       2. Designed to start connection with strangers

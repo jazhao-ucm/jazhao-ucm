@@ -1,7 +1,7 @@
 # Strategic Management - Unit 3 Summary
 ## Environment Analysis (from SM_Unit 3 Environment Analysis 12022026.pdf)
 
-**Source:** Martín de Castro (2026) — Unit 3 slides. Macro-environment, industry (Five Forces), clusters.
+**Source:** Martín de Castro (2026) Unit 3 slides. Macro-environment, industry (Five Forces), clusters.
 
 ---
 
@@ -19,7 +19,7 @@
 ## Main Ideas (Simple Version)
 
 1. **Two levels of environment: macro and industry.**
-   - Macro: PESTEL — affects all players.
+   - Macro: PESTEL affects all players.
    - Industry: competitors, customers, suppliers, entrants, substitutes.
 
 2. **PESTEL = general environment.**
@@ -107,27 +107,27 @@ Determine industry attractiveness → likelihood of generating return/profit.
 | **Bargaining power of buyers** | Customers’ power to impose conditions | Less attractive |
 | **Bargaining power of suppliers** | Suppliers’ power to impose conditions | Less attractive |
 
-### D. Rivalry — Factors
+### D. Rivalry Factors
 - Number of competitors and concentration (CR4).
 - Growth in demand, excess capacity, exit barriers.
 - Degree of differentiation.
 - Cost conditions (minimum effective size).
 
-### E. Threat of Entry — Factors
+### E. Threat of Entry Factors
 - **Barriers:** Artificial (government, legal, tariffs) vs Natural (economies of scale, capital, differentiation).
 - **Reaction:** Retaliation by incumbents.
 
-### F. Substitutes — Sources
+### F. Substitutes Sources
 1. Disruptive technology.
 2. Disruptive consumer behaviour.
 
-### G. Buyer Power — Factors
+### G. Buyer Power Factors
 - Buyer concentration and number.
 - Product differentiation.
 - Information.
 - Threat of upstream integration.
 
-### H. Supplier Power — Factors
+### H. Supplier Power Factors
 - Supplier concentration and number.
 - Product differentiation.
 - Information.

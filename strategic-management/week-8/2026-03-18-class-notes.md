@@ -5,7 +5,7 @@
 
 ---
 
-I. Exam Prep (Unit 1) — Strategy Definition, Origins, Structure
+I. Exam Prep (Unit 1) Strategy Definition, Origins, Structure
    A. Origins And Early Thinkers
       1. Military origins: “strategos” = army/general; “strategy” linked to leadership
       2. Business context: first “strategy” in business administration
@@ -39,7 +39,7 @@ I. Exam Prep (Unit 1) — Strategy Definition, Origins, Structure
          b. Contribution to competitive & corporate strategies
          c. Contexts: operations mgmt; human resources mgmt; financial mgmt; R&D mgmt; etc.
 
-II. Exam Prep (Unit 2) — Mission, Vision, Objectives; Governance; CSR
+II. Exam Prep (Unit 2) Mission, Vision, Objectives; Governance; CSR
    A. Mission, Vision, Strategic Objectives
       1. Mission statement: what business are we in; what we want to achieve; firm scope
       2. Corporate mission: social identity; principles; values
@@ -58,7 +58,7 @@ II. Exam Prep (Unit 2) — Mission, Vision, Objectives; Governance; CSR
       2. Business ethics: moral foundations guiding strategic decision + action; “values”
       3. Example referenced: Danone (aligning purpose with business strategy)
 
-III. Exam Prep — Strategy Processes And Roles
+III. Exam Prep Strategy Processes And Roles
    A. Deliberate (Rational) Process
       1. Strategic management often follows a fixed, rational sequence
       2. Steps (noted as sequence)
@@ -84,7 +84,7 @@ III. Exam Prep — Strategy Processes And Roles
       1. Strategic mgmt influenced by personal preferences; shaped by environmental dynamics
       2. Many roles mentioned: CEO/president; “middle managers”; board of directors; top management team (TMT)
 
-IV. Unit 3 — External Analysis (Environment Analysis)
+IV. Unit 3 External Analysis (Environment Analysis)
    A. Purpose And Output
       1. Understand external factors affecting firm strategy
       2. Identify opportunities and threats (O/T)
@@ -127,7 +127,7 @@ IV. Unit 3 — External Analysis (Environment Analysis)
          a. Probability depends on industry structure + firm-specific capabilities
          b. Research note: firm effect stronger than industry effect
 
-V. Unit 4 — Internal Analysis (Exam Prep)
+V. Unit 4 Internal Analysis (Exam Prep)
    A. Purpose
       1. Goal: identify strengths (S) and weaknesses (W)
       2. Link to SWOT: strengths, weaknesses, opportunities, threats

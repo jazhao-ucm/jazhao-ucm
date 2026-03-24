@@ -1,5 +1,5 @@
-# Introduction to the EU — Class Notes
-## January 27, 2026 — Week 1
+# Introduction to the EU Class Notes
+## January 27, 2026 Week 1
 
 **Topic:** History and foundations; multiple unions; enlargements; four freedoms; key treaties.
 
@@ -36,17 +36,17 @@ II. Multiple Overlapping Systems
       2. Denmark has opt-out
 
 III. Map of Enlargements
-   A. Founding six — 1951
+   A. Founding six 1951
       1. France, Germany, Italy
       2. Belgium, Netherlands, Luxembourg
-   B. First enlargement — 1973
+   B. First enlargement 1973
       1. UK, Ireland, Denmark
-   C. Second enlargement — 1980s
+   C. Second enlargement 1980s
       1. Greece (1981)
       2. Spain, Portugal (1986)
-   D. Third enlargement — 1995
+   D. Third enlargement 1995
       1. Austria, Finland, Sweden
-   E. Fourth enlargement — 2000s
+   E. Fourth enlargement 2000s
       1. 2004: 10 countries (Eastern Europe + Cyprus, Malta)
       2. 2007: Bulgaria, Romania
       3. 2013: Croatia
@@ -81,7 +81,7 @@ V. Economic and Social Cohesion
       2. Some regions more developed
       3. Gaps remain despite funds
 
-VI. Membership Requirements — Copenhagen Criteria
+VI. Membership Requirements Copenhagen Criteria
    A. Democracy
       1. Stable democratic institutions
       2. Rule of law
@@ -93,32 +93,32 @@ VI. Membership Requirements — Copenhagen Criteria
       1. Adopt all EU laws
       2. Implement EU regulations
 
-VII. Key Treaties — Timeline
-   A. 1951 — Treaty of Paris
+VII. Key Treaties Timeline
+   A. 1951 Treaty of Paris
       1. Coal and Steel Community
       2. War industries under common control
       3. Founding six countries
-   B. 1957 — Treaty of Rome
+   B. 1957 Treaty of Rome
       1. European Economic Community
       2. Common market created
       3. No tariffs between members
-   C. 1985 — Single European Act
+   C. 1985 Single European Act
       1. Single market (not just common)
       2. GDP growth resulted
       3. Increased trade
-   D. 1995 — Schengen enters force
+   D. 1995 Schengen enters force
       1. Open internal borders
       2. Stronger external borders
       3. ~3.5M cross borders daily
-   E. 1999/2002 — Euro currency
+   E. 1999/2002 Euro currency
       1. Make trade easier
       2. "United in diversity" motto
-   F. 2007 — Lisbon Treaty
+   F. 2007 Lisbon Treaty
       1. Replaced previous treaties
       2. More power to Parliament
       3. Citizens' initiative added
 
-VIII. Reality Check — Free Movement
+VIII. Reality Check Free Movement
    A. Works well for some
       1. White Europeans generally
       2. Professionals with resources
@@ -142,5 +142,5 @@ IX. Democracy Discussion
       1. Multiple parties
       2. Free elections
    D. Recent concerns
-      1. Poland, Hungary — rule of law issues
+      1. Poland, Hungary rule of law issues
       2. EU using pressure mechanisms

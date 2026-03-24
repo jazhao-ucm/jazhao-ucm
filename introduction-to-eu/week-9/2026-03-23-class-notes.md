@@ -1,11 +1,11 @@
-# Introduction to the EU — Class Notes
-## March 23, 2026 — Week 9
+# Introduction to the EU Class Notes
+## March 23, 2026 Week 9
 
 **Topic:** Housing crisis workshop; Europarl search (housing); compare group positions; institutions + debate format
 
 ---
 
-I. Workshop Goal — Housing Crisis Overview
+I. Workshop Goal Housing Crisis Overview
    A. Work focus
       1. Housing crisis in Europe
       2. Latest initiatives (very recent)
@@ -21,7 +21,7 @@ I. Workshop Goal — Housing Crisis Overview
       3. Statements / debates on housing in parliament
       4. EU group roles + what groups represent
 
-II. Activity Instructions — How to Work
+II. Activity Instructions How to Work
    A. Steps (as described)
       1. Go to Europarl website → use search (housing)
       2. Check latest initiatives responding to crisis
@@ -33,7 +33,7 @@ II. Activity Instructions — How to Work
       2. Prepare presentation for class
       3. 45 minutes group work (as mentioned)
 
-III. Institutions & Actors — Parliamentary Debate Lens
+III. Institutions & Actors Parliamentary Debate Lens
    A. European Parliament (frame)
       1. Use parliament vocabulary (as indicated)
       2. Groups in parliament → represent positions
@@ -43,7 +43,7 @@ III. Institutions & Actors — Parliamentary Debate Lens
       2. Member states / partners referenced
       3. Procedure logic: if the proposal can proceed / “pass” in the parliamentary flow → continue; otherwise stop / skip reading
 
-IV. Case Example (Historical Policy) — Vienna Housing
+IV. Case Example (Historical Policy) Vienna Housing
    A. What to notice (as example in class)
       1. Prevent secondary/undesired effects (as stated: prevention logic)
       2. Public housing requirement (approx)
@@ -67,7 +67,7 @@ VI. Materials Link (for reference)
    A. Europarl housing search (provided)
       1. [Europarl housing search](https://www.europarl.europa.eu/portal/en/search?planet=_all&searchQuery=housing)
 
-VII. Extra institutional recap (from transcript) — democratic deficit
+VII. Extra institutional recap (from transcript) democratic deficit
    A. Democratic deficit (core concept)
       1. Gap: EU decision-making vs citizens' influence/control
       2. If citizens cannot control "how much influences citizens have", then democratic deficit

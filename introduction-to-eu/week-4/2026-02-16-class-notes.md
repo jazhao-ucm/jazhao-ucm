@@ -1,11 +1,11 @@
-# Introduction to the EU — Class Notes
-## February 16, 2026 — Week 4
+# Introduction to the EU Class Notes
+## February 16, 2026 Week 4
 
 **Topic:** Guest class preview; 1957 unity; first enlargement 1973; oil crisis; Gibraltar.
 
 ---
 
-I. Guest Expert Preview — Gibraltar
+I. Guest Expert Preview Gibraltar
    A. Topic
       1. Spanish accession to EC
       2. British attitude
@@ -19,7 +19,7 @@ I. Guest Expert Preview — Gibraltar
       2. Present as new, democratic, modern country
       3. Part of accession narrative
 
-II. Recap — Technical Successes of Integration
+II. Recap Technical Successes of Integration
    A. Economic achievements
       1. Increased production
       2. Countries worked together without war
@@ -27,7 +27,7 @@ II. Recap — Technical Successes of Integration
    B. Social achievements
       1. Movement, rights, identity
       2. Raised standard of living
-   C. Film — *Bienvenido Mr. Marshall*
+   C. Film *Bienvenido Mr. Marshall*
       1. 1953 Spanish film
       2. Town waiting for Marshall aid
       3. Spain did not receive aid like others
@@ -38,7 +38,7 @@ III. European Army Controversy (Recap)
       2. Military under supranational control
    B. De Gaulle's position
       1. Did not want American influence
-      2. "Europe of nations" — each country sovereign
+      2. "Europe of nations" each country sovereign
       3. Close to today's far-right position
    C. Current relevance
       1. Trump: "Europe should pay more"
@@ -59,7 +59,7 @@ IV. How United Was Western Europe by 1957?
       2. War ended only 12 years before
       3. Many still thought "each country for itself"
 
-V. EFTA — European Free Trade Association
+V. EFTA European Free Trade Association
    A. Formation
       1. Founded 1960
       2. UK, Austria, Denmark, Norway, Portugal, Sweden, Switzerland
@@ -71,7 +71,7 @@ V. EFTA — European Free Trade Association
       1. Many later joined EEC/EU
       2. Some remain (Norway, Switzerland, Iceland)
 
-VI. First Enlargement — 1973
+VI. First Enlargement 1973
    A. New members
       1. UK, Ireland, Denmark
       2. Six → Nine
@@ -80,7 +80,7 @@ VI. First Enlargement — 1973
       2. After De Gaulle resigned (1969), doors opened
       3. Hague Summit agreed enlargement
 
-VII. Oil Crisis — 1973
+VII. Oil Crisis 1973
    A. Background
       1. Europe depended on cheap oil
       2. $2/barrel average 1950–1973

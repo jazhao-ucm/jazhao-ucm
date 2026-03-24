@@ -11,7 +11,7 @@ Course notes and materials for Product Management at UCM.
 | Study materials | LaTeX (`.tex`) | Each week: topic-named guides (e.g. `bmc-value-creation.tex`, `midterm.tex` in week-6). Compile: `pdflatex filename.tex` |
 | Readings & slides | PDF, DOCX | Week folders |
 
-## Note-Taking Format — Formal Outline System
+## Note-Taking Format Formal Outline System
 
 All class notes follow the **Formal Outline Note Taking System**.
 
@@ -44,12 +44,12 @@ II. Topic
 6. **Period after each numeral or letter.**
 7. **Begin all lines with uppercase.**
 8. **Line up each level under the one above.**
-9. **No sentences** — rephrase briefly using abbreviations and symbols.
+9. **No sentences** rephrase briefly using abbreviations and symbols.
 10. **If you have 1, you must have 2. If A, you must have B.**
 
 ## Structure
 
-- `midterm-course-feedback-2025-2026.tex` — MidTerm course feedback form (draft answers) for 2025–2026; compile: `pdflatex midterm-course-feedback-2025-2026.tex`
+- `midterm-course-feedback-2025-2026.tex` MidTerm course feedback form (draft answers) for 2025–2026; compile: `pdflatex midterm-course-feedback-2025-2026.tex`
 - `week-1/` - Jan 26 & 27: class notes, BMC, value creation/capture, PM1; `bmc-value-creation.tex`. Exam samples: `FirstMidtermSolved.pdf`, `MIDTERM1_2024_2025.pdf`, `FINALEXAMSAMPLE.pdf`
 - `week-2/` - Feb 2 & 3: class notes, PM2, PM roles; `pm-roles-value-chain.tex`
 - `week-3/` - Feb 9 & 10: class notes, PM3; `pm3-csda.tex`

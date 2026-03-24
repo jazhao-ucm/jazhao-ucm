@@ -1,11 +1,11 @@
-# Product Management — Class Notes
-## February 17, 2026 — Week 4
+# Product Management Class Notes
+## February 17, 2026 Week 4
 
 **Topic:** Business Model Canvas; value creation and capture; Zara case study.
 
 ---
 
-I. Business Model Canvas — Overview
+I. Business Model Canvas Overview
    A. Purpose
       1. Framework to describe/analyze business model
       2. Visual representation of how company works
@@ -53,7 +53,7 @@ III. Value Proposition
       2. Must be differentiated from competitors
       3. Must be communicable
 
-IV. Case Study — Zara Skinny Jeans
+IV. Case Study Zara Skinny Jeans
    A. Customer segment
       1. Age: 17–27 years old
       2. Location: big cities (NYC, LA, Miami)

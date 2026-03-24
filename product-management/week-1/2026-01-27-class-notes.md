@@ -1,5 +1,5 @@
-# Product Management — Class Notes
-## January 27, 2026 — Week 1
+# Product Management Class Notes
+## January 27, 2026 Week 1
 
 **Topic:** Rational vs. irrational decision making; information and emotion; patent strategy; open innovation.
 
@@ -43,7 +43,7 @@ III. Brand Strategy & Information Asymmetry
       1. Brand strength determines info strategy
       2. Strong brand = emotion; Weak brand = information
 
-IV. Case Study — Chanel & Luxury Brands
+IV. Case Study Chanel & Luxury Brands
    A. Why not sell on Amazon
       1. Would diminish brand prestige
       2. Loss of controlled experience
@@ -74,7 +74,7 @@ VI. Patent Strategy & Technology Protection
       2. Map patent landscape in your area
       3. Build portfolio for leverage
 
-VII. Case Study — Solar Panel Competition
+VII. Case Study Solar Panel Competition
    A. Scenario
       1. Firm A developing solar tech
       2. Firm B has existing patents
@@ -93,7 +93,7 @@ VIII. Open Innovation
       2. Generate demand for complementary products
       3. Build ecosystem around technology
 
-IX. Case Study — IBM & Open Source
+IX. Case Study IBM & Open Source
    A. Strategy
       1. Made development platform open source
       2. Gave away for free
@@ -105,7 +105,7 @@ IX. Case Study — IBM & Open Source
       1. Value capture through complementary assets
       2. Free product can create paid demand
 
-X. David Teece — Open Innovation Theory
+X. David Teece Open Innovation Theory
    A. Background
       1. Vice president at IBM
       2. Developed open innovation framework
@@ -113,7 +113,7 @@ X. David Teece — Open Innovation Theory
       1. Sharing knowledge can create more value than hoarding
       2. Ecosystem thinking > individual firm thinking
 
-XI. Case Study — Xerox PARC
+XI. Case Study Xerox PARC
    A. Innovations developed
       1. Computer mouse
       2. Graphical user interface (GUI)
@@ -140,7 +140,7 @@ XII. Samsung Business Model
       1. Licensing as major revenue stream
       2. Diversified value capture
 
-XIII. Value Capture Mechanisms — Review
+XIII. Value Capture Mechanisms Review
    A. Brand
       1. Reputation and trust
       2. Allows premium pricing

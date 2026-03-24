@@ -1,5 +1,5 @@
-# Product Management — Class Notes
-## January 26, 2026 — Week 1
+# Product Management Class Notes
+## January 26, 2026 Week 1
 
 **Topic:** Value creation vs. value capture; market access.
 
@@ -16,7 +16,7 @@ I. Value Creation vs. Value Capture
       1. Creating value ≠ capturing value
       2. Need both for business success
 
-II. Michael Porter — Value Chain Framework
+II. Michael Porter Value Chain Framework
    A. Definition
       1. Breakdown of firm into value-creating activities
       2. Shows how resources combine to deliver value
@@ -32,7 +32,7 @@ II. Michael Porter — Value Chain Framework
       3. Technology development
       4. Procurement
 
-III. David Teece — Complementary Assets
+III. David Teece Complementary Assets
    A. Core idea
       1. Market access determines value capture
       2. Great product alone not enough
@@ -45,7 +45,7 @@ III. David Teece — Complementary Assets
       1. Build complementary assets
       2. Or acquire them through partnerships/M&A
 
-IV. Case Study — Spanish Research & Takeda
+IV. Case Study Spanish Research & Takeda
    A. Background
       1. Spanish researchers developed technology
       2. Initial valuation: €15,000
@@ -87,7 +87,7 @@ VI. Cost-Specialized Assets
       3. Exclusive supplier relationships
       4. Specialized manufacturing equipment
 
-VII. European Companies — Challenges
+VII. European Companies Challenges
    A. Problems
       1. Smaller market reach vs. global players
       2. Limited distribution networks
@@ -97,7 +97,7 @@ VII. European Companies — Challenges
       2. Lose value capture to US/Japan/China companies
       3. Scale and access determine who wins
 
-VIII. Product Management Goal — CSDA
+VIII. Product Management Goal CSDA
    A. Framework components
       1. Customer-focused
       2. Strategic

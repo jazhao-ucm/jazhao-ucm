@@ -1,7 +1,7 @@
 # Strategic Management - Unit 1 Summary
 ## Strategy (from SM_Unit 1 Strategy 29ene26.pdf)
 
-**Source:** Martín de Castro (2026) — Unit 1 slides. Strategy concept, process, and field of study.
+**Source:** Martín de Castro (2026) Unit 1 slides. Strategy concept, process, and field of study.
 
 ---
 
@@ -31,7 +31,7 @@
 3. **Three levels of strategy.**
    - **Corporate:** Scope, synergies, diversification, M&A, internationalization.
    - **Competitive:** How to compete in a business; cost leadership, differentiation; SBUs.
-   - **Functional:** Operations, HR, marketing, finance, R&D — support corporate and competitive.
+   - **Functional:** Operations, HR, marketing, finance, R&D support corporate and competitive.
 
 4. **Strategic management process: rational + emergent.**
    - **Rational:** Analysis → Formulation → Implementation → Control. SWOT, mission, vision, objectives.
@@ -116,7 +116,7 @@
 ### B. Emergence
 - 1960s.
 - Pioneers: Chandler (1962), Andrews (1965), Ansoff (1965).
-- ABC Model: Academics, Business, Consultants — synergies and terminological jungle.
+- ABC Model: Academics, Business, Consultants synergies and terminological jungle.
 
 ---
 

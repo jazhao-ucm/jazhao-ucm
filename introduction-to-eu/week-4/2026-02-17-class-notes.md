@@ -1,5 +1,5 @@
-# Introduction to the EU — Class Notes
-## February 17, 2026 — Week 4
+# Introduction to the EU Class Notes
+## February 17, 2026 Week 4
 
 **Topic:** EC after oil crisis; merger of Communities; Hague Summit; first enlargement details.
 
@@ -39,32 +39,32 @@ III. Hague Summit (December 1969)
       1. Enlargement agreed June 1971
       2. Effective 1 January 1973
 
-IV. First Enlargement — 1973 (Six → Nine)
+IV. First Enlargement 1973 (Six → Nine)
    A. New members
       1. United Kingdom
       2. Ireland
       3. Denmark
-   B. Special arrangements — Commonwealth
+   B. Special arrangements Commonwealth
       1. Eased difficulties for Commonwealth exports
       2. Commonwealth food subject to Community tariffs
-   C. Special arrangements — Fisheries
+   C. Special arrangements Fisheries
       1. New members had extensive fishing fleets
       2. Fisheries policy gave equal access to waters
       3. Would suffer most from competition
 
 V. Referendum Results
-   A. Norway — 53% against
+   A. Norway 53% against
       1. Fishing industry concerns
       2. Relationship with Scandinavian neighbors
       3. Did not join
-   B. Denmark — 63% in favor
+   B. Denmark 63% in favor
       1. Agriculture would benefit from CAP
       2. Chief exports to Britain and Germany
-   C. Ireland — 83% in favor
+   C. Ireland 83% in favor
       1. 70% of exports went to Britain
       2. Logical economic choice
 
-VI. Oil Crisis (1973) — Background
+VI. Oil Crisis (1973) Background
    A. Europe's dependence
       1. Prosperity depended on cheap oil
       2. $2/barrel average 1950–1973
@@ -74,7 +74,7 @@ VI. Oil Crisis (1973) — Background
       2. New producers charged low prices
       3. Changed dramatically in 1973
 
-VII. Oil Crisis — The Shock
+VII. Oil Crisis The Shock
    A. Trigger
       1. Arab-Israeli War (Yom Kippur)
       2. Arab embargo on oil supplies

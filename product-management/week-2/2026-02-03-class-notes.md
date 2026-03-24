@@ -1,5 +1,5 @@
-# Product Management — Class Notes
-## February 3, 2026 — Week 2
+# Product Management Class Notes
+## February 3, 2026 Week 2
 
 **Topic:** Personal vs. market problems; community validation; development cycles.
 
@@ -46,10 +46,10 @@ III. Value Creation Through Community
 
 IV. Design & Development Cycle
    A. Iterative process
-      1. Sprint — develop feature
-      2. Test — get user feedback
-      3. Learn — analyze results
-      4. Iterate — improve and repeat
+      1. Sprint develop feature
+      2. Test get user feedback
+      3. Learn analyze results
+      4. Iterate improve and repeat
    B. Prioritization
       1. Focus investment on most important features
       2. Don't try to build everything

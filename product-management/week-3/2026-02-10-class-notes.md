@@ -1,5 +1,5 @@
-# Product Management — Class Notes
-## February 10, 2026 — Week 3
+# Product Management Class Notes
+## February 10, 2026 Week 3
 
 **Topic:** Car industry efficiency; market share; McDonald's case; speed vs. customization trade-off.
 
@@ -18,7 +18,7 @@ I. Car Industry Efficiency
       1. Look at parent company performance
       2. Not just individual brand performance
 
-II. Case Study — McDonald's Production Systems
+II. Case Study McDonald's Production Systems
    A. Original system (forecast-based)
       1. Predict demand based on patterns
       2. Pre-prepare food before customers arrive
@@ -72,13 +72,13 @@ V. Business Model Differences
       2. Different companies = different approaches
       3. Market positioning matters
    B. Fast food examples
-      1. McDonald's — balance of speed and customization
-      2. Subway — high customization, slower
-      3. Chick-fil-A — quality focus
+      1. McDonald's balance of speed and customization
+      2. Subway high customization, slower
+      3. Chick-fil-A quality focus
    C. Car industry examples
-      1. Toyota — efficiency and reliability
-      2. BMW — performance and luxury
-      3. Tesla — innovation and technology
+      1. Toyota efficiency and reliability
+      2. BMW performance and luxury
+      3. Tesla innovation and technology
 
 VI. Production Strategy Options
    A. Make-to-stock

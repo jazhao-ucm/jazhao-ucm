@@ -1,5 +1,5 @@
-# Product Management — Class Notes
-## February 9, 2026 — Week 3
+# Product Management Class Notes
+## February 9, 2026 Week 3
 
 **Topic:** Production strategies; cost vs. price; fixed and variable costs; economies of scale.
 
@@ -72,15 +72,15 @@ V. Competing on Low Cost
       2. Quality may suffer
       3. Margins can be thin
 
-VI. Alternative Strategy — Differentiation
+VI. Alternative Strategy Differentiation
    A. Definition
       1. Compete on uniqueness, not price
       2. Premium pricing for premium features
       3. Less price-sensitive customers
    B. Examples
-      1. Apple — premium tech
-      2. Mercedes — luxury cars
-      3. Starbucks — premium coffee
+      1. Apple premium tech
+      2. Mercedes luxury cars
+      3. Starbucks premium coffee
    C. Trade-offs
       1. Smaller market
       2. Higher margins

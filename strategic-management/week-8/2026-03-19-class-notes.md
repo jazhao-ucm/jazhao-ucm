@@ -132,7 +132,7 @@ V. Reestructuring Businesses (6.4)
          f. Organizational inertia
          g. Etc.
 
-VI. Case Illustration (Starbucks strategy) — UNIT 6 Mapping
+VI. Case Illustration (Starbucks strategy) UNIT 6 Mapping
    A. Specialization (firm scope focus)
       1. (Case) core business focus -> strengthen competitive position
       2. (Case) value-added/perception logic -> support competitive position

@@ -5,7 +5,7 @@
 
 ---
 
-I. Grammar — `Tener` / `Tener que` / `Preferir`
+I. Grammar `Tener` / `Tener que` / `Preferir`
    A. `Tener` (presente)
       1. (yo) tengo
       2. (tú) tienes
@@ -28,7 +28,7 @@ I. Grammar — `Tener` / `Tener que` / `Preferir`
       5. Vosotros/Vosotras preferís
       6. Ellos/Ellas/Ustedes prefieren
 
-II. Grammar — `Ir` (presente) + planes
+II. Grammar `Ir` (presente) + planes
    A. `Ir` (presente)
       1. Yo voy
       2. Tú vas
@@ -47,7 +47,7 @@ II. Grammar — `Ir` (presente) + planes
          b. De compras
          c. De viaje
 
-III. `De` — objetos (formas tipo: X de Y)
+III. `De` objetos (formas tipo: X de Y)
    A. Combinaciones del ejercicio
       1. Toalla de playa
       2. Carne de identidad
@@ -58,7 +58,7 @@ III. `De` — objetos (formas tipo: X de Y)
       7. Cargador de móvil
       8. Secador de pelo
 
-IV. Diálogo — frases para describir ropa
+IV. Diálogo frases para describir ropa
    A. Calidad / precio
       1. Es bonito
       2. Es barato

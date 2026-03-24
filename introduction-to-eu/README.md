@@ -8,13 +8,13 @@ Course notes and materials for Introduction to the European Union at UCM.
 |------|--------|----------|
 | Class notes | Markdown (`.md`) | Each week folder |
 | Reading summaries | LaTeX (`.tex`) | Each week folder |
-| Reading template | LaTeX (`.tex`) | `week-1/reading-summary-template.tex` — copy to create new summaries |
+| Reading template | LaTeX (`.tex`) | `week-1/reading-summary-template.tex` copy to create new summaries |
 | Study materials | LaTeX (`.tex`) | Each week: topic-named guides (e.g. `zweig.tex`, `midterm.tex` in week-6) |
 | Readings | PDF | Week folders |
 
 All reading summaries follow the same structure (Rhetorical Framework, Bibliographic Info, Summary, Main Arguments, Context & Analysis, Relevance, Discussion Questions). Use the template in `week-1/` when adding new readings. Compile with `pdflatex filename.tex`.
 
-## Note-Taking Format — Formal Outline System
+## Note-Taking Format Formal Outline System
 
 All class notes follow the **Formal Outline Note Taking System**.
 
@@ -55,7 +55,7 @@ II. Topic
 6. **Period after each numeral or letter.**
 7. **Begin all lines with uppercase.**
 8. **Line up each level under the one above.**
-9. **No sentences** — rephrase briefly using abbreviations and symbols.
+9. **No sentences** rephrase briefly using abbreviations and symbols.
 10. **If you have 1, you must have 2. If A, you must have B.**
 
 ## Structure
