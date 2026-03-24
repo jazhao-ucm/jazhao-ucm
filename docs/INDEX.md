@@ -84,4 +84,4 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 
 ## Other
 - **jadewowgreen/** Project images
-- **matchaxmoxie/** Portfolio README at folder root (includes deploy); **`site/`** = pink GitHub Pages ([matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)); **`latex/`** = TeX sources; **`docs/`** = Markdown lint config
+- **matchaxmoxie/** Portfolio README + deploy; **`site/`** = Pages + MIT `LICENSE`, `CONTRIBUTING.md`; **`latex/`** + `BUILD.md`; **`scripts/publish-site.sh`** → [matchaxmoxie/matchaxmoxie](https://github.com/matchaxmoxie/matchaxmoxie); live [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/); **`docs/`** = Markdown lint
