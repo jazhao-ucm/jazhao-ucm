@@ -7,9 +7,9 @@ alwaysApply: true
 
 ## New class notes for a date
 
-1. **Which week?** Check **INDEX.md** for that course: dates are in the table (e.g. Mar 9–10 = week 7).
+1. **Which week?** Check **docs/INDEX.md** for that course: dates are in the table (e.g. Mar 9–10 = week 7).
 2. Create or edit `YYYY-MM-DD-class-notes.md` in that course's `week-N/` folder.
-3. Update that course's **README** (Structure) and, if the date/topic is new, root **INDEX.md**.
+3. Update that course's **README** (Structure) and, if the date/topic is new, **docs/INDEX.md**.
 
 ## User says "push"
 
@@ -21,5 +21,5 @@ alwaysApply: true
 
 ## Where things live
 
-- **INDEX.md** = single place for "which week has which dates/topics" per course. Check it when placing or naming content.
+- **docs/INDEX.md** = single place for "which week has which dates/topics" per course. Check it when placing or naming content.
 - **Course README** = Structure (week list), File Types. Update when files or structure change in that course.

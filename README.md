@@ -4,10 +4,11 @@ Course notes and materials for UCM (Universidad Complutense de Madrid).
 
 *Last updated: March 2026*
 
-**[→ Index of all courses and weeks](INDEX.md)**
+**[→ Index of all courses and weeks](docs/INDEX.md)** (file: `docs/INDEX.md`)
 
 ## What's in it
 
+- **`docs/`** – Week-by-week dates and topics for every course ([INDEX.md](docs/INDEX.md))
 - **`product-management/`** – Product Management: class notes, Business Model Canvas, value creation/capture, PM slides, Zara case, product design process, lean validation, design thinking, IDEO, SDLC, manufacturing process design
 - **`introduction-to-eu/`** – Introduction to the EU: class notes, reading summaries (Zweig, Judt, Anderson, Vinen, Gilbert, Kenny & Pearce, etc.), reading template in week-1, EU institutions, Gibraltar/accession, EMU, citizenship
 - **`management-global-markets/`** – Management in Global Markets: class notes, globalization/slowbalization, supply chains, international business strategies, global portfolio, internationalization, HR management, business plans (CaféOlé, Tierra Bar)

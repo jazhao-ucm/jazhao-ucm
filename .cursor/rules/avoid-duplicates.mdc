@@ -28,4 +28,4 @@ When working in this repo, avoid creating duplicates and clean up ones you find.
 
 ## After cleanup
 
-Update **README** and **INDEX.md** if any paths or listed filenames changed (see "Always update README and INDEX" rule).
+Update **README** and **docs/INDEX.md** if any paths or listed filenames changed (see "Always update README and INDEX" rule).

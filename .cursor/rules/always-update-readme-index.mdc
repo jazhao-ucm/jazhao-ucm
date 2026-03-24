@@ -1,5 +1,5 @@
 ---
-description: When adding or changing course content, always update the relevant README and INDEX.md
+description: When adding or changing course content, always update the relevant README and docs/INDEX.md
 alwaysApply: true
 ---
 
@@ -19,8 +19,8 @@ When you add, rename, or remove course content in this repo, **you must update t
 | Change in | Update |
 |-----------|--------|
 | A course (e.g. `introduction-to-eu/week-7/`) | That course’s **README.md** (Structure, and File Types if needed) |
-| Dates or topics for a week | Root **INDEX.md** (that course’s week table) |
-| Root-level or cross-course | Root **README.md** and/or **INDEX.md** |
+| Dates or topics for a week | **docs/INDEX.md** (that course’s week table) |
+| Root-level or cross-course | Root **README.md** and/or **docs/INDEX.md** |
 
 ## Before you're done
 

@@ -18,4 +18,4 @@ alwaysApply: true
 
 ## After rename or move
 
-Update the course **README** and root **INDEX.md** if paths or listed filenames change (see "Always update README and INDEX" rule).
+Update the course **README** and **docs/INDEX.md** if paths or listed filenames change (see "Always update README and INDEX" rule).
