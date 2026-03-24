@@ -6,9 +6,9 @@ Course notes and materials for Spanish for Beginners at UCM. Instructor: Mercede
 
 | Type | Format | Location |
 |------|--------|----------|
-| Class notes | Markdown (`.md`) | Each week folder |
-| Study materials | LaTeX (`.tex`) | Each week: topic-named `.tex` (e.g. `unit-1-intro.tex`, `unit-2-por-para.tex`). Week 6: `midterm-units-1-3.tex`, `geography-weather.tex`, `study-from-chat.tex`. Compile: `pdflatex <filename>.tex` |
-| Textbook & homework | PDF | By week: `unit-N-*.pdf` in that unit’s week; `scan-YYYY-MM-DD.pdf` in week-2. Class notes keep date in filename (`YYYY-MM-DD-class-notes.md`). |
+| Class notes | Markdown (`.md`) | Each week folder (`YYYY-MM-DD-class-notes.md` where present) |
+| Study materials | LaTeX (`.tex`) | `week-5/unit-3-listening-exam.tex`, `week-6/midterm-units-1-3.tex`, `week-6/study-from-chat.tex`. Compile: `pdflatex <filename>.tex` |
+| Textbook & homework | PDF | By week: `unit-N-*.pdf`, `scan-YYYY-MM-DD.pdf` |
 
 ## Note-Taking Format — Formal Outline System
 
@@ -63,12 +63,12 @@ II. Topic
 
 ## Structure
 
-- `week-1/` — Jan 28–29: Course intro, Unit 1 start. `unit-1-intro.tex`; `unit-1-fichas-inmersion.pdf`, `unit-1-fichas-trabajo.pdf`; `2026-01-28-class-notes.md`.
-- `week-2/` — Feb 4–5: Unit 1. `unit-1-numeros-nacionalidades.tex`; `scan-2026-02-04.pdf`, `scan-2026-02-05.pdf`; `2026-02-04-class-notes.md`.
-- `week-3/` — Feb 12: Unit 2. `unit-2-por-para.tex`; `unit-2-proyectable.pdf`; `2026-02-12-class-notes.md`.
-- `week-4/` — Feb 18–19: Unit 3. `unit-3-pronunciacion-presente.tex`; `unit-3-proyectable.pdf`, `unit-3-transcripcion.pdf`; `2026-02-18-class-notes.md`.
+- `week-1/` — Jan 28–29: Course intro, Unit 1 start. `2026-01-28-class-notes.md`; `unit-1-fichas-inmersion.pdf`, `unit-1-fichas-trabajo.pdf`.
+- `week-2/` — Feb 4–5: Unit 1. `scan-2026-02-04.pdf`, `scan-2026-02-05.pdf`.
+- `week-3/` — Feb 12: Unit 2. `unit-2-proyectable.pdf`.
+- `week-4/` — Feb 18–19: Unit 3. `unit-3-proyectable.pdf`, `unit-3-transcripcion.pdf`.
 - `week-5/` — Feb 25–26: Unit 3. `unit-3-listening-exam.tex`; `2026-02-25-class-notes.md`.
-- `week-6/` — Mar 4: Midterm prep. `midterm-units-1-3.tex`, `geography-weather.tex`, `study-from-chat.tex`; `2026-03-04-class-notes.md`.
+- `week-6/` — Mar 4: Midterm prep. `midterm-units-1-3.tex`, `study-from-chat.tex`.
 - `week-7/` — Mar 12: Unit 4 grammar focus (`tener`, `tener que`, `preferir`, `ir` + planes; objetos con `de`); `2026-03-12-class-notes.md`.
 - `week-8/` — Mar 19: Unit 4 vocab/practice (ropa `es/es de`, colores, combinaciones); `2026-03-19-class-notes.md`.
 

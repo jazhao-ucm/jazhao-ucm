@@ -64,5 +64,5 @@ II. Topic
 - `week-5/` - Feb 23 & 24: class notes, internationalization, export, resources; `internationalization-export.tex`
 - `week-6/` - Mar 2 & 3: class notes, HR (Ditta); `midterm.tex`
 - `week-7/` - Mar 9 & 10: class notes (Mar 9 = business plan intro, CaféOlé; Mar 10 = work time on project); `business-plan.tex`, `business-plan-guide.tex`, `business-plan-tierra-bar.tex`
-- `week-8/` - Mar 16: class notes (midterm prep: complexity, skills, training, economic blocks); `midterm-closed-notes.tex`, slides on markets \& areas (`PP Mercaso y areas 2019-20 III .pptx [Repaired](1).pptx.pdf`, `LC0036-PPT-ENG (5).pptx`)
-- `week-9/` - Mar 23: class notes (formal-outline synthesis of Part 2/Part 3 internationalization slides, Mercosur/economic integration areas, and LC0036 B2B sales process); files: `DOING BUSINESS IN EUROPE PART 2.pdf`, `DOING BUSINESS IN EUROPE PART 3.pdf`, `PP Mercaso y areas 2019-20 III .pptx [Repaired](1).pdf`, `LC0036-PPT-ENG (5).pdf`
+- `week-8/` - Mar 16: class notes (midterm prep: complexity, skills, training, economic blocks); `midterm-closed-notes.tex`; `mercosur-markets-integration-areas-2019-20-midterm-export.pdf`; `lc0036-b2b-sales-process.pptx` (source deck; week-9 has PDF export)
+- `week-9/` - Mar 23: class notes (Part 2/Part 3 internationalization, Mercosur/integration areas, LC0036 B2B sales); `doing-business-europe-part-2.pdf`, `doing-business-europe-part-3.pdf`, `mercosur-markets-integration-areas-2019-20.pdf`, `lc0036-b2b-sales-process.pdf`

@@ -56,5 +56,5 @@ II. Topic
 - `week-4/` - Feb 18 & 19: class notes, Five Forces, Clusters; `five-forces-clusters.tex`
 - `week-5/` - Feb 25 & 26: class notes, Madonna/Lola Flores, RBV, VRIN; `rbv-vrin.tex`
 - `week-6/` - Mar 4: class notes, RBV, midterm prep; `midterm.tex` (full guide + exam-writing patterns), `midterm-exam-phrases.tex`
-- `week-7/` - Mar 12: class notes, Unit 5 Competitive Strategy (cost leadership, differentiation, focus, strategy clock); `2026-03-12-class-notes.md`
-- `week-8/` - Mar 18–19: exam prep notes (Units 1–4) + additional media/politics notes from photos + transcript add-on section ("Class Fragments" with high-/low-confidence split) + Unit 6 Corporate Strategy Development notes; `2026-03-18-class-notes.md`, `2026-03-19-class-notes.md`
+- `week-7/` - Mar 12: class notes, Unit 5 Competitive Strategy (cost leadership, differentiation, focus, strategy clock); `2026-03-12-class-notes.md`; `sm-unit-5-competitive-strategy.pdf`; `sm-week-7-photo-01.jpeg`, `sm-week-7-photo-02.jpeg`; Unit 5 illustration DOCX files
+- `week-8/` - Mar 18–19: exam prep (Units 1–4) + board photos + Unit 6 Corporate Strategy Development; `2026-03-18-class-notes.md`, `2026-03-19-class-notes.md`; `sm-unit-6-corporate-strategy-development.pdf`; `monitor-gmc.pdf`; `zhao-jade-exam-prep.pdf`; `gregorio-martin-de-castro-exam-review-grade-monitor.zip`; `sm-week-8-notes-01.JPG`–`sm-week-8-notes-11.JPG`

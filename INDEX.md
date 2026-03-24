@@ -48,7 +48,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 6 | Mar 2–3 | HR Management (Ditta), midterm |
 | 7 | Mar 9–10 | Global Management Project, Business Plan (CaféOlé, Tierra Bar), work time |
 | 8 | Mar 16 | Midterm prep: complexity, skills, training, economic blocks, economic integration |
-| 9 | Mar 23 | Class notes (TBD) |
+| 9 | Mar 23 | Internationalization (Part 2/Part 3), Mercosur and integration areas, LC0036 B2B sales process, cross-file synthesis |
 
 ---
 
