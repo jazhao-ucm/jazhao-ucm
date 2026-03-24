@@ -9,6 +9,7 @@ Course notes and materials for UCM (Universidad Complutense de Madrid).
 ## What's in it
 
 - **`docs/`** – Week-by-week dates and topics for every course ([INDEX.md](docs/INDEX.md))
+- **`scripts/`** – Small repo helpers; e.g. `python3 scripts/check_index_weeks.py` checks that `docs/INDEX.md` week rows have matching `week-*` folders per course
 - **`.gitignore`** / **`.markdownlint.yaml`** (repo root) – LaTeX build ignores and Markdown lint defaults for all course folders (no per-course copies)
 - **`.cursorrules`** – Single Cursor / agent rules file for this repo (how to edit notes, push, INDEX, duplicates)
 - **`product-management/`** – Product Management: class notes, Business Model Canvas, value creation/capture, PM slides, Zara case, product design process, lean validation, design thinking, IDEO, SDLC, manufacturing process design
