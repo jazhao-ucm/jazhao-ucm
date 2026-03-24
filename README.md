@@ -18,7 +18,7 @@ Course notes and materials for UCM (Universidad Complutense de Madrid).
 - **`spanish-for-beginners/`** – Spanish for Beginners: dated class notes where present, Aula Plus PDFs, midterm/listening LaTeX in later weeks, homework scans
 - **`ucm-midterm/`** – One-page cheat sheets for all 5 UCM courses (spanish-only, intro-eu-only, product-mgmt-only, strategic-only, management-global-only) and combined `blue-notes-all.tex`
 - **`jadewowgreen/`** – Project images and materials
-- **`matchaxmoxie/`** – Resume, portfolio README, pink static site ([live](https://matchaxmoxie.github.io/matchaxmoxie/); `index.html` / `styles.css`). See `matchaxmoxie/DEPLOY.md`.
+- **`matchaxmoxie/`** – Portfolio: root **`README.md` only**; **`matchaxmoxie/site/`** = GitHub Pages assets ([live](https://matchaxmoxie.github.io/matchaxmoxie/)); **`latex/`** = `jade-zhao-*.tex` + `reference/` scans; **`docs/DEPLOY.md`** = hosting.
 - **`j.adezhao/`** – DO NOT COMMIT OR PUSH (local-only)
 
 ## Note-Taking Format

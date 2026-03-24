@@ -84,4 +84,4 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 
 ## Other
 - **jadewowgreen/** — Project images
-- **matchaxmoxie/** — Resume, portfolio README, pink GitHub Pages site ([matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/); `index.html`, `styles.css`; `DEPLOY.md`)
+- **matchaxmoxie/** — Portfolio README at folder root; **`site/`** = pink GitHub Pages ([matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)); **`latex/`** = TeX sources; **`docs/DEPLOY.md`**

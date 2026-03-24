@@ -56,7 +56,7 @@ When cleaning notes/tex: **formatting, structure, typos, whitespace, LaTeX typog
 
 ## Default scope (folders)
 
-- **`jadewowgreen/`** and **`matchaxmoxie/`:** do **not** change unless the user clearly asks (skip in bulk “all courses” work).
+- **`jadewowgreen/`** and **`matchaxmoxie/`:** do **not** change unless the user clearly asks (skip in bulk “all courses” work). **`matchaxmoxie/`** layout: root **`README.md` only**; **`site/`** = Pages assets; **`latex/`** = `jade-zhao-*.tex` + **`reference/`** scans; **`docs/`** = `DEPLOY.md`, lint config.
 - User request for those paths **overrides** this.
 
 ---

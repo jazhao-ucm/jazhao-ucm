@@ -1,4 +1,4 @@
-# Deploy matchaxmoxie/ to GitHub Pages from the UCM monorepo.
+# Deploy matchaxmoxie/site/ (Pages root) to GitHub Pages from the UCM monorepo.
 # Repo → Settings → Pages → Source: GitHub Actions.
 
 name: Deploy matchaxmoxie to Pages
@@ -37,7 +37,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: matchaxmoxie
+          path: matchaxmoxie/site
 
       - name: Deploy to GitHub Pages
         id: deployment
