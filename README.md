@@ -9,6 +9,7 @@ Course notes and materials for UCM (Universidad Complutense de Madrid).
 ## What's in it
 
 - **`docs/`** – Week-by-week dates and topics for every course ([INDEX.md](docs/INDEX.md))
+- **`.cursorrules`** – Single Cursor / agent rules file for this repo (how to edit notes, push, INDEX, duplicates)
 - **`product-management/`** – Product Management: class notes, Business Model Canvas, value creation/capture, PM slides, Zara case, product design process, lean validation, design thinking, IDEO, SDLC, manufacturing process design
 - **`introduction-to-eu/`** – Introduction to the EU: class notes, reading summaries (Zweig, Judt, Anderson, Vinen, Gilbert, Kenny & Pearce, etc.), reading template in week-1, EU institutions, Gibraltar/accession, EMU, citizenship
 - **`management-global-markets/`** – Management in Global Markets: class notes, globalization/slowbalization, supply chains, international business strategies, global portfolio, internationalization, HR management, business plans (CaféOlé, Tierra Bar)
@@ -16,7 +17,7 @@ Course notes and materials for UCM (Universidad Complutense de Madrid).
 - **`spanish-for-beginners/`** – Spanish for Beginners: dated class notes where present, Aula Plus PDFs, midterm/listening LaTeX in later weeks, homework scans
 - **`ucm-midterm/`** – One-page cheat sheets for all 5 UCM courses (spanish-only, intro-eu-only, product-mgmt-only, strategic-only, management-global-only) and combined `blue-notes-all.tex`
 - **`jadewowgreen/`** – Project images and materials
-- **`matchaxmoxie/`** – Resume, portfolio README, pink static site ([live](https://matchaxmoxie.github.io/matchaxmoxie/); `index.html` / `styles.css`) — see `matchaxmoxie/DEPLOY.md`
+- **`matchaxmoxie/`** – Resume, portfolio README, pink static site ([live](https://matchaxmoxie.github.io/matchaxmoxie/); `index.html` / `styles.css`). See `matchaxmoxie/DEPLOY.md`.
 - **`j.adezhao/`** – DO NOT COMMIT OR PUSH (local-only)
 
 ## Note-Taking Format

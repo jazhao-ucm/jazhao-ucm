@@ -1,47 +1,105 @@
-# UCM Course Notes — Cursor Rules
+# UCM Course Notes — Cursor rules (single file)
+
+Everything for this repo lives here. No separate rule modules.
+
+---
 
 ## Project
-Course notes and materials for UCM (Universidad Complutense de Madrid). Multi-course monorepo.
 
-## Where to look
-- **docs/INDEX.md** = dates and topics per week per course. Use it to decide which week a date belongs to.
-- **Each course folder** = its own README (Structure, File Types). Update when you add/change files there.
-- **ucm-midterm/** = one-page cheat sheets for all 5 courses; separate from course week folders.
+Course notes and materials for **UCM** (Universidad Complutense de Madrid). Multi-course monorepo.
 
-## When user says "push"
-Stage relevant changes, commit with a clear message (e.g. "Intro EU Mar 10: add exam admin, update README"), push to main (jazhao-ucm). If nothing to commit, say so.
+**Courses:** `product-management`, `introduction-to-eu`, `management-global-markets`, `strategic-management`, `spanish-for-beginners`.
 
-## Don't (unless user asks)
-- No large renames or reorgs across the repo. Prefer small, targeted changes.
-- No .txt for notes—use .md. No .docx—use .md or .tex.
-- Don't guess which week a date is in—check docs/INDEX.md.
+---
 
-## Conventions
-- **Class notes:** `YYYY-MM-DD-class-notes.md` in `week-N/` folders
-- **Format:** Formal Outline (I, II, III / A, B, C / 1, 2, 3)
-- **Courses:** product-management, introduction-to-eu, management-global-markets, strategic-management, spanish-for-beginners
-- **Study guides:** Topic-named (e.g. `zweig.tex`, `midterm.tex`), not generic `study-guide.tex`. Week-6 main guide = `midterm.tex` per course.
-- **PDFs:** Clear names (e.g. `judt-origins-of-european-union.pdf`). Spanish: unit PDFs in that unit's week; scans = `scan-YYYY-MM-DD.pdf`.
+## Where things live
 
-## Source of truth
-- For **course content** (class notes, reading summaries, study guides, exam prep): use **only** what is in the repo and what the user provides in chat. Do not use web search or other external sources to add, "correct," or expand substantive content. The user's notes and materials are the single source of truth.
+| What | Where |
+|------|--------|
+| Week ↔ dates ↔ topics | **docs/INDEX.md** (never guess a week; check this first) |
+| Per-course inventory | Each course’s **README.md** (Structure, File Types) |
+| Root landing | **README.md** (repo overview) |
+| Extra docs | **docs/README.md** |
+| Midterm one-pagers (if folder exists) | **ucm-midterm/** |
 
-## When editing
-- Preserve the outline structure in class notes
-- Use jazhao-ucm remote for push/pull (main branch)
-- **Preserve content:** When improving or cleaning notes/tex, only fix formatting, structure, typos, whitespace. Don't change the substance of class notes or reading content.
-- **Excluded folders:** Don't modify `jadewowgreen/` or `matchaxmoxie/` unless the user explicitly asks.
+---
 
-## Always update the .md (required)
-When you **add, rename, or remove** any of the following, you **must** update the corresponding Markdown so the repo stays accurate:
-- **New or changed class notes** (`YYYY-MM-DD-class-notes.md`) → update that course’s **README** (Structure section) and, if dates/topics change, **docs/INDEX.md** (that course’s table).
-- **New or changed files in a week** (e.g. new .tex, new PDF, new study guide) → update that course’s **README** (Structure and/or File Types).
-- **New week folder or major reorg** → update course **README** and **docs/INDEX.md**.
-- **Root-level or cross-course change** → update **README.md** and/or **docs/INDEX.md**.
+## Workflow
 
-Checklist: after any such edit, ask “Did I update the README and INDEX where needed?” and do it before considering the task done.
+### New class notes
 
-## Avoid duplicates
-- **Before adding** a new file (especially PDFs, scans, or study materials), check if the same or equivalent content already exists elsewhere in that course (e.g. same PDF in another week, or " (1)" copy).
-- **When reorganising**, prefer **rename/move** over copy so you don't leave duplicates. Remove or replace the old path.
-- **Clean up when you spot:** duplicate filenames (e.g. `file (1).pdf`), same basename in multiple weeks, backup/copy leftovers (`.bak`, `-copy`, ` (1)`). Rename to a clear name or remove the duplicate; update README/INDEX if paths change.
+1. Open **docs/INDEX.md** for that course and find the week for the date.
+2. Create or edit **`YYYY-MM-DD-class-notes.md`** in `course/week-N/`.
+3. Update that course **README** (Structure). If the date or topic is new, update **docs/INDEX.md**.
+
+### User says **push**
+
+1. `git status`
+2. `git add` (relevant paths), `git commit -m "Clear message"`, `git push` to **jazhao-ucm** / **main**.
+3. Do **not** stage, commit, or push anything under **`j.adezhao/`** (any depth). Leave untracked or restore before commit.
+4. If clean: say nothing to commit / already up to date.
+
+---
+
+## Source of truth (course content)
+
+For class notes, reading summaries, study guides, exam prep, business plans:
+
+- Use **only** this repo + what the user puts in chat.
+- Do **not** use web search or outside sources to add, “fix,” or expand **substance**.
+- **Exception:** user explicitly asks to look something up.
+
+When cleaning notes/tex: **formatting, structure, typos, whitespace, LaTeX typography only** — do **not** change meaning or rewrite voice.
+
+---
+
+## Default scope (folders)
+
+- **`jadewowgreen/`** and **`matchaxmoxie/`:** do **not** change unless the user clearly asks (skip in bulk “all courses” work).
+- User request for those paths **overrides** this.
+
+---
+
+## Naming and placement
+
+- **Class notes:** `YYYY-MM-DD-class-notes.md` in `week-N/`. **Format:** formal outline (I / A / 1 / a).
+- **Study guides (.tex):** topic names (`zweig.tex`, `midterm.tex`), not `study-guide.tex`. Week-6 main guide = **`midterm.tex`** per course.
+- **PDFs:** clear names (e.g. `judt-origins-of-european-union.pdf`). **Spanish:** unit PDFs in that unit’s week; scans = `scan-YYYY-MM-DD.pdf`.
+- **No** `.txt` for notes (use `.md`). **No** `.docx` for notes (use `.md` or `.tex`).
+
+After any rename/move: update course **README** and **docs/INDEX.md** if paths or listed files change.
+
+---
+
+## Duplicates
+
+Before adding a file (especially PDFs), check the same course for an existing copy or ` (1)` download duplicate. Prefer **move/rename** over a second file; remove cruft (`.bak`, `-copy`, ` (1)`).
+
+| Signal | Action |
+|--------|--------|
+| ` (1)` / `(2)` in name | One clear name; drop true duplicate |
+| Same file in two weeks | Keep correct week; fix docs |
+| Same content, two names | One canonical name; update README/INDEX |
+
+---
+
+## Always update Markdown (checklist)
+
+After **add / rename / remove** of class notes, week files, or week folders:
+
+| Change | Update |
+|--------|--------|
+| Course week content | That course **README.md** |
+| Dates or topics for a week | **docs/INDEX.md** |
+| Root / cross-course | **README.md** and/or **docs/INDEX.md** |
+
+Before finishing: *Did I update README and docs/INDEX where this shows up?*
+
+---
+
+## Don’t (unless the user asks)
+
+- Large repo-wide renames/reorgs — prefer small, targeted edits.
+- Guess which week a date belongs to — use **docs/INDEX.md**.
+
+---
