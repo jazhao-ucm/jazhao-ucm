@@ -7,7 +7,7 @@ Course notes and materials for Product Management at UCM.
 | Type | Format | Location |
 |------|--------|----------|
 | Class notes | Markdown (`.md`) | Each week folder |
-| Memos / assignments | Markdown (`.md`) | Week folders (e.g. `piano-process-design-memo.md`) |
+| Memos / assignments | Markdown (`.md`) | Week folders (e.g. `piano-process-design-memo.md`); course admin: `midterm-course-feedback-2025-2026.tex` (midterm feedback draft; `pdflatex midterm-course-feedback-2025-2026.tex`) |
 | Study materials | LaTeX (`.tex`) | Each week: topic-named guides (e.g. `bmc-value-creation.tex`, `midterm.tex` in week-6). Compile: `pdflatex filename.tex` |
 | Readings & slides | PDF, DOCX | Week folders |
 
@@ -49,6 +49,7 @@ II. Topic
 
 ## Structure
 
+- `midterm-course-feedback-2025-2026.tex` — MidTerm course feedback form (draft answers) for 2025–2026; compile: `pdflatex midterm-course-feedback-2025-2026.tex`
 - `week-1/` - Jan 26 & 27: class notes, BMC, value creation/capture, PM1; `bmc-value-creation.tex`. Exam samples: `FirstMidtermSolved.pdf`, `MIDTERM1_2024_2025.pdf`, `FINALEXAMSAMPLE.pdf`
 - `week-2/` - Feb 2 & 3: class notes, PM2, PM roles; `pm-roles-value-chain.tex`
 - `week-3/` - Feb 9 & 10: class notes, PM3; `pm3-csda.tex`
