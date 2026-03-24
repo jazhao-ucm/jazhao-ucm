@@ -64,6 +64,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 6 | Mar 4 | RBV continued, midterm prep |
 | 7 | Mar 12 | Competitive Strategy (cost leadership, differentiation, focus, strategy clock) |
 | 8 | Mar 18–19 | Exam prep overview (Units 1–4); external vs. internal analysis; deliberate vs. emergent strategy; Unit 6 Corporate Strategy Development (firm scope, specialization vs. diversification, vertical integration, reestructuring) |
+| 9 | Mar 23 | Starbucks strategy case discussion (success factors + growth maintenance), to continue next class |
 
 ---
 

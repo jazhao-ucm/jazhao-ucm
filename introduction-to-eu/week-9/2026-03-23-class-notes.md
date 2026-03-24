@@ -76,3 +76,26 @@ VII. Extra institutional recap (from transcript) democratic deficit
       2. Commission/Council had strong role; EP supposed to represent citizens but limited power
    C. Why it matters for today's debate lens
       1. Connects "institutions + who controls law-making" to workshop tasks (parliament vocabulary, procedures, groups)
+
+VIII. Oral Answer Template (60-90 Seconds, Class Use).
+   A. Opening.
+      1. "THE HOUSING CRISIS DEBATE IS MAINLY A CONFLICT ABOUT EU ROLE, MARKET TOOLS, AND SOCIAL RIGHTS."
+      2. "I WILL COMPARE GROUP POSITIONS USING LEXICON, POLICY TOOLS, AND PASS/BLOCK LOGIC."
+   B. Group Comparison.
+      1. "EPP/RENEW PRIORITIZE SUPPLY + INVESTMENT EFFICIENCY; S&D/GREENS/THE LEFT PRIORITIZE STRONGER PUBLIC INTERVENTION."
+      2. "ECR/PfE/ESN EMPHASIZE SUBSIDIARITY OR SOVEREIGNTY AND RESIST BINDING EU MANDATES."
+   C. Institutional Lens.
+      1. "EUROPARL DEBATE FORMAT SHOWS HOW COALITIONS SHAPE WHAT CAN PASS."
+      2. "THE DEMOCRATIC DEFICIT QUESTION IS WHO HAS REAL CONTROL OVER FINAL OUTCOMES."
+   D. Close.
+      1. "THE KEY ANALYTICAL STEP IS TO LINK EACH POSITION TO ITS ASSUMPTIONS ABOUT EU COMPETENCE."
+      2. "THAT EXPLAINS BOTH POLICY CONTENT AND VOTING BEHAVIOR."
+
+X. 30-Second Cold Call Version.
+A. 3-Line Speaking Frame.
+   1. TOPIC: STATE THE CORE QUESTION IN ONE LINE.
+   2. LOGIC: GIVE 2 DRIVERS/FACTORS THAT EXPLAIN THE ANSWER.
+   3. ACTION: END WITH ONE DECISION OR IMPLICATION.
+B. Delivery Rule.
+   1. 25-30 SECONDS MAX.
+   2. NO BACKGROUND STORY; GO STRAIGHT TO CLAIM + EVIDENCE + CLOSE.

@@ -233,3 +233,26 @@ XV. Key Takeaways
    H. All departments are connected - managers must communicate across functions
    I. Logistics is critical - 95% of trade moves by ship
    J. Culture matters - what works in one country doesn't work in another
+
+X. 30-Second Cold Call Version.
+A. 3-Line Speaking Frame.
+   1. TOPIC: STATE THE CORE QUESTION IN ONE LINE.
+   2. LOGIC: GIVE 2 DRIVERS/FACTORS THAT EXPLAIN THE ANSWER.
+   3. ACTION: END WITH ONE DECISION OR IMPLICATION.
+B. Delivery Rule.
+   1. 25-30 SECONDS MAX.
+   2. NO BACKGROUND STORY; GO STRAIGHT TO CLAIM + EVIDENCE + CLOSE.
+
+DI. Oral Answer Template (60-90 Seconds, Class Use).
+A. Opening.
+   1. STATE THE CORE QUESTION OR TOPIC IN ONE LINE.
+   2. STATE YOUR MAIN CLAIM/THESIS IN ONE LINE.
+B. Logic.
+   1. GIVE 2-3 KEY FACTORS OR DRIVERS.
+   2. LINK EACH FACTOR TO THE CLAIM (CAUSE -> EFFECT).
+C. Action Or Implication.
+   1. END WITH ONE DECISION, RECOMMENDATION, OR CONSEQUENCE.
+   2. CLOSE CLEARLY WITHOUT ADDING NEW IDEAS.
+D. Delivery Rule.
+   1. 60-90 SECONDS.
+   2. CLAIM -> EVIDENCE -> CLOSE.
