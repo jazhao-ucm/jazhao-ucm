@@ -63,14 +63,16 @@ II. Topic
 
 ## Structure
 
-- `week-1/` Jan 28–29: Course intro, Unit 1 start. `2026-01-28-class-notes.md`; `unit-1-fichas-inmersion.pdf`, `unit-1-fichas-trabajo.pdf`.
-- `week-2/` Feb 4–5: Unit 1. `scan-2026-02-04.pdf`, `scan-2026-02-05.pdf`.
-- `week-3/` Feb 12: Unit 2. `unit-2-proyectable.pdf`.
-- `week-4/` Feb 18–19: Unit 3. `unit-3-proyectable.pdf`, `unit-3-transcripcion.pdf`.
-- `week-5/` Feb 25–26: Unit 3. `unit-3-listening-exam.tex`; `2026-02-25-class-notes.md`.
-- `week-6/` Mar 4: Midterm prep. `midterm-units-1-3.tex`, `study-from-chat.tex`.
-- `week-7/` Mar 12: Unit 4 grammar focus (`tener`, `tener que`, `preferir`, `ir` + planes; objetos con `de`); `2026-03-12-class-notes.md`.
-- `week-8/` Mar 19: Unit 4 vocab/practice (ropa `es/es de`, colores, combinaciones); `2026-03-19-class-notes.md`.
+Dates and week topics: repo root [`docs/INDEX.md`](../docs/INDEX.md). *(This course has weeks 1–8 in the index; no `week-9/` here.)*
+
+- `week-1/` - Jan 28–29: course intro, Unit 1. `2026-01-28-class-notes.md`, `unit-1-fichas-inmersion.pdf`, `unit-1-fichas-trabajo.pdf`
+- `week-2/` - Feb 4–5: Unit 1. `scan-2026-02-04.pdf`, `scan-2026-02-05.pdf`
+- `week-3/` - Feb 12: Unit 2. `unit-2-proyectable.pdf`
+- `week-4/` - Feb 18–19: Unit 3. `unit-3-proyectable.pdf`, `unit-3-transcripcion.pdf`
+- `week-5/` - Feb 25–26: Unit 3. `unit-3-listening-exam.tex`, `2026-02-25-class-notes.md`
+- `week-6/` - Mar 4: midterm prep. `midterm-units-1-3.tex`, `study-from-chat.tex`
+- `week-7/` - Mar 12: Unit 4 grammar (`tener`, `tener que`, `preferir`, `ir` + planes; objetos con `de`). `2026-03-12-class-notes.md`
+- `week-8/` - Mar 19: Unit 4 vocab/practice (ropa `es/es de`, colores, combinaciones). `2026-03-19-class-notes.md`
 
 ## Homework reference
 

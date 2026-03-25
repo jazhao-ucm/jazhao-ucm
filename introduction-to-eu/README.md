@@ -60,6 +60,8 @@ II. Topic
 
 ## Structure
 
+Dates and week topics: repo root [`docs/INDEX.md`](../docs/INDEX.md).
+
 - `week-1/` - Jan 26 & 27: class notes, Zweig reading summary; `zweig.tex`
 - `week-2/` - Feb 2 & 3: class notes, Judt, Krawatzek & Pestel summaries; `judt-krawatzek-pestel.tex`
 - `week-3/` - Feb 9 & 10: class notes, Seidel, Warlouzet summaries; `warlouzet-reinventing-europe.tex`
@@ -68,4 +70,4 @@ II. Topic
 - `week-6/` - Mar 2 & 3: class notes, Gibraltar/Spanish accession, Euroscepticism, Brexit; `midterm.tex`
 - `week-7/` - Mar 9 & 10: class notes, Twin Executive readings, exam format (text analysis), Ribera vs von der Leyen, Costa/multilateralism, Duff/Commission vs Council; `eu-institutions.tex`
 - `week-8/` - Mar 16: class notes, midterm prep (day before exam).
-- `week-9/` - Mar 23 & 24: Mar 23 European Parliament session readings (`7a Parlamentary Europe.pdf`, `7b Olsen European Parliament.pdf`, `European Parliament.pdf`) + reading summaries (`7a-Parlamentary-Europe-reading-summary.tex`, `7b-Olsen-European-Parliament-reading-summary.tex`, `European-Parliament-reading-summary.tex`) + housing crisis workshop (group-by-group debate lines, pass/block positions, fault-line map, quick comparison grid, and European Housing Alliance cue); `eu-housing-crisis-workshop.tex` + Zach's notes export (`2026-03-23-zachs-notes.tex`). Mar 24 class notes on CJEU/ECJ role, integration through law (Davies), primacy tensions, and rule-of-law backsliding debate; `2026-03-24-class-notes.md`. Judiciary PDFs now stored in week-9: `8a Court of justice.pdf`, `8b The Judiciary.pdf`, `Some remarks on the EU s action on the erosion of the rule of law in Poland and Hungary.pdf`. Added judiciary reading summaries in `.tex`: `8a-Court-of-justice-reading-summary.tex`, `8b-The-Judiciary-reading-summary.tex`, `Some-remarks-rule-of-law-Poland-Hungary-reading-summary.tex`
+- `week-9/` - Mar 23 & 24: Mar 23 — EU Parliament sessions + housing crisis workshop; Mar 24 — CJEU/ECJ, integration through law, primacy, rule-of-law backsliding; `2026-03-23-class-notes.md`, `2026-03-24-class-notes.md`, `eu-housing-crisis-workshop.tex`, `2026-03-23-zachs-notes.tex`, `7a-Parlamentary-Europe-reading-summary.tex`, `7b-Olsen-European-Parliament-reading-summary.tex`, `European-Parliament-reading-summary.tex`, `8a-Court-of-justice-reading-summary.tex`, `8b-The-Judiciary-reading-summary.tex`, `Some-remarks-rule-of-law-Poland-Hungary-reading-summary.tex`

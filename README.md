@@ -30,6 +30,6 @@ All class notes follow the **Formal Outline Note Taking System** format:
 - **Arabic numerals (1, 2, 3, etc.)** for supporting details
 - **Lowercase letters (a, b, c, etc.)** for nested sub-details
 
-Each course folder has its own README with a detailed week-by-week breakdown of what's inside.
+Each course README has **Structure** (week folders and key files). **Calendar dates and topics** for every course live in **`docs/INDEX.md`**.
 
 **LaTeX:** From the folder containing a `.tex` file, run `pdflatex filename.tex` to build the PDF.

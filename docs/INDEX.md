@@ -16,7 +16,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 6 | Mar 2–3 | Design thinking, IDEO, empathy, observation, brainstorming |
 | 7 | Mar 9–10 | Manufacturing process design, piano memo (craftsman vs. Yamaha) |
 | 8 | Mar 16–17 | Midterm prep (Mar 16), all-in-one midterm-print-all.tex, customer interview project (meeting new people) |
-| 9 | Mar 23-24 | Mar 23 social app/dating app concept (gamification + common interests + quality over quantity); Mar 24 service internationalization and service operations setup |
+| 9 | Mar 23–24 | Mar 23 social app/dating app concept (gamification + common interests + quality over quantity); Mar 24 service internationalization and service operations setup |
 
 ---
 
@@ -32,7 +32,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 6 | Mar 2–3 | Gibraltar, Spanish accession, Euroscepticism, Brexit |
 | 7 | Mar 9–10 | EU institutions, exam prep (text analysis), Ribera/von der Leyen, Costa, Duff/twin executive |
 | 8 | Mar 16 | Midterm prep (day before exam), institutions recap |
-| 9 | Mar 23-24 | Mar 23 EU institutions by session + housing crisis workshop (Europarl search, group debate); Mar 24 CJEU/ECJ role, integration through law (Davies), primacy tensions, and rule-of-law backsliding debate (Hungary/Poland) |
+| 9 | Mar 23–24 | Mar 23 EU institutions by session + housing crisis workshop (Europarl search, group debate); Mar 24 CJEU/ECJ role, integration through law (Davies), primacy tensions, and rule-of-law backsliding debate (Hungary/Poland) |
 
 ---
 
@@ -48,7 +48,7 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 6 | Mar 2–3 | HR Management (Ditta), midterm |
 | 7 | Mar 9–10 | Global Management Project, Business Plan (CaféOlé, Tierra Bar), work time |
 | 8 | Mar 16 | Midterm prep: complexity, skills, training, economic blocks, economic integration |
-| 9 | Mar 23-24 | Internationalization (Part 2/Part 3), Mercosur and integration areas, LC0036 B2B sales process, cross-file synthesis; Mar 24 execution focus: change scenarios, financial levers, integration ladder, ICP/persona application |
+| 9 | Mar 23–24 | Internationalization (Part 2/Part 3), Mercosur and integration areas, LC0036 B2B sales process, cross-file synthesis; Mar 24 execution focus: change scenarios, financial levers, integration ladder, ICP/persona application; guest discussion (trust/pace, stage logic, PM selection, earned authority) |
 
 ---
 
