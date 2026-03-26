@@ -1,0 +1,27 @@
+# Strategic Management - Class Notes
+## March 26, 2026 - Week 9
+
+I. Session Focus.
+   A. Topic.
+      1. PLACEHOLDER - ADD TODAY'S MAIN TOPIC.
+      2. PLACEHOLDER - ADD CONTINUED STARBUCKS CASE POINTS IF COVERED.
+   B. Key Strategic Question.
+      1. PLACEHOLDER - WHAT IS THE DECISION OR TRADE-OFF DISCUSSED?
+
+II. Core Ideas.
+   A. Frameworks Used In Class.
+      1. PLACEHOLDER - ADD FRAMEWORK NAME(S).
+      2. PLACEHOLDER - ADD HOW THE FRAMEWORK WAS APPLIED.
+   B. Evidence Or Examples.
+      1. PLACEHOLDER - ADD EXAMPLE 1.
+      2. PLACEHOLDER - ADD EXAMPLE 2.
+
+III. Instructor Emphasis.
+   A. What To Remember.
+      1. PLACEHOLDER - ADD EXAM-RELEVANT TAKEAWAY.
+      2. PLACEHOLDER - ADD COMMON MISTAKE TO AVOID.
+
+IV. Action Items.
+   A. Before Next Class.
+      1. PLACEHOLDER - ADD READING/SLIDES TO REVIEW.
+      2. PLACEHOLDER - ADD PRACTICE QUESTION OR TASK.

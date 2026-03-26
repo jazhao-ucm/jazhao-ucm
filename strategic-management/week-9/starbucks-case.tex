@@ -13,15 +13,25 @@
 \usepackage{microtype}
 
 \definecolor{eublue}{RGB}{0,51,153}
-\definecolor{notegrey}{RGB}{90,90,90}
+\definecolor{notepink}{RGB}{200,0,90}
+\definecolor{softgrey}{RGB}{240,240,240}
 \pagestyle{fancy}
 \fancyhf{}
 \fancyfoot[L]{\small Strategic Mgmt | Week 9}
 \fancyfoot[R]{\small\thepage}
 \raggedright
 
-\newcommand{\handnote}[1]{\marginnote{\raggedright\footnotesize\color{notegrey}\textit{#1}\vspace{0.4em}}}
+\newcommand{\handnote}[1]{%
+  \par\noindent\footnotesize\color{notepink}\textit{#1}\par%
+  \vspace{0.25em}%
+}
 \newcommand{\hlpink}[1]{\colorbox{pink!25}{\textbf{#1}}}
+
+\newcommand{\answerbox}[1]{%
+  \par\noindent\fcolorbox{eublue}{softgrey}{%
+    \parbox{\dimexpr\linewidth-2\fboxsep-2\fboxrule}{#1}%
+  }\par%
+}
 
 \begin{document}
 \begin{center}
@@ -147,7 +157,7 @@ Answer (based on your notes + what the reading labels):
 \\
 ``Costs NOT ALWAYS → C.A.''
 \\
-\textbf{Proof from class notes (`2026-03-23-class-notes.md`):}
+\textbf{Proof from class notes (`2026-03-25-class-notes.md`):}
 \\
 ``POPULARITY BUILT THROUGH REPEATABLE BUSINESS MODEL EXECUTION'' (II.A.1)
 \\
@@ -188,7 +198,7 @@ Answer (based on your notes + what the reading labels):
 ``Stuck in the “middle”?'' 
 \\
 \\
-\textbf{Proof from class notes (`2026-03-23-class-notes.md`):}
+\textbf{Proof from class notes (`2026-03-25-class-notes.md`):}
 \\
 ``THE MAIN LESSON IS THAT COMPETITIVE ADVANTAGE MUST BE RENEWED, NOT JUST DEFENDED'' (IV.D.1)
 \\
@@ -220,7 +230,7 @@ Answer (next focus), using your notes as the “what to do”:
 \\
 ``Considered as low risk strategy “always doing the same products for the same customers needs”''
 \\
-\textbf{Proof from class notes (`2026-03-23-class-notes.md`):}
+\textbf{Proof from class notes (`2026-03-25-class-notes.md`):}
 \\
 ``REVIEW FRAMEWORKS FOR SUSTAINING COMPETITIVE ADVANTAGE'' (III.B.1)
 \\
@@ -244,32 +254,93 @@ Answer (next focus), using your notes as the “what to do”:
 \\
 ``Considered as low risk strategy “always doing the same products for the same customers needs”''
 
-\section*{\color{eublue}Transcription from images (best-effort, legible parts only)}
-\subsection*{\color{eublue}A. Case question box (from `starbucks-1.JPG`)}
-\begin{quote}
-\hlpink{Case question / Synopsis}
+\section*{\color{eublue}Inserted case text + highlights (from your pasted text)}
+\subsection*{\color{eublue}Closing Case: Starbucks Corporation (pp. 144-148)}
 
-\handnote{Use these exact prompts for your Q1/Q2/Q3 answers.}
+\subsubsection*{\color{eublue}Background}
+Coffee drinking spread from the Middle East/North Africa to Europe in the 16th-17th centuries. By the early 20th century it was a staple beverage across continental Europe and the Americas. Instant coffee in the 1950s further expanded the mass market. Against this backdrop, \hlpink{Howard Schultz} --- an appliance salesman from Brooklyn -- \hlpink{built a global chain worth \$52 billion}.
 
-\begin{enumerate}
-  \item \hlpink{Why has Starbucks' strategy succeeded so well?} \handnote{Class proof: ``POPULARITY BUILT THROUGH REPEATABLE BUSINESS MODEL EXECUTION.'' (II.A.1)}
-  \item \hlpink{Is Starbucks' competitive advantage sustainable? Give your reason.} \handnote{Class proof: ``THE MAIN LESSON IS THAT COMPETITIVE ADVANTAGE MUST BE RENEWED, NOT JUST DEFENDED.'' (IV.D.1)}
-  \item \hlpink{Advise Mr. Schultz on whether and how Starbucks should amend its strategy in order to remain successful.} \handnote{Class proof: ``REVIEW FRAMEWORKS FOR SUSTAINING COMPETITIVE ADVANTAGE.'' (III.B.1)}
-\end{enumerate}
-\end{quote}
+\handnote{Class tie: positioning/execution/scaling as sustained advantage after initial popularity (II.B.1 + II.B.2).}
 
-\subsection*{\color{eublue}B. Closing Case bullets (from `starbucks-5.JPG`)}
-\begin{quote}
-\textbf{Closing Case / Starbucks Corporation} \handnote{Use this page to ground execution details.}
+\subsubsection*{\color{eublue}The Rise: Wake Up and Smell the Coffee}
+\hlpink{Schultz joined Starbucks in 1982.} After a trip to Italy, he became convinced Starbucks could sell brewed coffee and recreate the Italian cafe experience --- not just coffee, but \hlpink{community}. When the owners resisted, he eventually acquired the business and expanded it.
 
+His vision was a \hlpink{"third place"} --- between home and work --- built on:
 \begin{itemize}
-  \item \hlpink{Acquiring coffee beans of a high, consistent quality} \handnote{Link to execution foundations: class notes focus on how advantage is maintained after success.}
-  \item \hlpink{Employee involvement} \handnote{Link to sustaining the strategy over time via people/experience.}
+  \item \hlpink{High-quality coffee}: ethical sourcing, careful roasting, partnering with growers
+  \item \hlpink{Employee involvement}: baristas were central to the experience; staff were treated as business partners with healthcare (even part-timers), training, and a culture of belonging
+  \item \hlpink{Community \& social purpose}: Schultz wanted Starbucks to be a company people were proud of regardless of background
+  \item \hlpink{Store design}: clean, distinctive aesthetic --- "the urban suavity of a neighbourhood combined with the crispness of the Pacific Northwest and the feel of a Milan espresso bar"
+  \item \hlpink{Location strategy}: clustering ~20 stores per urban hub to build a "Starbucks buzz"; adding drive-throughs and highway-adjacent stores
 \end{itemize}
 
-% Body paragraphs: too small in these photos to transcribe verbatim without risking mistakes.
-\textit{[Full body paragraphs from `starbucks-5.JPG` are marked unreadable/too blurry here; send zoomed crops if you want verbatim transcription.]}
-\end{quote}
+\handnote{Class tie for Q1: \hlpink{POPULARITY BUILT THROUGH REPEATABLE BUSINESS MODEL EXECUTION} + \hlpink{OPERATIONS + CUSTOMER EXPERIENCE WERE MANAGED AS A SYSTEM}.}
+
+\subsubsection*{\color{eublue}Results (1993-2007)}
+\hlpink{Revenues grew from \$160M to \$9,412M}; expansion into \hlpink{51 countries}; operating margin of \hlpink{29\%}; return on equity of \hlpink{26.5\%}.
+
+\subsubsection*{\color{eublue}Crisis and Renaissance}
+Schultz stepped back as CEO in 2000. By 2007, same-store sales slowed, profits fell, and the share price dropped over \hlpink{75\%}. He returned as CEO in early 2008.
+
+His \hlpink{turnaround strategy} included:
+\begin{itemize}
+  \item \hlpink{Closing 600 US stores; cutting 6,000 jobs; closing Australian stores}
+  \item \hlpink{Returning to core values}: reformulated mission statement --- "to inspire and nurture the human spirit -- one person, one cup and one neighbourhood at a time"
+  \item \hlpink{Replacing automated espresso machines with manual ones; removing breakfast sandwiches (their aroma masked the coffee smell)}
+  \item \hlpink{Heavy use of social media \& mobile technology}, Facebook for community-building
+  \item \hlpink{Pioneering mobile payments via Square partnership}
+\end{itemize}
+
+\handnote{Class tie for Q2: advantage must be \hlpink{RENEWED, NOT JUST DEFENDED} (IV.D.1) and growth must be \hlpink{CONTINUOUS ADAPTATION, NOT ONE-TIME MOVE} (II.A.2).}
+
+\subsubsection*{\color{eublue}Rekindling Growth}
+Once stabilized, growth resumed in two areas:
+\begin{enumerate}
+  \item \hlpink{Grocery trade}: products sold through supermarkets and retailers; new products like Via (instant coffee launched Feb 2009 at \$2.95/pack of 3), Seattle's Best, Tazo Teas. Via exceeded \$100M in sales in its first year.
+  \item \hlpink{International markets}: \hlpink{China and India} as primary targets; China --- 1,500 stores in 70 cities by 2015; India --- 50/50 joint venture with Tata Group. Also acquired Evolution Fresh, Teavana, and La Boulange (2011-2012).
+\end{enumerate}
+
+\subsubsection*{\color{eublue}The Future (as of 2014-2015)}
+Starbucks projected \hlpink{11\% annual revenue growth} and \hlpink{14\% earnings growth}. However, analysts questioned the \hlpink{long-term sustainability} given:
+\begin{itemize}
+  \item competition from independent cafes and chains
+  \item McDonald's McCafes and fast-food chains adding premium coffee
+  \item premium roasters competing directly (Lavazza, Illy, Segafredo Zanetti)
+  \item growth of home-brewing (Nespresso pod systems)
+  \item questions about whether diversification into tea, juice, instant coffee, and grocery trade fit Starbucks' core mission and capabilities
+\end{itemize}
+
+\handnote{Class tie for Q3/Q4: tie "next focus" to \hlpink{continuous adaptation} + \hlpink{sustaining competitive advantage} (II.A + III.B).}
+
+\subsection*{\color{eublue}Case Questions (as in your pasted text)}
+\begin{enumerate}
+  \item \hlpink{Summarize Starbucks' strategy in 2014.} \handnote{Proof frame: positioning/execution/scaling + repeatable model execution (II.B.1 + II.A.1).}
+  \item \hlpink{Why has Starbucks' strategy succeeded so well?} \handnote{Proof: \hlpink{POPULARITY BUILT THROUGH REPEATABLE BUSINESS MODEL EXECUTION} + \hlpink{OPERATIONS + CUSTOMER EXPERIENCE WERE MANAGED AS A SYSTEM}.}
+  \item \hlpink{Is Starbucks' competitive advantage sustainable? Give your reasons.} \handnote{Proof: \hlpink{THE MAIN LESSON IS THAT COMPETITIVE ADVANTAGE MUST BE RENEWED, NOT JUST DEFENDED}.}
+  \item \hlpink{Advise Mr. Schultz on whether and how Starbucks should amend its strategy to remain successful.} \handnote{Proof frame: \hlpink{REVIEW FRAMEWORKS FOR SUSTAINING COMPETITIVE ADVANTAGE} + map observations to course models (III.B).}
+\end{enumerate}
+
+\section*{\color{eublue}Case Answers (highlight + pink margin notes)}
+
+\subsection*{\color{eublue}1. Summarize Starbucks' strategy in 2014}
+\answerbox{From the case, Starbucks' strategy is built on the \hlpink{"third place"} concept: a community space between home and work centered on \hlpink{high-quality, hand-crafted coffee} and \hlpink{employee involvement}. Growth then continues through \hlpink{international markets} with \hlpink{China and India} as primary targets, alongside \hlpink{grocery trade} sold through \hlpink{supermarkets and retailers} (including \hlpink{Via} and other packaged products). The reading also includes \hlpink{retail diversification} through acquisitions such as \hlpink{Evolution Fresh, Teavana, and La Boulange} and highlights \hlpink{digital engagement} via \hlpink{social media \& mobile technology} and \hlpink{mobile payments}.}
+\handnote{Class proof: \hlpink{POPULARITY BUILT THROUGH REPEATABLE BUSINESS MODEL EXECUTION} + \hlpink{OPERATIONS + CUSTOMER EXPERIENCE WERE MANAGED AS A SYSTEM}.}
+\handnote{Class discussion cues (from transcript keywords): ``drivers''; ``atmosphere/community''; ``third place''; ``employee involvement''; ``clustering of stores and cities''.}
+
+\subsection*{\color{eublue}2. Why has Starbucks' strategy succeeded so well?}
+\answerbox{The reading attributes success to the foundations of the \hlpink{"third place"} experience (community between home and work) built on \hlpink{high-quality coffee} and \hlpink{employee involvement}, alongside \hlpink{store design} and \hlpink{location strategy} that creates dense local presence. It also frames the ability to sustain performance through \hlpink{Crisis and Renaissance} followed by \hlpink{Rekindling Growth}. Your class notes capture this as: \hlpink{POPULARITY BUILT THROUGH REPEATABLE BUSINESS MODEL EXECUTION}, \hlpink{OPERATIONS + CUSTOMER EXPERIENCE WERE MANAGED AS A SYSTEM}, and \hlpink{GROWTH SUSTAINED THROUGH CONTINUOUS ADAPTATION, NOT ONE-TIME MOVE}.}
+\handnote{Proof from reading: \hlpink{"Crisis and Renaissance"} + \hlpink{"Rekindling Growth"}. Proof from class notes: the three exact phrases above.}
+\handnote{Class discussion cues (from transcript keywords): ``main barriers''; ``high price''; ``perceived value''; ``McDonald's'' + ``Laza'' + ``Cafe'' (competition keywords).}
+
+\subsection*{\color{eublue}3. Is Starbucks' competitive advantage sustainable? Give your reasons.}
+\answerbox{In \hlpink{The Future (as of 2014-2015)}, the case says analysts questioned \hlpink{long-term sustainability} due to: \hlpink{competition from independent cafes and chains}, \hlpink{McDonald's McCafes and fast-food chains adding premium coffee}, and \hlpink{premium roasters competing directly} (Lavazza, Illy, Segafredo Zanetti), plus \hlpink{growth of home-brewing (Nespresso pod systems)}. It also questions whether diversification into \hlpink{tea, juice, instant coffee, and grocery trade} fits Starbucks' \hlpink{core mission and capabilities}. This matches your class lesson: \hlpink{THE MAIN LESSON IS THAT COMPETITIVE ADVANTAGE MUST BE RENEWED, NOT JUST DEFENDED}.}
+\handnote{Proof from reading: the bullet list under \hlpink{The Future}. Proof from class notes: \hlpink{THE MAIN LESSON IS THAT COMPETITIVE ADVANTAGE MUST BE RENEWED, NOT JUST DEFENDED}.}
+\handnote{Class discussion cues (from transcript keywords): ``substitution'' + ``home brewing''; ``coffee capsules''; ``substitute products''; ``invisibility of the products''.}
+
+\subsection*{\color{eublue}4. Advise Mr. Schultz on whether and how Starbucks should amend its strategy to remain successful}
+\answerbox{The case advice is grounded in two parts of the reading: (1) \hlpink{Crisis and Renaissance} actions and (2) the \hlpink{The Future} questions about mission fit. In \hlpink{Crisis and Renaissance}, the reading lists a \hlpink{turnaround strategy} that includes returning to \hlpink{core values} (including the reformulated mission statement), changing execution by \hlpink{replacing automated espresso machines with manual ones} and \hlpink{removing breakfast sandwiches}, and reinforcing community through \hlpink{social media \& mobile technology} and \hlpink{mobile payments} (Square partnership). In \hlpink{The Future}, it explicitly asks whether diversification into \hlpink{tea, juice, instant coffee, and grocery trade} fits Starbucks' \hlpink{core mission and capabilities}. Your class notes frame the goal as \hlpink{REVIEW FRAMEWORKS FOR SUSTAINING COMPETITIVE ADVANTAGE} and the logic that advantage must be \hlpink{RENEWED, NOT JUST DEFENDED}.}
+\handnote{Proof from reading: \hlpink{Crisis and Renaissance} + \hlpink{The Future} diversification-fit question. Proof from class notes: \hlpink{THE MAIN LESSON IS THAT COMPETITIVE ADVANTAGE MUST BE RENEWED, NOT JUST DEFENDED} + \hlpink{REVIEW FRAMEWORKS FOR SUSTAINING COMPETITIVE ADVANTAGE}.}
+\handnote{Class discussion cues (from transcript keywords): ``choice'' + ``justify''; ``main barriers''; ``in order to maintain these choices''.}
 
 \end{document}
 
