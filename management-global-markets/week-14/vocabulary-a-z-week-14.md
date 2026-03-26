@@ -1,0 +1,22 @@
+# Management in Global Markets - Week 10 Vocabulary A-Z
+
+- **Adaptation** - Adjusting offer/operations to local market conditions.
+- **Arbitrage** - Leveraging cross-country differences in costs, regulations, or prices.
+- **B2B** - Business-to-business commercial relationship model.
+- **Comparative Advantage** - Country/firm strength in producing relatively efficiently.
+- **Cross-Border Strategy** - Coordinated plan operating across multiple national markets.
+- **Diversification (Geographic)** - Expansion across countries to spread risk/opportunity.
+- **Entry Mode** - Method of entering a foreign market (export, JV, subsidiary, etc.).
+- **Exporting** - Selling products/services abroad from a domestic base.
+- **Foreign Direct Investment (FDI)** - Ownership-based investment in foreign operations.
+- **Global Integration** - Standardization and coordination across international units.
+- **Glocalization** - Combining global consistency with local adaptation.
+- **ICP (Ideal Customer Profile)** - Best-fit target customer definition in B2B contexts.
+- **Internationalization** - Process of expanding business beyond home-country boundaries.
+- **Joint Venture** - Shared-ownership venture between two or more firms.
+- **Localization** - Tailoring product, message, and operations to local preferences.
+- **Market Selection** - Choosing which countries/regions to enter first.
+- **Risk Exposure** - Potential losses from political, economic, currency, or operational shocks.
+- **Scenario Planning** - Evaluating possible futures to prepare strategic responses.
+- **Supply Chain Coordination** - Managing cross-border sourcing, production, and delivery.
+- **Value Chain (Global)** - Distribution of business activities across countries.

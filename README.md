@@ -2,9 +2,15 @@
 
 Course notes and materials for UCM (Universidad Complutense de Madrid).
 
-*Last updated: March 2026*
+*Last updated: April 2026*
 
 **[→ Index of all courses and weeks](docs/INDEX.md)** (file: `docs/INDEX.md`)
+
+## Academic Calendar Updates (Spring 2026)
+
+- **Spring break:** Mar 27 to Apr 6 (no classes)
+- **No class day:** Apr 30
+- **Final exams window:** May 18 to May 22
 
 ## What's in it
 

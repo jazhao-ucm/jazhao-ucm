@@ -1,0 +1,22 @@
+# Spanish for Beginners - Week 10 Vocabulary A-Z
+
+- **Adjetivo** - Word that describes a noun.
+- **Articulo** - Word before a noun indicating gender/number (el, la, los, las).
+- **Conjugacion** - Changing a verb form by person/tense.
+- **Demostrativo** - Pointer words like este, ese, aquel.
+- **Entonacion** - Voice rise/fall pattern in spoken Spanish.
+- **Genero** - Grammatical gender (masculine/feminine).
+- **Haber** - Auxiliary verb used in compound tenses.
+- **Imperfecto** - Past tense for habitual/ongoing past actions.
+- **Interrogativo** - Question words such as que, donde, cuando.
+- **Irregular** - Verb that does not follow standard conjugation pattern.
+- **Mandato** - Command form used to give instructions.
+- **Negacion** - Structure used to express no/not/never.
+- **Objeto Directo** - Noun/pronoun directly receiving the verb action.
+- **Preposicion** - Linking word such as de, a, con, para, por.
+- **Pronombre** - Word replacing a noun (yo, tu, lo, me, etc.).
+- **Sujeto** - Person/thing performing the action.
+- **Sustantivo** - Noun naming people, places, things, or ideas.
+- **Tiempo Verbal** - Verb tense indicating when action occurs.
+- **Verbo** - Word expressing action or state.
+- **Vocabulario** - Set of words learned for communication.

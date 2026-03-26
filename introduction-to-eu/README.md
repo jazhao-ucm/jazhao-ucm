@@ -62,6 +62,8 @@ II. Topic
 
 Dates and week topics: repo root [`docs/INDEX.md`](../docs/INDEX.md).
 
+Academic calendar updates (Spring 2026): spring break Mar 27 to Apr 6, no class Apr 30, final exams May 18 to May 22.
+
 - `week-1/` - Jan 26 & 27: class notes, Zweig reading summary; `zweig.tex`
 - `week-2/` - Feb 2 & 3: class notes, Judt, Krawatzek & Pestel summaries; `judt-krawatzek-pestel.tex`
 - `week-3/` - Feb 9 & 10: class notes, Seidel, Warlouzet summaries; `warlouzet-reinventing-europe.tex`
@@ -71,3 +73,8 @@ Dates and week topics: repo root [`docs/INDEX.md`](../docs/INDEX.md).
 - `week-7/` - Mar 9 & 10: class notes, Twin Executive readings, exam format (text analysis), Ribera vs von der Leyen, Costa/multilateralism, Duff/Commission vs Council; `eu-institutions.tex`
 - `week-8/` - Mar 16: class notes, midterm prep (day before exam).
 - `week-9/` - Mar 23 & 24: Mar 23 — EU Parliament sessions + housing crisis workshop; Mar 24 — CJEU/ECJ, integration through law, primacy, rule-of-law backsliding; `2026-03-23-class-notes.md`, `2026-03-24-class-notes.md`, `eu-housing-crisis-workshop.tex`, `2026-03-23-zachs-notes.tex`, `7a-Parlamentary-Europe-reading-summary.tex`, `7b-Olsen-European-Parliament-reading-summary.tex`, `European-Parliament-reading-summary.tex`, `8a-Court-of-justice-reading-summary.tex`, `8b-The-Judiciary-reading-summary.tex`, `Some-remarks-rule-of-law-Poland-Hungary-reading-summary.tex`
+- `week-10/` - Apr 6 & 7: Apr 6 NO CLASS (Semana); Apr 7 class session (TBD topic)
+- `week-11/` - Apr 13 & 14: class sessions (TBD topics)
+- `week-12/` - Apr 20 & 21: class sessions (TBD topics)
+- `week-13/` - Apr 27 & 28: class sessions (TBD topics)
+- `week-14/` - May 18–22: final exams; `vocabulary-a-z-week-14.md`

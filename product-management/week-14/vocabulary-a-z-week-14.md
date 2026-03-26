@@ -1,0 +1,24 @@
+# Product Management - Week 10 Vocabulary A-Z
+
+- **Agile** - Iterative way of building products with frequent feedback loops.
+- **Backlog** - Prioritized list of product work items and improvements.
+- **Customer Segment** - Specific user group with shared needs/behavior.
+- **Design Thinking** - Human-centered process to define and solve user problems.
+- **Experiment** - Structured test to validate product assumptions.
+- **Feature Prioritization** - Deciding what to build first based on impact and effort.
+- **Go-to-Market (GTM)** - Plan for launching and distributing a product.
+- **Hypothesis** - Testable statement about user behavior or product outcomes.
+- **Interview (Customer)** - Direct conversation to learn pains, goals, and context.
+- **Journey Map** - Visual sequence of user steps and pain points.
+- **Key Metric** - Main indicator used to evaluate product success.
+- **Lean Validation** - Fast testing before heavy investment in full development.
+- **Minimum Viable Product (MVP)** - Smallest product version that enables learning.
+- **North Star Metric** - Core value metric that reflects long-term product health.
+- **Outcome** - Desired user/business result, not just shipped output.
+- **Persona** - Representative profile of a target user type.
+- **Prototype** - Early model used to test ideas before implementation.
+- **Roadmap** - Time-based communication of product direction and priorities.
+- **Stakeholder** - Person/group with influence on product decisions.
+- **User Story** - Requirement format describing value from the user perspective.
+- **Validation** - Evidence that confirms product-market assumptions.
+- **Value Proposition** - Clear statement of why users should choose the product.

@@ -1,6 +1,12 @@
 # UCM Course Notes Index
 
-Quick reference for all courses and weeks. *Last updated: March 2026*
+Quick reference for all courses and weeks. *Last updated: April 2026*
+
+## Academic Calendar Updates (Spring 2026)
+
+- **Spring break:** Mar 27 to Apr 6 (no classes)
+- **No class day:** Apr 30
+- **Final exams window:** May 18 to May 22
 
 ---
 
@@ -17,6 +23,11 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 7 | Mar 9–10 | Manufacturing process design, piano memo (craftsman vs. Yamaha) |
 | 8 | Mar 16–17 | Midterm prep (Mar 16), all-in-one midterm-print-all.tex, customer interview project (meeting new people) |
 | 9 | Mar 23–24 | Mar 23 social app/dating app concept (gamification + common interests + quality over quantity); Mar 24 service internationalization and service operations setup |
+| 10 | Apr 6–7 | Apr 6 NO CLASS (Semana); Apr 7 class session (TBD topic) |
+| 11 | Apr 13–14 | Class sessions (TBD topics) |
+| 12 | Apr 20–21 | Class sessions (TBD topics) |
+| 13 | Apr 27–28 | Class sessions (TBD topics) |
+| 14 | May 18–22 | Final exams |
 
 ---
 
@@ -33,6 +44,11 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 7 | Mar 9–10 | EU institutions, exam prep (text analysis), Ribera/von der Leyen, Costa, Duff/twin executive |
 | 8 | Mar 16 | Midterm prep (day before exam), institutions recap |
 | 9 | Mar 23–24 | Mar 23 EU institutions by session + housing crisis workshop (Europarl search, group debate); Mar 24 CJEU/ECJ role, integration through law (Davies), primacy tensions, and rule-of-law backsliding debate (Hungary/Poland) |
+| 10 | Apr 6–7 | Apr 6 NO CLASS (Semana); Apr 7 class session (TBD topic) |
+| 11 | Apr 13–14 | Class sessions (TBD topics) |
+| 12 | Apr 20–21 | Class sessions (TBD topics) |
+| 13 | Apr 27–28 | Class sessions (TBD topics) |
+| 14 | May 18–22 | Final exams |
 
 ---
 
@@ -49,6 +65,11 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 7 | Mar 9–10 | Global Management Project, Business Plan (CaféOlé, Tierra Bar), work time |
 | 8 | Mar 16 | Midterm prep: complexity, skills, training, economic blocks, economic integration |
 | 9 | Mar 23–24 | Internationalization (Part 2/Part 3), Mercosur and integration areas, LC0036 B2B sales process, cross-file synthesis; Mar 24 execution focus: change scenarios, financial levers, integration ladder, ICP/persona application; guest discussion (trust/pace, stage logic, PM selection, earned authority) |
+| 10 | Apr 6–7 | Apr 6 NO CLASS (Semana); Apr 7 class session (TBD topic) |
+| 11 | Apr 13–14 | Class sessions (TBD topics) |
+| 12 | Apr 20–21 | Class sessions (TBD topics) |
+| 13 | Apr 27–28 | Class sessions (TBD topics) |
+| 14 | May 18–22 | Final exams |
 
 ---
 
@@ -65,6 +86,11 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 7 | Mar 12 | Competitive Strategy (cost leadership, differentiation, focus, strategy clock) |
 | 8 | Mar 18–19 | Exam prep overview (Units 1–4); external vs. internal analysis; deliberate vs. emergent strategy; Unit 6 Corporate Strategy Development (firm scope, specialization vs. diversification, vertical integration, reestructuring) |
 | 9 | Mar 25-26 | Starbucks strategy case discussion (success factors + growth maintenance), continued follow-up sessions |
+| 10 | Apr 8–9 | Apr 8 class session (TBD topic); Apr 9 class session (TBD topic) |
+| 11 | Apr 15–16 | Class sessions (TBD topics) |
+| 12 | Apr 22–23 | Class sessions (TBD topics) |
+| 13 | Apr 29–30 | Apr 29 class session (TBD topic); Apr 30 NO CLASS |
+| 14 | May 18–22 | Final exams |
 
 ---
 
@@ -80,6 +106,12 @@ Quick reference for all courses and weeks. *Last updated: March 2026*
 | 6 | Mar 4 | Midterm prep, Aula Plus materials |
 | 7 | Mar 12 | Unit 4: `tener`/`tener que`, `preferir`, `ir` (planes), objetos con `de` |
 | 8 | Mar 19 | Unit 4: ropa (`es/es de`), colores, combinaciones |
+| 9 | Mar 26 | No class / transition into spring break week |
+| 10 | Apr 8–9 | Apr 8 class session (TBD topic); Apr 9 class session (TBD topic) |
+| 11 | Apr 15–16 | Class sessions (TBD topics) |
+| 12 | Apr 22–23 | Class sessions (TBD topics) |
+| 13 | Apr 29–30 | Apr 29 class session (TBD topic); Apr 30 NO CLASS |
+| 14 | May 18–22 | Final exams |
 
 ---
 

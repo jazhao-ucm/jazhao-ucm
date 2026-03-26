@@ -51,6 +51,8 @@ II. Topic
 
 Dates and week topics: repo root [`docs/INDEX.md`](../docs/INDEX.md).
 
+Academic calendar updates (Spring 2026): spring break Mar 27 to Apr 6, no class Apr 30, final exams May 18 to May 22.
+
 - `midterm-course-feedback-2025-2026.tex` MidTerm course feedback form (draft answers) for 2025–2026; compile: `pdflatex midterm-course-feedback-2025-2026.tex`
 - `week-1/` - Jan 26 & 27: class notes, BMC, value creation/capture, PM1; `bmc-value-creation.tex`. Exam samples: `FirstMidtermSolved.pdf`, `MIDTERM1_2024_2025.pdf`, `FINALEXAMSAMPLE.pdf`
 - `week-2/` - Feb 2 & 3: class notes, PM2, PM roles; `pm-roles-value-chain.tex`
@@ -61,3 +63,8 @@ Dates and week topics: repo root [`docs/INDEX.md`](../docs/INDEX.md).
 - `week-7/` - Mar 9 & 10: class notes, manufacturing, piano memo; `manufacturing-piano-memo.tex`
 - `week-8/` - Mar 16 & 17: midterm prep and customer interviews project (meeting new people); `midterm-print-all.tex` (all-in-one: exam day, cheat sheet §1–18, key cases, model answers from PDFs), `2026-03-17-class-notes.md` (interview brief and analysis framework), `customer-interviews-synthesis.tex` (rewritten interview Q\&A format for Karol, Aina, Laura, Mimi, plus cross-interview pattern snapshot). Compile: `pdflatex midterm-print-all.tex` or `pdflatex customer-interviews-synthesis.tex`
 - `week-9/` - Mar 23 & 24: Mar 23 — social/dating app concept (gamification, shared interests, quality over quantity); Mar 24 — service internationalization and operations setup; `2026-03-23-class-notes.md`, `2026-03-24-class-notes.md`, `loveable-mvp-helper.tex`, `scan-2026-03-23.jpeg`
+- `week-10/` - Apr 6 & 7: Apr 6 NO CLASS (Semana); Apr 7 class session (TBD topic)
+- `week-11/` - Apr 13 & 14: class sessions (TBD topics)
+- `week-12/` - Apr 20 & 21: class sessions (TBD topics)
+- `week-13/` - Apr 27 & 28: class sessions (TBD topics)
+- `week-14/` - May 18–22: final exams; `vocabulary-a-z-week-14.md`
