@@ -1,0 +1,75 @@
+# Strategic Management - Week 14 Vocabulary A-Z
+
+Final-exam supplement: terms aligned with `strategic-management-final-cornell-master-notes-wed-thu-spring2026.tex` and `sm-master-vocabulary-word-bank.tex` (Spring 2026 Wed/Thu).
+
+- **Advantage Renewal** - Continuous adaptation needed to keep advantage from eroding over time.
+- **Agency Problem** - Misalignment between owners and managers that can distort strategic choices.
+- **Ansoff Matrix** - Growth paths: market penetration, market development, product development, diversification.
+- **Artificial Barriers to Entry** - Tariffs, licensing, or policy-made obstacles that protect incumbents (vs natural scale barriers).
+- **Asset Stripping** - Buying a company and selling off its parts for cash; often tied to unrelated or financial plays.
+- **Asymmetric Information** - When managers or one side of a deal holds better information than investors or rivals.
+- **Backward Integration** - Vertical integration upstream (e.g., owning a key supplier).
+- **Barriers to Entry** - Obstacles that protect incumbents from new competitors.
+- **Beta** - Stock volatility relative to the market index; higher beta implies higher systematic risk.
+- **Business-Level Strategy** - Plan for how a firm competes within one industry.
+- **Capability** - Coordinated ability to deploy resources effectively.
+- **Causal Ambiguity** - Rivals cannot identify what internal factors drive success, so copying fails.
+- **Cluster** - Geographic concentration of related firms and institutions creating spillover benefits.
+- **Competitive Advantage** - Superior position enabling above-average performance versus rivals.
+- **Competitive Parity** - Situation where firm performance is near industry average.
+- **Control Premium** - Extra price above market value paid to secure control in M&A (lecture often cites a band such as 20–50%).
+- **Corporate Strategy** - Scope choices about where the firm competes across businesses.
+- **Cost Leadership** - Lowest-cost position for comparable value.
+- **Differentiation** - Distinctive value perceived by customers as worth choosing.
+- **Diversification** - Expansion into additional businesses, related or unrelated.
+- **Economic Value Added (EVA)** - Residual wealth after charging operating profit for the full cost of capital.
+- **Economies of Scale** - Unit-cost reductions from higher output volume.
+- **Economies of Scope** - Shared activities/resources lowering cost across businesses.
+- **Entry Mode** - Method by which firms enter new industries or geographies.
+- **Externalities** - Costs or benefits to others not fully reflected in market prices (e.g., pollution).
+- **Firm Effect** - Performance differences explained by firm-specific factors.
+- **Firm Scope** - Set of products/businesses in which the firm competes.
+- **Five Forces** - Framework assessing rivalry, entry, substitutes, buyer power, supplier power.
+- **Forward Integration** - Vertical integration downstream (e.g., owning retail or distribution).
+- **Grant Model (Four Pillars)** - Simple long-term goals, environment understanding, honest resource appraisal, effective implementation.
+- **Greenwashing** - Marketing that exaggerates environmental friendliness without real operational change.
+- **Hybrid Strategy** - Credible mix of cost discipline and differentiation (hard to sustain without integrated operations).
+- **Industry Attractiveness** - Degree to which structure supports profitability.
+- **Industry Effect** - Performance differences explained by industry structure.
+- **Inimitable** - Difficult for rivals to copy; central RBV language for durable advantage.
+- **Intellectual Property (IP)** - Patents, copyrights, trademarks protecting innovations and brand assets.
+- **Just-in-Time (JIT)** - Production/delivery synchronized with demand to minimize inventory.
+- **Knowledge Spillovers** - Ideas and practices spreading across people and proximate firms (strong in clusters).
+- **Lean Production** - Systematic waste elimination (Toyota Production System-style operations).
+- **Life-Cycle Stage** - Industry phase (emergence, growth, maturity, decline) affecting strategy fit.
+- **Lobbying** - Political efforts to shape rules, tariffs, and barriers that alter competitive conditions.
+- **Low-Cost Carrier (LCC)** - No-frills airline model focused on unit-cost minimization (strategy clock 1–2).
+- **Market Capitalization** - Total equity value (price per share × shares outstanding).
+- **Market Development** - Same product, new geography or segment (Ansoff).
+- **Market Penetration** - Same product and market, push share or usage (Ansoff).
+- **Mergers and Acquisitions (M&A)** - Consolidation or purchase of other firms; often involves a control premium.
+- **Minimum Efficient Scale (MES)** - Scale needed to reach competitive unit costs; high MES raises entry barriers.
+- **Oligopoly** - Market dominated by a small number of large sellers.
+- **Perceived Value** - Buyer-side judgment of benefits relative to price (supports price premium).
+- **PESTEL** - Macro scan of political, economic, social, technological, ecological/environmental, and legal factors.
+- **Portfolio Restructuring** - Rebalancing business units through exits and reallocation.
+- **Price Premium** - Extra price buyers accept because of differentiated perceived value.
+- **Product Development** - New products for existing customers/markets (Ansoff).
+- **Prospection** - Using scenarios and alternative futures when long-range forecasting is unreliable.
+- **Resource-Based View (RBV)** - Internal perspective linking resources/capabilities to performance.
+- **Restructuring** - Reconfiguration of scope, assets, and activities to improve performance.
+- **Social Complexity** - Advantage rooted in trust, culture, and networks that are hard to replicate.
+- **Stock Options** - Right to buy shares at a set strike price; aligns managers with shareholder value when well designed.
+- **Strategic Fit** - Alignment between environment, resources, and chosen strategy.
+- **Strategic Group** - Cluster of rivals with similar strategies (e.g., budget vs full-service airlines).
+- **Strategy Clock** - Price–perceived value map; includes hybrid and failure positions.
+- **Stuck in the Middle** - Weak position lacking clear cost or differentiation advantage.
+- **Substitute (Strategic)** - Different technology or industry that satisfies the same customer need.
+- **Sustainable Competitive Advantage** - Advantage difficult for rivals to imitate or substitute.
+- **SWOT** - Synthesis of strengths, weaknesses, opportunities, and threats.
+- **Synergy** - Combined value greater than the sum of standalone parts (“1 + 1 = 3” shorthand).
+- **Tacit Knowledge** - Know-how that is hard to write down; travels with people.
+- **Third Place** - Social space between home and work; atmosphere and community (Starbucks framing).
+- **Value Chain** - Linked activities through which a firm creates and captures value.
+- **Vertical Integration** - Owning multiple adjacent stages of the value chain.
+- **VRIO** - Valuable, Rare, Inimitable, Organized test for whether a resource sustains advantage.

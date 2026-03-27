@@ -1,0 +1,220 @@
+# Management in Global Markets - Week 14 Vocabulary A-Z
+
+Final-exam supplement: terms from consolidated final Cornell notes (themes 1–20) plus recurring course threads (internationalization, regional integration, B2B, scenarios). Theme 6: EU **single-market law** and **rule-of-law**; themes 7–9: **Porter**, **market entry**, **cross-cultural** tools; theme 10: **four-phase internationalization**; themes 11–12: **PM/HR**, **margins**, **CRM**; theme 13: **economic complexity**; theme 14: **strategy pyramid** (corporate / competitive / functional), **SWOT**, **IP** risk, **realist** manager triad; theme 15: **internationalization spectrum**, FDI **motives** (market / resource / efficiency **seeking**), **direct** vs **indirect** exporting, **domestic market** baseline, **income tax** in location math; theme 16: **IHRM**, **global** vs **multi-domestic** posture, **Maslow**, **Vroom** (**expectancy** / **instrumentality** / **valence**), **Taylor** as classical contrast, **team diversity**, **turnover**, **negotiator authority**; theme 17: applied **strategic business plan** studio (**Café Olé** draft), **PESTEL**, **Erasmus** segment, **tiered membership**, **contingency** plans, **slow is fast** aphorism, **executive summary**, rubric **verbatim** discipline; theme 18: **transnational** strategy, **integration ladder**, **static** vs **dynamic** effects, **trade creation** / **diversion**, **dumping**, **triad** / **G20**, **Ukraine** accession barriers, **job rotation**, **motivation** as engine; theme 19: **PTA** before **FTA**, politics + economics of blocs, **unequal** integration gains, **regulatory safety** + **political stability** in **location choice**, **commodity** dependence, **phase 3 execution** risk, Mexico/Chile **infrastructure** color; theme 20: **plan vs finish**, **commitment** over raw skill, **capital** stewardship, earned **authority**, **U-curve** for **expats**, **home-country template** risk (**France** vs **Chile**), **poor location** / untrusted **management** as failure modes.
+
+- **Accountability (Managerial)** - Duty to explain results and accept consequences; margin and **cash** outcomes tie to **HQ** evaluation (theme 12).
+- **Adaptation** - Adjusting product, pricing, and operations to local market conditions.
+- **Arbitrage** - Capturing value from differences across countries in cost, tax, regulation, or talent.
+- **Artificial Risk (Internationalization)** - Systems-side barriers (**logistics**, legal/tax, admin) the firm can often **manage**, restructure, or partly “escape” (contrast **natural risk**, theme 10).
+- **Article 2 (TEU)** - Foundational values (democracy, **rule of law**, human dignity, etc.); doctrinal hook for the EU as a **Union of Values**, not only a market.
+- **Article 7 (TEU)** - EU values procedure; may lead to suspension of a member state’s Council voting rights; high political consensus hurdle (often contrasted with budget **conditionality**).
+- **Authority (Cross-Cultural Leadership)** - Legitimate power to decide and be obeyed; in lecture, also **earned** **respect** inside the **chain of command**—**young** managers in high-**PDI** markets (**Mexico**, **Chile**) may need **performance** and relationships, not only **title** (themes 16, 20).
+- **B2B (Business-to-Business)** - Selling to organizational buyers; often longer cycles, multiple stakeholders, and formal procurement.
+- **Balance Sheet** - Snapshot of assets, liabilities, and equity; paired with **income statement** when steering projects from **execution** to **establishment** (theme 11).
+- **Bottleneck (Supply Chain)** - Constraint or single point of failure that limits throughput or raises disruption risk in a global value chain.
+- **Bureaucracy** - Layered rules and offices; cited as **excessive** friction for firms in **Southern Europe** (theme 10).
+- **Bursar (University)** - Office handling **tuition**, **deposits**, **refunds**, and student billing; cited in student chat on large **housing/security deposits** and cash-flow friction for **study-abroad** learners (theme 17).
+- **Capital (Firm)** - Money, credit, and productive assets the company risks in projects; int'l **PM**: protect **capital** on-site—**down payments** protect **capital** from buyer default (themes 12, 20).
+- **Cash Flow** - Timing and magnitude of cash in vs out; ``cash is king'' and **big-account** survival logic in Mexico portfolio (theme 12).
+- **Change Scenario** - Plausible future state (policy, demand, cost, geopolitics) used to test whether a strategy still works; ties to contingent plans.
+- **Collectivism (Hofstede)** - Emphasis on group belonging and “we” loyalty; lecture often contrasted with wealthier **individualist** markets—use as framework, not stereotype.
+- **Commitment (Employee / Lecture)** - Dedication to firm goals; argued **above** credentials alone for project **profitability**; **HQ** favors **trusted** leads to guard **capital** in early **internationalization** (themes 11–12, 14, 20).
+- **Commodity (Trade)** - **Homogeneous** basic good (e.g. **copper**, **oil**, **fruit**) priced on world markets; **low** **economic complexity** dependence vs specialized manufactures (themes 13, 19).
+- **Comparative Advantage** - Relative efficiency in producing goods/services versus trading partners; informs where to locate activities.
+- **Competitive Advantage (Price–Quality–Delivery)** - Lecture triad for beating incumbents: superior **price**, **quality**, or **delivery time** (where the firm can sustain advantage).
+- **Competitive Strategy (Business Level)** - How to **win** in a given market (e.g. cost vs quality); middle layer of the **strategy pyramid** (theme 14).
+- **Common Market (Integration Stage)** - **Single** economic space with free movement of **goods**, **services**, **labor**, and **capital**; deeper than a **customs union**; step below full **EMU** in the lecture ladder (theme 18).
+- **Conditionality (EU Rule of Law)** - Mechanism to freeze EU funds when breaches threaten the EU budget; economic leverage alongside **Article 7** and **infringement** cases.
+- **Compliance Risk** - Exposure from failing legal, tax, trade, or regulatory obligations in foreign markets.
+- **Contingency Planning** - Pre-defined **Plan B** moves when a base case breaks (e.g. backup **internet**, **utility** cost spikes, rival response); pairs with **scenario** thinking (theme 17; see **scenario planning**).
+- **Constitutional Identity** - National constitutional claim limiting EU law reach; friction point versus **primacy** in backsliding debates.
+- **Corporate Culture** - Shared **values** and **norms** inside the firm that shape how people coordinate across **HQ** and **subsidiaries**; IHRM must align staffing and incentives with that culture abroad (theme 16).
+- **Corporate Strategy (Level)** - Scope: which **industries** and businesses the firm is in; top of the **strategy pyramid** (theme 14).
+- **Control (Entry Mode)** - Degree of influence over operations, brand, and assets; generally rises from exporting toward FDI.
+- **Corruption Risk (International PM)** - Bribes/kickbacks exposure; lecture frames **managerial integrity** as protecting **capital** on large spends (theme 11).
+- **Court of Justice of the European Union (CJEU)** - EU apex court; ensures uniform interpretation of EU law; works with national courts via **preliminary rulings**.
+- **Cross-Border Strategy** - Coordinated choices for competing and operating across multiple national contexts.
+- **Cultural Intelligence (CQ)** - Ability to interpret and act effectively across cultures; lecture contrasts with textbook-only **academic** prep (theme 9).
+- **Cultural Learning Levels (Lecture)** - Three tiers: **academic** (books—low); **training/awareness** (cases, mobility—medium); **integration** through long immersion (high **CQ**).
+- **Culture Shock** - Emotional adjustment abroad; **U-curve** in theme 9: **honeymoon** → **shock/low** (risk of exit) → **adjustment** → **mastery** (see also block 8 two-step shorthand).
+- **Currency Risk** - Earnings or balance-sheet volatility from exchange-rate movements; may be managed via pricing, hedging, or structure.
+- **CRM (Customer Relationship Management)** - Systems and practices to retain and grow **accounts**; lecture ties **repeat business** (“coming back”) to lower **acquisition** cost and steadier **margins** (theme 12).
+- **Customer Journey (B2B)** - Stages from awareness through evaluation, purchase, and renewal; maps to sales process and touchpoints.
+- **Customer Retention** - Keeping buyers for repeat **projects**; execution quality drives **next** sale and **cash-flow** stability (theme 12).
+- **Customs Union** - Members share a **common external tariff** on non-members while trading freely inside the bloc; stage above a **free trade area** in the **integration ladder** (theme 18).
+- **Dependency Concentration** - Over-reliance on one supplier, route, country, or technology; opposite of diversification for resilience.
+- **Democratic Backsliding** - Progressive weakening of democratic checks; linked in discussion to e.g. **Hungary** / **Poland** alongside **rule of law** (theme 10; overlaps intro-EU courses).
+- **Direct Exporting** - Selling straight to the **end buyer** abroad (from home base); higher control and margin visibility than **indirect** channels but more own **logistics** and credit risk (theme 15).
+- **Domestic Market** - Customers and business environment **inside** the home country; baseline on the **internationalization spectrum** before **exporting** or **FDI** (theme 15).
+- **Diversification (Geographic)** - Expansion across regions to spread risk and access growth.
+- **Diversification (Product Basket / Complexity)** - Broadening export or product mix to lower **commodity** risk; contrast **specialization** in advanced niches (theme 13).
+- **Down Payment (Industrial Contract)** - Up-front cash (lecture ~**50%**) before heavy **execution**/production; reduces **insolvency** / counterparty exposure (theme 12).
+- **Double Standard (EU Enforcement)** - Critique that **economic** rules are enforced faster or harder than **values** (courts, pluralism); overlaps **inconsistency** / Gros-type arguments in theme 6.
+- **Dumping** - Export **pricing** below **home** cost / **normal value** to gain share and **displace** locals—**trade-policy** flashpoint; not mere low-cost competition (themes 18, 19).
+- **Dynamic Effects (Economic Integration)** - Long-run gains from integration—tougher **competition**, **economies of scale**, productivity—contrasts one-off **static** shifts (theme 18).
+- **Economic Complexity (ECI Logic)** - Productive **knowledge** embedded in what an economy exports; **sophisticated** goods vs raw **commodities**; informs resilience and **geopolitical** weight; lecture flags **Switzerland** for **med-tech** / precision **engineering** exports (themes 13, 18).
+- **Economic Integration** - **Two or more** states agree to **lower barriers**—driven by **politics** and **economics**; aims at **prosperity** but **benefits need not be equal** across members; **ladder** runs **PTA** → **FTA** → **customs union** → **common market** → **EMU** where applicable (themes 1–8 bridge, 18–19).
+- **Economic and Monetary Union (EMU)** - Shared **currency** (e.g. **euro**) with aligned macro rules among members; deepest stage in the lecture’s EU-style story (theme 18).
+- **Efficiency Seeking (FDI Motive)** - Locating activities where **cost**, **tax**, or **logistics** improve **margin** or throughput; one of three classic motives with **market seeking** and **resource seeking** (theme 15).
+- **Empathy (Global Manager)** - Lecture: core skill for reading local **power distance** and “hidden rules”; complements technical expertise abroad.
+- **Entry Mode** - Governance choice for foreign markets: exporting, licensing, franchising, alliances, JV, FDI, etc.
+- **Erasmus (Program)** - EU **student mobility** scheme; in the **Café Olé** studio, anchor **customer segment** for a **student-centric** co-working pivot in **Madrid** (theme 17).
+- **Executive Power (International)** - Decision rights and **authority** to commit the firm abroad; part of the **realist** triad with **financial control** and **resilience** (theme 14).
+- **Executive Summary** - Short front section of a **business plan** or report that states **status**, **pivot**, and **financial** / **market** logic for a fast reader (theme 17).
+- **Exporting** - Selling abroad from home-base production; lower commitment than full **internationalization** (physically moving a **department** or **facility**); split into **direct** vs **indirect** channels (themes 13, 15).
+- **Expatriate (Expat)** - Employee working outside country of citizenship; costly but used for **HQ control**, **company DNA**, and **technology transfer** (vs **local hire**); lecture: **protect** **capital** and **know-how** in **phase 3 execution** (themes 9, 11, 19–20).
+- **Expectancy (Vroom)** - Belief that effort will yield **performance** on a foreign assignment; one leg of **Vroom**’s **expectancy theory** (theme 16).
+- **Expropriation** - Government seizure or wrongful loss of foreign assets; extreme **political risk** screen for FDI.
+- **Femininity (Hofstede)** - Cooperation, modesty, and quality-of-life emphasis (pole opposite **masculinity**) in cultural framing of work and negotiation.
+- **Financial Lever (International)** - Controllable variable such as pricing, cost base, channel mix, investment pacing, or hedging to respond to shocks.
+- **Foreign Direct Investment (FDI)** - Ownership or lasting control of assets abroad; high commitment and exposure, often higher control; lecture: **location** follows host **competencies** and **skills** for **complex products**, not **wage** alone (themes 15, 18).
+- **Fragmentation** - Splitting of trade, standards, or alliances (policy or geopolitical); core to **slowbalization** narratives.
+- **Free Trade Area (FTA)** - Member countries remove **internal tariffs** but keep separate **external** trade policies; example cited **USMCA**/NAFTA; first **integration** step in the lecture ladder (theme 18).
+- **Functional Strategy (Level)** - How **HR**, **finance**, **marketing**, and operations **support** corporate and business-level choices; base of the **strategy pyramid** (theme 14).
+- **Fujian / Fuzhou (China)** - Province / city cited in class as personal **global identity** and migration “small world” color (theme 10 sidebar).
+- **GDP / GDP Growth** - **Gross domestic product**: coarse **market size and income** signal; **growth** tracks expansion of national output over time (lecture screening metrics).
+- **G20** - Major forum of systemically important economies; cited for $\sim$\textbf{75\%} of **world population** and a large share of **global trade** in lecture shorthand—coarse **power** map only (theme 18).
+- **Geopolitics** - How geography, **economic complexity**, and power interact in foreign policy; **Taiwan** / **China** salience tied to **semiconductor** and advanced supply chains (theme 13).
+- **Global Integration** - Coordinating activities across **many** countries toward **synergy**—top of the lecture **spectrum** after **domestic**, **exporting**, and **branch**/subsidiary depth (themes 14–15).
+- **Global Strategy (Lecture)** - High **standardization**: same core **product** and **marketing** worldwide (e.g. **iPhone**, **Coca-Cola** in class); pushes uniform **HR** policies and mobility; contrasts **multi-domestic** and the **transnational** hybrid (themes 16, 18).
+- **Global Value Chain (GVC)** - Splitting production stages across countries by capability–cost trade-offs; differs from a simple “supply chain” emphasis on value capture.
+- **Glocalization** - Combining global scale with local tailoring of offer and execution.
+- **Governance Choice** - Selecting structures (contracts, equity, hierarchy) to manage uncertainty and partner behavior in international business.
+- **Green, Yellow, and Red Projects (Margins)** - **Green**: healthy/maintained margin (e.g. stable **20%** rows like lecture **Mitsubishi**); **red** watch band (e.g. **11%**)—tighten **labor/materials**; **yellow**: margin **≤15%** / “lost the money,” **HQ** scrutiny (themes 11–12; **Big One** **$60M** example anchors **cash flow**). **Average margin** across portfolio still matters.
+- **Headquarters (HQ)** - Parent “brain”; source of **trust**, **technology transfer**, and **financial control**; **expat** staffing often defends HQ interests (theme 11).
+- **Hedging** - Using instruments or operational offsets to reduce currency or commodity exposure.
+- **Hierarchy (Organizational)** - Ranked authority and reporting layers; interacts with **power distance** (who may challenge the boss).
+- **Hofstede’s Cultural Dimensions** - Cross-national culture framework (e.g., power distance, individualism/collectivism, masculinity/femininity); IB/HR lens in theme 7—indexes are debated, patterns are exam-useful.
+- **Home-Country Template (Risk)** - Blindly **copy-pasting** **HQ** playbook (e.g. **France**) into a host like **Chile** without **adaptation**; lecture failure mode vs **CQ** and local **execution** (theme 20).
+- **Horizontal Expansion (Product–Location)** - Place each **product** in the **best host** for skills and demand; contrasts with **vertical integration** across stages A1--An (theme 13).
+- **Human Resources (HR)** - Hiring, training, retention, rewards; **support activity** in **Porter**’s chain and critical in relocation.
+- **ICP (Ideal Customer Profile)** - Definition of highest-fit accounts for targeting; aligns marketing and sales in global B2B.
+- **Illiberal Democracy** - Competitive elections with weak liberal checks; common tag in **backsliding** and **constitutional identity** vs **primacy** debates.
+- **Income Statement** - Period profit-and-loss report; used with **balance sheet** to track project **margins** phase 3→4 (theme 11).
+- **Income Tax (Host / Home Country)** - Levy on **profits** (and sometimes other bases); lecture uses very high **French**-scale burdens as a reason **efficiency seeking** and **location choice** must include tax math—verify numbers in cases (theme 15).
+- **Industrial Safety (Site)** - Training/supervision to prevent accidents on **international** projects; operational **risk** beyond finance (theme 11).
+- **Integrity (Managerial)** - Non-corrupt handling of money and vendors; paired with **corruption risk** in lecture (theme 11).
+- **Inbound Logistics (Porter)** - Primary activity: receiving, storing, and handling inputs from suppliers.
+- **Inconsistency Critique (EU)** - Argument that the Union’s **identity** strains when **market** enforcement and **values** enforcement look asymmetrical; exam theme alongside **double standard** readings.
+- **Incoterms** - ICC **international commercial terms** (e.g., EXW, FOB, DDP) defining seller/buyer duties, risk transfer, and costs in cross-border sales—distinct from casual “Intercoms” mishear.
+- **Incentive (Policy)** - Positive inducement (e.g. EU **grants** / cohesion-style support for **newer members**, location **subsidies** to attract **FDI**) shaping investment location (themes 10, 18).
+- **Individualism (Hofstede)** - Emphasis on personal goals and achievement (“I”); lecture shorthand tied to richer economies—avoid deterministic claims on exam.
+- **Indirect Exporting** - Selling abroad via **middlemen** (agents, distributors, trading houses); less direct **control** and margin than **direct export** but can cut own selling cost (theme 15).
+- **Instrumentality (Vroom)** - Belief that **successful performance** will actually produce the promised **outcome** from **HQ** (promotion, bonus, recognition); if broken, **expat** motivation collapses (theme 16).
+- **Infrastructure (Porter Support)** - Firm-wide **general management**, planning, **finance**, **legal**—enables all other activities.
+- **Intellectual Property (IP)** - Patents, designs, software, brands; offshore moves risk **theft** or copying without legal and managerial **oversight** (theme 14).
+- **Insolvency** - Inability to pay debts; **cash** and **down-payment** discipline aim to avoid vendor-side collapse if buyers stall (theme 12).
+- **Infringement Procedure** - Commission-led enforcement for breach of EU law; may yield CJEU judgments and fines; often slower than political **Article 7** but legally binding.
+- **Institutional Distance** - Differences in legal, political, and normative systems between countries; raises cost and risk of coordination.
+- **Integration Area** - Regional grouping with defined level of market integration (barriers, rules of origin, movement of factors); studied vs blocks like Mercosur or EU.
+- **Integration Ladder** - Staged deepening: **preferential trading agreement (PTA)** → **FTA** → **customs union** → **common market** → **EMU** in full lecture hierarchy; maps to firm GTM, **rules of origin**, and factor mobility (themes 1–8 bridge, 18–19).
+- **Internationalization** - True lecture sense: not only **exporting** but **physically moving** a **department** or **facility** abroad—needs **HR**, **capital**, host **infrastructure**; **higher** risk/cost than home-base sales but deeper **penetration** (themes 10, 13–15).
+- **Internationalization Phases (Four, Lecture)** - (1) **Conception** + **SWOT**; (2) **market study**; (3) **execution** (~2 years, peak risk); (4) **establishment** / steady state (theme 10).
+- **Internationalization Spectrum (Lecture)** - Rising **distance** and complexity: **domestic** → **exporting** → **branch**/subsidiary (moved departments) → **global integration** / synergy across countries (theme 15).
+- **Internationalization Timeline (Lecture)** - Rough **six years** to **maturity**; many firms fail for lack of **capital/patience** in the **execution** phase when outflows exceed inflows.
+- **Job Rotation (IHRM)** - Moving managers across **functions** (e.g. **production**, **sales**, **HR**) for **holistic** firm literacy before **international** **leadership** (themes 18, 20).
+- **Joint Venture (JV)** - Shared-equity structure combining resources and risk with a partner; governance and trust critical.
+- **Juridification** - Political conflict increasingly fought through courts and technical legal procedure (e.g., primacy vs identity clashes).
+- **Knowledge Cluster** - Co-located skills, suppliers, and institutions that make a **complexity level** of production feasible; **location choice** fails without it (theme 13).
+- **Legal Fragmentation** - Divergent national readings of EU law; threatens **single-market** uniformity; **preliminary rulings** are the main horizontal fix.
+- **Landlocked (Country)** - No direct ocean access; raises **logistics** cost and dependence on neighbors/corridors (e.g. Bolivia, Paraguay in class examples); core **location-screen** variable with **ports**/corridors (themes 10, 19).
+- **LaTeX** - Academic **typesetting** system; cited in student session as preferred format for the **business plan** draft (theme 17; tooling—not course theory).
+- **Licensing** - Granting rights to IP or brand for fees/royalties; lower capital than FDI, weaker control.
+- **Localization** - Tailoring language, product, service, and channel execution to local preferences and regulation.
+- **Local Hire (vs Expat)** - Host-country staff for **lower cost** and **market knowledge**; blended with **HQ**/expat for **control** and **technology transfer** (theme 11).
+- **Logistics Risk** - Disruption, delay, or cost shocks in transportation, ports, customs, or inventory positioning across borders.
+- **Long-Term Orientation (Hofstede)** - Emphasis on persistence, thrift, and future payoffs vs **short-term** focus on immediate results (lecture tied motivation to long-horizon goals).
+- **Loyalty Pact (Article 7)** - Political blocking dynamic: allied capitals preserve **unanimity** so **Article 7** cannot advance despite values concerns.
+- **Margin (Project / Lecture)** - Profit vs cost on a contract (**revenue** minus **cost**); **20%→26%** stretch; **$60M** / **$5M** case scale in lectures; **portfolio average** (e.g. **~19%**) as KPI (themes 11–12).
+- **Market B vs Market C (Entry)** - **B**: competitors present—often **proven demand** and infrastructure; **C**: no rivals but may mean **no market** or logistics; lecture often favors **B** over illusory “empty” **C**.
+- **Market Entry Risk** - Bundles **cultural**, **legal/administrative**, and **economic** exposure when operating across borders.
+- **Market Research** - Systematic gather of customer/segment data; belongs to early internationalization phases before heavy **capital** spend (theme 12 bridge to block 10).
+- **Market Seeking (FDI Motive)** - Entering abroad to find **customers** when home demand is **saturated** or **shrinking**; pairs with **resource** and **efficiency** motives (theme 15).
+- **Market Selection** - Prioritizing countries or segments by fit, size, risk, and timing.
+- **Masculinity (Hofstede)** - Assertiveness, competition, and achievement emphasis (pole opposite **femininity**) in how success is defined.
+- **Maslow’s Hierarchy of Needs** - Classic **needs ladder** (physiological → safety → belonging → **esteem** → **self-actualization**); IHRM angle: **expats** often care about **recognition** and growth tiers, not **base pay** alone (theme 16).
+- **Mercosur** - Southern Cone regional bloc; example of how institutional design and politics affect market access and regional strategy.
+- **Micromanagement** - Close monitoring/control of subordinates; cited under **high power distance** and authority norms in theme 9.
+- **Motivation as Engine (International)** - Lecture closure: **technology** and **capital** matter, but **human motivation** drives execution through **cultural adaptation** “nightmares”; pair with **commitment** / **Vroom** threads (themes 16, 18).
+- **Multi-domestic Strategy (Lecture)** - High **local adaptation**: different **products**, **prices**, and **marketing** by country (consumer goods, local services); needs more **local hire** depth and customized **HR** practices; contrasts **global strategy** and the **transnational** hybrid (themes 16, 18).
+- **Nearshoring** - Moving activities to geographically closer countries to improve resilience, speed, or coordination.
+- **Natural Risk (Internationalization)** - **Language**, **communication**, and **culture**—hard to shortcut without **integration** and **CQ** (theme 10; contrasts **artificial risk**).
+- **Non-Verbal Communication** - Tone, posture, gaze, gestures; lecture **65–93%** channel claim—often outweighs wording in **negotiation**.
+- **North–South Divide (Complexity Map)** - Lecture metaphor: most **high-value** activity clusters in ``northern'' complex economies; commodity-dependent ``south'' lacks **diverse** capabilities; cited **95%** band of flows for exams as **illustrative** shorthand only (themes 13, 18).
+- **Operations (Porter Primary)** - Transforming inputs into finished goods or services—the core **production** step in the chain.
+- **Optionality** - Preserving strategic choices (capacity, markets, suppliers) so the firm can pivot when scenarios materialize.
+- **Outbound Logistics (Porter)** - Primary activity: storing and moving **finished** products to buyers.
+- **PDI (Power Distance Index)** - Hofstede score summarizing acceptance of hierarchy; pairs with country examples and workplace behaviors (theme 9).
+- **PESTEL Analysis** - Macro scan: **P**olitical, **E**conomic, **S**ocial, **T**echnological, **E**nvironmental, **L**egal; used in **Café Olé** draft for **Spain/Madrid** context (theme 17).
+- **Persona (B2B)** - Stylized buyer profile (role, goals, pains, buying process) complementing ICP for message and outreach.
+- **Physical / Environmental Risk (Project Site)** - Harsh field conditions delaying work (e.g. desert/remote-site hazards in lecture examples; theme 11).
+- **Political Risk** - Threat from policy change, instability, sanctions, or expropriation.
+- **Political Stability (Location Screen)** - Durable order and predictable **policy** environment—pairs with **regulatory safety** and **infrastructure** in **location** choice (theme 19).
+- **Poor Location Choice (Failure Mode)** - Cited top driver of int'l **failure** alongside weak **people**; not always “bad product”—bad **site** blows **planning** and **execution** (themes 13, 19–20).
+- **Power Distance (Hofstede)** - Acceptance of unequal hierarchy; shapes feedback, delegation, and who may challenge authority (lecture cited **Mexico/Spain** vs **Nordic/US** patterns).
+- **Preferential Trading Agreement (PTA)** - Narrow bilateral or plurilateral **tariff** or **quota** **concessions** among partners—**simplest** rung before a full **FTA** on the **integration ladder** (theme 19).
+- **Preliminary Ruling (Art. 267 TFEU)** - National court asks CJEU to interpret EU law; harmonizes application across member states and protects **single-market** consistency.
+- **Primacy (EU Law)** - EU norms prevail over conflicting national law in areas of EU competence (case-law foundation: *Costa v. ENEL*).
+- **Primary Activities (Porter)** - Inbound logistics, **operations**, outbound logistics, **marketing & sales**, **service**—directly create and deliver the offering.
+- **Profitability** - Earnings logic of chain configuration; relocating activities should improve margin, not only cut unit cost on paper.
+- **Procurement (Porter Support)** - Purchasing function acquiring resources the firm needs; distinct from physical **inbound logistics** flows.
+- **Project Execution** - Delivery phase where work is performed; quality here drives **retention** and future **margins** (theme 12).
+- **Protectionism** - Tariffs and policies shielding domestic firms; lecture: high barriers often on goods the country **already** produces (e.g. agriculture).
+- **Prosperity (Economic)** - Flourishing **income** and **capabilities**; lecture ties deeper **integration** and **complexity** to national **welfare**, not only trade volume (theme 18).
+- **Realist Framework (International Business)** - Treats expansion as long-horizon **risk** needing **executive power**, **financial control**, and personal **resilience** (theme 14).
+- **Regional Strategy** - Plan that treats a bloc or geography as a unit while respecting within-region variation.
+- **Regulatory Safety (Location Screen)** - Predictable, enforceable **rules** for investment and operations—pairs with **political stability** and **infrastructure** when picking **execution** sites (theme 19).
+- **Resilience (Supply Chain)** - Ability to absorb shocks and recover; combines redundancy, visibility, and responsiveness—not pure cost minimization.
+- **Resilience (International Manager)** - Emotional stamina for **culture shock**, isolation, and slow payoffs; distinct from **supply-chain** resilience (theme 14).
+- **Resource Commitment** - Capital, people, and reputation locked into a market entry; rises with mode depth.
+- **Resource Seeking (FDI Motive)** - Investing abroad for **inputs**, **cheaper labor**, or **talent**/skills not available at home; one motive with **market** and **efficiency seeking** (theme 15).
+- **Revenue** - Sales-generated income; numerator in **margin** with costs; **maximize sales** lever pairs with **cost cut** for **cash** (theme 12).
+- **Rule of Law (General)** - Law applies fairly to state and citizens alike—reduces **arbitrary** official action; entry-screen variable alongside **regulatory safety**; discussion tied to backsliding and EU **values** (themes 10, 19; related to **Article 2 TEU** in EU courses).
+- **Scenario Planning** - Structured definition of alternative futures and **response triggers**; supports robust international decisions.
+- **Schengen Area** - European subgroup (~29 states in 2026 discussion) with **no routine internal border checks**; mobility example Madrid–Paris (theme 10); not all EU states participate equally.
+- **Scientific Management (Taylor)** - Classical **time-and-motion** / **task** engineering of work; lecture uses it as **contrast** to **people-centered** motivation tools (**Maslow**, **Vroom**) in modern IHRM (theme 16).
+- **Secularism** - Separation of state and religious institutions; cited in lecture with **Turkey**’s historical framing (vs religious–political dynamics in other contexts).
+- **Short-Term Orientation (Hofstede)** - Emphasis on immediate results and the present; pole paired with **long-term orientation** in the lecture.
+- **Slow is Fast (Strategy Aphorism)** - Instructor line: **strategy** for **15-year** horizons, not **15-day** tactics—**consistency** beats scattershot moves (themes 17, 19; bridges block 10 patience thesis).
+- **Slowbalization** - Slower growth of trade/global flows relative to GDP; fragmentation, security, and industrial policy; strategy less “pure efficiency.”
+- **Sophistication (Product / Export)** - Skill and technology intensity needed to make a good; core to **economic complexity** and niche **specialization** (theme 13).
+- **Specialization (High-Tech Niche)** - Deep focus on **sophisticated** products (e.g. Swiss pharma/watches, Taiwanese **semiconductors**); alternative to broad **diversification** (theme 13).
+- **Sovereign Agent (Manager / Lecture)** - Manager as **HQ**’s fiduciary: protect **capital** and deliver **returns**; not a “happiness” role—failure loses the mandate (theme 12).
+- **Sovereignty** - Supreme authority of a state over its territory and law; **friction** point when pooling powers in **economic unions**; lecture: states reluctant to cede to **international organizations**—links to integration debate (themes 9 bridge, 19).
+- **Speed (Entry)** - Time to revenue or footprint; sometimes favors alliances or acquisitions over greenfield FDI.
+- **Stage Logic (International)** - Idea that appropriate structure, roles, and go-to-market depth depend on maturity of presence in a market.
+- **Static Effects (Economic Integration)** - One-off shifts in **trade patterns** when barriers fall—**trade creation** and **trade diversion**—before long-run **dynamic** gains appear (theme 18).
+- **Standardization** - Consistent product/process design across markets for scale efficiency.
+- **Strategic Trade-Off** - Explicit choice among objectives (e.g., cost vs resilience, control vs speed) with justification.
+- **Strategy Pyramid (Three Levels)** - **Corporate** scope, **competitive** “how to win,” **functional** support—seek **synergy** across units (theme 14).
+- **Stuck in the Middle (Trap)** - Economies stuck on simple exports swing with **commodity** cycles; escaping needs **human capital**, **technology**, and **institutions** (theme 13).
+- **Subsidiary / Branch (Foreign)** - Legal and physical **presence** abroad (e.g. local **marketing** or **production** unit); lecture step above **exporting** on the **spectrum**; high **commitment** vs home-base sales (theme 15).
+- **Supply Chain Coordination** - Aligning sourcing, production, inventory, and distribution across countries and partners.
+- **SWOT Analysis** - Strengths, weaknesses, opportunities, threats; **strategic audit** before scaling abroad (e.g. patents vs weak intl experience; **Chile** opportunity vs local competitor **threat**); applied in **Café Olé** studio (Wi-Fi/**quiet zones** **S**; professional-brand **W**; university **O**; cost **T**); pair with **phase** discipline so analysis becomes **execution** (themes 10, 14, 17, 20).
+- **Synergy** - Combined businesses/functions worth more **together** than separately; goal of multi-level strategy, **integration** scale gains, and coherent **PM** **handoffs** across functions (themes 14, 19–20).
+- **Support Activities (Porter)** - **Procurement**, **HR**, **technology development**, **firm infrastructure**—underpin primary activities.
+- **Switzerland (Complexity Example)** - Cited **ECI** **deep-blue** tier with **Japan**, **Germany**: **medical technology**, precision **engineering**, **pharma**/watches—**sophistication** over **commodity** volume (themes 13, 18–19).
+- **Talent Management (IHRM)** - Systematic pipeline for **recruiting**, **developing**, and retaining **international** **talent**—lecture: you cannot **internationalize** without **internationalized people** (themes 16, 18).
+- **Tariff Barrier** - Import tax or charge that raises landed cost of cross-border trade; first internal barrier typically **dropped** as blocs move up the **integration ladder** (theme 18).
+- **Tax Haven** - Low- or zero-tax jurisdiction used in international tax planning; compliance and reputation risk for global firms.
+- **Team Diversity (International)** - Mixed national/cultural membership; **pros**: creativity, **problem-solving**, market insight; **cons**: higher **turnover**, **communication** friction, internal conflict—needs norms and leadership (theme 16).
+- **Technology Development (Porter Support)** - R&D, process improvement, and know-how that raises efficiency and differentiation.
+- **Technology Transfer (International)** - Moving **know-how** from **HQ** to subsidiaries/partners; expat teams often guard sensitive **transfer** (theme 11).
+- **Tiered Membership (Pricing)** - **Student** vs standard **packages** (e.g. **discount** hourly rates plus monthly **pass**); central to **Café Olé** pivot away from only pay-per-hour/day (theme 17).
+- **Trade Creation** - Integration shifts demand toward **lower-cost** or **higher-quality** partners **inside** the bloc—**welfare** gain vs autarky split markets (themes 18, 19).
+- **Trade Diversion** - Trade **rerouted** from efficient **outsiders** to higher-cost **insiders** because of **discriminatory** tariffs; possible **loss** alongside **creation** (themes 18, 19).
+- **Trade-Off (Global–Local)** - Balance between global efficiency and local responsiveness (Prahalad–Bartlett style framing); **transnational** strategy tries to push **both** axes—hard to execute (themes 8, 18).
+- **Transnational Strategy** - **Hybrid**: pursue **global integration** (scale, coordination) **and** **local responsiveness** simultaneously; institutionally heavy (themes 16, 18).
+- **Triad (Global Business)** - Core **advanced-economy** business gravity historically around **US**, **EU**, **Japan**; lecture notes **shift** toward **China**, **India** (theme 18).
+- **Trust (Cross-Border)** - Confidence in partners, institutions, and enforcement; shapes mode choice and B2B relationship depth.
+- **Trusted On-Site Management** - **HQ-aligned** lead physically present to **protect** **technology**, **capital**, and **integrity** through **phase 3**—lecture antidote to int'l **failure** (theme 20).
+- **Turnover Rate (International HR)** - Pace of **attrition** and replacement; often **higher** in **cross-border** teams—pairs with **team diversity** and **commitment** challenges (theme 16).
+- **Uncertainty** - Imperfect knowledge about demand, policy, or competition; entry mode and scenarios are responses.
+- **U-Curve (Cultural Adjustment)** - Four-phase path: **honeymoon** → **culture shock** (language, **logistics**, expectation gaps) → **adjustment** (local rules, **empathy**) → **mastery**/steady state; early exit often tied to **shock**—**IHRM** must **support** **expats** (themes 9, 20).
+- **Ukraine (EU Accession Discussion)** - Illustrative **Accession** blockers in lecture: **war**/security, macro **instability**, weak **rule of law** / corruption / **judicial** reform—parallel **Article 2** **governance** tests (theme 18; not a legal opinion).
+- **Union of Values** - Framing of the EU as committed to **Article 2** norms, not only market integration; sharpens **inconsistency** / **double standard** exam prompts.
+- **Valence (Vroom)** - How much a person **wants** the offered **reward** (pay, title, lifestyle fit); if **valence** is low, **expectancy** and **instrumentality** cannot motivate (theme 16).
+- **Value Chain (Global)** - Where and how activities create margin internationally; basis for outsourcing, location, and partnership decisions.
+- **Verbatim Study (Exam Discipline)** - Re-listening to **recordings** to match the professor’s **exact phrases** (e.g. **slow is fast**); signals grade-driven alignment of **plan** language with the **rubric** (theme 17).
+- **Vertical Integration (International)** - Owning more stages of production or distribution across borders (stages A1--An in lecture matrix); pairs with **horizontal** product--location moves (themes 3, 13).
+- **Vroom’s Expectancy Theory** - Motivation as rational belief: **effort** → **performance** → **outcomes**; three tests **expectancy**, **instrumentality**, **valence**—weak links explain **expat** reluctance or withdrawal (theme 16).

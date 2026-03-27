@@ -1,0 +1,173 @@
+# Introduction to the EU - Week 14 Vocabulary A-Z
+
+Final-exam supplement: terms aligned with `introduction-to-eu-final-cornell-master-notes-mon-tue-spring2026.tex` (Cornell blocks 1–20: institutions, law, EMU, enlargement, chronology 1900–2026, critical theory, EP, backsliding, Gibraltar, Turkey, etc.). **Cross-walk:** where your EU course meets international political economy, entries below also track `management-global-markets/week-14/management-global-markets-final-cornell-master-notes-mon-tue-spring2026.tex` (especially block 6 EU legal order, block 10 Schengen/backsliding, blocks 18–19 integration economics)—useful for comparing **customs union → single market → EMU** with generic **integration ladder** language and **trade creation / diversion** prompts.
+
+- **Acquis Communautaire** - Full body of EU law, rights, and obligations candidates and members must adopt; Copenhagen “legal” pillar.
+- **Agency (EU)** - Specialized body supporting implementation, technical coordination, and regulatory consistency.
+- **America First** - US foreign economic posture (Trump era) cited in class as straining transatlantic rules-based expectations.
+- **Anglosphere / CANZUK** - Post-Brexit imaginary of deeper UK ties with English-speaking democracies (Canada, Australia, NZ) outside EU legal supremacy.
+- **Article 2 TEU** - Foundational values (democracy, rule of law, human dignity, etc.) violated in **backsliding** debates.
+- **Article 7 TEU** - “Nuclear” procedure: identify serious values breaches; may lead to **suspension of voting rights** in Council; high political consensus hurdle.
+- **Asymmetric Shocks (EMU)** - Uneven recession or inflation hits across euro states with one monetary policy—tests solidarity and fiscal rules.
+- **Backdoor Federalism** - Deepening economic integration and shared rules that produce quasi-federal outcomes without federal vocabulary (Delors/SEA era).
+- **Backsliding (Democratic / Rule of Law)** - Systematic weakening of courts, media, or pluralism while keeping electoral forms (e.g., Hungary **Fidesz**, Poland **PiS** era in lectures).
+- **Benelux** - Belgium, Netherlands, Luxembourg; part of **1951** **Core Six** with France, Italy, West Germany.
+- **Brexit** - UK withdrawal from EU membership; reorganizes trade, migration, and legal hierarchy.
+- **Brussels Declaration / Brussels Process (1984)** - With **Lisbon Agreement (1980)**, frames UK–Spain–Gibraltar dialogue including sovereignty and **Gibraltarian** interests.
+- **Budget (EU)** - Multiannual and annual financial framework; target of **rule-of-law conditionality** when funds are at risk.
+- **Butterfly Effect** - Lecture metaphor: crisis in one state or region (energy, politics) propagates across the integrated system.
+- **Butter Mountains** - Symbolic CAP surpluses from price/support incentives; consumer and budget critiques.
+- **CANZUK** - Canada, Australia, New Zealand, UK grouping in **Anglosphere** discourse.
+- **CFSP (Common Foreign and Security Policy)** - Maastricht **second pillar** (now TEU provisions); intergovernmental foreign and security cooperation.
+- **Citizenship (EU)** - Status derived from nationality of a member state; adds rights (movement, non-discrimination, political participation in EP elections).
+- **Co-decision** - See **Ordinary Legislative Procedure**; EP and Council must both adopt Commission proposals in most areas.
+- **Cohesion Fund / Cohesion Policy** - Transfers to reduce regional disparities; justified after **1986** Iberian enlargement and still budget-heavy.
+- **Commission (European)** - Executive with **exclusive right of initiative** on most EU legislation; “guardian of the treaties.”
+- **Common Agricultural Policy (CAP)** - Farm supports and market management; French political anchor in 1960s; budget and surplus controversies.
+- **Common Market** - Free trade inside bloc with aligned rules; **EEC** goal from **Treaty of Rome (1957)**.
+- **Compliance Uncertainty (Investment)** - When **juridification**, **backsliding**, or divergent national readings of EU norms make business **rules** harder to forecast; managerial lens from IB notes alongside **Article 7** / **conditionality** debates.
+- **Conditionality (Rule of Law)** - Regulation allowing **suspension of EU funds** when breaches threaten the **EU budget** (vs slow **Article 7**).
+- **Constitutional Identity** - National high-court doctrine limiting EU **primacy** in core constitutional matters—friction with CJEU.
+- **Constitutional Treaty** - Draft rejected **2005** (France/Netherlands); core reforms folded into **Lisbon Treaty (2007)**.
+- **Copenhagen Criteria** - Accession tests: stable democracy/rule of law/rights; functioning market economy; ability to adopt **acquis** (sometimes taught as political, economic, legal pillars).
+- **Core Six** - Founding **ECSC** states (1951): France, West Germany, Italy, Benelux.
+- **Costa v. ENEL (1964)** - Landmark establishing **primacy** of EU law over conflicting national statutes.
+- **Council of Europe** - Strasbourg-based organization (1949); human rights and democracy—**not** the EU **Council**; one leg of “three realities” with EEC and **NATO**.
+- **Council of the EU** - Ministers from member states; co-legislator with EP under **OLP**; represents national executive interests.
+- **Court of Auditors** - EU body auditing legality and efficiency of EU spending.
+- **Court of Justice of the European Union (CJEU / ECJ)** - Ensures uniform interpretation of EU law; **preliminary rulings** (Art. 267 TFEU); **primacy** and **direct effect** jurisprudence.
+- **Customs Union** - Common external tariff and free circulation inside; one layer of “**union of unions**” with **Schengen** and **Eurozone**.
+- **Cyprus Issue** - EU member **Republic of Cyprus** vs **TRNC** north; **veto** politics in Turkey accession chapters.
+- **Decision-Making (EU)** - Multi-institution process; **OLP** is standard for legislation.
+- **Decolonial Lens** - Critical reading of EU external action shaped by empire and postcolonial inequality (syllabus vocabulary).
+- **Democratic Deficit** - Citizens’ weak felt control over Brussels; balances improved **EP** powers vs complexity and **technocracy** critique (Anderson).
+- **Democratic Backsliding** - See **Backsliding**.
+- **Direct Effect** - Some EU norms give private parties enforceable rights in national courts (**Van Gend en Loos**, 1963).
+- **Directive** - EU act binding as to result; member states choose form/means of implementation.
+- **Double Standard (EU Enforcement)** - Critique that **economic** **single-market** enforcement can look faster or harder than **values** (courts, media, pluralism) enforcement—pairs with **Gros**-type arguments and **Union of Values** stress on **Article 2**.
+- **Dumping (Trade)** - Export pricing below **normal value** / cost to displace local producers—**trade-defense** and **WTO**-style debates adjacent to **customs union** external policy.
+- **Dynamic Effects (Economic Integration)** - Long-run gains from a larger integrated market—**competition**, **scale**, productivity—after immediate **static** shifts when barriers fall (IB integration economics vocabulary).
+- **Economic and Monetary Union (EMU)** - Single currency framework: **ECB** + **Stability and Growth**-style fiscal rules; **Maastricht criteria** for euro entry.
+- **EDC (European Defence Community)** - Failed 1950s plan for European army; contrast with **ECSC** success.
+- **ECSC (European Coal and Steel Community)** - **1951**; **High Authority**; pooled coal/steel—first **supranational** leap (“Schuman plan”).
+- **Education Gap (EU)** - Public lack of understanding of **OLP** and institutions; amplifies **democratic deficit** feelings.
+- **EFTA** - UK-led 1960s alternative to **EEC**: free trade, **intergovernmental**, less **supranational** law.
+- **Empty Chair Crisis (1965)** - **de Gaulle** boycotts Council over **QMV**; leads to **Luxembourg Compromise**.
+- **Enlargement** - Accession of new members; waves include **1973**, **1986**, **1995**, **2004** Big Bang, **2013** Croatia, etc.
+- **EPP / S&D / Renew / Greens-EFA / ECR / Patriots for Europe / The Left** - Transnational **European Parliament** political groups (2026 lecture snapshot).
+- **Erdoğan** - Turkish president; **rule-of-law** and accession debates.
+- **End of the Tree (Metaphor)** - Student image: teleological “progress **tree**” hits reality when wars bypass universal law (**2026** seminar).
+- **Euro / Eurozone** - Single currency area (e.g., **20** states in 2026 class framing); banknotes commonly dated **2002** after **1999** EMU start.
+- **European Central Bank (ECB)** - **Frankfurt**; **price stability** mandate; powerful in crises (e.g., Greece era **Troika** conditionality discourse).
+- **European Constitution** - See **Constitutional Treaty**.
+- **European Council** - Heads of state/government; strategic direction; some **Article 7** roles.
+- **European Parliament (EP)** - Directly elected (**1979** onward); **co-legislator** with Council under **OLP**; organized by **political groups**, not nationality.
+- **Euroskepticism** - Mistrust of integration or institutions; fed by **deficit**, **inequality**, and **identity** divides.
+- **Externalization** - EU pays or bargains with neighbors (Turkey, North Africa) to manage migration/border—**geopolitical bouncer** framing.
+- **Fidesz** - Hungarian ruling party in **backsliding** narratives.
+- **Five Eyes (FVEY)** - US–UK–CA–AU–NZ intelligence pact; cited in **Anglosphere** post-Brexit fantasies.
+- **Founding Fathers** - **Schuman**, **Monnet**, etc.; “official” integration narrative vs **realist** critique.
+- **Four Freedoms** - Goods, services, capital, people in **single market** / **SEA** logic.
+- **Franco, Francisco** - Closed **Gibraltar** border **1969**; contrast with post-1975 democratic Spain.
+- **Free Movement** - Core internal market right; **Schengen** operationalizes part of people movement.
+- **Free Trade Area (FTA)** - Members abolish **internal tariffs** but keep **separate external** trade policies; stage on the generic **integration ladder** below **customs union** (contrasts EU **single market** depth); compare **EFTA**, **USMCA** in IB framing.
+- **Gibraltar** - UK **Overseas Territory** at Iberian tip; **1982** partial border reopening; **Brussels Process**.
+- **Gilded Age / Progressive Era (US analogy)** - Asked whether EU resembles weak-center **Gilded** era or activist **Progressive** central response to crises.
+- **Global Resource Dependency** - Oil/gas/commodity reliance; **1973**, **2022** Russia cut, **LNG** markets.
+- **Green Deal** - EU sustainability and climate transition strategy; needs legal and fiscal capacity (**Green Deal** in block 5).
+- **Gros (Inconsistency Critique)** - Argument EU enforces **economic** rules faster/harsher than **values** in some accounts—**double standard** debate.
+- **High Authority (ECSC)** - Early **supranational** executive above coal-steel firms.
+- **Hungary / Poland** - Primary **rule-of-law** clash examples in lectures.
+- **ICJ / UN** - Mentioned in **rules-based order** vs power-politics seminars (UN/WTO/EU legalism under strain).
+- **Identity (European)** - Belonging and narrative contested across enlargement and crisis (**national** vs **European**).
+- **Illiberal Democracy** - Elections without full liberal rights or checks; tag for Orbán-style governance debates.
+- **Infringement Procedure** - Commission-led **legal** enforcement for breach of EU law—can yield **CJEU** judgments and fines; often slower than **Article 7** but legally binding (rule-of-law toolbox in IB block 6 table).
+- **Institutional Scapegoating** - National leaders blame “Brussels” for unpopular reforms (**Bickerton** / **memberization**).
+- **Integration Through Law** - Deepening via treaties, **CJEU**, and compliance—not only diplomacy.
+- **Integration Ladder / Levels** - Staged deepening: **preferential** deals → **FTA** → **customs union** → **common market**/ **single market** (four freedoms) → **EMU**/euro for members—toward **political union** in EU narrative; pairs with **trade creation** / **diversion** when studying welfare effects.
+- **Intergovernmentalism** - States remain masters; decisions by bargaining (**Council**-, **CFSP**-heavy areas); opposite emphasis to **supranationalism**.
+- **“Invisible Borders”** - Class, age, rural–urban divides post-1989; **Vinen**-style critique.
+- **Iron Curtain** - Cold War divide; shapes **1945–1950** “**atmosphere**” for Western cooperation.
+- **JHA (Justice and Home Affairs)** - Maastricht **third pillar** precursor to today’s **AFSJ** (migration, crime cooperation).
+- **Jacques Delors** - Commission President **1985–1995**; **SEA**, single market, **1992** process, Iberian enlargement context.
+- **Jean Monnet** - Planner of sectoral integration; **neofunctional** / **founding fathers** narratives.
+- **Juridification** - Political conflicts fought as legal cases before **CJEU** and national courts (**Kelsen**–**Schmitt** tension).
+- **Kelsen, Hans** - **Normativist** view of hierarchical legal order vs **Schmitt**’s “**exception**.”
+- **Kemalism / Secularism (Turkey)** - Founding republican secular frame vs religious-conservative politics in accession debate.
+- **Legal Fragmentation (Single Market)** - Risk that national courts or statutes interpret EU norms **differently**; **Art. 267** **preliminary rulings** are the horizontal fix so **Madrid**/**Warsaw** (etc.) apply the **same** treaty meaning (IB / CJEU framing).
+- **Lisbon Treaty (2007)** - Post-**2005** “Plan B”; institutional reform; stronger **EP**; **Article 7** and **Charter** context.
+- **Luxembourg Compromise (1966)** - National **vital interest** can force de facto consensus; shadow over **QMV** in sensitive dossiers.
+- **Loyalty Pact (Article 7)** - Political dynamic where allied capitals preserve **unanimity** so **Article 7** TEU does not advance despite values concerns—IB notes echo intro-EU **backsliding** debates.
+- **Maastricht Criteria** - Inflation, deficit/debt, interest-rate, exchange-stability tests for **euro** entry.
+- **Maastricht Treaty (1993)** - Creates **EU** name; **three pillars** (Communities, **CFSP**, **JHA**); **EMU** roadmap.
+- **Marshall Plan** - US **1947** aid; **OEEC** coordination **1948**; conditions European cooperation.
+- **Memberization (Bickerton)** - Executives prioritize Brussels peer accountability over purely domestic mandates; **scapegoating** dynamic.
+- **Migration Policy** - Asylum, borders, Eastern Partnership—**external** face of EU vs **Schengen** **internal** freedom.
+- **Monetary Policy** - **ECB** tools (interest rates, asset purchases) vs national **fiscal** policy tension.
+- **Moravcsik / Liberal Intergovernmentalism** - Grand bargains as **preference aggregation** by national leaders (class “structural” reading).
+- **Multilateralism** - Cooperation through **UN**, **WTO**, **EU** rules vs **unilateralism**.
+- **NATO** - **1949** alliance; “**Americans in, Russians out, Germans down**”; parallel pillar to EC/EU.
+- **Neofunctionalism / Spillover (Haas)** - Sector integration pulls further integration via functional pressure; criticized as deterministic.
+- **Neoliberalism (Critique)** - Argument CJEU/market integration bias vs **labor** in critical scholarship.
+- **OEEC (1948)** - Organization for European Economic Cooperation (Marshall Plan coordination).
+- **OPEC** - Oil cartel; **1973** price weapon after **Yom Kippur War**; **stagflation** trigger.
+- **Opt-out** - UK/Denmark-style exemptions (euro, **Social Charter**)—**variable geometry**.
+- **Ordinary Legislative Procedure (OLP)** - **Co-decision**: Commission proposes; **EP** + **Council** adopt; majority of EU law.
+- **Patriots for Europe** - Far-right EP group (early 2026 class note).
+- **Pedestrian Reopening (1982)** - First Gibraltar border step under **González**–**Thatcher**.
+- **PiS** - Polish Law and Justice; **backsliding** era in lecture (may overlap government changes).
+- **Preferential Trading Agreement (PTA)** - Selective **tariff**/**quota** concessions among partners—**shallowest** formal step before a full **FTA** on generic integration ladders; helps place EU deals in wider IPE typologies.
+- **Preliminary Ruling (Art. 267 TFEU)** - National court asks **CJEU** to interpret EU law—harmonizes **single market** meaning.
+- **Primacy of EU Law** - EU norms prevail in conflict with national law (**Costa v. ENEL**); clashes with **constitutional identity**.
+- **Qualified Majority Voting (QMV)** - Weighted Council majority (often taught **55%** of states + **65%** of EU population post-Lisbon in many areas)—vs **unanimity** in some areas.
+- **Realist History** - Power, economics, empire vs “**official**” founding myth; **colonial/decolonial** angles.
+- **Recovery Funds** - Post-**COVID** fiscal capacity; joint borrowing debate; **NextGenerationEU** family.
+- **Regulation (EU)** - Directly applicable binding act in all member states.
+- **Robert Schuman** - **1950** Declaration; coal–steel pool to make war “materially impossible.”
+- **Rule of Law** - Legality, **judicial independence**, rights; baseline for **Article 2** and enlargement.
+- **Rule-of-Law Conditionality** - See **Conditionality**.
+- **Santer Commission** - **1999** mass resignation (fraud scandal)—institutional credibility shock.
+- **Scapegoating (Brussels)** - See **Institutional Scapegoating**.
+- **Schengen Area** - Passport-free internal borders for participants (~**29** states in 2026 transcript); non-EU members (e.g., Norway, CH) in some tellings; **Ireland/Cyprus** exceptions in class.
+- **Schmitt, Carl** - **Sovereign decides the exception**—critique of pure **Kelsen** legalism in crisis politics.
+- **Schuman Declaration (1950)** - Launches **ECSC** political project.
+- **Single European Act (SEA, 1986)** - “**1992**” **internal market** program; more **QMV**; stronger **EP** role.
+- **Self-Determination (Gibraltar)** - UK argument for **Gibraltarian** political rights in negotiations.
+- **Single Market** - Deep integration beyond customs union; **four freedoms**; **Delors** push.
+- **Social Charter** - Workers’ rights clash in **Maastricht**; UK protocol/opt-out history.
+- **Southern Enlargement (1986)** - **Spain** and **Portugal**; **Structural** and **Cohesion** funds.
+- **Sovereignty** - National claim against **supranational** law; **Hungary/Poland** rhetoric; vs **pooled** sovereignty in treaties.
+- **Spheres of Influence** - **US–China–Russia** great-power blocs (early 2026 lecture).
+- **Stability and Growth Pact** - Fiscal rules for euro area (name-check with EMU readings).
+- **Stagflation** - Stagnation + inflation; **1973** oil shock; feared echo **2020s**.
+- **Static Effects (Economic Integration)** - Immediate trade pattern shifts when preferences change—**trade creation** (efficient internal trade) vs **trade diversion** (shifts from lower-cost outsiders to higher-cost insiders)—before **dynamic** gains (IB / trade theory bridge).
+- **Structural Funds** - Regional development spending pre-/with **cohesion** architecture.
+- **Subsidiarity** - EU acts only if goals cannot be met adequately at lower levels (Article 5 TEU logic).
+- **Supranationalism** - Institutions can bind states without unanimity (**CJEU**, **Commission**); vs **intergovernmentalism**.
+- **Technocracy** - Expert governance critique (Commission/ECB) feeding **democratic deficit** debates.
+- **Teleological History** - Whiggish “march to **United States of Europe**”; **Gilbert** warns against straight-line narratives.
+- **Thatcher, Margaret** - UK **superstate** skeptic; **Maastricht** **Social Charter** fight; **Gibraltar** **1982**.
+- **Three Pillars (Maastricht)** - Communities (economic), **CFSP**, **JHA**—since collapsed into **TEU**/`TFEU` structure but exam-relevant history.
+- **Tower of Babel** - Cartoon trope mocking multilingual European army/government projects (**EDC** era).
+- **Train Metaphor (European)** - Must “catch” integration train; **Euroskeptic** critique of unknown destination (Cornell block 16).
+- **Trade Creation** - When integration redirects demand toward **lower-cost** or **better-matched** suppliers **inside** the bloc—static **welfare** upside of deepening (IB vocabulary).
+- **Trade Diversion** - When **discriminatory** **tariffs** shift imports from **efficient non-members** to **less efficient** member producers—possible **loss** alongside **creation**; sharpens EU **external tariff** politics.
+- **Trans-European Networks (TENs)** - Transport, energy, and telecom corridor projects tying **single market** and **cohesion** goals.
+- **Treaty of Paris (1951)** - Establishes **ECSC**.
+- **Treaty of Rome (1957)** - **EEC** + **Euratom**; **common market** objective.
+- **Treaty on European Union (TEU)** - Maastricht “**EU**” treaty layer with values, institutions, CFSP, etc.
+- **TRNC** - **Turkish Republic of Northern Cyprus** (northern Cyprus entity); not recognized by EU.
+- **Troika** - Commission + ECB + IMF (Greek crisis frame)—**technocratic** conditionality politics.
+- **Turkey (Accession Debate)** - Strategic pros/cons; **Cyprus** deadlock; **Kemalism** vs **Erdoğan**; **geopolitical bouncer**.
+- **Ukraine (EU Accession Discussion)** - Illustrative **enlargement** friction in adjacent IB lectures: **security**/war, macro **instability**, **rule of law**/**judicial** reform—parallel **Article 2** screens (course illustration, not legal advice).
+- **Union of Values** - Framing of the EU around **Article 2 TEU** norms (democracy, **rule of law**, dignity…), not **market** integration alone; sharpens **double standard** / **inconsistency** essay prompts (TEU vocabulary echoed in IB block 6).
+- **United in Diversity** - Official EU motto (**2000**).
+- **Unilateralism** - Great powers acting outside multilateral constraint; strains **rules-based order**.
+- **Ursula von der Leyen** - Commission President; **2026** discourse on partners ignoring international law while EU stays **rule-bound**.
+- **Van Gend en Loos (1963)** - **Direct effect** of treaty provisions for individuals.
+- **Variable Geometry / Multi-Speed Europe** - **Opt-outs**, enhanced cooperation, incomplete **Schengen**/euro participation.
+- **Veto (British EU Accession)** - **de Gaulle** **1960s**; also **Cyprus** on Turkey chapters.
+- **Vinen, Richard** - **1989** not simple “unity”; urban/rural and class **cleavages**.
+- **Vital National Interest** - **Luxembourg Compromise** language allowing resistance to **QMV**.
+- **Whig / Orthodox Narrative** - Heroic integration march; critics prefer **realist** + **teleology** warning.
+- **Yom Kippur War (1973)** - Context for **OPEC** oil embargo/price spike.

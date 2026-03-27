@@ -1,0 +1,431 @@
+% Product Management - Week 14 Cornell Final Notes (Spring 2026, Mon/Tue)
+% Compile: pdflatex product-management-final-cornell-master-notes-mon-tue-spring2026.tex
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=1.2cm]{geometry}
+\usepackage{xcolor}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{enumitem}
+\setlist[itemize]{leftmargin=1.2em,itemsep=1pt,topsep=2pt}
+\setlist[enumerate]{leftmargin=1.4em,itemsep=1pt,topsep=2pt}
+\definecolor{titleblue}{RGB}{25,55,109}
+\definecolor{softgray}{RGB}{245,247,251}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.35em}
+
+\newcommand{\cornell}[3]{
+\subsection*{#1}
+\rowcolors{1}{softgray}{white}
+\begin{longtable}{|p{0.22\linewidth}|p{0.74\linewidth}|}
+\hline
+\textbf{Cue / Questions} & \textbf{Notes} \\
+\hline
+#2 & #3 \\
+\hline
+\end{longtable}
+}
+
+\begin{document}
+\begin{center}
+{\Large\bfseries\color{titleblue} Product Management - Week 14 Final Cornell Master Notes}\\
+{\small Spring 2026 (typical class days: Mon/Tue) | Consolidated from class flow, weekly notes, and midterm prep materials}
+\end{center}
+
+\section*{Performance and Focus Rules}
+\begin{itemize}
+  \item \textbf{Product target level:} A (8.5/10) = notable/bueno and close to sobresaliente/excelente.
+  \item \textbf{Risk thresholds to monitor globally:} WIP failing band = 3.49--0; UCM failing band = 4.99--0; suspenso = 4.
+  \item \textbf{Focus principle:} keep Product at A while reallocating extra study time to weaker courses.
+\end{itemize}
+
+\section*{Cornell Notes by Core Theme}
+
+\cornell{1) Product Foundations and Value Logic}
+{What problem is solved?\\
+Who is the user?\\
+Why this solution now?\\
+What value is unique?}
+{
+\textbf{Core concept:} Product work starts with a clear value hypothesis, not with features.\\
+\textbf{Business model lens:} connect value creation (user utility) and value capture (revenue/cost logic).\\
+\textbf{Decision checkpoint:} avoid building when user pain and willingness-to-pay are weakly evidenced.\\
+\textbf{Exam language:} ``The proposal is strong if it demonstrates problem-solution fit and a credible path to repeated value delivery.''\\
+\textbf{Common mistakes:} confusing idea quality with market demand; over-indexing on UI before validating core need.
+}
+
+\cornell{2) User Research, Interviews, and Validation}
+{What assumptions are tested?\\
+What is evidence vs opinion?\\
+How do interviews change priorities?}
+{
+\textbf{Interview purpose:} reveal real context, pains, alternatives, and decision criteria.\\
+\textbf{Validation cycle:} assumption -> test -> evidence -> iteration.\\
+\textbf{Good evidence:} observed behavior, conversion/retention movement, consistent user patterns.\\
+\textbf{Weak evidence:} ``I like it'' feedback without commitment signals.\\
+\textbf{Operational rule:} one validated insight must translate into one concrete product decision.
+}
+
+\cornell{3) Prioritization, Roadmaps, and Delivery Discipline}
+{What gets built now?\\
+What is deferred and why?\\
+How does roadmap show strategy?}
+{
+\textbf{Prioritization logic:} maximize expected impact under resource constraints.\\
+\textbf{Roadmap role:} communication of strategic sequence, not feature wishlist.\\
+\textbf{Execution link:} backlog quality determines sprint quality; vague items create waste.\\
+\textbf{Trade-off examples:} retention improvement may dominate new acquisition features if churn is structurally high.\\
+\textbf{Exam phrasing:} ``Prioritization is justified by impact, effort, risk reduction, and strategic coherence.''
+}
+
+\cornell{4) MVP, Experimentation, and Product-Market Fit}
+{What is minimum viable?\\
+What metric proves learning?\\
+When is fit credible?}
+{
+\textbf{MVP meaning:} smallest solution that yields reliable learning signal.\\
+\textbf{Experiment design:} state hypothesis, success threshold, timeline, decision rule.\\
+\textbf{PMF signs:} recurring usage, retention stability, pull from target segment.\\
+\textbf{Anti-pattern:} scaling acquisition before retention baseline is validated.\\
+\textbf{Course tie-in:} lean validation reduces sunk cost risk and accelerates iteration quality.
+}
+
+\cornell{5) GTM and Growth Thinking}
+{Who is first target segment?\\
+Which channel economics work?\\
+How is growth sustained?}
+{
+\textbf{GTM frame:} segmentation -> positioning -> channel -> pricing -> onboarding.\\
+\textbf{Growth quality:} sustainable growth requires both acquisition and retention economics.\\
+\textbf{North-star discipline:} one primary value metric with supporting diagnostic metrics.\\
+\textbf{Market adaptation:} message and channel should match segment behavior, not generic assumptions.\\
+\textbf{Exam cue:} always connect GTM choices to measurable business impact.
+}
+
+\cornell{6) Value Chain and Value Creation Case (Spain-SF-Japan)}
+{Who is the ``Kus'' figure in class?\\
+How do primary vs support activities differ?\\
+What is valuation vs value creation?\\
+How did 15K become 15M in this case?\\
+Why did scale require international structure?\\
+What is the IP trade-off: patents vs secrecy?}
+{
+\textbf{``Kus'' figure:} likely Michael Porter, linked to value creation logic through the value chain framework.\\
+\textbf{Porter's value chain:} Primary activities (creation, sale, transfer) plus support activities (infrastructure, HR, technology, finance) must align.\\
+\textbf{Value creation vs valuation:} resources remain economically weak until organized into a usable offer; valuation is a price estimate, value creation is real utility delivered.\\
+\textbf{Case setup:} brain-disease R\&D centered on a molecular-mass discovery (Spain/San Francisco context).\\
+\textbf{Value jump:} early research-stage value around 15K rose to around 15M after proof, structure, and market path were established.\\
+\textbf{Global scaling logic:} Spain had limited market/structure; a major Japanese corporation recognized larger demand (250M/year potential) and enabled commercialization capacity.\\
+\textbf{IP strategy trade-off:} patents require technical disclosure; secrecy can preserve edge when imitation risk is high.\\
+\textbf{Asset logic:} technology, licenses, and methods are necessary but insufficient; without channels and operations, even a high-potential asset stays under-monetized.\\
+\textbf{Exam phrasing:} ``Scientific discovery has low economic value by itself; value emerges when the discovery is embedded in a full value chain and scaled to a real market.''
+}
+
+\cornell{7) Branding, Rationality, and Innovation Strategy}
+{What is bounded rationality in managerial decisions?\\
+How does asymmetric information change consumer behavior?\\
+Why do brands become trust proxies in uncertain markets?\\
+Why is patenting both protection and exposure?\\
+How does open innovation create value capture opportunities?\\
+What is the Xerox PARC lesson for PM and strategy?}
+{
+\textbf{Bounded rationality:} managers and consumers decide with incomplete information, limited time, and cognitive constraints.\\
+\textbf{Rationality vs emotion:} analytical structure guides decisions, but emotion heavily influences final choices under ambiguity.\\
+\textbf{Lemon-market logic:} when sellers know more than buyers (asymmetric information), buyers rely on brand to avoid low-quality offers.\\
+\textbf{Branding effect:} strong brands reduce perceived risk; when technical information is low, emotional trust can dominate choice.\\
+\textbf{Patent strategy trade-off:} patents protect IP but require technical disclosure, which can increase imitation or litigation exposure.\\
+\textbf{Cross-licensing logic:} firms often exchange IP rights to reduce legal conflict and speed ecosystem-level innovation.\\
+\textbf{Open innovation (Chesbrough):} firms create more value by combining internal capabilities with external knowledge, partners, and platforms.\\
+\textbf{Standard-setting strategy:} giving away a layer (e.g., software) can establish industry standards and shift monetization to services, hardware, or complements.\\
+\textbf{Xerox PARC paradox:} Xerox invented breakthrough technologies (GUI, mouse, laser-printing ecosystem) but captured limited value due to business-model mismatch.\\
+\textbf{Strategic takeaway:} invention quality is not enough; monetization requires fit among information strategy, brand trust, channel design, and business model.
+}
+
+\cornell{8) Testing as Investing and Market Entry Strategy}
+{Why is testing treated as investing?\\
+How do network effects change launch strategy?\\
+What is value creation vs monetization in platform models?\\
+Which customer-success metrics matter most?\\
+How do credibility, lobbying, and endorsements influence adoption?\\
+What does the bootstrapping-to-scale path teach?}
+{
+\textbf{Testing as investing:} avoid all-in spending; each sprint is a staged investment that buys evidence before larger capital commitments.\\
+\textbf{Lean logic:} formulate hypotheses, run small experiments, and pivot/continue using observed market behavior rather than internal optimism.\\
+\textbf{Network effects (N+1):} platform value increases with each additional participant; early adoption strategy must prioritize density and interaction loops.\\
+\textbf{Platform entry implication:} ecosystem dominance (e.g., a strong OS/user base) can become the practical ``north star'' for developer and channel priorities.\\
+\textbf{Value vs monetization:} products may create huge user value (Google-style utility) while monetizing indirectly via ads, data, or complementary services.\\
+\textbf{Revenue discipline:} useful products still fail without a clear payer, pricing logic, and repeatable capture mechanism.\\
+\textbf{Customer-success metrics:} retention, subscription continuity, and satisfaction/review quality are stronger health indicators than one-time usage spikes.\\
+\textbf{Credibility and influence:} brand endorsements, stakeholder communication, and policy/institutional access can accelerate trust and market entry.\\
+\textbf{Bootstrapping story:} early low-paid or free work validates feasibility; once proof exists, larger partners can scale the model and multiply valuation.\\
+\textbf{Innovation funnel:} Phase 1 research/molecular idea -> Phase 2 MVP/testing -> Phase 3 scaled commercialization with major partners.
+}
+
+\cornell{9) Value Management in the Modern Workforce}
+{What is the PM role across functions?\\
+How do value creation and value capture differ in execution?\\
+Why must strategy separate user from customer?\\
+What data capabilities are now mandatory?\\
+Why are communication and collaboration core skills?\\
+How is AI used in real corporate workflows?}
+{
+\textbf{PM role as bridge:} product managers connect technology, finance, operations, and brand decisions into one coherent execution path.\\
+\textbf{Value creation vs capture:} creation delivers user and ecosystem benefit; capture secures sustainable revenue/profit from that value.\\
+\textbf{User vs customer logic:} the user may differ from the payer, so product design and monetization must satisfy both decision-makers.\\
+\textbf{Data requirement:} modern roles expect fluency in external market signals and internal performance data for prioritization and positioning.\\
+\textbf{Communication premium:} teams prioritize collaboration and translation skills (explaining analysis/AI outputs clearly), not only specialist technical depth.\\
+\textbf{AI in practice:} tools are used to consolidate large information sets (e.g., hundreds of records) into decision-ready insights for managers.\\
+\textbf{Company examples:} Meta emphasizes strategic PM impact at platform scale; Figma combines product and AI with design-led value; Santander links pricing/financial analysis with customer feedback loops; Inditex ties brand demand to operations/manufacturing evaluation.\\
+\textbf{Workforce takeaway:} high-impact managers are cross-functional generalists who convert raw data into actionable insight and measurable customer outcomes.
+}
+
+\cornell{10) Case Studies in Operational Excellence}
+{How did McDonald's redesign its kitchen model?\\
+Why do Ryanair/Southwest optimize turnaround time?\\
+How does Zara convert store feedback into production action?\\
+Why do brand signals (e.g., green vs red) matter operationally?\\
+How do AI/data loops enable speed-based advantage?\\
+What does ``dated ground'' imply across industries?}
+{
+\textbf{Core principle:} speed and efficiency are direct value drivers when they reduce waste, idle time, and mismatch with demand.\\
+\textbf{McDonald's pivot:} shifted from batch/pre-made output to ``Made For You'' flow, improving freshness/customization while requiring tighter kitchen coordination.\\
+\textbf{Operational design lesson:} cross-functional alignment (ops, technology, training, finance) is necessary to sustain process redesign at scale.\\
+\textbf{Aviation model (Ryanair/Southwest):} planes earn while flying, so fast gate turnaround increases asset utilization and supports low-fare economics.\\
+\textbf{Throughput logic:} minimizing non-productive ground time lowers effective cost per unit delivered (meal, seat, garment).\\
+\textbf{Zara/Inditex model:} near-real-time store feedback informs rapid replenishment and short-cycle production decisions.\\
+\textbf{Scarcity mechanism:} limited availability and fast rotation create urgency, increasing conversion and reducing markdown risk.\\
+\textbf{Brand perception shift:} visual repositioning (red to green cues) can signal quality/health/environment values as market expectations evolve.\\
+\textbf{AI and data loops:} closed feedback systems connect customer behavior to headquarters decisions, accelerating demand sensing and response.\\
+\textbf{``Dated ground'' meaning:} value is lost when assets sit idle (planes on ground, burgers in bins, shirts in warehouses); value is created by fast flow through the chain.
+}
+
+\cornell{11) Disruptive Innovation and Technology S-Curves}
+{What is the technology S-curve?\\
+Why did Kodak stay on the old curve?\\
+How does Nokia vs. Apple illustrate platform vs product?\\
+When does ``worse'' technology win on customer value?\\
+How does Uber exemplify new-market disruption?\\
+Why do incumbents lose to disruptors?}
+{
+\textbf{S-curve logic:} early performance is slow (R\&D), growth steepens, then a plateau as limits or economics cap improvement.\\
+\textbf{Disruptive innovation:} entrants with fewer resources can win by serving overlooked segments or new value networks until quality meets mainstream needs.\\
+\textbf{Kodak / digital camera:} Kodak helped invent digital imaging but protected film cash flow; rivals jumped the new curve while the incumbent delayed cannibalization.\\
+\textbf{Nokia vs Apple:} Nokia optimized hardware durability and early ``small computer'' framing; Apple prioritized UX, ecosystem, and platform (App Store + services).\\
+\textbf{Performance vs what customers value:} early digital photos traded quality for storage, speed, and convenience; ``better specs'' did not match the buying job.\\
+\textbf{Incumbent lock-in:} legacy architectures (e.g., dominant silicon-era stack) persist when switching cost and risk outweigh marginal efficiency gains---``good enough'' endures.\\
+\textbf{Quantum computing:} possible next S-curve---expensive and niche today, concentrated among large players, but a potential break from current chip paradigms.\\
+\textbf{Uber case:} Uber Black targeted high-end/near-limo demand; UberX scaled accessibility; advantage included the information layer (location, price, predictability), not only the vehicle.\\
+\textbf{Why giants fail:} fear of cannibalization; over-weighting current large customers who reject immature tech; incumbent complexity vs disruptor simplicity and ``good enough'' entry offers.
+}
+
+\cornell{12) Cost Structure and Strategic Design}
+{How do price and cost differ strategically?\\
+What are fixed vs variable costs, with examples?\\
+How do economies of scale change unit economics?\\
+What is Fordism (Model T, line, standardization)?\\
+When is specialization cheaper than generalization?\\
+What does ``land grab'' imply for fixed-cost bets?\\
+How does the university case illustrate break-even logic?\\
+How should managers match design to expected market volume?}
+{
+\textbf{Price vs cost:} price is what the customer pays; cost is what the firm incurs. A low-cost structure does not always mean the lowest market price---margin and positioning still matter.\\
+\textbf{Fixed costs:} do not vary with output in the short run (rent, insurance, heavy equipment, plant).\\
+\textbf{Variable costs:} scale with production (materials, much of direct labor, incremental energy).\\
+\textbf{Economies of scale:} spreading fixed cost over more units lowers average cost per unit---central to mass production in large markets.\\
+\textbf{Fordism / Model T:} standardization (``any color as long as it's black'') and assembly-line task division raised speed and allowed lower-skill, repeatable labor.\\
+\textbf{Specialization vs generalization:} narrow roles are cheaper at high volume; broader, multi-skilled work supports flexibility and customization but often costs more per effective unit.\\
+\textbf{Land-grab metaphor:} like claiming territory in the American West---once you commit to large fixed assets, you need scale and speed to justify the sunk structure.\\
+\textbf{University as high-fixed-cost model:} campuses and infrastructure sit largely fixed; low enrollment vs capacity pressures profitability unless volume (students/revenue) covers the base.\\
+\textbf{Break-even logic:} if fixed costs dominate and volume is insufficient, losses persist until revenue crosses the break-even point.\\
+\textbf{Mass customization:} technology and process design can add variety without giving up all mass-production efficiency.\\
+\textbf{Manager's design rule:} millions of units -> invest in capital-intensive scale and specialization; hundreds or niche demand -> keep fixed costs low and favor flexible, generalist capacity.
+}
+
+\cornell{13) Business Model Canvas and Zara (Inditex) Case}
+{What is the BMC for in practice?\\
+Who is the Zara segment in this analysis?\\
+What is the value proposition for skinny jeans?\\
+How do channels, relationships, and revenue fit Zara?\\
+What is the operational timeline (weeks)?\\
+What is the simplified Who / Why / How logic?\\
+What caution applies when using AI for case data?}
+{
+\textbf{BMC role:} nine-block map of customers, offer, delivery, partners, activities, resources, costs, and revenue---used to align theory with a real operating model.\\
+\textbf{Customer segments (student analysis):} roughly ages 17--27, mainly urban (e.g., NYC, LA, Miami), wanting premium-look fashion without luxury prices.\\
+\textbf{Value proposition (skinny jeans line):} scarcity (buy now or gone), trend-led ``outfit solutions,'' mid-range price (e.g., \$30--\$50) vs Gap/Levi's but higher fashion relevance.\\
+\textbf{Channels:} frequent store replenishment (e.g., twice-weekly in transcript) plus strong e-commerce.\\
+\textbf{Customer relationships:} fast rotation drives repeat visits; weak sellers are cut quickly rather than deep-discounted.\\
+\textbf{Revenue logic:} emphasis on full-price sales; scarcity reduces dependence on perpetual markdowns.\\
+\textbf{Speed to market:} design-to-store in weeks (transcript: ~5-week cycle) vs months for traditional apparel---enables response to fast-moving trends.\\
+\textbf{Simplified managerial logic:} Who (urban young adults) -> Why (trend, fit/scarcity) -> How (limited quantities, constant refresh).\\
+\textbf{Zara ``secret'' in one line:} they monetize \textit{currentness}---small batches test demand; winners scale; losers exit with less inventory risk.\\
+\textbf{Tooling caveat:} when using AI or simulations to populate a BMC, watch for plausible-but-wrong outputs (``hallucinations'') on pricing or facts; verify against sources.
+}
+
+\cornell{14) BMC Nine Blocks, Agile Supply Chain, and Zara Positioning}
+{How do the nine BMC blocks work as a value-capture machine for Zara?\\
+What defines agile vs traditional apparel retail?\\
+Why does ``response beat prediction'' matter?\\
+How should AI-generated case data be reality-checked?}
+{
+\textbf{Framing:} the nine blocks are not isolated boxes; together they describe how Inditex converts trend signals into repeatable value capture.\\
+\textbf{1. Customer segments:} urban-oriented younger adults (e.g., 17--27) seeking ``premium'' styling without luxury price tags.\\
+\textbf{2. Value propositions:} scarcity + \textit{currentness} (buy now or miss it); trend-led outfit solutions.\\
+\textbf{3. Channels:} flagship/high-traffic urban stores plus tightly integrated digital (app/online) aligned with replenishment rhythm.\\
+\textbf{4. Customer relationships:} largely self-service browsing/purchase, but emotionally driven by FOMO and rotation (repeat visits).\\
+\textbf{5. Revenue streams:} predominantly full-price, higher-margin sales vs discount-dependent competitors.\\
+\textbf{6. Key activities:} rapid design cycles, responsive production, JIT-style flow, continuous sell-through and data analysis.\\
+\textbf{7. Key resources:} proprietary logistics and distribution capability (e.g., centralized hub / ``Cube'' narrative in class).\\
+\textbf{8. Key partnerships:} external trend intelligence and flexible local manufacturing / supplier network.\\
+\textbf{9. Cost structure:} higher logistics and coordination cost offset by lower markdown waste and faster inventory turns.\\
+\textbf{Agile vs traditional:} many retailers use 6--9 month lead times and clear excess via deep discounts; Zara's ~5-week style cycle favors reactivity.\\
+\textbf{Strategic contrast:} \textit{response over prediction}---small batches test the market; scale what works.\\
+\textbf{Data verification lesson:} AI or simulations may oversimplify pricing tier (e.g., ``mid-range''); market positioning is often \textbf{premium fast fashion} (above mass basics, below designer), supporting impulse vs investment framing.\\
+\textbf{Exam phrasing:} ``BMC blocks must align: the operating model (speed, logistics, partnerships) must match the value proposition (scarcity/currentness) and revenue model (full price).''
+}
+
+\cornell{15) Design Thinking and IDEO Shopping Cart Case}
+{What is IDEO's cultural philosophy for idea quality?\\
+How does empathy differ from asking ``experts'' only?\\
+Why use multidisciplinary and paired observation?\\
+How do define, ideate, prototype, and test link to user journey?\\
+What does ``fail often'' mean as investment?\\
+Why did the cart stay unchanged for decades?}
+{
+\textbf{IDEO philosophy:} best idea wins credibility, not hierarchy; flat culture encourages contributors at any level to surface insights.\\
+\textbf{Phase 1 (empathy / observation):} study real behavior in context (e.g., grocery stores, ``tribes'' of shoppers and parents) rather than relying only on expert opinion.\\
+\textbf{Observation method:} paired observers reduce individual bias; design-in-anthropology spirit---watch what people do, not only what they say.\\
+\textbf{Multidisciplinary teams:} mix linguist, biologist, psychologist, MBA, etc., so non-obvious pain points surface that a single discipline might miss.\\
+\textbf{Phase 2 (define / narrow):} compress research into focused problem frames (e.g., ~12 ``points of drama''), such as steering behavior or parking-lot cart abandonment.\\
+\textbf{Phase 3 (ideate \& prototype):} ``Fail often to succeed sooner''---rapid, cheap prototypes are learning investments, not vanity polish; wall-based visuals/post-its beat slow text-only debate.\\
+\textbf{Phase 4 (test the journey):} prototype the full \textbf{user journey}, not only the object; ``store of the future''--style physical simulation tests end-to-end flow.\\
+\textbf{Five-stage map:} Empathize -> Define -> Ideate -> Prototype -> Test (non-linear in practice; iterate loops).\\
+\textbf{Strategic insight:} stagnation persists when users accept ``that's how it is''; breakthrough starts with ``why must it stay this way?''---as with carts unchanged for ~50 years until reframed.\\
+\textbf{Exam phrasing:} ``Design thinking ties empathy, diverse lenses, fast prototyping, and journey testing into one evidence loop for desirability and feasibility.''
+}
+
+\cornell{16) Customer Discovery, Lean Execution, and Yami (Workshop)}
+{How does design thinking plus lean apply to a real student project?\\
+What are ideation ground rules?\\
+What is the golden rule of customer discovery interviews?\\
+Which questions work vs which bias the answer?\\
+How do you avoid designing for yourself?\\
+Why time-box prototypes?\\
+How does AI support vs replace interview data?}
+{
+\textbf{Project context (Yami):} social app aimed at reducing student isolation---workshop moves from IDEO theory to \textbf{customer discovery interviews}.\\
+\textbf{Iterative reality:} ambition after ideation still returns to test with real people; winner ideas must earn evidence, not only team enthusiasm.\\
+\textbf{Ideation ground rules:} defer judgment early; welcome wild ideas; build with ``Yes, and\ldots'' to compound rather than veto.\\
+\textbf{Customer discovery purpose:} learn jobs-to-be-done, pain, and context \textbf{before} solution-selling; discover unsolved problems, not feature wishlists.\\
+\textbf{Forbidden patterns:} avoid ``What features do you want?,'' ``Would you use an app that\ldots?,'' ``Do you like this idea?''---they produce politeness, false positives, and solution theater.\\
+\textbf{Strong prompts (behavior + emotion):} ``Tell me about the last time you\ldots;'' ``What was most frustrating about\ldots;'' ``How did you feel when\ldots;'' ``Tell me about a normal weekday at uni;'' ``Describe a recent moment you felt connected;'' ``What apps do you use to talk to people most?;'' ``When did you want to join something but didn't---what stopped you?''\\
+\textbf{Designer bias check:} separate your own emotions from observed user behavior; evidence beats internal conviction.\\
+\textbf{Prototyping under constraint:} low-fidelity, clock-bound builds (e.g., by Day 5) force faster learning and limit over-engineering before validation.\\
+\textbf{MVP link:} smallest artifact that tests a specific hypothesis about pain, frequency, or willingness to act---not a feature-complete app.\\
+\textbf{FOMO note:} scarcity and social products often lean on fear-of-missing-out; validate whether that matches real student behavior vs assumption.\\
+\textbf{Eclectic teams:} mixed disciplines still apply from IDEO logic for a full 360-degree view of the problem in workshop settings.\\
+\textbf{AI + research:} tools can consolidate notes and check consistency, but \textbf{first-person interview stories} remain primary evidence for product decisions.\\
+\textbf{Exam phrasing:} ``Discovery interviews seek past behavior and felt friction; they never outsource strategy to hypothetical feature votes.''
+}
+
+\cornell{17) Product Design, Modular Engineering, and User Research}
+{What does user-centric research require next week?\\
+What is modular design and why use a shared platform?\\
+How does reverse engineering support design decisions?\\
+How does form relate to function (sugar example)?\\
+What does the car-mirror case illustrate about value engineering?\\
+Why must you understand ``architecture'' before breakthrough ideation?}
+{
+\textbf{Research mandate:} run real interviews beyond friends; observe expert or segment ``masters''; Zoom or in-person notes; prioritize \textbf{unmet needs} over stated wishlists.\\
+\textbf{Modular design:} build on a \textbf{platform}---shared internal architecture (chassis, motherboard logic) so multiple products reuse core subsystems.\\
+\textbf{Benefits:} faster variants, lower duplicate engineering, path to \textbf{mass customization} (perceived variety at mass-production economics).\\
+\textbf{Reverse engineering:} dissect benchmarks (mirrors, dispensers, etc.) to see mechanism, manufacturing cost drivers, and improvement levers.\\
+\textbf{Form vs function:} design must solve behavior and production constraints, not only aesthetics---efficiency and cost are part of the design problem.\\
+\textbf{Sugar dispenser arc:} (1) traditional spoons/large sweets habits, costly at scale; (2) 1990s-style measured-pour dispensers---cleaner, dose control; (3) modern materials (plastic vs metal/glass) driven by feel, durability, and environmental/cost trade-offs.\\
+\textbf{Automotive mirror case:} larger/red-style mirror vs compact black mirror---smaller aero-friendlier module on a \textbf{shared platform}, less material, easier manufacture while preserving safety function (value engineering narrative).\\
+\textbf{Modular creativity (music analogy):} composing by recombining blocks/modules illustrates the same combinatorial logic in product architecture.\\
+\textbf{Ideation bridge:} next step converts interview ``pains'' and benefits into solution concepts (``shooting for the star'') with evidence anchors.\\
+\textbf{Strategic insight:} breakthrough ideas require grasping physical, economic, and psychological \textbf{constraints} of the user---the ``rules of the game''---before sketching the hero concept.\\
+\textbf{Exam phrasing:} ``Platform modularity trades integration depth for speed and customization; value engineering preserves function while attacking cost and complexity.''
+}
+
+\cornell{18) Manufacturing Strategy: Job Shop vs Mass Production}
+{How do small batch and mass batch differ on cost and variety?\\
+General-purpose vs special-purpose equipment?\\
+Labor skill vs assembly-line specialization?\\
+What are the three inventory buckets?\\
+Make-to-order vs make-to-stock trade-offs?\\
+How does the guitar case illustrate design for manufacture?\\
+How should process choice follow market demand?}
+{
+\textbf{Batch scale:} small batches raise unit cost but enable customization (job shop); large batches spread fixed cost and unlock \textbf{economies of scale} for price competition.\\
+\textbf{Equipment:} general-purpose machines are flexible, lower capex, slower; special-purpose machines target one operation, high upfront cost, very fast at volume.\\
+\textbf{Labor:} high-skill generalists command premium wages and adapt; specialized line workers repeat one task, cheaper, less flexible.\\
+\textbf{Product-process fit (matrix idea):} process type should align volume/variety---no universal ``best'' line; mismatch wastes capital or forfeits margin.\\
+\textbf{Scheduling:} agile chains (e.g., fast fashion) need rapid rescheduling; mass lines need \textbf{standardization} and steady cadence (takt/cycle rhythm).\\
+\textbf{Inventory types:} raw materials; \textbf{work-in-process (WIP)}; finished goods---each ties to cash, space, and obsolescence (\textbf{carrying cost}).\\
+\textbf{Make-to-order:} start production after demand is known---flexible, minimal finished-goods stock, longer customer wait.\\
+\textbf{Make-to-stock:} build to forecast---fast fulfillment, risk of unsold finished inventory and markdowns.\\
+\textbf{Guitar comparison:} hand-built path emphasizes craft, detail, general tools, slow throughput, high perceived value; mass path emphasizes \textbf{standardization}, dedicated equipment, identical units at target cycle time.\\
+\textbf{Manager's rule:} match the factory to demand---dozens of unique SKUs vs tens of thousands of one SKU implies opposite equipment, labor, and inventory design.\\
+\textbf{Exam phrasing:} ``Operations strategy is choosing the batch, equipment, labor, and inventory posture that fits the market's volume, variety, and speed requirements.''
+}
+
+\cornell{19) User Research: Student Social Connectivity (Yami Context)}
+{What pain points appear in mass university communication?\\
+How does friendship formation change after week one?\\
+Where do bonds actually form?\\
+What is the ``social script'' problem?\\
+How do students discover events digitally vs experience them physically?\\
+What design opportunity does this imply for Yami?}
+{
+\textbf{Research setting:} empathy/discovery phase---focus-group style insights on student connection (links to Yami project).\\
+\textbf{Notification fatigue:} high volume of mass emails (e.g., multiple per day) trains students to ignore inboxes or skim only ``Urgent'' tags---important invites become \textbf{out of sight, out of mind}.\\
+\textbf{Freshman-week window:} early days offer maximum openness; later, people cluster into \textbf{closed circles} (2--3 friends), raising barrier for newcomers or circle expansion.\\
+\textbf{Rituals and events:} bonds form through shared experiences---clubs, fundraisers, study tables, large gatherings; major-specific clubs blend friendship with resume signaling.\\
+\textbf{Social script fatigue:} repetitive small talk (name, major, hometown) creates early energy then \textbf{social drain}; superficial loops feel tiring fast.\\
+\textbf{Digital vs physical:} discovery often via aggregated social accounts (e.g., club-event Instagram); meaningful connection still depends on \textbf{in-person} co-presence and shared activity.\\
+\textbf{``Object permanence'' (social colloquial):} without daily visibility, peers drop off the mental map---relevant to re-engagement and lightweight touchpoints.\\
+\textbf{Social energy arc:} (1) excitement and openness; (2) annoyance/fatigue with repetition; (3) retreat into small stable groups (\textbf{psychographic} rhythm).\\
+\textbf{Core tension:} desire for new relationships collides with awkwardness outside structured routes (clubs, major events)---\textbf{friction} and perceived safety matter.\\
+\textbf{Product implication:} reduce noise vs mass email; lower friction from \textbf{online discovery} to \textbf{shared experience}; break the tired script with better context, timing, or structured icebreakers (hypothesis to validate).\\
+\textbf{Exam phrasing:} ``User discovery translates pains (fatigue, scripts, closed circles) into behavioral requirements before feature lists.''
+}
+
+\cornell{20) Ideation, Prototyping, and Yami Feature Concepts}
+{What are the workshop rules during ideation?\\
+Which personas emerged from research?\\
+What top pains did the group prioritize?\\
+Which prototype-level features address authenticity?\\
+How can LLMs support the next step?\\
+Why kill ``static profile'' small talk?}
+{
+\textbf{Workshop phase:} moves from synthesized research (personas/pains) into \textbf{ideation} and \textbf{low-fidelity prototypes} for Yami.\\
+\textbf{Ideation rules:} no criticism during the ``pour out'' phase; \textbf{Yes, and\ldots} to build on peers; prioritize \textbf{volume} of ideas before filtering.\\
+\textbf{Personas (examples):} \textit{Social connector}---naturally introduces others, needs leverage to scale introductions; \textit{Niche explorer}---seeks values/interests over surface traits; \textit{Habitual participant}---bonds through repeated structured contexts (classes, clubs).\\
+\textbf{Top pains:} (1) \textbf{social masking}---effort to perform a false-safe persona; (2) \textbf{small-talk fatigue}---repetitive name/major scripts; (3) \textbf{structured demands}---pressure in formal/professional social settings.\\
+\textbf{Feature concepts:} \textbf{anti-static profiles} refreshed every 1--2 weeks so identity reflects current mood/interests; \textbf{unfiltered Q\&A}---users answer their own deep prompts first to seed trust; \textbf{bucket-list matching} on future goals (e.g., travel); \textbf{social buffering}---bring a +1/friend into events to lower entry anxiety (ties to gamified ice-breakers as optional engagement layer).\\
+\textbf{Customer journey lens:} map Discovery $\rightarrow$ traction $\rightarrow$ deeper conversation $\rightarrow$ commitment; features should reduce superficiality and increase shared-experience authenticity.\\
+\textbf{Matching logic:} algorithmic suggestions from values, lists, and dynamic signals vs random swipe mechanics (hypothesis---validate with users).\\
+\textbf{AI handoff:} LLMs can help translate sketches/sticky notes into draft \textbf{functional requirements} or app logic---human judgment still validates desirability and ethics.\\
+\textbf{Strategic insight:} stale profiles force recycled conversations; forced refresh pushes talk toward \textbf{present reality}, attacking the ``small talk killer'' problem.\\
+\textbf{Exam phrasing:} ``Ideation defers judgment; prototypes test desirability cheaply; features must trace back to named pains and personas.''
+}
+
+\section*{Finals Tile Insights (From Uploaded Images)}
+\begin{itemize}
+  \item The Eco-Stride responses show recurring feedback around \textbf{precision}: distinguish differentiation logic from cost logic with explicit evidence.
+  \item QFD and design-thinking answers need cleaner \textbf{step-by-step causal logic} (customer pain -> technical requirement -> value impact).
+  \item Value capture answers should prioritize \textbf{brand + patents + channel/distribution + scalable operations} as complementary assets.
+  \item Scoring comments indicate structure quality matters: concise claims, direct justification, and fewer broad statements.
+\end{itemize}
+
+\section*{Summary Block (Cornell Bottom)}
+\begin{itemize}
+  \item Product success in this course is driven by evidence quality, prioritization clarity, and execution consistency.
+  \item For finals, answer with structure: problem -> evidence -> decision -> metric -> expected outcome.
+  \item Maintain A-level by writing analytical answers with explicit trade-offs and decision criteria.
+\end{itemize}
+
+\end{document}

@@ -1,0 +1,92 @@
+# Product Management - Week 14 Vocabulary A-Z
+
+Final-exam supplement: core PM vocabulary plus terms from consolidated final Cornell notes (value chain, behavior/strategy, lean/discovery, Zara/BMC, design thinking, manufacturing, disruption, cost structure, Yami workshop).
+
+- **A/B Test** - Controlled experiment comparing two versions to measure which performs better.
+- **Agile** - Iterative delivery approach with short cycles, quick feedback, and continuous improvement.
+- **Agile Supply Chain** - High-frequency replenishment and scheduling (e.g., Zara) versus long static plans.
+- **Anti-Static Profile** - Profile refreshed on a cadence (e.g., weekly) so social matches reflect current mood/interests, not stale bios.
+- **Asymmetric Information** - One party knows more than the other in a transaction; brands can signal quality (see *Lemon Market*).
+- **Backlog** - Prioritized queue of features, bugs, and research tasks owned by the product team.
+- **Bootstrapping** - Growing with little outside capital; prove traction before large partners or funding.
+- **Bounded Rationality** - Decisions constrained by limited information, time, and cognition; emotion shapes choices under uncertainty.
+- **Break-Even Point** - Output level where revenue covers fixed and variable costs; critical when fixed costs dominate (e.g., campus capacity).
+- **Bucket List Matching** - Matching users on future goals (travel, skills) rather than only static traits.
+- **Business Model Canvas (BMC)** - Nine blocks (segments, value proposition, channels, relationships, revenue, key activities, key resources, key partnerships, cost structure) mapping how the firm creates and captures value.
+- **Cannibalization** - New product eating sales of an existing line; can delay innovation (e.g., film vs digital).
+- **Capital Intensive** - Business requiring heavy plant, equipment, or infrastructure (high fixed investment).
+- **Churn** - Percentage of users/customers who stop using or paying for a product.
+- **Cross-Licensing** - Firms exchange IP rights to reduce litigation and keep shipping in crowded patent thickets.
+- **Currentness** - Product “now-ness” (especially in fast fashion): scarcity and rotation monetize being on-trend.
+- **Customer Discovery** - Learning jobs-to-be-done, context, and pains before prescribing solutions; avoid “what features do you want?”
+- **Customer Journey** - Stages from discovery through retention; can include traction, depth of conversation, and commitment.
+- **Customer Segment** - Distinct group with similar needs, behavior, and willingness to pay.
+- **Design Thinking** - Human-centered, iterative process: empathize, define, ideate, prototype, test; often team rules: defer judgment, build (“Yes, and…”), prototype to learn (IDEO-style).
+- **Disruptive Innovation** - Entrants with fewer resources win via new value networks or “good enough” offers until mainstream incumbents are displaced.
+- **Discovery** - Phase focused on understanding user problems and validating opportunity before building.
+- **Economies of Scale** - Per-unit cost falls as volume rises because fixed cost spreads over more units.
+- **Engagement** - Depth/frequency of user interaction with the product.
+- **Experiment** - Structured test to validate assumptions under measurable conditions.
+- **Feature Prioritization** - Deciding what to build first using impact, effort, and strategic fit.
+- **Fixed Costs** - Costs that do not vary with output in the short run (rent, insurance, major equipment).
+- **FOMO (Fear Of Missing Out)** - Scarcity or social-loss framing that drives urgency; validate with real behavior, don’t assume.
+- **Fordism** - Mass production and consumption: standardization and assembly-line throughput (e.g., Model T logic).
+- **Friction** - Any obstacle that prevents a user from completing a task (e.g., inbox overload hiding events).
+- **Functional Requirements** - Concrete behaviors/system logic the product must fulfill; can be drafted from sketches via LLMs for human review.
+- **Funnel** - Step-by-step conversion path from acquisition to activation and retention.
+- **Gamification** - Game-like elements (challenges, icebreakers, progress) applied to non-game experiences.
+- **General Purpose Equipment** - Flexible machines usable for many tasks; typical in job shops (trade-off: slower than dedicated lines).
+- **Go-to-Market (GTM)** - Launch plan covering positioning, pricing, channels, and messaging.
+- **Hallucination (AI)** - Plausible but incorrect model outputs; verify pricing, facts, and BMC fill-ins against sources.
+- **Hypothesis** - Clear, testable statement linking product change to expected outcome.
+- **Ideation** - Generating many solution concepts before narrowing; favor quantity early, judgment later.
+- **Incumbent** - Established market leader vulnerable to disruption if it protects legacy profit pools.
+- **Information Layer** - Digital transparency core to the offer (e.g., live location, upfront price) beyond the physical good or ride.
+- **Interview (Customer)** - Direct conversation using past behavior and emotion prompts; avoid hypotheticals that bias toward “yes.”
+- **Iteration** - Repeated refinement based on evidence and user feedback.
+- **Job Shop** - Small-batch, high-variety production pattern; higher unit cost, higher customization.
+- **Job To Be Done (JTBD)** - Underlying goal the user hires a product to accomplish.
+- **Just-In-Time (JIT)** - Flow where inputs/production align tightly with demand to limit idle inventory.
+- **Key Metric** - Primary indicator used to monitor strategic product performance.
+- **Lemon Market** - Market where quality is hidden; buyers use proxies (e.g., brand) to avoid “lemons.”
+- **Lean Validation** - Fast, low-cost testing before major investment (“testing as investing”).
+- **Make-to-Order (MTO)** - Production starts after a customer order; flexibility with less finished-goods risk.
+- **Make-to-Stock (MTS)** - Production to forecast; fast delivery but risk of unsold finished inventory.
+- **Mass Customization** - Perceived variety from modular platforms while keeping near-mass production economics.
+- **Minimum Viable Product (MVP)** - Smallest artifact that tests a specific learning hypothesis—not a full feature dump.
+- **Modular Design** - System split into reusable modules (shared chassis, shared software core) to launch variants faster.
+- **Network Effect** - Product becomes more valuable as more participants join (platforms, ecosystems).
+- **North Star Metric** - Single leading indicator of long-run value delivery (e.g., retention, weekly active engaged users).
+- **Notification Fatigue** - Users disengage from channels (email/push) after overload; important signals get missed.
+- **Open Innovation** - Deliberately combining internal R&D with external ideas, partners, and ecosystems (Chesbrough).
+- **Outcome** - User/business change achieved, not just output shipped.
+- **Patent** - Legal exclusivity requiring **technical disclosure**; versus trade secrecy when imitation risk is high.
+- **Persona** - Research-based archetype (e.g., social connector, niche explorer, habitual participant).
+- **Premium Fast Fashion** - Positioning above mass basics, below designer: “investment” feel with still-impulse-friendly price.
+- **Product-Market Fit** - Condition where a product strongly satisfies market demand.
+- **Product-Process Matrix** - Align process choice (job shop vs line) with product volume and variety.
+- **Prototype** - Early representation of a solution—often low-fidelity (sketches, post-its)—for cheap learning.
+- **Psychographics** - Values, lifestyle, goals, and emotional drivers (beyond demographics).
+- **Retention** - Ability to keep users active and returning over time.
+- **Reverse Engineering** - Deconstruct a benchmark product to learn function, cost drivers, and improvement paths.
+- **Roadmap** - Time-phased communication of product goals, themes, and priorities.
+- **Response over Prediction** - Agile operations: small batches and fast feedback vs long forecast-only cycles.
+- **S-Curve** - Technology performance over time: slow early adoption, steep improvement, eventual plateau.
+- **Scarcity Marketing** - Limited availability or time windows to increase urgency and full-price sell-through.
+- **Shared Platform** - Common underlying architecture for multiple products (automotive, software stacks).
+- **Social Buffering** - Letting users attend or join with a friend/+1 to reduce social anxiety.
+- **Social Masking** - Presenting a adjusted persona to fit perceived social pressure, hiding authenticity.
+- **Social Script** - Repeated conversational pattern (e.g., name/major/hometown) that can cause small-talk fatigue.
+- **Sprint** - Time-boxed development cycle in Agile teams.
+- **Stakeholder** - Person/group affected by or influencing product direction.
+- **Technical Disclosure** - Revealing how an invention works, typically required to obtain patent protection.
+- **User Journey** - Full experience path—including emotional arc—from first intent through ongoing use (IDEO “journey” testing).
+- **User Story** - Requirement statement from user perspective describing value and intent.
+- **Validation** - Evidence confirming assumptions about desirability, feasibility, and viability.
+- **Valuation** - Priced estimate of worth (e.g., firm or project) versus *value creation* (real utility delivered).
+- **Value Capture** - How the firm converts created value into sustainable revenue and profit.
+- **Value Chain** - Porter framework: linked primary and support activities that turn inputs into a differentiated offer.
+- **Value Creation** - Increasing usefulness for customers/ecosystem relative to resource cost—not the same as headline valuation.
+- **Value Engineering** - Systematically preserve function while reducing cost, complexity, or material (e.g., simplified mirror module).
+- **Variable Costs** - Costs that rise with production volume (materials, much of direct labor, incremental energy).
+- **Work-in-Process (WIP)** - Inventory between raw and finished states; ties up cash and carrying cost.

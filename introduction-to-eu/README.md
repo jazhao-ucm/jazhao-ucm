@@ -77,4 +77,4 @@ Academic calendar updates (Spring 2026): spring break Mar 27 to Apr 6, no class 
 - `week-11/` - Apr 13 & 14: class sessions (TBD topics)
 - `week-12/` - Apr 20 & 21: class sessions (TBD topics)
 - `week-13/` - Apr 27 & 28: class sessions (TBD topics)
-- `week-14/` - May 18–22: final exams; `vocabulary-a-z-week-14.md`
+- `week-14/` - May 18–22: final exams; `introduction-to-eu-vocabulary-a-z-mon-tue-spring2026.md` (A–Z terms aligned with the final master notes, plus IB cross-walk from `management-global-markets/week-14/management-global-markets-final-cornell-master-notes-mon-tue-spring2026.tex` for integration economics and EU legal-order toolbox), `introduction-to-eu-final-cornell-master-notes-mon-tue-spring2026.tex` (typical class days Mon/Tue Spring 2026; `pdflatex introduction-to-eu-final-cornell-master-notes-mon-tue-spring2026.tex`)

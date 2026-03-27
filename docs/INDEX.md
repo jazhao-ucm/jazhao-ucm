@@ -21,7 +21,7 @@ Quick reference for all courses and weeks. *Last updated: April 2026*
 | 5 | Feb 23 | Product design process, lean validation, SDLC |
 | 6 | Mar 2–3 | Design thinking, IDEO, empathy, observation, brainstorming |
 | 7 | Mar 9–10 | Manufacturing process design, piano memo (craftsman vs. Yamaha) |
-| 8 | Mar 16–17 | Midterm prep (Mar 16), all-in-one midterm-print-all.tex, customer interview project (meeting new people) |
+| 8 | Mar 16–17 | Midterm prep (Mar 16), all-in-one midterm-print-all.tex, customer interview project (meeting new people), finals tile set added in course week-8 folder |
 | 9 | Mar 23–24 | Mar 23 social app/dating app concept (gamification + common interests + quality over quantity); Mar 24 service internationalization and service operations setup |
 | 10 | Apr 6–7 | Apr 6 NO CLASS (Semana); Apr 7 class session (TBD topic) |
 | 11 | Apr 13–14 | Class sessions (TBD topics) |
@@ -84,7 +84,7 @@ Quick reference for all courses and weeks. *Last updated: April 2026*
 | 5 | Feb 25–26 | Madonna/Lola Flores case, RBV, VRIN |
 | 6 | Mar 4 | RBV continued, midterm prep |
 | 7 | Mar 12 | Competitive Strategy (cost leadership, differentiation, focus, strategy clock) |
-| 8 | Mar 18–19 | Exam prep overview (Units 1–4); external vs. internal analysis; deliberate vs. emergent strategy; Unit 6 Corporate Strategy Development (firm scope, specialization vs. diversification, vertical integration, reestructuring) |
+| 8 | Mar 18–19 | Exam prep overview (Units 1–4); external vs. internal analysis; deliberate vs. emergent strategy; Unit 6 Corporate Strategy Development (firm scope, specialization vs. diversification, vertical integration, reestructuring); finals tile set added in course week-8 folder |
 | 9 | Mar 25-26 | Starbucks strategy case discussion (success factors + growth maintenance), continued follow-up sessions |
 | 10 | Apr 8–9 | Apr 8 class session (TBD topic); Apr 9 class session (TBD topic) |
 | 11 | Apr 15–16 | Class sessions (TBD topics) |
@@ -105,7 +105,7 @@ Quick reference for all courses and weeks. *Last updated: April 2026*
 | 5 | Feb 25–26 | Listening, vocabulario, exam tips |
 | 6 | Mar 4 | Midterm prep, Aula Plus materials |
 | 7 | Mar 12 | Unit 4: `tener`/`tener que`, `preferir`, `ir` (planes), objetos con `de` |
-| 8 | Mar 19 | Unit 4: ropa (`es/es de`), colores, combinaciones |
+| 8 | Mar 19 | Unit 4: ropa (`es/es de`), colores, combinaciones; finals tile set added in course week-8 folder |
 | 9 | Mar 26 | No class / transition into spring break week |
 | 10 | Apr 8–9 | Apr 8 class session (TBD topic); Apr 9 class session (TBD topic) |
 | 11 | Apr 15–16 | Class sessions (TBD topics) |

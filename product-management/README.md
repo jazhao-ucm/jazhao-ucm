@@ -61,10 +61,10 @@ Academic calendar updates (Spring 2026): spring break Mar 27 to Apr 6, no class 
 - `week-5/` - Feb 23: class notes, design process, lean, SDLC; `design-process-lean.tex`
 - `week-6/` - Mar 2 & 3: class notes, design thinking, IDEO; `midterm.tex`
 - `week-7/` - Mar 9 & 10: class notes, manufacturing, piano memo; `manufacturing-piano-memo.tex`
-- `week-8/` - Mar 16 & 17: midterm prep and customer interviews project (meeting new people); `midterm-print-all.tex` (all-in-one: exam day, cheat sheet §1–18, key cases, model answers from PDFs), `2026-03-17-class-notes.md` (interview brief and analysis framework), `customer-interviews-synthesis.tex` (rewritten interview Q\&A format for Karol, Aina, Laura, Mimi, plus cross-interview pattern snapshot). Compile: `pdflatex midterm-print-all.tex` or `pdflatex customer-interviews-synthesis.tex`
+- `week-8/` - Mar 16 & 17: midterm prep and customer interviews project (meeting new people); `midterm-print-all.tex` (all-in-one: exam day, cheat sheet §1–18, key cases, model answers from PDFs), `2026-03-17-class-notes.md` (interview brief and analysis framework), `customer-interviews-synthesis.tex` (rewritten interview Q\&A format for Karol, Aina, Laura, Mimi, plus cross-interview pattern snapshot), finals tiles moved from root: `finals-1.JPG`, `finals-2.JPG`, `finals-3.JPG`, `finals-19.JPG`, `finals-20.JPG`. Compile: `pdflatex midterm-print-all.tex` or `pdflatex customer-interviews-synthesis.tex`
 - `week-9/` - Mar 23 & 24: Mar 23 — social/dating app concept (gamification, shared interests, quality over quantity); Mar 24 — service internationalization and operations setup; `2026-03-23-class-notes.md`, `2026-03-24-class-notes.md`, `loveable-mvp-helper.tex`, `scan-2026-03-23.jpeg`
 - `week-10/` - Apr 6 & 7: Apr 6 NO CLASS (Semana); Apr 7 class session (TBD topic)
 - `week-11/` - Apr 13 & 14: class sessions (TBD topics)
 - `week-12/` - Apr 20 & 21: class sessions (TBD topics)
 - `week-13/` - Apr 27 & 28: class sessions (TBD topics)
-- `week-14/` - May 18–22: final exams; `vocabulary-a-z-week-14.md`
+- `week-14/` - May 18–22: final exams; `product-management-vocabulary-a-z-mon-tue-spring2026.md` (A–Z terms aligned with final master notes), `product-management-final-cornell-master-notes-mon-tue-spring2026.tex` (typical class days Mon/Tue Spring 2026; `pdflatex product-management-final-cornell-master-notes-mon-tue-spring2026.tex`)

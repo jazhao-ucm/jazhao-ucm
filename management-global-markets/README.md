@@ -74,4 +74,4 @@ Academic calendar updates (Spring 2026): spring break Mar 27 to Apr 6, no class 
 - `week-11/` - Apr 13 & 14: class sessions (TBD topics)
 - `week-12/` - Apr 20 & 21: class sessions (TBD topics)
 - `week-13/` - Apr 27 & 28: class sessions (TBD topics)
-- `week-14/` - May 18–22: final exams; `vocabulary-a-z-week-14.md`
+- `week-14/` - May 18–22: final exams; `management-global-markets-vocabulary-a-z-mon-tue-spring2026.md` (A–Z terms aligned with final master notes, themes 1–20), `management-global-markets-final-cornell-master-notes-mon-tue-spring2026.tex` (Mon/Tue Spring 2026; twenty Cornell themes including EU rule-of-law, Porter, entry/culture, phases, PM/CRM, economic complexity, strategy pyramid / governance / **IP**, internationalization spectrum / FDI motives / export channels, IHRM / **Maslow** / **Vroom** / global vs multi-domestic staffing, applied **Café Olé** studio, integration / **transnational** / **ECI** / **G20**–**triad** / **Ukraine** frame, **PTA**–**EMU** hierarchy, and int'l **project execution** / **commitment** / **U-curve** / earned **authority**); `pdflatex management-global-markets-final-cornell-master-notes-mon-tue-spring2026.tex`)
