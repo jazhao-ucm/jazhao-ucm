@@ -17,3 +17,9 @@
 
 # Never commit/push this folder
 j.adezhao/
+
+# Saved browser exports (HTML + sibling asset folders) — excluded from version control
+product-management/week-14/Google Gemini.html
+product-management/week-14/Google Gemini_files/
+product-management/week-14/midterm-course-feedback-2025-2026.htm
+product-management/week-14/midterm-course-feedback-2025-2026_files/
