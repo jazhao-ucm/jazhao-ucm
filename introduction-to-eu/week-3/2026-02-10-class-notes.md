@@ -51,7 +51,7 @@ III. Why Was Britain Reluctant?
       2. Keynesian policies
       3. Bank of England, Treasury autonomy
 
-IV. UK–US Relationship
+IV. UK-US Relationship
    A. Dependencies
       1. Specific agreements
       2. English-speaking bloc

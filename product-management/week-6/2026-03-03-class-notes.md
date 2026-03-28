@@ -76,7 +76,7 @@ V. Customer Interview Design
 
 VI. Interview Guide Structure
    A. Length
-      1. 10–15 questions sufficient
+      1. 10 to 15 questions sufficient
       2. Too many = overwhelming
       3. Too few = not enough depth
    B. Flow

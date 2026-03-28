@@ -166,7 +166,7 @@ Determine industry attractiveness → likelihood of generating return/profit.
 
 ---
 
-## Exam Prep – Very Short Version (from handwritten notes)
+## Exam Prep: Very Short Version (from handwritten notes)
 
 ### Purpose
 - Analyse external factors the firm \textbf{cannot control} but that influence behaviour and results.

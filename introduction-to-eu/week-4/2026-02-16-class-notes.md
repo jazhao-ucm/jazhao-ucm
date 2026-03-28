@@ -83,7 +83,7 @@ VI. First Enlargement 1973
 VII. Oil Crisis 1973
    A. Background
       1. Europe depended on cheap oil
-      2. $2/barrel average 1950–1973
+      2. $2/barrel average 1950 to 1973
       3. Oil provided 65% of electricity
    B. The crisis
       1. Arab-Israeli War

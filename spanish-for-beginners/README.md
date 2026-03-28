@@ -67,30 +67,30 @@ Dates and week topics: repo root [`docs/INDEX.md`](../docs/INDEX.md).
 
 Academic calendar updates (Spring 2026): spring break Mar 27 to Apr 6, no class Apr 30, final exams May 18 to May 22.
 
-- `week-1/` - Jan 28–29: course intro, Unit 1. `2026-01-28-class-notes.md`, `unit-1-fichas-inmersion.pdf`, `unit-1-fichas-trabajo.pdf`
-- `week-2/` - Feb 4–5: Unit 1. `scan-2026-02-04.pdf`, `scan-2026-02-05.pdf`
+- `week-1/` - Jan 28 to 29: course intro, Unit 1. `2026-01-28-class-notes.md`, `unit-1-fichas-inmersion.pdf`, `unit-1-fichas-trabajo.pdf`
+- `week-2/` - Feb 4 to 5: Unit 1. `scan-2026-02-04.pdf`, `scan-2026-02-05.pdf`
 - `week-3/` - Feb 12: Unit 2. `unit-2-proyectable.pdf`
-- `week-4/` - Feb 18–19: Unit 3. `unit-3-proyectable.pdf`, `unit-3-transcripcion.pdf`
-- `week-5/` - Feb 25–26: Unit 3. `unit-3-listening-exam.tex`, `2026-02-25-class-notes.md`
+- `week-4/` - Feb 18 to 19: Unit 3. `unit-3-proyectable.pdf`, `unit-3-transcripcion.pdf`
+- `week-5/` - Feb 25 to 26: Unit 3. `unit-3-listening-exam.tex`, `2026-02-25-class-notes.md`
 - `week-6/` - Mar 4: midterm prep. `midterm-units-1-3.tex`, `study-from-chat.tex`
 - `week-7/` - Mar 12: Unit 4 grammar (`tener`, `tener que`, `preferir`, `ir` + planes; objetos con `de`). `2026-03-12-class-notes.md`
 - `week-8/` - Mar 19: Unit 4 vocab/practice (ropa `es/es de`, colores, combinaciones). `2026-03-19-class-notes.md`; finals tiles moved from root: `finals-4.JPG`, `finals-5.JPG`, `finals-7.JPG`, `finals-8.JPG`, `finals-9.JPG`, `finals-10.JPG`, `finals-11.JPG`, `finals-12.JPG`, `finals-13.JPG`, `finals-21.JPG`, `finals-22.JPG`, `finals-23.JPG`, `finals-24.JPG`, `finals-25.JPG`
 - `week-9/` - Mar 26: no class / transition into spring break week.
-- `week-10/` - Apr 8 & 9: class sessions (TBD topics)
-- `week-11/` - Apr 15 & 16: class sessions (TBD topics)
-- `week-12/` - Apr 22 & 23: class sessions (TBD topics)
-- `week-13/` - Apr 29 & 30: Apr 29 class session (TBD topic); Apr 30 NO CLASS
-- `week-14/` - May 18–22: final exams; `spanish-for-beginners-vocabulary-a-z-wed-thu-spring2026.md`, `spanish-for-beginners-final-cornell-master-notes-wed-thu-spring2026.tex` (typical class days Wed/Thu Spring 2026; ten Cornell blocks including A1 CEFR ``Breakthrough'' pillars; `pdflatex spanish-for-beginners-final-cornell-master-notes-wed-thu-spring2026.tex`)
+- `week-10/` - Apr 8 and 9: class sessions (TBD topics)
+- `week-11/` - Apr 15 and 16: class sessions (TBD topics)
+- `week-12/` - Apr 22 and 23: class sessions (TBD topics)
+- `week-13/` - Apr 29 and 30: Apr 29 class session (TBD topic); Apr 30 NO CLASS
+- `week-14/` - May 18 to 22: final exams; `spanish-for-beginners-vocabulary-a-z-wed-thu-spring2026.md`, `spanish-for-beginners-final-cornell-master-notes-wed-thu-spring2026.tex` (typical class days Wed/Thu Spring 2026; ten Cornell blocks including A1 CEFR ``Breakthrough'' pillars; `pdflatex spanish-for-beginners-final-cornell-master-notes-wed-thu-spring2026.tex`)
 
 ## Homework reference
 
-- **Book pages 141–145**: Activities 2, 3, 4, 6, 7, 8, 12, 13, 15, 16, 17, 18
-- **Book pages 145–147**: Exercises 19, 20, 21, 22, 24, 25, 26, 27, 28
-- **Book pages 149–150**: Exercises 6, 7, 8, 9, 10
+- **Book pages 141 to 145**: Activities 2, 3, 4, 6, 7, 8, 12, 13, 15, 16, 17, 18
+- **Book pages 145 to 147**: Exercises 19, 20, 21, 22, 24, 25, 26, 27, 28
+- **Book pages 149 to 150**: Exercises 6, 7, 8, 9, 10
 - **Immersion worksheets**: Pages 1 and 2 (Moodle or book)
 - **Campus Difusión**: Unit 3 exercises + mock exams
 - **Testimony**: Short recording, model on p. 40
 - **Research**: One Autonomous Community of Spain, info sheet like p. 45
-- **Group video**: Party conversations (1–2 min), fake personal info
+- **Group video**: Party conversations (1 to 2 min), fake personal info
 
 *Homework must be handwritten unless otherwise specified.*

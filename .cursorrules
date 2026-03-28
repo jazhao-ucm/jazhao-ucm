@@ -109,6 +109,12 @@ Before finishing: *Did I update README and docs/INDEX where this shows up?*
 
 ---
 
+## Markdown and prose punctuation (repo habit)
+
+When adding or cleaning **Markdown** (README, INDEX, class notes, vocab lists): prefer **plain punctuation** over em/en dashes. Use **commas, periods, colons, semicolons**, spell out **and** where it reads naturally (especially in inventories), and write numeric ranges as **2 to 4** or **Jan 26 to 27** instead of Unicode en dashes. **LaTeX** may still use `--` / `---` for PDF typography; do not mass-replace those ligatures unless the user asks.
+
+---
+
 ## Don’t (unless the user asks)
 
 - Large repo-wide renames/reorgs: prefer small, targeted edits.

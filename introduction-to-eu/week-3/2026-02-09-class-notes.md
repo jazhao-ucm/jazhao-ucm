@@ -14,7 +14,7 @@ I. Recap EDC and Cold War Context
       1. Loss of sovereignty
       2. Army under supranational body
    C. Key figure De Gaulle
-      1. French president 1958–1969
+      1. French president 1958 to 1969
       2. Symbol of French independence
 
 II. UK and France Reluctant but Engaged

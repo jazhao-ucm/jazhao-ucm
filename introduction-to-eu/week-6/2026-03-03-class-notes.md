@@ -15,10 +15,10 @@ I. What Is Euroscepticism?
       2. Soft Euroscepticism in, but critical
    C. Key insight
       1. Euroscepticism is not new
-      2. Existed since 1950s–1960s
+      2. Existed since 1950s to 1960s
       3. Different parties/countries had doubts
 
-II. Historical Roots (1950s–1970s)
+II. Historical Roots (1950s to 1970s)
    A. Within founding six
       1. Social democrats: worried about welfare states
       2. Liberals: feared over-regulation

@@ -1,5 +1,5 @@
 # Spanish for Beginners - Class Notes
-## February 25–26, 2026 - Week 5
+## February 25 to 26, 2026 - Week 5
 
 **Focus:** Unit 3 Listening, vocabulario; exam preparation.
 

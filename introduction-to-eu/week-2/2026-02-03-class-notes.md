@@ -1,11 +1,11 @@
 # Introduction to the EU Class Notes
 ## February 3, 2026 Week 2
 
-**Topic:** 1945–1954; three strands (economic, political, military); ECSC; NATO; EDC failure.
+**Topic:** 1945 to 1954; three strands (economic, political, military); ECSC; NATO; EDC failure.
 
 ---
 
-I. Post-WWII Context (1945–1949)
+I. Post-WWII Context (1945 to 1949)
    A. Europe in 1945
       1. Devastated by war
       2. Millions displaced
@@ -43,7 +43,7 @@ III. Council of Europe (1949)
       3. Focus: human rights, democracy, rule of law
 
 IV. Economic Strand Marshall Plan and OEEC
-   A. Marshall Plan (1947–1948)
+   A. Marshall Plan (1947 to 1948)
       1. US aid for European reconstruction
       2. Huge sums arriving in Europe
       3. Required cooperation to distribute

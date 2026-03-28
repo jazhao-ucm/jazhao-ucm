@@ -21,9 +21,9 @@
    - You learn to see why some companies win and others fail.
 
 2. **Big blocks of the syllabus.**
-   - **Part I – Analysis**: look **outside** (environment) and **inside** (resources).
-   - **Part II – Formulation**: choose where to compete and how to compete.
-   - **Part III – Future**: sustainability, climate, poor markets.
+   - **Part I: Analysis**: look **outside** (environment) and **inside** (resources).
+   - **Part II: Formulation**: choose where to compete and how to compete.
+   - **Part III: Future**: sustainability, climate, poor markets.
 
 3. **How you are graded (very short).**
    - **Continuous**: midterm, group case, small assignments, participation.

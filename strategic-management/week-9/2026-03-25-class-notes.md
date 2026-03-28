@@ -41,7 +41,7 @@ IV. Oral Answer Template (60-90 Seconds, Class Use).
       2. "THAT IS WHY CASE FOLLOW-UP NEXT CLASS MATTERS FOR STRATEGY IMPLEMENTATION."
 
 ---
-V. Starbucks Case Question Map (Q1–Q4).
+V. Starbucks Case Question Map (Q1 to Q4).
    A. Q1. Summarize Starbucks' Strategy in 2014.
       1. "THIRD PLACE": community space between home and work.
       2. "HIGH-QUALITY, HAND-CRAFTED COFFEE."

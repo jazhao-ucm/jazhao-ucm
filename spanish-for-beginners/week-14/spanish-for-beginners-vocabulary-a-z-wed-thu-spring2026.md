@@ -59,9 +59,9 @@
 - **Soltero/a** - Single
 - **Casado/a** - Married
 
-### 3) Numbers (0–100)
-- **0–10:** cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez
-- **11–20:** once, doce, trece, catorce, quince, dieciséis, diecisiete, dieciocho, diecinueve, veinte
+### 3) Numbers (0 to 100)
+- **0 to 10:** cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez
+- **11 to 20:** once, doce, trece, catorce, quince, dieciséis, diecisiete, dieciocho, diecinueve, veinte
 - **Tens / multiples of 10:** treinta (30), cuarenta (40), cincuenta (50), sesenta (60), setenta (70), ochenta (80), noventa (90), cien (100)
 
 ### 4) Time, Days, and Weather

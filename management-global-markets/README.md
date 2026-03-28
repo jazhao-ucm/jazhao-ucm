@@ -61,17 +61,17 @@ Dates and week topics: repo root [`docs/INDEX.md`](../docs/INDEX.md).
 
 Academic calendar updates (Spring 2026): spring break Mar 27 to Apr 6, no class Apr 30, final exams May 18 to May 22.
 
-- `week-1/` - Jan 26 & 27: class notes, globalization/slowbalization; `globalization-slowbalization.tex`
-- `week-2/` - Feb 2 & 3: class notes, supply chain, culture & competition; `supply-chains-culture.tex`
-- `week-3/` - Feb 9 & 10: class notes, Business Strategies, EJE Industrial; `business-strategies-eje.tex`
-- `week-4/` - Feb 16 & 17: class notes, Global Portfolio, Reunidas; `global-portfolio-reunidas.tex`
-- `week-5/` - Feb 23 & 24: class notes, internationalization, export, resources; `internationalization-export.tex`
-- `week-6/` - Mar 2 & 3: class notes, HR (Ditta); `midterm.tex`
-- `week-7/` - Mar 9 & 10: class notes (Mar 9 = business plan intro, CaféOlé; Mar 10 = work time on project); `business-plan.tex`, `business-plan-guide.tex`, `business-plan-tierra-bar.tex`
+- `week-1/` - Jan 26 and 27: class notes, globalization/slowbalization; `globalization-slowbalization.tex`
+- `week-2/` - Feb 2 and 3: class notes, supply chain, culture & competition; `supply-chains-culture.tex`
+- `week-3/` - Feb 9 and 10: class notes, Business Strategies, EJE Industrial; `business-strategies-eje.tex`
+- `week-4/` - Feb 16 and 17: class notes, Global Portfolio, Reunidas; `global-portfolio-reunidas.tex`
+- `week-5/` - Feb 23 and 24: class notes, internationalization, export, resources; `internationalization-export.tex`
+- `week-6/` - Mar 2 and 3: class notes, HR (Ditta); `midterm.tex`
+- `week-7/` - Mar 9 and 10: class notes (Mar 9 = business plan intro, CaféOlé; Mar 10 = work time on project); `business-plan.tex`, `business-plan-guide.tex`, `business-plan-tierra-bar.tex`
 - `week-8/` - Mar 16: class notes (midterm prep: complexity, skills, training, economic blocks); `midterm-closed-notes.tex`; `mercosur-markets-integration-areas-2019-20-midterm-export.pdf`; `lc0036-b2b-sales-process.pptx` (source deck; week-9 has PDF export)
-- `week-9/` - Mar 23 & 24: Mar 23 — internationalization Part 2/3, Mercosur/integration areas, LC0036 B2B sales; Mar 24 — change scenarios, financial levers, integration ladder, ICP/persona in B2B; guest discussion (trust vs uncertainty in entry, stage logic, role clarity, PM fit/authority); `doing-business-europe-part-2.pdf`, `doing-business-europe-part-3.pdf`, `mercosur-markets-integration-areas-2019-20.pdf`, `lc0036-b2b-sales-process.pdf`
-- `week-10/` - Apr 6 & 7: Apr 6 NO CLASS (Semana); Apr 7 class session (TBD topic)
-- `week-11/` - Apr 13 & 14: class sessions (TBD topics)
-- `week-12/` - Apr 20 & 21: class sessions (TBD topics)
-- `week-13/` - Apr 27 & 28: class sessions (TBD topics)
-- `week-14/` - May 18–22: final exams; `management-global-markets-vocabulary-a-z-mon-tue-spring2026.md` (A–Z terms aligned with final master notes, themes 1–20), `management-global-markets-final-cornell-master-notes-mon-tue-spring2026.tex` (Mon/Tue Spring 2026; twenty Cornell themes including EU rule-of-law, Porter, entry/culture, phases, PM/CRM, economic complexity, strategy pyramid / governance / **IP**, internationalization spectrum / FDI motives / export channels, IHRM / **Maslow** / **Vroom** / global vs multi-domestic staffing, applied **Café Olé** studio, integration / **transnational** / **ECI** / **G20**–**triad** / **Ukraine** frame, **PTA**–**EMU** hierarchy, and int'l **project execution** / **commitment** / **U-curve** / earned **authority**); `pdflatex management-global-markets-final-cornell-master-notes-mon-tue-spring2026.tex`)
+- `week-9/` - Mar 23 and 24: Mar 23: internationalization Part 2/3, Mercosur/integration areas, LC0036 B2B sales; Mar 24: change scenarios, financial levers, integration ladder, ICP/persona in B2B; guest discussion (trust vs uncertainty in entry, stage logic, role clarity, PM fit/authority); `doing-business-europe-part-2.pdf`, `doing-business-europe-part-3.pdf`, `mercosur-markets-integration-areas-2019-20.pdf`, `lc0036-b2b-sales-process.pdf`
+- `week-10/` - Apr 6 and 7: Apr 6 NO CLASS (Semana); Apr 7 class session (TBD topic)
+- `week-11/` - Apr 13 and 14: class sessions (TBD topics)
+- `week-12/` - Apr 20 and 21: class sessions (TBD topics)
+- `week-13/` - Apr 27 and 28: class sessions (TBD topics)
+- `week-14/` - May 18 to 22: final exams; `management-global-markets-vocabulary-a-z-mon-tue-spring2026.md` (A to Z terms aligned with final master notes, themes 1 to 20), `management-global-markets-final-cornell-master-notes-mon-tue-spring2026.tex` (Mon/Tue Spring 2026; twenty Cornell themes including EU rule-of-law, Porter, entry/culture, phases, PM/CRM, economic complexity, strategy pyramid / governance / **IP**, internationalization spectrum / FDI motives / export channels, IHRM / **Maslow** / **Vroom** / global vs multi-domestic staffing, applied **Café Olé** studio, integration / **transnational** / **ECI** / **G20** and **triad** / **Ukraine** frame, **PTA** and **EMU** hierarchy, and int'l **project execution** / **commitment** / **U-curve** / earned **authority**); `pdflatex management-global-markets-final-cornell-master-notes-mon-tue-spring2026.tex`)

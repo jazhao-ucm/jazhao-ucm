@@ -53,7 +53,7 @@ Final-exam supplement: core PM vocabulary plus terms from consolidated final Cor
 - **Make-to-Order (MTO)** - Production starts after a customer order; flexibility with less finished-goods risk.
 - **Make-to-Stock (MTS)** - Production to forecast; fast delivery but risk of unsold finished inventory.
 - **Mass Customization** - Perceived variety from modular platforms while keeping near-mass production economics.
-- **Minimum Viable Product (MVP)** - Smallest artifact that tests a specific learning hypothesis—not a full feature dump.
+- **Minimum Viable Product (MVP)** - Smallest artifact that tests a specific learning hypothesis, not a full feature dump.
 - **Modular Design** - System split into reusable modules (shared chassis, shared software core) to launch variants faster.
 - **Network Effect** - Product becomes more valuable as more participants join (platforms, ecosystems).
 - **North Star Metric** - Single leading indicator of long-run value delivery (e.g., retention, weekly active engaged users).
@@ -65,7 +65,7 @@ Final-exam supplement: core PM vocabulary plus terms from consolidated final Cor
 - **Premium Fast Fashion** - Positioning above mass basics, below designer: “investment” feel with still-impulse-friendly price.
 - **Product-Market Fit** - Condition where a product strongly satisfies market demand.
 - **Product-Process Matrix** - Align process choice (job shop vs line) with product volume and variety.
-- **Prototype** - Early representation of a solution—often low-fidelity (sketches, post-its)—for cheap learning.
+- **Prototype** - Early representation of a solution, often low-fidelity (sketches, post-its), for cheap learning.
 - **Psychographics** - Values, lifestyle, goals, and emotional drivers (beyond demographics).
 - **Retention** - Ability to keep users active and returning over time.
 - **Reverse Engineering** - Deconstruct a benchmark product to learn function, cost drivers, and improvement paths.
@@ -80,13 +80,13 @@ Final-exam supplement: core PM vocabulary plus terms from consolidated final Cor
 - **Sprint** - Time-boxed development cycle in Agile teams.
 - **Stakeholder** - Person/group affected by or influencing product direction.
 - **Technical Disclosure** - Revealing how an invention works, typically required to obtain patent protection.
-- **User Journey** - Full experience path—including emotional arc—from first intent through ongoing use (IDEO “journey” testing).
+- **User Journey** - Full experience path, including emotional arc, from first intent through ongoing use (IDEO “journey” testing).
 - **User Story** - Requirement statement from user perspective describing value and intent.
 - **Validation** - Evidence confirming assumptions about desirability, feasibility, and viability.
 - **Valuation** - Priced estimate of worth (e.g., firm or project) versus *value creation* (real utility delivered).
 - **Value Capture** - How the firm converts created value into sustainable revenue and profit.
 - **Value Chain** - Porter framework: linked primary and support activities that turn inputs into a differentiated offer.
-- **Value Creation** - Increasing usefulness for customers/ecosystem relative to resource cost—not the same as headline valuation.
+- **Value Creation** - Increasing usefulness for customers/ecosystem relative to resource cost, not the same as headline valuation.
 - **Value Engineering** - Systematically preserve function while reducing cost, complexity, or material (e.g., simplified mirror module).
 - **Variable Costs** - Costs that rise with production volume (materials, much of direct labor, incremental energy).
 - **Work-in-Process (WIP)** - Inventory between raw and finished states; ties up cash and carrying cost.

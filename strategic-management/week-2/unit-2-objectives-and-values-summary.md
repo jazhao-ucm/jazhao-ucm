@@ -94,7 +94,7 @@
 - Managers’ only responsibility: maximize shareholder wealth.
 - Shareholder value creation; shareholder supremacy.
 
-### E. Stakeholder Theory (Freeman, 1984) – Sustainability
+### E. Stakeholder Theory (Freeman, 1984): Sustainability
 - Triple bottom line: economic, social, environmental.
 - Stakeholder satisfaction; long-term orientation.
 - CSR; sustainability; sustainable development.

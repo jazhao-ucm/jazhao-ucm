@@ -1,7 +1,7 @@
 # Strategic Management - Class Notes
 ## February 25, 2026 - Week 5
 
-**Focus:** Applying strategic frameworks through illustrations – Art of War, climate change, Five Forces, clusters.
+**Focus:** Applying strategic frameworks through illustrations: Art of War, climate change, Five Forces, clusters.
 
 ---
 

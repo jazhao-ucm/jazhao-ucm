@@ -57,7 +57,7 @@ III. Assessment Components
       3. Start early, propose topic soon
    D. Presentations
       1. Two readings per session
-      2. 20–25 minutes each
+      2. 20 to 25 minutes each
       3. Present key ideas, open discussion
 
 IV. Assessment Weights

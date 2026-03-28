@@ -91,7 +91,7 @@ def main() -> int:
             problems = True
             print(f"{course_dir_name}: INDEX lists weeks missing on disk: {missing}")
         if extra:
-            # Folders ahead of INDEX are common while you work — warn, don't fail.
+            # Folders ahead of INDEX are common while you work; warn, don't fail.
             print(
                 f"{course_dir_name}: disk has week folders not listed in INDEX: {extra}"
             )

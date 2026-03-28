@@ -1,7 +1,7 @@
 # Strategic Management - Class Notes
 ## February 18, 2026 - Week 4
 
-**Focus:** External analysis – PEST, Five Forces, industry attractiveness.
+**Focus:** External analysis: PEST, Five Forces, industry attractiveness.
 
 ---
 

@@ -1,7 +1,7 @@
 # Introduction to the EU Class Notes
 ## March 9, 2026 Week 7
 
-**Topic:** 1992–present; enlargements; EEA/EFTA; Commission crisis; Constitution vs. Lisbon; Greek crisis; NATO; Turkey debate.
+**Topic:** 1992 to present; enlargements; EEA/EFTA; Commission crisis; Constitution vs. Lisbon; Greek crisis; NATO; Turkey debate.
 
 ---
 

@@ -17,7 +17,7 @@ Final-exam supplement: terms aligned with `strategic-management-final-cornell-ma
 - **Cluster** - Geographic concentration of related firms and institutions creating spillover benefits.
 - **Competitive Advantage** - Superior position enabling above-average performance versus rivals.
 - **Competitive Parity** - Situation where firm performance is near industry average.
-- **Control Premium** - Extra price above market value paid to secure control in M&A (lecture often cites a band such as 20–50%).
+- **Control Premium** - Extra price above market value paid to secure control in M&A (lecture often cites a band such as 20 to 50%).
 - **Corporate Strategy** - Scope choices about where the firm competes across businesses.
 - **Cost Leadership** - Lowest-cost position for comparable value.
 - **Differentiation** - Distinctive value perceived by customers as worth choosing.
@@ -43,7 +43,7 @@ Final-exam supplement: terms aligned with `strategic-management-final-cornell-ma
 - **Lean Production** - Systematic waste elimination (Toyota Production System-style operations).
 - **Life-Cycle Stage** - Industry phase (emergence, growth, maturity, decline) affecting strategy fit.
 - **Lobbying** - Political efforts to shape rules, tariffs, and barriers that alter competitive conditions.
-- **Low-Cost Carrier (LCC)** - No-frills airline model focused on unit-cost minimization (strategy clock 1–2).
+- **Low-Cost Carrier (LCC)** - No-frills airline model focused on unit-cost minimization (strategy clock 1 to 2).
 - **Market Capitalization** - Total equity value (price per share × shares outstanding).
 - **Market Development** - Same product, new geography or segment (Ansoff).
 - **Market Penetration** - Same product and market, push share or usage (Ansoff).
@@ -62,7 +62,7 @@ Final-exam supplement: terms aligned with `strategic-management-final-cornell-ma
 - **Stock Options** - Right to buy shares at a set strike price; aligns managers with shareholder value when well designed.
 - **Strategic Fit** - Alignment between environment, resources, and chosen strategy.
 - **Strategic Group** - Cluster of rivals with similar strategies (e.g., budget vs full-service airlines).
-- **Strategy Clock** - Price–perceived value map; includes hybrid and failure positions.
+- **Strategy Clock** - Price-perceived value map; includes hybrid and failure positions.
 - **Stuck in the Middle** - Weak position lacking clear cost or differentiation advantage.
 - **Substitute (Strategic)** - Different technology or industry that satisfies the same customer need.
 - **Sustainable Competitive Advantage** - Advantage difficult for rivals to imitate or substitute.

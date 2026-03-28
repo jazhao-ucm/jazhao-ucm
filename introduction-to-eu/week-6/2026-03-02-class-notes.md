@@ -1,7 +1,7 @@
 # Introduction to the EU Class Notes
 ## March 2, 2026 Week 6
 
-**Topic:** Guest lecture Gibraltar, Spanish accession, and the border (1969–1986).
+**Topic:** Guest lecture Gibraltar, Spanish accession, and the border (1969 to 1986).
 
 ---
 

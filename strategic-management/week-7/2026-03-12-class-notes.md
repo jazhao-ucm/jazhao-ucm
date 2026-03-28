@@ -1,7 +1,7 @@
 # Strategic Management - Class Notes
 ## March 12, 2026 - Week 7
 
-**Focus:** Unit 5 – Competitive Strategy: competitive advantage, Porter's generic strategies, strategy clock, "stuck in the middle."
+**Focus:** Unit 5: Competitive Strategy: competitive advantage, Porter's generic strategies, strategy clock, "stuck in the middle."
 
 ---
 

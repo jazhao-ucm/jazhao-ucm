@@ -154,7 +154,7 @@ Colorful mochi ice cream display in Madrid featuring strawberry, matcha, chocola
 Iglesia de San Jerónimo el Real · Historic church near the Prado \
 Gran Vía · Madrid's main shopping and entertainment avenue \
 Plaza de España · Iconic square with the Cervantes monument \
-Museo del Prado · World‑renowned art museum \
+Museo del Prado · World-renowned art museum \
 Palacio Real de Madrid · The Royal Palace \
 Catedral de la Almudena · Madrid's cathedral \
 Centro Histórico · The historic city center \
@@ -174,7 +174,7 @@ Palacio de Cristal · Glass and iron palace within Retiro Park \
 Jardines de Sabatini · Formal gardens bordering the Royal Palace \
 Templo de Debod · Ancient Egyptian temple gifted to Spain, iconic sunset spot \
 Calle de Fuencarral · Trendy shopping street in Malasaña and Chueca, lined with independent shops, bakeries, and creperies \
-Adolfo Suárez Madrid–Barajas Airport · Gateway in and out of the city
+Adolfo Suárez Madrid-Barajas Airport · Gateway in and out of the city
 
 ---
 

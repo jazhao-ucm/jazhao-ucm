@@ -1,5 +1,5 @@
 # Spanish for Beginners - Class Notes
-## January 28–29, 2026 - Week 1
+## January 28 to 29, 2026 - Week 1
 
 **Focus:** Course intro, placement, Unit 1 start (Aula Plus 1).
 
@@ -56,21 +56,21 @@ III. Verbos Ser, Tener, Llamarse
       5. Os llamáis
       6. Se llaman
 
-IV. Números 0–15
-   A. 0–5
+IV. Números 0 to 15
+   A. 0 to 5
       1. Cero
       2. Uno
       3. Dos
       4. Tres
       5. Cuatro
       6. Cinco
-   B. 6–10
+   B. 6 to 10
       1. Seis (not "sies")
       2. Siete
       3. Ocho
       4. Nueve
       5. Diez
-   C. 11–15
+   C. 11 to 15
       1. Once
       2. Doce
       3. Trece

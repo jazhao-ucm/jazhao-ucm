@@ -55,7 +55,7 @@ III. Value Proposition
 
 IV. Case Study Zara Skinny Jeans
    A. Customer segment
-      1. Age: 17–27 years old
+      1. Age: 17 to 27 years old
       2. Location: big cities (NYC, LA, Miami)
       3. Behavior: trend-focused, fashion-conscious
    B. Value proposition

@@ -185,7 +185,7 @@
 
 ---
 
-## Exam Prep – Very Short Version (from handwritten notes)
+## Exam Prep: Very Short Version (from handwritten notes)
 
 - Internal analysis goal: \textbf{identify strengths (S) and weaknesses (W)}.
 - Use \textbf{firm identity}, \textbf{value chain}, and \textbf{RBV/VRIN} to see which resources and capabilities can generate and sustain competitive advantage.

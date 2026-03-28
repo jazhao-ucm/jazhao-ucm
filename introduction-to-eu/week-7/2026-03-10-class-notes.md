@@ -8,7 +8,7 @@
 I. Exam Format
    A. Structure
       1. ~2 hours
-      2. 2–3 short texts
+      2. 2 to 3 short texts
       3. Could be speeches, news, historical extracts
    B. Prompts
       1. Provide context for statement
@@ -108,7 +108,7 @@ VIII. Admin Notes
       3. Class notes
    C. Time management
       1. Two hours for exam
-      2. ~1–1.25 hours solid writing enough
+      2. ~1 to 1.25 hours solid writing enough
 
 IX. Key Vocabulary for Exam
    A. International law

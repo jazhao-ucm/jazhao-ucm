@@ -62,17 +62,17 @@ Dates and week topics: repo root [`docs/INDEX.md`](../docs/INDEX.md).
 
 Academic calendar updates (Spring 2026): spring break Mar 27 to Apr 6, no class Apr 30, final exams May 18 to May 22.
 
-- `week-1/` - Jan 28 & 29: class notes, Strategy, Art of War; `strategy-art-of-war.tex`
-- `week-2/` - Feb 4 & 5: class notes, Objectives, Values, CSR; `objectives-values-csr.tex`
+- `week-1/` - Jan 28 and 29: class notes, Strategy, Art of War; `strategy-art-of-war.tex`
+- `week-2/` - Feb 4 and 5: class notes, Objectives, Values, CSR; `objectives-values-csr.tex`
 - `week-3/` - Feb 12: class notes, Environment Analysis; `environment-analysis.tex`
-- `week-4/` - Feb 18 & 19: class notes, Five Forces, Clusters; `five-forces-clusters.tex`
-- `week-5/` - Feb 25 & 26: class notes, Madonna/Lola Flores, RBV, VRIN; `rbv-vrin.tex`
+- `week-4/` - Feb 18 and 19: class notes, Five Forces, Clusters; `five-forces-clusters.tex`
+- `week-5/` - Feb 25 and 26: class notes, Madonna/Lola Flores, RBV, VRIN; `rbv-vrin.tex`
 - `week-6/` - Mar 4: class notes, RBV, midterm prep; `midterm.tex` (full guide + exam-writing patterns), `midterm-exam-phrases.tex`
 - `week-7/` - Mar 12: class notes, Unit 5 Competitive Strategy (cost leadership, differentiation, focus, strategy clock); `2026-03-12-class-notes.md`; `sm-unit-5-competitive-strategy.pdf`; `sm-week-7-photo-01.jpeg`, `sm-week-7-photo-02.jpeg`; Unit 5 illustration DOCX files
-- `week-8/` - Mar 18–19: exam prep (Units 1–4) + board photos + Unit 6 Corporate Strategy Development; `2026-03-18-class-notes.md`, `2026-03-19-class-notes.md`; `sm-unit-6-corporate-strategy-development.pdf`; `monitor-gmc.pdf`; `zhao-jade-exam-prep.pdf`; `gregorio-martin-de-castro-exam-review-grade-monitor.zip`; `sm-week-8-notes-01.JPG`–`sm-week-8-notes-11.JPG`; finals tiles moved from root: `finals-6.JPG`, `finals-14.JPG`, `finals-15.JPG`, `finals-16.JPG`, `finals-17.JPG`, `finals-18.JPG`, `finals-26.JPG`
+- `week-8/` - Mar 18 to 19: exam prep (Units 1 to 4) + board photos + Unit 6 Corporate Strategy Development; `2026-03-18-class-notes.md`, `2026-03-19-class-notes.md`; `sm-unit-6-corporate-strategy-development.pdf`; `monitor-gmc.pdf`; `zhao-jade-exam-prep.pdf`; `gregorio-martin-de-castro-exam-review-grade-monitor.zip`; `sm-week-8-notes-01.JPG` to `sm-week-8-notes-11.JPG`; finals tiles moved from root: `finals-6.JPG`, `finals-14.JPG`, `finals-15.JPG`, `finals-16.JPG`, `finals-17.JPG`, `finals-18.JPG`, `finals-26.JPG`
 - `week-9/` - Mar 25-26: Starbucks strategy case discussion (success factors, sustaining growth); continued in next class; `2026-03-25-class-notes.md`, `2026-03-26-class-notes.md`; `unit-5-illustrations-solved.md`; `starbucks-case.tex`; `sm-unit-5-6-slides-study.tex`; `starbucks-1.JPG`, `starbucks-2.JPG`, `starbucks-3.JPG`, `starbucks-4.JPG`, `starbucks-5.JPG`
-- `week-10/` - Apr 8 & 9: class sessions (TBD topics)
-- `week-11/` - Apr 15 & 16: class sessions (TBD topics)
-- `week-12/` - Apr 22 & 23: class sessions (TBD topics)
-- `week-13/` - Apr 29 & 30: Apr 29 class session (TBD topic); Apr 30 NO CLASS
-- `week-14/` - May 18–22: final exams; `sm-master-vocabulary-word-bank.tex` (Units 0–6 + **Week 14 finals supplement**), `strategic-management-vocabulary-a-z-wed-thu-spring2026.md` (A–Z aligned with finals notes), `strategic-management-final-cornell-master-notes-wed-thu-spring2026.tex` (typical class days Wed/Thu Spring 2026; `pdflatex strategic-management-final-cornell-master-notes-wed-thu-spring2026.tex`; `pdflatex sm-master-vocabulary-word-bank.tex`)
+- `week-10/` - Apr 8 and 9: class sessions (TBD topics)
+- `week-11/` - Apr 15 and 16: class sessions (TBD topics)
+- `week-12/` - Apr 22 and 23: class sessions (TBD topics)
+- `week-13/` - Apr 29 and 30: Apr 29 class session (TBD topic); Apr 30 NO CLASS
+- `week-14/` - May 18 to 22: final exams; `sm-master-vocabulary-word-bank.tex` (Units 0 to 6 + **Week 14 finals supplement**), `strategic-management-vocabulary-a-z-wed-thu-spring2026.md` (A to Z aligned with finals notes), `strategic-management-final-cornell-master-notes-wed-thu-spring2026.tex` (typical class days Wed/Thu Spring 2026; `pdflatex strategic-management-final-cornell-master-notes-wed-thu-spring2026.tex`; `pdflatex sm-master-vocabulary-word-bank.tex`)

@@ -15,7 +15,7 @@ I. Luxembourg Compromise Recap
 
 II. Southern Enlargement Greece (1981)
    A. Before accession
-      1. Military dictatorship (colonels) 1967–1974
+      1. Military dictatorship (colonels) 1967 to 1974
       2. Community initially hesitant
       3. Cyprus conflict 1974 (war with Turkey)
    B. Transition
@@ -42,7 +42,7 @@ IV. Southern Enlargement Spain (1986)
       2. No revolution negotiated transition
       3. Democratic consolidation required
    B. Process
-      1. Negotiations 1977–1986
+      1. Negotiations 1977 to 1986
       2. 1982 World Cup soft power
    C. Challenges
       1. France worried about CAP
@@ -62,11 +62,11 @@ V. Why Southern Enlargement Mattered
 
 VI. Jacques Delors and Revival
    A. Background
-      1. Commission President 1985–1995
+      1. Commission President 1985 to 1995
       2. Socialist, former French minister
    B. Achievement
       1. Revived European integration
-      2. After "Eurosclerosis" of 1970s–early 1980s
+      2. After "Eurosclerosis" of 1970s-early 1980s
    C. Single market project
       1. Complete internal market by 1992
       2. "1992 project"

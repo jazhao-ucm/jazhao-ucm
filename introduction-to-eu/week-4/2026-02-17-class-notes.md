@@ -67,7 +67,7 @@ V. Referendum Results
 VI. Oil Crisis (1973) Background
    A. Europe's dependence
       1. Prosperity depended on cheap oil
-      2. $2/barrel average 1950–1973
+      2. $2/barrel average 1950 to 1973
       3. Oil = 65% of Western Europe's electricity
    B. Supply situation
       1. Plentiful supply kept prices low
@@ -104,7 +104,7 @@ VIII. European Response
 
 IX. Economic Aftermath
    A. End of Golden Age
-      1. 1945–1973 = rapid growth
+      1. 1945 to 1973 = rapid growth
       2. After 1973 = slower growth
       3. Structural unemployment
    B. Policy challenges

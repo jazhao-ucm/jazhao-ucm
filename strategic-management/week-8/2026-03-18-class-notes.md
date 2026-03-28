@@ -1,7 +1,7 @@
 # Strategic Management - Class Notes
 ## March 18, 2026 - Week 8
 
-**Focus:** Exam prep overview (Units 1–4); external vs. internal analysis; deliberate vs. emergent strategy. Additional notes: media & politics in Europe (public sphere, propaganda, RFE, Prague Spring).
+**Focus:** Exam prep overview (Units 1 to 4); external vs. internal analysis; deliberate vs. emergent strategy. Additional notes: media & politics in Europe (public sphere, propaganda, RFE, Prague Spring).
 
 ---
 
@@ -16,7 +16,7 @@ I. Exam Prep (Unit 1) Strategy Definition, Origins, Structure
       1. Solve problems in uncertain future; manage “unknown”
       2. Complex decisions: causal effects, inter-relationships, lack of info
       3. Mistakes expensive (even “company’s survival”)
-   C. Firm–Environment Link (Grant, 2015)
+   C. Firm-Environment Link (Grant, 2015)
       1. Firm: goals & values; resources & capabilities; structure; people
       2. Environment: competitors; customers; suppliers; national & international context
       3. Strategy = link between firm and environment
@@ -196,7 +196,7 @@ VI. Media & Politics In Europe (From Photo Notes)
       2. Propaganda and everyday life: cheap cruises for “lay people”; made Germany look “great”
       3. Wartime propaganda (1943): “Do you want total war?” (Goebbels)
       4. 1944: Nazis presented documentary of concentration camps “pleasant for tour” (noted)
-      5. Spanish Civil War (1936–1939): “first media war” (noted); press role; “can war reporters ever be objective”
+      5. Spanish Civil War (1936 to 1939): “first media war” (noted); press role; “can war reporters ever be objective”
          a. Republican: Manuel Azaña leader; “government”
          b. Socialist/communist republican support; “government” macro
          c. Nationalists: Francisco Franco leader; rebels; fascist
@@ -227,7 +227,7 @@ VI. Media & Politics In Europe (From Photo Notes)
       1. What is the public sphere according to Jurgen Habermas? Does the concept still make sense today?
       2. Why is the French Revolution considered a “media revolution”? Importance of media?
       3. What breakthrough of the revolution in the media? The evolution of the creation of media?
-      4. Explain the Spanish Civil War (1936–1939) as a “meta event” (notes mention: international aspects)
+      4. Explain the Spanish Civil War (1936 to 1939) as a “meta event” (notes mention: international aspects)
    E. RFE / RFE-Related Notes (As Written)
       1. Radio Free Europe / Radio Liberty: Cold War tool; “on the radio” (noted)
       2. Increased access to audiences where a free press is under threat or doesn’t exist at all
