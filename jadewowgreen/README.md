@@ -3,181 +3,183 @@
 Catch flights, not feelings ✈️ \
 A visual notebook of Madrid's streets, landmarks, and everyday corners.
 
+**How this is labeled:** Each photo uses plain **alt text** (what’s in the frame, for accessibility and broken images). The **line under** is the display caption—short, same voice throughout, not a second description.
+
 ---
 
 ## Episode 1: City Skylines & Sacred Spaces
 
-![Madrid Rooftops](images/uno1.jpg)
-Historic rooftops of Madrid at sunset, warm golden light layered over tiled roofs and a centuries-old skyline, Spain.
+![Looking up at ornate cream-coloured apartment buildings with iron balconies on a sunny Madrid street.](images/uno1.jpg)
+First day in Madrid. Looked up a lot.
 
-![Palacio Real Gates](images/uno2.jpg)
-Ornate wrought-iron gates at the Royal Palace of Madrid framing the city's royal residence against a bright blue sky, Spain.
+![Rooftop view of a Madrid residential neighbourhood with a Spanish flag, apartment blocks, and large white clouds against a blue sky.](images/uno2.jpg)
+The view from somewhere over the city.
 
-![Almudena Cathedral](images/uno3.jpg)
-The neoclassical façade of Almudena Cathedral with twin bell towers set against a clear Madrid sky, Spain.
+![Ornate black iron gates of the Palacio Real reflected in a rain puddle on the plaza, visitors walking nearby, Madrid.](images/uno3.jpg)
+The Royal Palace gates, reflected in a puddle.
 
-![Historic Streets](images/uno4.jpg)
-A narrow cobblestone street in old Madrid lined with traditional iron balconies and historic stone façades, Spain.
+![The neoclassical facade of Almudena Cathedral with twin dark spires against a dramatic cloudy sky, Madrid.](images/uno4.jpg)
+Almudena Cathedral on a cloudy afternoon.
 
 ---
 
 ## Episode 2: Gothic Corners & Grand Museums
 
-![Church Entrance](images/dos1.jpg)
-Gothic stone church entrance near the Prado Museum on a quiet rain-washed afternoon in central Madrid, Spain.
+![Gothic brick church entrance with ornate stone archway, rain-wet stone steps and plaza in the foreground, Madrid.](images/dos1.jpg)
+Iglesia de San Jerónimo el Real in the rain.
 
-![Gran Vía](images/dos2.jpg)
-Street-level view of Gran Vía, Madrid's main commercial avenue, lined with early 20th-century architecture, cinemas, and city traffic, Spain.
+![Street-level view of Gran Vía crowded with pedestrians, historic early 20th-century buildings and a winged bronze statue on a rooftop, Madrid.](images/dos2.jpg)
+Gran Vía on a busy afternoon.
 
-![Cervantes Monument](images/dos3.jpg)
-Bronze monument to Miguel de Cervantes at Plaza de España, Madrid, with the Torre de Madrid skyscraper rising behind it against a hazy sky, Spain.
+![Stone statue on a plinth at Plaza de España with the Torre de España skyscraper rising behind it against a grey sky, Madrid.](images/dos3.jpg)
+Plaza de España, quieter than expected.
 
-![Prado Museum](images/dos4.jpg)
-The classical stone façade and manicured gardens of the Museo del Prado in central Madrid, Spain.
+![Red-brick facade of the Museo del Prado with a no-dogs sign in the foreground and a lone figure walking past, Madrid.](images/dos4.jpg)
+The Prado. One of those places you have to see.
 
 ---
 
 ## Episode 3: Blue Hour & Baroque Beauty
 
-![Zara at Night](images/tres1.jpg)
-A modern multi-story Zara storefront glowing warmly at blue hour on Gran Vía, wet streets reflecting red and green traffic lights, Madrid, Spain.
+![Multi-storey Zara storefront glowing at blue hour, wet street reflecting traffic lights, Madrid.](images/tres1.jpg)
+Zara on Gran Vía after dark.
 
-![Casa de la Panadería](images/tres2.jpg)
-The ornate frescoed façade of Casa de la Panadería in Plaza Mayor illuminated at dusk, twin spires and wrought-iron balconies bathed in golden light, Madrid, Spain.
+![The painted frescoed facade of Casa de la Panadería at Plaza Mayor bathed in golden afternoon light, Madrid and Community flags below, Spain.](images/tres2.jpg)
+Plaza Mayor catching the last of the light.
 
-![Gran Vía Buildings](images/tres3.jpg)
-Looking up between curved Belle Époque buildings with decorative stonework and ornate balconies on a central Madrid street, Spain.
+![Upward view between ornate Belle Époque buildings with curved facades and iron balconies on a central Madrid street.](images/tres3.jpg)
+Looking up on Gran Vía.
 
-![Memorial Monument](images/tres4.jpg)
-A solemn bronze angel memorial sculpture set against a stone pillar in a quiet cobblestone plaza surrounded by historic yellow and brick buildings, Madrid, Spain.
+![Bronze figure memorial on a stone pillar in a cobblestone plaza surrounded by historic yellow and stone buildings, Madrid.](images/tres4.jpg)
+A quiet corner of the old city.
 
 ---
 
 ## Episode 4: Campus Walks & Twilight Moments
 
-![Park Path](images/cuatro1.jpg)
-A winding dirt path through a peaceful pine grove near Universidad Complutense de Madrid, bright green grass and soft overcast light, Spain.
+![Dirt path through pine trees and grass, overcast](images/cuatro1.jpg)
+The long way round campus.
 
-![Clock Tower at Dusk](images/cuatro2.jpg)
-A yellow stone neighborhood clock tower illuminated at blue hour, street lamp glowing orange, parked cars lining the street below, Madrid, Spain.
+![Yellow stone clock tower at dusk, street lamp, parked cars](images/cuatro2.jpg)
+Blue hour on the way home.
 
-![University Library](images/cuatro3.jpg)
-Interior of a large two-level university library with wooden shelving, fluorescent panel lighting, and rows of books on the upper floor, Madrid, Spain.
+![Two-level university library interior, wooden shelves and fluorescent lights](images/cuatro3.jpg)
+Quiet floor, finally.
 
-![Park at Dusk](images/cuatro4.jpg)
-Modern wooden pergola structures in a park at twilight, metal chairs and an upturned umbrella in the foreground, moody blue-gray clouds overhead, Madrid, Spain.
+![Wooden pergolas in a park, chairs, cloudy twilight sky](images/cuatro4.jpg)
+End of the day, end of the rain.
 
 ---
 
 ## Episode 5: Golden Hours & Medieval Magic
 
-![Golden Hour Streets](images/cinco4.jpg)
-Golden-hour sunset over a wide Madrid plaza lined with colorful historic buildings in yellow and orange tones, dramatic clouds illuminating the sky, Spain.
+![Wide Madrid street intersection at sunset, ornate yellow building on the corner, dramatic orange and blue clouds overhead, Spain.](images/cinco4.jpg)
+Madrid at golden hour.
 
-![Military Building](images/cinco3.jpg)
-Large historic brick military building with a Spanish flag flying from the rooftop, classical symmetrical architecture and a bridge visible in the foreground, Madrid, Spain.
+![Large red-brick Ejército del Aire building with a Spanish flag flying above, seen from a road with city traffic, Madrid.](images/cinco3.jpg)
+Spotted from the bus window.
 
-![Toledo Hilltop](images/cinco2.jpg)
-Panoramic view of Toledo perched on a hilltop peninsula surrounded by the Tagus River, medieval buildings cascading down the hillside with the Alcázar fortress at the top, Spain.
+![Panoramic view of Toledo on a hillside above the Tagus River, the Alcázar fortress at the top under a deep blue sky, Spain.](images/cinco2.jpg)
+The whole city on a hill.
 
-![Fortress Gateway](images/cinco1.jpg)
-Close-up of an ornate stone archway with intricate carved details and a heraldic emblem above the arch, historic fortress walls visible through the opening, Toledo, Spain.
+![Stone archway of a Toledo city gate with carved heraldic detail above the arch, cobblestone courtyard visible through the opening, Spain.](images/cinco1.jpg)
+The entrance to Toledo.
 
 ---
 
 ## Episode 6: Rooftops, Nights & Ancient Arches
 
-![Madrid Sunset Rooftop](images/seis1.jpg)
-Aerial view of Madrid city center at sunset, warm golden light over historic rooftops and Cines Callao at Plaza del Callao, Spain.
+![City rooftops at sunset, cinema sign visible, Madrid](images/seis1.jpg)
+Rooftop above Callao. Worth the stairs.
 
-![Gran Vía After Dark](images/seis2.jpg)
-Nighttime street-level view of Gran Vía, Madrid's main boulevard, featuring illuminated historic architecture and Hotel Regente glowing against a dark sky, Spain.
+![Gran Vía at night, lit façades and hotel signs](images/seis2.jpg)
+Same street as daytime, different personality.
 
-![Madrid Neighborhood Morning](images/seis3.jpg)
-Overcast morning view over a residential district in Madrid with sports courts, pine trees, and brick apartment buildings under a grey sky, Spain.
+![Residential blocks, courts, pine trees, grey morning sky](images/seis3.jpg)
+Ordinary Tuesday view from the neighborhood. I like the grey days too.
 
-![Arco de la Victoria](images/seis4.jpg)
-Bronze quadriga sculpture atop the Arco de la Victoria triumphal arch in Moncloa, Madrid, set against a clear blue sky, Spain.
+![Triumphal arch top with bronze chariot sculpture, blue sky](images/seis4.jpg)
+Arco de la Victoria, clear sky. Moncloa always feels like a threshold.
 
 ---
 
 ## Episode 7: Puerta del Sol & the City That Believes in You
 
-![Madrid Street Canyon](images/siete1.jpg)
-Upward street-level view of a narrow historic street in central Madrid with a vintage red hotel sign on a yellow building façade, iron balconies, and a dramatic cloudy blue sky above, Spain.
+![Upward view of a narrow Madrid street with a vintage red hotel sign on a yellow building, iron balconies and a blue sky above.](images/siete1.jpg)
+Looking up somewhere near Sol.
 
-![El Oso y el Madroño](images/siete2.jpg)
-Bronze sculpture of El Oso y el Madroño, a bear standing against a strawberry tree and the official symbol of Madrid, at Puerta del Sol with the inscription "50 Años en Sol" on the base, Spain.
+![Bronze sculpture of El Oso y el Madroño, a bear leaning against a strawberry tree, inscription 50 Años en Sol at Puerta del Sol, Madrid.](images/siete2.jpg)
+The bear and the tree. 50 years at Sol.
 
-![Real Casa de Correos](images/siete3.jpg)
-Daytime view of the Real Casa de Correos clock tower overlooking Puerta del Sol at golden hour, with a bronze equestrian statue of King Carlos III in the foreground and a jet contrail crossing the blue sky, Madrid, Spain.
+![The Real Casa de Correos clock tower at golden hour with a bronze equestrian statue of King Carlos III in the foreground, Madrid.](images/siete3.jpg)
+Puerta del Sol at golden hour.
 
-![Modern Madrid Skyline](images/siete4.jpg)
-Upward view of the cylindrical EY Tower with glass façade in Madrid's AZCA financial district, with El Corte Inglés signage and cypress trees in the foreground against a clear blue sky, Spain.
+![The cylindrical glass EY Tower in Madrid's AZCA financial district with El Corte Inglés signage and cypress trees in the foreground.](images/siete4.jpg)
+Old city, new skyline.
 
 ---
 
 ## Episode 8: Nights Out & Hidden Gems
 
-![Gran Vía 84](images/ocho1.jpg)
-Gold-lettered entrance of Gran Vía 84 hotel glowing against the night, marble columns and warm light spilling onto the avenue, Madrid, Spain.
+![Gold-lettered Gran Vía 84 hotel entrance glowing at night, marble interior visible through glass doors, Madrid.](images/ocho1.jpg)
+Gran Vía 84 at night. All marble and gold.
 
-![Ale-Hop at Night](images/ocho2.jpg)
-The Ale-Hop corner store lit up after dark with a playful ferris wheel window display and red balloon décor, a pop of color against the stone façade, Madrid, Spain.
+![Ale-Hop shop front at night with a white ferris wheel display and red balloon decorations, arched stone entrance, Madrid.](images/ocho2.jpg)
+Ale-Hop doing the most with a ferris wheel window display.
 
-![Broadcasting Studio](images/ocho3.jpg)
-Professional broadcast control room with mixing boards and color-bar monitors, Madrid, Spain.
+![Professional broadcast control room with mixing boards, colour-bar monitors and red office chairs, Madrid.](images/ocho3.jpg)
+Behind the scenes at a broadcast studio.
 
-![Museo de Historia de Madrid](images/ocho4.jpg)
-Ornate churrigueresque stone portal of the Museo de Historia de Madrid with intricate carved details against a coral-pink façade under an open blue sky, Spain.
+![Ornate churrigueresque stone portal of the Museo de Historia de Madrid with intricate carved figures against a coral-pink facade, Spain.](images/ocho4.jpg)
+The Museo de Historia de Madrid portal is genuinely one of the most detailed things I have ever seen.
 
 ---
 
 ## Episode 9: Buen Día & Bites Around the City
 
-![Napolitanas](images/nueve1.jpg)
-Golden flaky napolitana pastries dusted with powdered sugar smiley faces and chocolate sprinkles on a decorative tile tray at a bakery on Calle de Fuencarral, Madrid, Spain.
+![Golden flaky napolitana pastries with powdered sugar smiley faces and the words Buen Día on a bakery display tray, Madrid.](images/nueve1.jpg)
+Buen día, indeed.
 
-![Savory Crêpes](images/nueve2.jpg)
-Two savory crêpes topped with fresh pico de gallo salsa and sliced avocado on white plates at a creperie on Calle de Fuencarral, Madrid, with a cortado and glass of water alongside, Spain.
+![Two savoury crêpes topped with fresh salsa and avocado slices on white plates, a coffee and water alongside, Madrid.](images/nueve2.jpg)
+Crêpes with salsa and avocado on Fuencarral. Solid lunch.
 
-![100 Montaditos](images/nueve3.jpg)
-Cheese fries loaded with bacon and nacho cheese sauce alongside mini montadito sandwiches and golden fried nuggets on black trays at 100 Montaditos, Madrid, Spain.
+![Cheese fries with bacon, mini montadito sandwiches and golden fried nuggets on black trays, 100 Montaditos, Madrid.](images/nueve3.jpg)
+100 Montaditos order. No notes.
 
-![Mochi Display](images/nueve4.jpg)
-Colorful mochi ice cream display in Madrid featuring strawberry, matcha, chocolate, and cream flavors in a refrigerated glass case at a specialty dessert shop, Spain.
-
----
-
-## Episode 10: Segovia, Roman Arches & Gothic Skyline
-
-![Aqueduct of Segovia](images/diez1.jpg)
-The two-tier Roman aqueduct of Segovia rising over the plaza, granite arches and pedestrians under a soft overcast sky, Castilla y León, Spain.
-
-![Alcázar Stained Glass](images/diez2.jpg)
-Medieval stained glass in a deep stone arch: heraldic panels, royal figures, and a crowned lion, glowing against weathered masonry inside the Alcázar of Segovia, Spain.
-
-![Bell Tower View](images/diez3.jpg)
-From the bell tower: a heavy bronze bell and rough stone wall frame a wide view over red-tiled roofs and the fairy-tale Alcázar on the ridge, Segovia, Spain.
-
-![Segovia Cathedral](images/diez4.jpg)
-Low-angle Gothic façade of Segovia Cathedral, dome and pinnacles against grey clouds, with café umbrellas and the square at its feet, Spain.
+![Refrigerated display of colourful mochi ice cream in strawberry, matcha, chocolate and pink flavours at a Madrid dessert shop.](images/nueve4.jpg)
+The mochi selection had no bad options.
 
 ---
 
-## Episode 11: Matcha Mornings & Sweet Pauses
+## Episode 10: Segovia — Roman Stone, Stained Glass & Gothic Spires
 
-![Bagel and Iced Matcha](images/once1.jpg)
-Toasted bagel with cream cheese on a speckled plate beside an iced matcha latte in a tall glass, wooden tray on a light table at Starbucks, Madrid, Spain.
+![Double-tiered stone arches of the Segovia aqueduct with tourists walking below.](images/diez1.jpg)
+Two thousand years and not a single nail.
 
-![Cinnamon Roll and Latte](images/once2.jpg)
-Foamy latte with caramel grid in a white mug next to a glazed cinnamon roll on a wooden tray, quiet café moment over a light wood table, Madrid, Spain.
+![Gothic stone facade and domed roof of Segovia Cathedral on an overcast day, Spain.](images/diez4.jpg)
+Segovia Cathedral doing what it does best.
 
-![Layered Matcha Lavender](images/once3.jpg)
-Layered iced drink in a Starbucks glass: green matcha, creamy milk, and purple lavender syrup, sharp stripes on a warm wood table, Madrid, Spain.
+![Large bronze bell in a cathedral tower with panoramic views of Segovia's rooftops and the Alcázar below.](images/diez3.jpg)
+The view from the top was worth it.
 
-![Toast and Whipped Cream Drink](images/once4.jpg)
-Thick slice of seeded toast with a dish of spread, plus a tall creamy blended drink topped with whipped cream, wooden tray and napkin, Madrid, Spain.
+![Medieval stained glass window showing a crowned figure with heraldic shields at the bottom, Segovia Cathedral.](images/diez2.jpg)
+500 years old and still stunning.
+
+---
+
+## Episode 11: Matcha, Lattes & Quiet Café Corners
+
+![Toasted ring rolls and butter on a plate with a tall iced matcha latte in a Starbucks glass, Madrid.](images/once1.jpg)
+Matcha in Spain, don't mind if I do.
+
+![Foamy caramel latte in a white mug beside a glazed cinnamon roll on a ceramic plate, wooden tray, Madrid.](images/once2.jpg)
+Cinnamon roll season, always.
+
+![Layered Starbucks drink with purple, white and green matcha layers in a glass tumbler, Madrid.](images/once3.jpg)
+Too pretty to stir.
+
+![Whipped cream frappe next to toasted seeded bread and a small dish of cream cheese on a wooden tray, Madrid.](images/once4.jpg)
+Fuelled up and ready.
 
 ---
 
@@ -198,7 +200,7 @@ Arco de la Victoria · Triumphal arch at Moncloa with bronze quadriga \
 Puerta del Sol · Kilometer zero and one of Madrid's main squares \
 El Oso y el Madroño · Bear and strawberry tree statue, symbol of the city \
 Real Casa de Correos · Historic post office and clock tower in Puerta del Sol \
-EY Tower and El Corte Inglés · Landmarks of Madrid's modern business district \
+EY Tower & El Corte Inglés · Landmarks of Madrid's modern business district \
 Mercado de San Miguel · Historic iron market near Plaza Mayor \
 La Latina · Bohemian neighborhood, home to El Rastro Sunday flea market \
 Parque del Retiro · Madrid's beloved central park and green lung \
@@ -206,11 +208,12 @@ Palacio de Cristal · Glass and iron palace within Retiro Park \
 Jardines de Sabatini · Formal gardens bordering the Royal Palace \
 Templo de Debod · Ancient Egyptian temple gifted to Spain, iconic sunset spot \
 Calle de Fuencarral · Trendy shopping street in Malasaña and Chueca, lined with independent shops, bakeries, and creperies \
-Adolfo Suárez Madrid-Barajas Airport · Gateway in and out of the city \
-Acueducto de Segovia · Roman granite aqueduct and main square \
-Alcázar de Segovia · Medieval castle, stained glass, and bell-tower views \
-Catedral de Segovia · Gothic cathedral above the old town \
-Starbucks (Madrid) · Matcha lattes, bagels, cinnamon rolls, and layered seasonal drinks between classes
+Segovia · Roman aqueduct, Alcázar, and Gothic cathedral on a hill-town day trip from Madrid \
+Acueducto de Segovia · Two-tier Roman granite bridge, emblem of the city \
+Alcázar de Segovia · Fortress-palace with royal stained glass and tower views \
+Catedral de Segovia · Late Gothic “Lady of Cathedrals” with dome and pinnacles \
+Starbucks (Madrid) · Study-session fuel—matcha, layered drinks, and café corners between classes \
+Adolfo Suárez Madrid-Barajas Airport · Gateway in and out of the city
 
 ---
 

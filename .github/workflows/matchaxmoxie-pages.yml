@@ -1,5 +1,10 @@
-# Deploy matchaxmoxie/site/ (Pages root) to GitHub Pages from the UCM monorepo.
-# Repo → Settings → Pages → Source: GitHub Actions.
+# Deploy matchaxmoxie/site/ to GitHub Pages from this monorepo.
+#
+# If this workflow fails, check in order:
+# 1) Repo Settings → Pages → Build and deployment → Source = GitHub Actions (not "Deploy from a branch").
+# 2) Settings → Environments → github-pages — remove required reviewers unless you want every deploy to wait for approval.
+# 3) This run only triggers on pushes that touch matchaxmoxie/** or this file (see paths: below).
+# 4) Local subtree push to matchaxmoxie/matchaxmoxie is separate; publish-site.sh uses --force because mirror main cannot fast-forward.
 
 name: Deploy matchaxmoxie to Pages
 
@@ -33,6 +38,11 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
+      - name: Verify static site root
+        run: |
+          test -f matchaxmoxie/site/index.html || { echo "::error::Missing matchaxmoxie/site/index.html"; exit 1; }
+          test -f matchaxmoxie/site/styles.css || { echo "::error::Missing matchaxmoxie/site/styles.css"; exit 1; }
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
