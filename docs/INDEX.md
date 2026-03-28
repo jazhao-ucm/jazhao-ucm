@@ -116,5 +116,5 @@ Quick reference for all courses and weeks. *Last updated: April 2026*
 ---
 
 ## Other
-- **jadewowgreen/** Project images
+- **jadewowgreen/** Madrid study-abroad photo log (`README.md`, `images/`); Episodes 10 to 11 add Segovia (aqueduct, Alcázar, cathedral) and café still lifes (Starbucks / matcha)
 - **matchaxmoxie/** Portfolio README + deploy; **`site/`** = Pages + MIT `LICENSE`, `CONTRIBUTING.md`; **`latex/`** + `BUILD.md`; **`scripts/publish-site.sh`** → [matchaxmoxie/matchaxmoxie](https://github.com/matchaxmoxie/matchaxmoxie); live [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/); **`docs/`** = Markdown lint

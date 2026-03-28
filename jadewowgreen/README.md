@@ -149,6 +149,38 @@ Colorful mochi ice cream display in Madrid featuring strawberry, matcha, chocola
 
 ---
 
+## Episode 10: Segovia, Roman Arches & Gothic Skyline
+
+![Aqueduct of Segovia](images/diez1.jpg)
+The two-tier Roman aqueduct of Segovia rising over the plaza, granite arches and pedestrians under a soft overcast sky, Castilla y León, Spain.
+
+![Alcázar Stained Glass](images/diez2.jpg)
+Medieval stained glass in a deep stone arch: heraldic panels, royal figures, and a crowned lion, glowing against weathered masonry inside the Alcázar of Segovia, Spain.
+
+![Bell Tower View](images/diez3.jpg)
+From the bell tower: a heavy bronze bell and rough stone wall frame a wide view over red-tiled roofs and the fairy-tale Alcázar on the ridge, Segovia, Spain.
+
+![Segovia Cathedral](images/diez4.jpg)
+Low-angle Gothic façade of Segovia Cathedral, dome and pinnacles against grey clouds, with café umbrellas and the square at its feet, Spain.
+
+---
+
+## Episode 11: Matcha Mornings & Sweet Pauses
+
+![Bagel and Iced Matcha](images/once1.jpg)
+Toasted bagel with cream cheese on a speckled plate beside an iced matcha latte in a tall glass, wooden tray on a light table at Starbucks, Madrid, Spain.
+
+![Cinnamon Roll and Latte](images/once2.jpg)
+Foamy latte with caramel grid in a white mug next to a glazed cinnamon roll on a wooden tray, quiet café moment over a light wood table, Madrid, Spain.
+
+![Layered Matcha Lavender](images/once3.jpg)
+Layered iced drink in a Starbucks glass: green matcha, creamy milk, and purple lavender syrup, sharp stripes on a warm wood table, Madrid, Spain.
+
+![Toast and Whipped Cream Drink](images/once4.jpg)
+Thick slice of seeded toast with a dish of spread, plus a tall creamy blended drink topped with whipped cream, wooden tray and napkin, Madrid, Spain.
+
+---
+
 ## Locations Featured
 
 Iglesia de San Jerónimo el Real · Historic church near the Prado \
@@ -166,7 +198,7 @@ Arco de la Victoria · Triumphal arch at Moncloa with bronze quadriga \
 Puerta del Sol · Kilometer zero and one of Madrid's main squares \
 El Oso y el Madroño · Bear and strawberry tree statue, symbol of the city \
 Real Casa de Correos · Historic post office and clock tower in Puerta del Sol \
-EY Tower & El Corte Inglés · Landmarks of Madrid's modern business district \
+EY Tower and El Corte Inglés · Landmarks of Madrid's modern business district \
 Mercado de San Miguel · Historic iron market near Plaza Mayor \
 La Latina · Bohemian neighborhood, home to El Rastro Sunday flea market \
 Parque del Retiro · Madrid's beloved central park and green lung \
@@ -174,7 +206,11 @@ Palacio de Cristal · Glass and iron palace within Retiro Park \
 Jardines de Sabatini · Formal gardens bordering the Royal Palace \
 Templo de Debod · Ancient Egyptian temple gifted to Spain, iconic sunset spot \
 Calle de Fuencarral · Trendy shopping street in Malasaña and Chueca, lined with independent shops, bakeries, and creperies \
-Adolfo Suárez Madrid-Barajas Airport · Gateway in and out of the city
+Adolfo Suárez Madrid-Barajas Airport · Gateway in and out of the city \
+Acueducto de Segovia · Roman granite aqueduct and main square \
+Alcázar de Segovia · Medieval castle, stained glass, and bell-tower views \
+Catedral de Segovia · Gothic cathedral above the old town \
+Starbucks (Madrid) · Matcha lattes, bagels, cinnamon rolls, and layered seasonal drinks between classes
 
 ---
 

@@ -24,7 +24,7 @@ Course notes and materials for UCM (Universidad Complutense de Madrid).
 - **`strategic-management/`**: Strategic Management: class notes, strategy and objectives, PEST, Five Forces, environment analysis, business cases (Madonna/Lola Flores), clusters
 - **`spanish-for-beginners/`**: Spanish for Beginners: dated class notes where present, Aula Plus PDFs, midterm/listening LaTeX in later weeks, homework scans
 - **`ucm-midterm/`**: One-page cheat sheets for all 5 UCM courses (spanish-only, intro-eu-only, product-mgmt-only, strategic-only, management-global-only) and combined `blue-notes-all.tex`
-- **`jadewowgreen/`**: Project images and materials
+- **`jadewowgreen/`**: Madrid photo log (`README.md`, `images/`): episodic galleries; latest episodes cover Segovia day trip and café shots
 - **`matchaxmoxie/`**: Portfolio: root **`README.md`** (deploy); **`site/`** = Pages + MIT **`LICENSE`**, **`CONTRIBUTING.md`** ([live](https://matchaxmoxie.github.io/matchaxmoxie/)); **`latex/`** = `jade-zhao-*.tex`, **`BUILD.md`**; **`scripts/`** = subtree push to [matchaxmoxie/matchaxmoxie](https://github.com/matchaxmoxie/matchaxmoxie); **`docs/`** = `.markdownlint.yaml`.
 - **`j.adezhao/`**: DO NOT COMMIT OR PUSH (local-only)
 
