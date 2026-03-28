@@ -42,6 +42,17 @@ Course notes and materials for **UCM** (Universidad Complutense de Madrid). Mult
 
 ---
 
+## Agent preferences (models and usage)
+
+- **Model taste:** The user prefers **Claude** and **Gemini** when picking or switching models in Cursor. (They still choose the active model in settings; this is a reminder of preference order.)
+- **Usage and cost:** Prioritize **low token use** and **low cost** so limits are not burned quickly:
+  - Default to **concise** answers; expand only when the task needs depth or the user asks.
+  - **Batch** file reads and greps; avoid redundant parallel tool spam and repeated reads of the same file.
+  - Do **not** delegate to subagents or extra passes when a **single direct** tool sequence is enough.
+  - Skip optional flourishes (long preambles, duplicate summaries, “engagement” closers) unless they add real value.
+
+---
+
 ## Source of truth (course content)
 
 For class notes, reading summaries, study guides, exam prep, business plans:
