@@ -92,3 +92,15 @@ The publish script uses `git subtree split` to push [`matchaxmoxie`](.) to `matc
 
 Copyright © 2026 Jade Zhao.  
 All rights reserved unless stated otherwise.
+
+## Aesthetica Bilinguis (Greco-Latin + English Pattern)
+
+- Titling follows a Greco-Latin plus English pairing where useful, for example `Theoria (Learning)`.
+- Style favors precise structure, consistent labels, and plain punctuation.
+- Documentation edits preserve source meaning and prioritize clarity over decoration.
+
+## SEO et Textus Alternus (SEO and Alt Text Standard)
+
+- Markdown image entries use explicit, descriptive alt text that states what is visible in the frame.
+- Captions stay concise and distinct from alt text so accessibility and display copy serve different roles.
+- HTML-adjacent docs keep canonical metadata and social preview alt-text conventions aligned with site standards.

@@ -94,3 +94,15 @@ Academic calendar updates (Spring 2026): spring break Mar 27 to Apr 6, no class 
 - **Group video**: Party conversations (1 to 2 min), fake personal info
 
 *Homework must be handwritten unless otherwise specified.*
+
+## Aesthetica Bilinguis (Greco-Latin + English Pattern)
+
+- Titling follows a Greco-Latin plus English pairing where useful, for example `Theoria (Learning)`.
+- Style favors precise structure, consistent labels, and plain punctuation.
+- Documentation edits preserve source meaning and prioritize clarity over decoration.
+
+## SEO et Textus Alternus (SEO and Alt Text Standard)
+
+- Markdown image entries use explicit, descriptive alt text that states what is visible in the frame.
+- Captions stay concise and distinct from alt text so accessibility and display copy serve different roles.
+- HTML-adjacent docs keep canonical metadata and social preview alt-text conventions aligned with site standards.

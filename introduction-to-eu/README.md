@@ -78,3 +78,15 @@ Academic calendar updates (Spring 2026): spring break Mar 27 to Apr 6, no class 
 - `week-12/` - Apr 20 and 21: class sessions (TBD topics)
 - `week-13/` - Apr 27 and 28: class sessions (TBD topics)
 - `week-14/` - May 18 to 22: final exams; `introduction-to-eu-vocabulary-a-z-mon-tue-spring2026.md` (A to Z terms aligned with the final master notes, plus IB cross-walk from `management-global-markets/week-14/management-global-markets-final-cornell-master-notes-mon-tue-spring2026.tex` for integration economics and EU legal-order toolbox), `introduction-to-eu-final-cornell-master-notes-mon-tue-spring2026.tex` (typical class days Mon/Tue Spring 2026; `pdflatex introduction-to-eu-final-cornell-master-notes-mon-tue-spring2026.tex`)
+
+## Aesthetica Bilinguis (Greco-Latin + English Pattern)
+
+- Titling follows a Greco-Latin plus English pairing where useful, for example `Theoria (Learning)`.
+- Style favors precise structure, consistent labels, and plain punctuation.
+- Documentation edits preserve source meaning and prioritize clarity over decoration.
+
+## SEO et Textus Alternus (SEO and Alt Text Standard)
+
+- Markdown image entries use explicit, descriptive alt text that states what is visible in the frame.
+- Captions stay concise and distinct from alt text so accessibility and display copy serve different roles.
+- HTML-adjacent docs keep canonical metadata and social preview alt-text conventions aligned with site standards.

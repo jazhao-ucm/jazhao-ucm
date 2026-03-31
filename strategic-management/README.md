@@ -76,3 +76,15 @@ Academic calendar updates (Spring 2026): spring break Mar 27 to Apr 6, no class 
 - `week-12/` - Apr 22 and 23: class sessions (TBD topics)
 - `week-13/` - Apr 29 and 30: Apr 29 class session (TBD topic); Apr 30 NO CLASS
 - `week-14/` - May 18 to 22: final exams; `sm-master-vocabulary-word-bank.tex` (Units 0 to 6 + **Week 14 finals supplement**), `strategic-management-vocabulary-a-z-wed-thu-spring2026.md` (A to Z aligned with finals notes), `strategic-management-final-cornell-master-notes-wed-thu-spring2026.tex` (typical class days Wed/Thu Spring 2026; `pdflatex strategic-management-final-cornell-master-notes-wed-thu-spring2026.tex`; `pdflatex sm-master-vocabulary-word-bank.tex`)
+
+## Aesthetica Bilinguis (Greco-Latin + English Pattern)
+
+- Titling follows a Greco-Latin plus English pairing where useful, for example `Theoria (Learning)`.
+- Style favors precise structure, consistent labels, and plain punctuation.
+- Documentation edits preserve source meaning and prioritize clarity over decoration.
+
+## SEO et Textus Alternus (SEO and Alt Text Standard)
+
+- Markdown image entries use explicit, descriptive alt text that states what is visible in the frame.
+- Captions stay concise and distinct from alt text so accessibility and display copy serve different roles.
+- HTML-adjacent docs keep canonical metadata and social preview alt-text conventions aligned with site standards.

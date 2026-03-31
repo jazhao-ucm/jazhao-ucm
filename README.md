@@ -1,41 +1,74 @@
 # UCM Course Notes
 
-Course notes and materials for UCM (Universidad Complutense de Madrid).
+Course notes and study materials for UCM (Universidad Complutense de Madrid), organized as a multi-course monorepo.
 
-*Last updated: April 2026*
+Primary index for week-to-date-to-topic mapping:  
+[`docs/INDEX.md`](docs/INDEX.md)
 
-**[→ Index of all courses and weeks](docs/INDEX.md)** (file: `docs/INDEX.md`)
+## Current Courses
 
-## Academic Calendar Updates (Spring 2026)
+- `product-management`
+- `introduction-to-eu`
+- `management-global-markets`
+- `strategic-management`
+- `spanish-for-beginners`
 
-- **Spring break:** Mar 27 to Apr 6 (no classes)
-- **No class day:** Apr 30
-- **Final exams window:** May 18 to May 22
+## Academic Calendar (Spring 2026)
 
-## What's in it
+- Spring break: Mar 27 to Apr 6
+- No class day: Apr 30
+- Final exams window: May 18 to May 22
 
-- **`docs/`**: Week-by-week dates and topics for every course ([INDEX.md](docs/INDEX.md))
-- **`scripts/`**: Small repo helpers; e.g. `python3 scripts/check_index_weeks.py` checks that `docs/INDEX.md` week rows have matching `week-*` folders per course
-- **`.gitignore`** / **`.markdownlint.yaml`** (repo root): LaTeX build ignores and Markdown lint defaults for all course folders (no per-course copies)
-- **`.cursorrules`**: Single Cursor / agent rules file for this repo (how to edit notes, push, INDEX, duplicates)
-- **`product-management/`**: Product Management: class notes, Business Model Canvas, value creation/capture, PM slides, Zara case, product design process, lean validation, design thinking, IDEO, SDLC, manufacturing process design
-- **`introduction-to-eu/`**: Introduction to the EU: class notes, reading summaries (Zweig, Judt, Anderson, Vinen, Gilbert, Kenny and Pearce, etc.), reading template in week-1, EU institutions, Gibraltar/accession, EMU, citizenship
-- **`management-global-markets/`**: Management in Global Markets: class notes, globalization/slowbalization, supply chains, international business strategies, global portfolio, internationalization, HR management, business plans (CaféOlé, Tierra Bar)
-- **`strategic-management/`**: Strategic Management: class notes, strategy and objectives, PEST, Five Forces, environment analysis, business cases (Madonna/Lola Flores), clusters
-- **`spanish-for-beginners/`**: Spanish for Beginners: dated class notes where present, Aula Plus PDFs, midterm/listening LaTeX in later weeks, homework scans
-- **`ucm-midterm/`**: One-page cheat sheets for all 5 UCM courses (spanish-only, intro-eu-only, product-mgmt-only, strategic-only, management-global-only) and combined `blue-notes-all.tex`
-- **`jadewowgreen/`**: Madrid photo log (`README.md`, `images/`): episodic galleries; latest episodes cover Segovia day trip and café shots
-- **`matchaxmoxie/`**: Portfolio: root **`README.md`** (deploy); **`site/`** = Pages + MIT **`LICENSE`**, **`CONTRIBUTING.md`** ([live](https://matchaxmoxie.github.io/matchaxmoxie/)); **`latex/`** = `jade-zhao-*.tex`, **`BUILD.md`**; **`scripts/`** = subtree push to [matchaxmoxie/matchaxmoxie](https://github.com/matchaxmoxie/matchaxmoxie); **`docs/`** = `.markdownlint.yaml`.
-- **`j.adezhao/`**: DO NOT COMMIT OR PUSH (local-only)
+## Repository Layout
 
-## Note-Taking Format
+| Path | Purpose |
+| :--- | :--- |
+| [`docs`](docs/) | Cross-course docs and global week index. |
+| [`scripts`](scripts/) | Repo helpers, including index/week consistency checks. |
+| [`product-management`](product-management/) | Product Management notes and course materials. |
+| [`introduction-to-eu`](introduction-to-eu/) | EU notes, reading summaries, and topic files. |
+| [`management-global-markets`](management-global-markets/) | Global markets notes, cases, and business plans. |
+| [`strategic-management`](strategic-management/) | Strategy notes, frameworks, and case material. |
+| [`spanish-for-beginners`](spanish-for-beginners/) | Spanish class notes, PDFs, and scans. |
+| [`ucm-midterm`](ucm-midterm/) | One-page midterm sheets and combined review files. |
+| [`jadewowgreen`](jadewowgreen/) | Madrid photo-log project. |
+| [`matchaxmoxie`](matchaxmoxie/) | Portfolio subtree with site, latex, and mirror scripts. |
+| [`j.adezhao`](j.adezhao/) | Local-only path, do not commit or push. |
 
-All class notes follow the **Formal Outline Note Taking System** format:
-- **Roman numerals (I, II, III, IV, V, etc.)** for main topics
-- **Capital letters (A, B, C, D, etc.)** for subheadings
-- **Arabic numerals (1, 2, 3, etc.)** for supporting details
-- **Lowercase letters (a, b, c, etc.)** for nested sub-details
+## Note Format Standard
 
-Each course README has **Structure** (week folders and key files). **Calendar dates and topics** for every course live in **`docs/INDEX.md`**.
+Class notes use a formal outline structure:
 
-**LaTeX:** From the folder containing a `.tex` file, run `pdflatex filename.tex` to build the PDF.
+- Roman numerals for main sections
+- Capital letters for subsections
+- Arabic numerals for supporting points
+- Lowercase letters for nested detail
+
+Each course `README.md` is the local source of structure and file inventory.  
+`docs/INDEX.md` is the global source of truth for week dates and topics.
+
+## Quick Commands
+
+Validate index-to-week folder alignment:
+
+```bash
+python3 scripts/check_index_weeks.py
+```
+
+Build LaTeX from the folder that contains the `.tex` file:
+
+```bash
+pdflatex filename.tex
+```
+
+## Aesthetica Bilinguis (Greco-Latin + English Pattern)
+
+- Titling follows a Greco-Latin plus English pairing where useful, for example `Theoria (Learning)`.
+- Style favors precise structure, consistent labels, and plain punctuation.
+- Documentation edits preserve source meaning and prioritize clarity over decoration.
+
+## SEO et Textus Alternus (SEO and Alt Text Standard)
+
+- Markdown image entries use explicit, descriptive alt text that states what is visible in the frame.
+- Captions stay concise and distinct from alt text so accessibility and display copy serve different roles.
+- HTML-adjacent docs keep canonical metadata and social preview alt-text conventions aligned with site standards.

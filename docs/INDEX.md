@@ -118,3 +118,15 @@ Quick reference for all courses and weeks. *Last updated: April 2026*
 ## Other
 - **jadewowgreen/** Madrid study-abroad photo log (`README.md`, `images/`); Episodes 10 to 11 add Segovia (aqueduct, Alcázar, cathedral) and café still lifes (Starbucks / matcha)
 - **matchaxmoxie/** Portfolio README + deploy; **`site/`** = Pages + MIT `LICENSE`, `CONTRIBUTING.md`; **`latex/`** + `BUILD.md`; **`scripts/publish-site.sh`** → [matchaxmoxie/matchaxmoxie](https://github.com/matchaxmoxie/matchaxmoxie); live [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/); **`docs/`** = Markdown lint
+
+## Aesthetica Bilinguis (Greco-Latin + English Pattern)
+
+- Titling follows a Greco-Latin plus English pairing where useful, for example `Theoria (Learning)`.
+- Style favors precise structure, consistent labels, and plain punctuation.
+- Documentation edits preserve source meaning and prioritize clarity over decoration.
+
+## SEO et Textus Alternus (SEO and Alt Text Standard)
+
+- Markdown image entries use explicit, descriptive alt text that states what is visible in the frame.
+- Captions stay concise and distinct from alt text so accessibility and display copy serve different roles.
+- HTML-adjacent docs keep canonical metadata and social preview alt-text conventions aligned with site standards.
