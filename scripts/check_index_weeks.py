@@ -98,7 +98,7 @@ def main() -> int:
 
     if problems:
         print(
-            "\nFix: add week-* folders or update docs/INDEX.md (see .cursorrules).",
+            "\nFix: add week-* folders or update docs/INDEX.md (see .cursor/rules).",
             file=sys.stderr,
         )
         return 1

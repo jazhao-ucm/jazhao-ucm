@@ -1,4 +1,4 @@
-# Moments Abroad in Madrid, Spain
+# Moments Abroad in Madrid, Spain 🫶🇪🇸
 
 Catch flights, not feelings ✈️ \
 A visual notebook of Madrid's streets, landmarks, and everyday corners.
@@ -226,15 +226,3 @@ If you ever find yourself with a one-way ticket and a half-charged camera, point
 ---
 
 Madrid, you have my heart. 💃🏻
-
-## Aesthetica Bilinguis (Greco-Latin + English Pattern)
-
-- Titling follows a Greco-Latin plus English pairing where useful, for example `Theoria (Learning)`.
-- Style favors precise structure, consistent labels, and plain punctuation.
-- Documentation edits preserve source meaning and prioritize clarity over decoration.
-
-## SEO et Textus Alternus (SEO and Alt Text Standard)
-
-- Markdown image entries use explicit, descriptive alt text that states what is visible in the frame.
-- Captions stay concise and distinct from alt text so accessibility and display copy serve different roles.
-- HTML-adjacent docs keep canonical metadata and social preview alt-text conventions aligned with site standards.

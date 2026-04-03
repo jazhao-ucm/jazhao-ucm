@@ -1,16 +1,13 @@
-# UCM Course Notes Cursor rules (single file)
-
-Everything for this repo lives here. No separate rule modules.
-
+---
+description: UCM monorepo conventions, workflows, and agent behavior
+alwaysApply: true
 ---
 
-## Project
+# UCM Course Notes
 
 Course notes and materials for **UCM** (Universidad Complutense de Madrid). Multi-course monorepo.
 
 **Courses:** `product-management`, `introduction-to-eu`, `management-global-markets`, `strategic-management`, `spanish-for-beginners`.
-
----
 
 ## Where things live
 
@@ -22,8 +19,7 @@ Course notes and materials for **UCM** (Universidad Complutense de Madrid). Mult
 | Repo-wide ignores / Markdown lint | Root **`.gitignore`**, **`.markdownlint.yaml`** (do not duplicate inside each course) |
 | Extra docs | **docs/README.md** |
 | Midterm one-pagers (if folder exists) | **ucm-midterm/** |
-
----
+| Cursor rules for the agent | **`.cursor/rules/*.mdc`** (this file is the main always-on rule) |
 
 ## Workflow
 
@@ -40,8 +36,6 @@ Course notes and materials for **UCM** (Universidad Complutense de Madrid). Mult
 3. Do **not** stage, commit, or push anything under **`j.adezhao/`** (any depth). Leave untracked or restore before commit.
 4. If clean: say nothing to commit / already up to date.
 
----
-
 ## Agent preferences (models and usage)
 
 - **Model taste:** The user prefers **Claude** and **Gemini** when picking or switching models in Cursor. (They still choose the active model in settings; this is a reminder of preference order.)
@@ -50,8 +44,6 @@ Course notes and materials for **UCM** (Universidad Complutense de Madrid). Mult
   - **Batch** file reads and greps; avoid redundant parallel tool spam and repeated reads of the same file.
   - Do **not** delegate to subagents or extra passes when a **single direct** tool sequence is enough.
   - Skip optional flourishes (long preambles, duplicate summaries, “engagement” closers) unless they add real value.
-
----
 
 ## Source of truth (course content)
 
@@ -63,14 +55,10 @@ For class notes, reading summaries, study guides, exam prep, business plans:
 
 When cleaning notes/tex: **formatting, structure, typos, whitespace, LaTeX typography only**. Do **not** change meaning or rewrite voice.
 
----
-
 ## Default scope (folders)
 
 - **`jadewowgreen/`** and **`matchaxmoxie/`:** do **not** change unless the user clearly asks (skip in bulk “all courses” work). **`matchaxmoxie/`** layout: root **`README.md`** (deploy + inventory); **`site/`** = Pages assets + `LICENSE` / `CONTRIBUTING.md`; **`latex/`** = `jade-zhao-*.tex` + **`BUILD.md`**; **`scripts/`** = e.g. subtree publish script; **`docs/`** = Markdown lint config only.
 - User request for those paths **overrides** this.
-
----
 
 ## Naming and placement
 
@@ -81,8 +69,6 @@ When cleaning notes/tex: **formatting, structure, typos, whitespace, LaTeX typog
 
 After any rename/move: update course **README** and **docs/INDEX.md** if paths or listed files change.
 
----
-
 ## Duplicates
 
 Before adding a file (especially PDFs), check the same course for an existing copy or ` (1)` download duplicate. Prefer **move/rename** over a second file; remove cruft (`.bak`, `-copy`, ` (1)`).
@@ -92,8 +78,6 @@ Before adding a file (especially PDFs), check the same course for an existing co
 | ` (1)` / `(2)` in name | One clear name; drop true duplicate |
 | Same file in two weeks | Keep correct week; fix docs |
 | Same content, two names | One canonical name; update README/INDEX |
-
----
 
 ## Always update Markdown (checklist)
 
@@ -107,17 +91,11 @@ After **add / rename / remove** of class notes, week files, or week folders:
 
 Before finishing: *Did I update README and docs/INDEX where this shows up?*
 
----
-
 ## Markdown and prose punctuation (repo habit)
 
 When adding or cleaning **Markdown** (README, INDEX, class notes, vocab lists): prefer **plain punctuation** over em/en dashes. Use **commas, periods, colons, semicolons**, spell out **and** where it reads naturally (especially in inventories), and write numeric ranges as **2 to 4** or **Jan 26 to 27** instead of Unicode en dashes. **LaTeX** may still use `--` / `---` for PDF typography; do not mass-replace those ligatures unless the user asks.
-
----
 
 ## Don’t (unless the user asks)
 
 - Large repo-wide renames/reorgs: prefer small, targeted edits.
 - Guess which week a date belongs to: use **docs/INDEX.md**.
-
----
