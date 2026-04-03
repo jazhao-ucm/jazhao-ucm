@@ -1,53 +1,32 @@
-# Moments Abroad in Madrid, Spain 🫶🇪🇸
+# Madrid Photography Portfolio 🪴🇪🇸
 
-Catch flights, not feelings ✈️ \
-A visual notebook of Madrid's streets, landmarks, and everyday corners.
+**Explore my film photography journey through Madrid, Spain**  
+Captured during my semester abroad in Spring 2026.  
 
-**How this is labeled:** Each photo uses plain **alt text** (what’s in the frame, for accessibility and broken images). The **line under** is the display caption—short, same voice throughout, not a second description.
+**[View the full portfolio →](site/)**  
 
----
+A visual story of Madrid's soul: from bustling markets to quiet alleys, gothic architecture to modern reflections. All shot on film, developed with intention.
 
-## Episode 1: City Skylines & Sacred Spaces
+## Featured Episodes
 
+### Episode 1: City Skylines & Sacred Spaces
 ![Looking up at ornate cream-coloured apartment buildings with iron balconies on a sunny Madrid street.](images/uno1.jpg)
 First day in Madrid. Looked up a lot.
 
-![Rooftop view of a Madrid residential neighbourhood with a Spanish flag, apartment blocks, and large white clouds against a blue sky.](images/uno2.jpg)
-The view from somewhere over the city.
-
-![Ornate black iron gates of the Palacio Real reflected in a rain puddle on the plaza, visitors walking nearby, Madrid.](images/uno3.jpg)
-The Royal Palace gates, reflected in a puddle.
-
-![The neoclassical facade of Almudena Cathedral with twin dark spires against a dramatic cloudy sky, Madrid.](images/uno4.jpg)
-Almudena Cathedral on a cloudy afternoon.
-
----
-
-## Episode 2: Gothic Corners & Grand Museums
-
+### Episode 2: Gothic Corners & Grand Museums
 ![Gothic brick church entrance with ornate stone archway, rain-wet stone steps and plaza in the foreground, Madrid.](images/dos1.jpg)
 Iglesia de San Jerónimo el Real in the rain.
 
-![Street-level view of Gran Vía crowded with pedestrians, historic early 20th-century buildings and a winged bronze statue on a rooftop, Madrid.](images/dos2.jpg)
-Gran Vía on a busy afternoon.
-
-![Stone statue on a plinth at Plaza de España with the Torre de España skyscraper rising behind it against a grey sky, Madrid.](images/dos3.jpg)
-Plaza de España, quieter than expected.
-
-![Red-brick facade of the Museo del Prado with a no-dogs sign in the foreground and a lone figure walking past, Madrid.](images/dos4.jpg)
-The Prado. One of those places you have to see.
-
----
-
-## Episode 3: Blue Hour & Baroque Beauty
-
+### Episode 3: Blue Hour & Baroque Beauty
 ![Multi-storey Zara storefront glowing at blue hour, wet street reflecting traffic lights, Madrid.](images/tres1.jpg)
 Zara on Gran Vía after dark.
 
-![The painted frescoed facade of Casa de la Panadería at Plaza Mayor bathed in golden afternoon light, Madrid and Community flags below, Spain.](images/tres2.jpg)
-Plaza Mayor catching the last of the light.
+**[See all 11 episodes →](site/)**  
 
-![Upward view between ornate Belle Époque buildings with curved facades and iron balconies on a central Madrid street.](images/tres3.jpg)
+---
+
+**Follow my work:** [@jadewowgreen on Instagram](https://instagram.com/j.adezhao)  
+**Contact:** [jlzhao@iu.edu](mailto:jlzhao@iu.edu)
 Looking up on Gran Vía.
 
 ![Bronze figure memorial on a stone pillar in a cobblestone plaza surrounded by historic yellow and stone buildings, Madrid.](images/tres4.jpg)
