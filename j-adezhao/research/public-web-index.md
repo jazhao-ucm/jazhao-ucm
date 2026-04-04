@@ -58,7 +58,7 @@ Clinic hub: [serveit.luddy.indiana.edu](https://serveit.luddy.indiana.edu/).
 
 ## Roles often listed
 
-AI research assistant (health UX, prototypes, ML collaboration); product designer or developer at Serve IT; peer mentor (STEM); student instructor (business or CS, Hudson and Holland in some copies). **Current role (matches portfolio résumé):** Software Engineer, Matcha Green Consulting, remote, Jan 2026–present ([`../README.md`](../README.md), [`../resume/jade-zhao-resume-ats.tex`](../resume/jade-zhao-resume-ats.tex), [`../../matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../../matchaxmoxie/latex/docs/jade-zhao-resume.tex)).
+AI research assistant (health UX, prototypes, ML collaboration); product designer or developer at Serve IT; peer mentor (STEM); student instructor (business or CS, Hudson and Holland in some copies). **Current role (matches portfolio résumé):** Software Engineer, Matcha Green Consulting, remote, Jan 2026 to present ([`../README.md`](../README.md), [`../resume/jade-zhao-resume-ats.tex`](../resume/jade-zhao-resume-ats.tex), [`../../matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../../matchaxmoxie/latex/docs/jade-zhao-resume.tex)).
 
 Programs: Hudson and Holland, Luddy Direct Admit, Madrid study abroad (portfolio + SP26).
 

@@ -62,7 +62,7 @@ Same two pieces as [Opus Selectum on the site](https://matchaxmoxie.github.io/ma
 
 **FASE:** next step, test, adjust. Clarity over speeches.
 
-**Now:** **Software Engineer**, **Matcha Green Consulting** (remote, **Jan 2026–present**). Built from the same standard as the portfolio: full-stack TypeScript, React, Node; APIs, accessibility, secure SDLC. Details and bullets: [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf). TeX sources (keep in sync): [`resume/jade-zhao-resume-ats.tex`](resume/jade-zhao-resume-ats.tex) · [`matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../matchaxmoxie/latex/docs/jade-zhao-resume.tex).
+**Now:** **Software Engineer**, **Matcha Green Consulting** (remote, **Jan 2026 to present**). Built from the same standard as the portfolio: full-stack TypeScript, React, Node; APIs, accessibility, secure SDLC. Details and bullets: [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf). TeX sources (keep in sync): [`resume/jade-zhao-resume-ats.tex`](resume/jade-zhao-resume-ats.tex) · [`matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../matchaxmoxie/latex/docs/jade-zhao-resume.tex).
 
 ---
 
