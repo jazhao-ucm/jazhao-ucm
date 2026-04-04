@@ -1,48 +1,43 @@
-# Hi, I'm Jade Zhao
+# Jade Zhao
 
 first-gen student. photographer. informatics.
 
-this repo is both my profile README and the home of madrid on film.
+this is my profile README and my photo diary repo.
 
-erasmus is a specific kind of freedom:
-you are technically a student,
-but for the first time you are living fully on your own terms.
+## A Quick Intro
+i spent spring 2026 in Spain on erasmus.
 
-## About Me
-from the US to Madrid, spring 2026.
-
-i like warm terracotta palettes, intentional interfaces, and copy that sounds like a person.
-
-i build from lived moments, not stock vibes.
+on paper, i was there to study.
+in real life, it felt like learning how to live on my own terms for the first time.
 
 ## Featured Project: Madrid on Film
-a photo diary built from my own moments across Madrid, Segovia, and Toledo.
+an episode-based photo diary built from my own images across madrid, segovia, and toledo.
 
-### Highlights
-- personal photos only (no stock imagery)
-- episode-based storytelling from arrival to goodbye, including what nobody posts about
-- warm terracotta visual direction with subtle motion and reveal interactions
+### Why This Project Exists
+- to document what people do not usually post
+- to keep the small, ordinary moments that end up mattering most
+- to build a personal web space that feels intentional and human
 
 ### Live Preview
-- Portfolio: https://jadewowgreen.github.io/jadewowgreen/site/
+- https://jadewowgreen.github.io/jadewowgreen/site/
 
-### Tech Stack
+### Built With
 - HTML
 - CSS
 - Vanilla JavaScript
 
-## Project Structure
+## Repo Structure
 - index.html - root redirect for GitHub Pages
-- site/index.html - portfolio page content
-- site/styles.css - visual system and responsive styles
-- site/script.js - custom cursor and reveal animations
-- images/ - source image assets
-- docs/site/ - GitHub Pages-compatible copy
+- site/index.html - main site copy and page structure
+- site/styles.css - visual system and responsive styling
+- site/script.js - cursor and reveal interactions
+- images/ - image assets
+- docs/site/ - GitHub Pages-compatible site copy
 
-## Local Development
+## Run Locally
 1. Clone this repository.
-2. Open the project in VS Code.
-3. Launch index.html (or site/index.html) with Live Server.
+2. Open it in VS Code.
+3. Launch index.html or site/index.html with Live Server.
 
 ## Connect
 - Instagram: @j.adezhao
