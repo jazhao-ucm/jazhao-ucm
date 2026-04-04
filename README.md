@@ -36,7 +36,7 @@ Each course **`README.md`** is the inventory and structure for that course.
 |------|---------|
 | [`docs/`](docs/) | Global week index, extra documentation |
 | [`scripts/`](scripts/) | Helpers (e.g. index and week checks) |
-| [`ucm-midterm/`](ucm-midterm/) | Midterm one-pagers and combined review files |
+| `ucm-midterm/` *(optional)* | Midterm one-pagers; create this folder when you add combined sheets. |
 
 ### Personal subtrees (see each README)
 
@@ -44,7 +44,7 @@ These live inside the same clone for convenience. **`jadewowgreen`** and **`matc
 
 | Path | Role |
 |------|------|
-| [`jadewowgreen/`](jadewowgreen/) | Madrid photo portfolio (`site/`, `docs/`, images) |
+| [`jadewowgreen/`](jadewowgreen/) | Madrid photo portfolio (`site/`, `images/`) |
 | [`matchaxmoxie/`](matchaxmoxie/) | Informatics portfolio site, LaTeX, mirror scripts |
 | [`j-adezhao/`](j-adezhao/) | Private research and prototypes (do not commit; see that folder’s README) |
 

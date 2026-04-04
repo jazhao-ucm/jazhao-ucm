@@ -16,13 +16,14 @@ First-generation informatics student portfolio: **Madrid on Film**, Spring 2026 
 | [`site/index.html`](site/index.html) | Main portfolio page |
 | [`site/styles.css`](site/styles.css) | Layout and design system |
 | [`site/script.js`](site/script.js) | Cursor and reveal effects |
-| [`images/`](images/) | Photo assets |
-| [`docs/site/`](docs/site/) | Pages-compatible copy of the site |
+| [`images/`](images/) | Photo assets (referenced from `site/` as `../images/`) |
+
+**Note:** The site source of truth is **`site/`** plus **`images/`**. A duplicate under `docs/` was removed to avoid drift; use GitHub Pages with the repo root (or `/site` in the URL path) consistent with [the live site](https://jadewowgreen.github.io/jadewowgreen/site/).
 
 ## Local preview
 
 1. Open the repo (or this subtree) in your editor.  
-2. Serve `index.html` or `site/index.html` (e.g. Live Server, or `python3 -m http.server` from `site/`).
+2. Serve from repo root (`index.html` redirects to `site/`) or open `site/index.html` (e.g. Live Server, or `python3 -m http.server` from `site/`).
 
 ## Connect
 
