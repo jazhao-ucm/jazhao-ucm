@@ -2,10 +2,16 @@
 
 | File | Role |
 |------|------|
-| [**site.json**](site.json) | **Single manifest** for this IU site: origin (for your notes), root-relative `paths`, identity strings, external URLs, SEO blurbs. |
+| [**site.json**](site.json) | **Manifest:** `origin` and optional **`githubPagesExample`** for your notes; path-relative `paths` keys mirror how **`../site/`** HTML is written; identity, external URLs, SEO blurbs. |
 
-## Universal host
+## Universal host (IU, GitHub Pages, local)
 
-HTML under **`../site/`** and the root **`../index.html`** redirect use **root-relative** URLs (`/site/`, `/resume.pdf`, …) so the same files work on **any** origin after you upload them.
+HTML under **`../site/`** uses **path-relative** URLs (`./`, `../resume.pdf`, `../assets/...`) so one tree works when:
 
-When you move to another domain, you usually **do not** edit the HTML. If a crawler or validator insists on **absolute** Open Graph URLs, set `origin` in **`site.json`** and paste absolute URLs into the `<meta property="og:*">` and `<link rel="canonical">` lines in **`site/index.html`** (search for `https://`).
+- **IU Pages:** you upload the contents of **`j-adezhao/`** so `site/index.html` is served as **`…/site/`** and **`resume.pdf`** sits beside **`site/`**.
+- **GitHub Pages** (repo root): the public URL includes **`…/j-adezhao/`**; links still resolve because they do not start at `/`.
+- **Local file or any static server:** same relative resolution from the current file URL.
+
+Root **`../index.html`** already uses a relative redirect to **`site/`**.
+
+If a crawler insists on **absolute** Open Graph URLs, set **`origin`** (or your GitHub Pages base URL) in **`site.json`** and paste absolutes into the relevant **`<meta property="og:*">`** lines only (search for **`./`** or **`assets/`** in those tags).

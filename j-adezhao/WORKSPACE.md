@@ -35,7 +35,7 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 | **`lab/`** | Notebooks, **`data/`**, throwaway **`experiments/`**. |
 | **`site/`** | What you ship to IU Pages, plus root **`index.html`** → **`site/`**. |
 | **`scripts/`** | env, LaTeX, assets, simulations. |
-| **`config/`** | **`site.json`** manifest (origin, paths, identity, SEO text); see [`config/README.md`](config/README.md). |
+| **`config/`** | **`site.json`** manifest (origin, GitHub Pages hint, path-relative `paths`, identity, SEO text); see [`config/README.md`](config/README.md). |
 | **`profile-summary.md`** | LinkedIn-style export as Markdown; not a substitute for the résumé. |
 
 ---
@@ -47,6 +47,8 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 3. **`./scripts/sync-assets.sh`** after changing **`media/images/profile/`**.
 4. Upload **`site/`** and root **`index.html`**.
 5. **`git push`:** no **`git add -f`** on ignored paths; no **`.env`**.
+
+**GitHub Pages:** static HTML is **path-relative**, so browsing the repo via Pages (for example under **`…/j-adezhao/`**) keeps working without editing URLs. If you use a **project site** from **`/docs`**, mirror the **`j-adezhao/`** layout under **`docs/`** or adjust paths accordingly.
 
 ---
 
