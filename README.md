@@ -48,6 +48,14 @@ These live inside the same clone for convenience. **`jadewowgreen`** and **`matc
 | [`matchaxmoxie/`](matchaxmoxie/) | Informatics portfolio site, LaTeX, mirror scripts |
 | [`j-adezhao/`](j-adezhao/) | Private research and prototypes (do not commit; see that folder’s README) |
 
+**GitHub Pages (live sites):**
+
+| Site | URL |
+|------|-----|
+| Informatics portfolio (matchaxmoxie) | [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/) |
+| Madrid photo portfolio (jadewowgreen) | [jadewowgreen.github.io/jadewowgreen/site](https://jadewowgreen.github.io/jadewowgreen/site/) |
+| Research archive subtree (UCM repo Pages, if enabled) | [jazhao-ucm.github.io/j-adezhao/site](https://jazhao-ucm.github.io/j-adezhao/site/) |
+
 Mirror notes for matchaxmoxie: [`matchaxmoxie/SYNC-FROM-MIRROR.md`](matchaxmoxie/SYNC-FROM-MIRROR.md).
 
 ## Class note format
