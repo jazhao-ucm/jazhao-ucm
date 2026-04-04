@@ -7,6 +7,7 @@
 ## Profiles and contact
 
 - [Portfolio](https://matchaxmoxie.github.io/matchaxmoxie/)  
+- [Résumé (PDF, IU Pages)](https://jlzhao.pages.iu.edu/resume.pdf)  
 - [LinkedIn](https://www.linkedin.com/in/jadexzhao)  
 - [GitHub](https://github.com/jazhao-ucm)  
 - [Instagram](https://instagram.com/j.adezhao)  

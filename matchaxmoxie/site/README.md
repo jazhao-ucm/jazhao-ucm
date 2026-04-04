@@ -31,6 +31,7 @@ This site uses a Greco-Latin plus English content system, explicit AI disclosure
 
 ## Contact Links in Site
 
+- Résumé (canonical PDF): [jlzhao.pages.iu.edu/resume.pdf](https://jlzhao.pages.iu.edu/resume.pdf) (IU Pages; also linked from the homepage footer)
 - LinkedIn: `jadexzhao`
 - GitHub: `jazhao-ucm`
 - Instagram: `j.adezhao`

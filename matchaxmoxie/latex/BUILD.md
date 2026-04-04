@@ -4,6 +4,8 @@ Sources are in **`latex/docs/`** (`jade-zhao-*.tex`) and shared snippets are in 
 
 **`jade-zhao-resume.tex`** is a standalone informatics ATS one-pager (no `\input` of `shared/`). Other `jade-zhao-*.tex` files may still use the pink highlight and header partials.
 
+**Public PDF:** the résumé visitors should use is hosted at **https://jlzhao.pages.iu.edu/resume.pdf** (IU Pages). After you compile, upload or sync that build there; `site/resume.pdf` is optional backup for GitHub Pages.
+
 ## Requirements
 
 - `pdflatex` (TeX Live, MacTeX, MiKTeX, etc.)
