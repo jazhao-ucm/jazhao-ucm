@@ -1,42 +1,35 @@
-# Jade Zhao
+# jadewowgreen (Madrid portfolio)
 
-First-generation student in informatics, photographer, and builder.
+**UCM subtree:** this folder lives inside the **[UCM monorepo](../README.md)** at `jadewowgreen/`. Public site is deployed from the **jadewowgreen** GitHub repo and Pages, not from the UCM root.
 
-This repository is my GitHub profile README and the source for my portfolio project.
+**Live site:** [jadewowgreen.github.io/jadewowgreen/site/](https://jadewowgreen.github.io/jadewowgreen/site/)
 
-Portfolio: https://jadewowgreen.github.io/jadewowgreen/site/
+## What this is
 
-## About
-I documented Spring 2026 in Spain through original photography and web storytelling.
+First-generation informatics student portfolio: **Madrid on Film**, Spring 2026 in Spain (Madrid, Segovia, Toledo). Episode-based narrative, personal photos only, warm terracotta art direction, light vanilla JS.
 
-The main project, Madrid on Film, captures daily life across Madrid, Segovia, and Toledo.
+## Repository layout
 
-## Live Site
-- Portfolio: https://jadewowgreen.github.io/jadewowgreen/site/
+| Path | Role |
+|------|------|
+| [`index.html`](index.html) | Root entry for GitHub Pages |
+| [`site/index.html`](site/index.html) | Main portfolio page |
+| [`site/styles.css`](site/styles.css) | Layout and design system |
+| [`site/script.js`](site/script.js) | Cursor and reveal effects |
+| [`images/`](images/) | Photo assets |
+| [`docs/site/`](docs/site/) | Pages-compatible copy of the site |
 
-## Featured Project: Madrid on Film
-- Episode-based photo narrative from arrival to farewell
-- Personal photos only (no stock images)
-- Warm terracotta art direction with lightweight interactions
+## Local preview
 
-## Tech Stack
-- HTML
-- CSS
-- Vanilla JavaScript
-
-## Repository Structure
-- index.html - root entry page for GitHub Pages
-- site/index.html - main portfolio page
-- site/styles.css - design system and layout styles
-- site/script.js - custom cursor and reveal effects
-- images/ - photo assets
-- docs/site/ - GitHub Pages-compatible site copy
-
-## Local Development
-1. Clone the repository.
-2. Open it in VS Code.
-3. Run index.html or site/index.html with Live Server.
+1. Open the repo (or this subtree) in your editor.  
+2. Serve `index.html` or `site/index.html` (e.g. Live Server, or `python3 -m http.server` from `site/`).
 
 ## Connect
-- Instagram: @j.adezhao
-- GitHub: @jadewowgreen
+
+- Instagram: [@j.adezhao](https://instagram.com/j.adezhao)  
+- GitHub: [@jadewowgreen](https://github.com/jadewowgreen)  
+
+## Related in this monorepo
+
+- Informatics portfolio: [`../matchaxmoxie/README.md`](../matchaxmoxie/README.md)  
+- Private research workspace: [`../j-adezhao/README.md`](../j-adezhao/README.md) (local only, not committed)

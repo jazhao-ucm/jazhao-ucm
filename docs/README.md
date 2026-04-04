@@ -1,21 +1,25 @@
-# Docs
+# Docs (cross-course)
 
-**[INDEX.md](INDEX.md)** lists dates and topics by week for each UCM course. The repo root keeps only the main **[README.md](../README.md)**; everything else lives in folders.
+## Purpose
 
-**Academic calendar notes (Spring 2026):** spring break Mar 27 to Apr 6, no class Apr 30, final exams May 18 to May 22.
+This folder holds **cross-course** material. The **global week and topic index** is **[`INDEX.md`](INDEX.md)**. The **repo overview and full monorepo map** is the root **[`README.md`](../README.md)**.
 
-**Cursor / AI:** repo rules are in **[`.cursor/rules/`](../.cursor/rules/)** (`.mdc` files; start with **`ucm-course-notes.mdc`**). See [`.cursor/rules/README.md`](../.cursor/rules/README.md).
+## Index and calendar
 
-**Lint / git:** use the repo root **[`.markdownlint.yaml`](../.markdownlint.yaml)** and **[`.gitignore`](../.gitignore)** for course folders no copies inside each course.
+- **[`INDEX.md`](INDEX.md)** — dates and topics by week for each UCM course.
+- **Spring 2026:** spring break Mar 27 to Apr 6; no class Apr 30; final exams May 18 to May 22.
 
-## Aesthetica Bilinguis (Greco-Latin + English Pattern)
+## Tooling and repo config
 
-- Titling follows a Greco-Latin plus English pairing where useful, for example `Theoria (Learning)`.
-- Style favors precise structure, consistent labels, and plain punctuation.
-- Documentation edits preserve source meaning and prioritize clarity over decoration.
+| Topic | Location |
+|-------|----------|
+| Cursor / agent rules | **[`../.cursor/rules/`](../.cursor/rules/)** (`.mdc` files; overview in [`../.cursor/rules/README.md`](../.cursor/rules/README.md)) |
+| Markdown lint | Repo root **[`../.markdownlint.yaml`](../.markdownlint.yaml)** (do not duplicate inside each course) |
+| Git ignores | Repo root **[`../.gitignore`](../.gitignore)** |
 
-## SEO et Textus Alternus (SEO and Alt Text Standard)
+## Documentation style
 
-- Markdown image entries use explicit, descriptive alt text that states what is visible in the frame.
-- Captions stay concise and distinct from alt text so accessibility and display copy serve different roles.
-- HTML-adjacent docs keep canonical metadata and social preview alt-text conventions aligned with site standards.
+- Headings may use **Greco-Latin + English** where it fits the project (e.g. *Theoria (Learning)*).
+- Prefer plain punctuation, stable labels, and edits that preserve meaning.
+- **Images:** alt text describes what is visible; captions stay short and distinct from alt.
+- **HTML / social:** align canonical URLs, Open Graph, and Twitter metadata with your site standard.
