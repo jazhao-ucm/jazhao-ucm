@@ -54,7 +54,7 @@ These live inside the same clone for convenience. **`jadewowgreen`** and **`matc
 |------|-----|
 | Informatics portfolio (matchaxmoxie) | [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/) |
 | Madrid photo portfolio (jadewowgreen) | [jadewowgreen.github.io/jadewowgreen/site](https://jadewowgreen.github.io/jadewowgreen/site/) |
-| Research archive subtree (UCM repo Pages, if enabled) | [jazhao-ucm.github.io/j-adezhao/site](https://jazhao-ucm.github.io/j-adezhao/site/) |
+| IU research site + résumé (`j-adezhao`; local source, gitignored) | [jlzhao.pages.iu.edu](https://jlzhao.pages.iu.edu/) · [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf) · [research index /site/](https://jlzhao.pages.iu.edu/site/) |
 
 Mirror notes for matchaxmoxie: [`matchaxmoxie/SYNC-FROM-MIRROR.md`](matchaxmoxie/SYNC-FROM-MIRROR.md).
 
