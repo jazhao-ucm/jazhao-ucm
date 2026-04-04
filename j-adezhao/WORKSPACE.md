@@ -10,6 +10,7 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 | LinkedIn-style capability snapshot (Markdown) | [`profile-summary.md`](profile-summary.md) |
 | **Research arc** (pre-Madrid to Madrid to now) with file links | [`research/README.md`](research/README.md) |
 | **Public web index** (bios and posts; verify) | [`research/public-web-index.md`](research/public-web-index.md) |
+| **Site manifest** (host, paths, copy) | [`config/site.json`](config/site.json) · [`config/README.md`](config/README.md) |
 | Senior-year courses and running checklist | [`planning/senior-year-2026-27.md`](planning/senior-year-2026-27.md) |
 | How to publish, build, and run scripts | This file (below) |
 
@@ -34,7 +35,7 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 | **`lab/`** | Notebooks, **`data/`**, throwaway **`experiments/`**. |
 | **`site/`** | What you ship to IU Pages, plus root **`index.html`** → **`site/`**. |
 | **`scripts/`** | env, LaTeX, assets, simulations. |
-| **`config/`** | SEO JSON. |
+| **`config/`** | **`site.json`** manifest (origin, paths, identity, SEO text); see [`config/README.md`](config/README.md). |
 | **`profile-summary.md`** | LinkedIn-style export as Markdown; not a substitute for the résumé. |
 
 ---

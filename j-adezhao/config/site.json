@@ -1,0 +1,27 @@
+{
+  "origin": "https://jlzhao.pages.iu.edu",
+  "paths": {
+    "site": "/site/",
+    "resume": "/resume.pdf",
+    "ogImage": "/site/assets/images/preview.jpg"
+  },
+  "identity": {
+    "displayName": "Jade Zhao",
+    "pageTitle": "Jade Zhao | IU research index",
+    "roleLine": "informatics at IU",
+    "email": "jzhao@iu.edu"
+  },
+  "external": {
+    "portfolio": "https://matchaxmoxie.github.io/matchaxmoxie/",
+    "repo": "https://github.com/jazhao-ucm/jazhao-ucm",
+    "luddy": "https://luddy.indiana.edu/",
+    "profileSummaryMarkdownRaw": "https://github.com/jazhao-ucm/jazhao-ucm/raw/main/j-adezhao/profile-summary.md"
+  },
+  "seo": {
+    "description": "Jade Zhao, IU informatics: research index (agentic AI, Le Chat, LaTeX). IU layer of matchaxmoxie and SP26. Résumé at /resume.pdf.",
+    "descriptionOg": "Jade Zhao, IU informatics: agentic AI, Le Chat evaluation, LaTeX archives. Same story as matchaxmoxie; lives in SP26. Résumé at /resume.pdf.",
+    "descriptionTwitter": "IU informatics research index: agentic AI, Le Chat, LaTeX. matchaxmoxie + SP26. Résumé at /resume.pdf.",
+    "openGraphImageAlt": "Abstract geometric cover image for AI research and agentic workflow loops.",
+    "jsonLdDescription": "Jade Zhao, Indiana University informatics: research archive; résumé at /resume.pdf. IU edition of matchaxmoxie narrative and SP26 repo."
+  }
+}
