@@ -53,7 +53,7 @@ More detail: [`SYNC-FROM-MIRROR.md`](SYNC-FROM-MIRROR.md).
 ## Related in this monorepo
 
 - Photo portfolio: [`../jadewowgreen/README.md`](../jadewowgreen/README.md)  
-- Private research: [`../j-adezhao/README.md`](../j-adezhao/README.md)  
+- Private research lab map: [`../j-adezhao/WORKSPACE.md`](../j-adezhao/WORKSPACE.md) · profile-style [`../j-adezhao/README.md`](../j-adezhao/README.md)  
 
 ## License
 

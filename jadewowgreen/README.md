@@ -33,4 +33,4 @@ First-generation informatics student portfolio: **Madrid on Film**, Spring 2026 
 ## Related in this monorepo
 
 - Informatics portfolio: [`../matchaxmoxie/README.md`](../matchaxmoxie/README.md)  
-- Private research workspace: [`../j-adezhao/README.md`](../j-adezhao/README.md) (local only, not committed)
+- Private IU lab: [`../j-adezhao/WORKSPACE.md`](../j-adezhao/WORKSPACE.md) · profile copy [`../j-adezhao/README.md`](../j-adezhao/README.md) (local only, not committed)
