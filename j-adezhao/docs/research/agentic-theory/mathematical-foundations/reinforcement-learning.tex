@@ -1,0 +1,13 @@
+\section*{Reinforcement Learning}
+
+\subsection*{Q-Learning Update}
+\[
+Q(s,a)\leftarrow Q(s,a)+\alpha\left[r+\gamma\max_{a'}Q(s',a')-Q(s,a)\right]
+\]
+
+\subsection*{Policy Gradient}
+\[
+\theta\leftarrow \theta + \alpha\nabla J(\theta)
+\]
+
+These updates support iterative optimization of agent policy quality.

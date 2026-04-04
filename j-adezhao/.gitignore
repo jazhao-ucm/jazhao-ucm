@@ -1,0 +1,33 @@
+# Python / Jupyter (never ship the venv)
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Secrets (if you add keys later)
+.env
+.env.*
+
+# Local-only planning (enrollment snapshots; keep on disk, omit from remotes)
+docs/planned-iu-terms-*.md
+
+# LaTeX build noise (if you compile here)
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg

@@ -40,13 +40,13 @@ Each course **`README.md`** is the inventory and structure for that course.
 
 ### Personal subtrees (see each README)
 
-These live inside the same clone for convenience. **`jadewowgreen`** and **`matchaxmoxie`** follow their own deploy and mirror workflows; **`j-adezhao`** is local-only and gitignored.
+These live inside the same clone for convenience. **`jadewowgreen`** and **`matchaxmoxie`** follow their own deploy and mirror workflows; **`j-adezhao`** is tracked in this repo and has its own **`.gitignore`** (venv, local enrollment notes).
 
 | Path | Role |
 |------|------|
 | [`jadewowgreen/`](jadewowgreen/) | Madrid photo portfolio (`site/`, `images/`) |
 | [`matchaxmoxie/`](matchaxmoxie/) | Informatics portfolio site, LaTeX, mirror scripts |
-| [`j-adezhao/`](j-adezhao/) | **Local** senior-year **IU** workspace (gitignored): drafts and staging before **global** [IU Pages](https://jlzhao.pages.iu.edu/), [résumé](https://jlzhao.pages.iu.edu/resume.pdf), and **GitHub**-aligned publish flows; Madrid **UCM** courses live in sibling folders. See that folder’s README. |
+| [`j-adezhao/`](j-adezhao/) | Senior-year **IU** workspace: [IU Pages](https://jlzhao.pages.iu.edu/), [résumé](https://jlzhao.pages.iu.edu/resume.pdf), research `site/`, TeX, notebooks; see **[`j-adezhao/README.md`](j-adezhao/README.md)** and **[`j-adezhao/WORKSPACE.md`](j-adezhao/WORKSPACE.md)**. Madrid **UCM** courses live in sibling folders. |
 
 **GitHub Pages (live sites):**
 
@@ -54,7 +54,7 @@ These live inside the same clone for convenience. **`jadewowgreen`** and **`matc
 |------|-----|
 | Informatics portfolio (matchaxmoxie) | [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/) |
 | Madrid photo portfolio (jadewowgreen) | [jadewowgreen.github.io/jadewowgreen/site](https://jadewowgreen.github.io/jadewowgreen/site/) |
-| IU research site + résumé (`j-adezhao`; local source, gitignored) | [jlzhao.pages.iu.edu](https://jlzhao.pages.iu.edu/) · [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf) · [research index /site/](https://jlzhao.pages.iu.edu/site/) |
+| IU research site + résumé (source in [`j-adezhao/`](j-adezhao/)) | [jlzhao.pages.iu.edu](https://jlzhao.pages.iu.edu/) · [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf) · [research index /site/](https://jlzhao.pages.iu.edu/site/) |
 
 Mirror notes for matchaxmoxie: [`matchaxmoxie/SYNC-FROM-MIRROR.md`](matchaxmoxie/SYNC-FROM-MIRROR.md).
 

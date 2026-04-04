@@ -33,7 +33,7 @@ alwaysApply: true
 
 1. `git status`
 2. `git add` (relevant paths), `git commit -m "Clear message"`, `git push` to **jazhao-ucm** / **main**.
-3. Do **not** stage, commit, or push anything under **`j-adezhao/`** (any depth). Leave untracked or restore before commit.
+3. Respect **`j-adezhao/.gitignore`** (for example **`.venv/`**, **`docs/planned-iu-terms-*.md`**, **`.env`**). Do not force-add ignored paths.
 4. If clean: say nothing to commit / already up to date.
 
 ## Agent preferences (models and usage)
