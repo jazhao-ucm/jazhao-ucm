@@ -33,6 +33,7 @@ This folder is the **IU home base** inside the monorepo: informatics research, r
 | **`site/`** | What you ship to IU Pages, plus root **`index.html`** → **`site/`**. |
 | **`scripts/`** | env, LaTeX, assets, simulations. |
 | **`config/`** | SEO JSON. |
+| **`Profile.pdf`** | Five-page profile PDF (canonical in this folder; link from README and site index). Optional: upload the same file to IU Pages as **`/Profile.pdf`** if you want it on the host. |
 
 ---
 
@@ -40,9 +41,10 @@ This folder is the **IU home base** inside the monorepo: informatics research, r
 
 1. **`./scripts/setup-env.sh`** if you need Jupyter; never commit **`.venv/`**.
 2. Export **`resume/resume.pdf`** (or your canonical name) to the host.
-3. **`./scripts/sync-assets.sh`** after changing **`media/images/profile/`**.
-4. Upload **`site/`** and root **`index.html`**.
-5. **`git push`:** no **`git add -f`** on ignored paths; no **`.env`**.
+3. Optional: upload **`Profile.pdf`** to the IU Pages root as **`Profile.pdf`** if you want it beside **`resume.pdf`** (the research index also links the GitHub copy so it works before you mirror).
+4. **`./scripts/sync-assets.sh`** after changing **`media/images/profile/`**.
+5. Upload **`site/`** and root **`index.html`**.
+6. **`git push`:** no **`git add -f`** on ignored paths; no **`.env`**.
 
 ---
 
