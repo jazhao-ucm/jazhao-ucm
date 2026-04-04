@@ -1,10 +1,10 @@
-# Research — one thread, three cities (metaphorically)
+# Research: one thread, three cities (metaphorically)
 
-**Bloomington → Madrid → back.** This directory is the **informatics and agentic-systems** corpus: what you wrote while the method matured, not the full **UCM course packet** (that stays in sibling folders; calendar at repo **`docs/INDEX.md`**).
+**Bloomington to Madrid to back.** This directory is the **informatics and agentic-systems** corpus: what you wrote while the method matured, not the full **UCM course packet** (that stays in sibling folders; calendar at repo **`docs/INDEX.md`**).
 
 **Portfolio years** (voice and story): [Freshman](https://matchaxmoxie.github.io/matchaxmoxie/freshman.html) · [Sophomore](https://matchaxmoxie.github.io/matchaxmoxie/sophomore.html) · [Junior](https://matchaxmoxie.github.io/matchaxmoxie/junior.html) · [Senior](https://matchaxmoxie.github.io/matchaxmoxie/senior.html).
 
-Public bios and IU listings (verify claims): [`public-web-index.md`](public-web-index.md).
+Public bios (verify): [`public-web-index.md`](public-web-index.md).
 
 ---
 
@@ -31,7 +31,7 @@ Public bios and IU listings (verify claims): [`public-web-index.md`](public-web-
 | Track | Files |
 |-------|--------|
 | Draft paper shell | [`../publications/cross-cultural-agentic-systems.md`](../publications/cross-cultural-agentic-systems.md) |
-| Notebook + sims | [`../lab/notebooks/mathematical-models/cultural-adaptation.ipynb`](../lab/notebooks/mathematical-models/cultural-adaptation.ipynb) → outputs via [`../scripts/run-simulations.sh`](../scripts/run-simulations.sh) into **`../lab/data/simulations/`** |
+| Notebook + sims | [`cultural-adaptation.ipynb`](../lab/notebooks/mathematical-models/cultural-adaptation.ipynb); outputs via [`run-simulations.sh`](../scripts/run-simulations.sh) into **`../lab/data/simulations/`** |
 | Theory | [`agentic-theory/agent-architectures/cross-cultural-adaptation.tex`](agentic-theory/agent-architectures/cross-cultural-adaptation.tex), rest of [`agentic-theory/`](agentic-theory/) |
 | Spine | [`high-impact-research-priorities.md`](high-impact-research-priorities.md) |
 | Bridge to senior | [`agentic-systems/ux-audit/le-chat-dossier.md`](agentic-systems/ux-audit/le-chat-dossier.md), [`agentic-systems/panels/agent-panel-feedback-2026-03-31.md`](agentic-systems/panels/agent-panel-feedback-2026-03-31.md) |

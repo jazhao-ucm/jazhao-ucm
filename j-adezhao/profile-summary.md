@@ -8,7 +8,7 @@
 
 ## Headline (as in PDF)
 
-**Jade Zhao** — IU Luddy @ Madrid, Spain | Health Informatics and ServeIT Clinic — Bloomington, Indiana, United States.
+**Jade Zhao** - IU Luddy @ Madrid, Spain | Health Informatics and ServeIT Clinic - Bloomington, Indiana, United States.
 
 ---
 
@@ -62,7 +62,7 @@ English (native or bilingual), Spanish (elementary), Fuzhounese (professional wo
 - APIs and backend services for front-end and data processing.
 - Code review and QA, engineering practice.
 
-### May 2024 to Dec 2025 — Undergraduate Research Assistant, IU Luddy (Bloomington)
+### May 2024 to Dec 2025 - Undergraduate Research Assistant, IU Luddy (Bloomington)
 
 - Proactive health informatics research; digital health tools for underserved populations.
 - Health data analysis with faculty; findings to product requirements and interventions.
@@ -72,7 +72,7 @@ English (native or bilingual), Spanish (elementary), Fuzhounese (professional wo
 - Privacy, security, ethical AI and data governance; HIPAA-aligned handling.
 - Stakeholder communication across clinical, research, and operations.
 
-### Jan 2024 to Dec 2025 — Machine Learning Researcher, Laurie Burns McRobbie Serve IT Clinic, IU Luddy
+### Jan 2024 to Dec 2025 - Machine Learning Researcher, Laurie Burns McRobbie Serve IT Clinic, IU Luddy
 
 - AI engagement solutions; personalized flows and adaptive content (+25% participation cited).
 - Outreach and partnerships; network growth (+40% in six months cited).
@@ -82,7 +82,7 @@ English (native or bilingual), Spanish (elementary), Fuzhounese (professional wo
 - Dashboards for engagement, retention, impact.
 - Translation of technical work for non-technical stakeholders.
 
-### Aug 2023 to Dec 2025 — Undergraduate Teaching Assistant, IU Office of Student Life
+### Aug 2023 to Dec 2025 - Undergraduate Teaching Assistant, IU Office of Student Life
 
 - Course delivery support, grading, inclusive classrooms.
 - 15+ students mentored; workshops and one-on-one coaching.
@@ -91,14 +91,14 @@ English (native or bilingual), Spanish (elementary), Fuzhounese (professional wo
 - Peer learning culture; materials and study resources.
 - Underrepresented student retention (+20% cited).
 
-### Jan 2018 to Aug 2023 — Web Designer, Girls Who Code (Indianapolis)
+### Jan 2018 to Aug 2023 - Web Designer, Girls Who Code (Indianapolis)
 
 - Instruction for 50+ students; STEM confidence.
 - Gender-equity and access initiatives.
 - Inclusive curricula; 12 student-led technology projects cited.
 - Mentorship ecosystem; 20+ students coached toward STEM paths.
 
-### May 2020 to May 2023 — Photographer, Cathedral High School
+### May 2020 to May 2023 - Photographer, Cathedral High School
 
 - Social-first photography brand; 10K+ audience cited.
 - Cross-platform content; brand voice.
@@ -116,4 +116,4 @@ English (native or bilingual), Spanish (elementary), Fuzhounese (professional wo
 
 ## Maintenance
 
-If you regenerate a PDF from LinkedIn again, either replace this file with a fresh extraction or merge deltas manually. Do not re-add a binary PDF to the repo unless you have a clear reason (size, drift, and duplicate résumé risk).
+Re-export from LinkedIn: paste a fresh extraction here or merge deltas. Prefer keeping one Markdown snapshot over checking in another PDF.

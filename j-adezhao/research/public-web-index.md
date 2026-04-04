@@ -1,12 +1,12 @@
 # Public web index (Jade Zhao, IU)
 
-**Updated:** 2026-04-04.
+**Updated:** 2026-04-06.
 
-Aggregated **public** mentions: LinkedIn-style bios, resume snippets in search, IU pages, and one **live** ProHealth listing. Search text is **unreliable**; confirm anything important on your own résumé or LinkedIn.
+Aggregated **public** mentions (LinkedIn-style bios, search snippets, IU pages, ProHealth listing). **Unreliable** until you confirm on your own résumé or LinkedIn.
 
-**Framing:** **`j-adezhao/`** is the **IU** slice of **[SP26](https://github.com/jazhao-ucm/jazhao-ucm)** and the IU-side counterpart to the [matchaxmoxie site](https://matchaxmoxie.github.io/matchaxmoxie/) (same voice and year arc; here you add research files, IU Pages `site/`, and résumé sources).
+**Framing:** **`j-adezhao/`** is the **IU** slice of **[SP26](https://github.com/jazhao-ucm/jazhao-ucm)** and matches the [matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/) voice; this folder adds research, IU `site/`, and résumé TeX.
 
-**Narrative and voice:** matchaxmoxie (year-by-year story, Opus Selectum, PB sandwich, transparency). **Repo index:** [`README.md`](README.md) (research arc), [`../README.md`](../README.md) (profile), [`../profile-summary.md`](../profile-summary.md) (archived PDF as Markdown), résumé TeX [`../resume/jade-zhao-resume-ats.tex`](../resume/jade-zhao-resume-ats.tex) and [`../../matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../../matchaxmoxie/latex/docs/jade-zhao-resume.tex).
+**Also in repo:** [`README.md`](README.md) (research arc), [`../README.md`](../README.md) (profile), [`../profile-summary.md`](../profile-summary.md) (archived export), [`../resume/jade-zhao-resume-ats.tex`](../resume/jade-zhao-resume-ats.tex), [`../../matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../../matchaxmoxie/latex/docs/jade-zhao-resume.tex).
 
 ---
 
@@ -28,7 +28,7 @@ Other people share the name; **jadexiao** on GitHub is a different person. Canon
 
 ## ProHealth (verified listing)
 
-[Jade Zhao](https://prohealth.luddy.indiana.edu/) appears under **Our Students** as undergraduate, **jlzhao@iu.edu** (page checked 2026-04-04).
+[Jade Zhao](https://prohealth.luddy.indiana.edu/) appears under **Our Students** as undergraduate, **jlzhao@iu.edu** (page checked 2026-04-06).
 
 ---
 

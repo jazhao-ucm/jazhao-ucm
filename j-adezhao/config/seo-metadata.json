@@ -1,8 +1,8 @@
 {
   "siteName": "Jade Zhao | jlzhao.pages.iu.edu",
   "canonicalBase": "https://jlzhao.pages.iu.edu",
-  "defaultDescription": "IU edition of the matchaxmoxie portfolio story and SP26 repo (j-adezhao): informatics research on jlzhao.pages.iu.edu, agentic systems, Le Chat evaluation, notebooks. Résumé at /resume.pdf. UCM coursework in sibling folders; research arc under j-adezhao/research/.",
+  "defaultDescription": "IU research index (j-adezhao): agentic AI, Le Chat evaluation, LaTeX archives. IU layer of matchaxmoxie and SP26. Résumé at /resume.pdf; research under j-adezhao/research/.",
   "openGraphImage": "https://jlzhao.pages.iu.edu/site/assets/images/preview.jpg",
-  "openGraphImageAlt": "Abstract geometric cover image representing AI research and agentic workflow loops.",
+  "openGraphImageAlt": "Abstract geometric cover image for AI research and agentic workflow loops.",
   "twitterCard": "summary"
 }

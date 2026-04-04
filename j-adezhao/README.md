@@ -41,7 +41,7 @@ Same wording as [the portfolio year cards](https://matchaxmoxie.github.io/matcha
 | [Junior](https://matchaxmoxie.github.io/matchaxmoxie/junior.html) | 2025 to 2026 | Madrid. Health informatics. High-stakes clarity. |
 | [Senior](https://matchaxmoxie.github.io/matchaxmoxie/senior.html) | 2026 to 2027 | Capstone focus. Transfer quality. Leave it usable. |
 
-**Research files in this repo:** [`research/README.md`](research/README.md) (pre-Madrid → Madrid → now).
+**Research files in this repo:** [`research/README.md`](research/README.md) (pre-Madrid to Madrid to now).
 
 ---
 
@@ -88,7 +88,7 @@ Same **Technical Skills** block as the résumé PDF and [`resume/jade-zhao-resum
 | | |
 |--|--|
 | **Résumé** | [jlzhao.pages.iu.edu/resume.pdf](https://jlzhao.pages.iu.edu/resume.pdf) |
-| **Profile snapshot** | [`profile-summary.md`](profile-summary.md) (text from former LinkedIn-style PDF; résumé is canonical for jobs) |
+| **Profile snapshot** | [`profile-summary.md`](profile-summary.md) (LinkedIn-style export; résumé wins for jobs) |
 | **IU email** | [jzhao@iu.edu](mailto:jzhao@iu.edu) |
 | **Personal email** | [jadexzhao@outlook.com](mailto:jadexzhao@outlook.com) |
 | **LinkedIn** | [linkedin.com/in/jadexzhao](https://www.linkedin.com/in/jadexzhao) |
@@ -115,7 +115,7 @@ Path: **`j-adezhao/README.md`** in [jazhao-ucm/jazhao-ucm](https://github.com/ja
 | [**research/README.md**](research/README.md) | Research arc and file index |
 | [**planning/senior-year-2026-27.md**](planning/senior-year-2026-27.md) | Senior-year courses and checklist |
 | [**lab/README.md**](lab/README.md) | Notebooks and simulations |
-| [**profile-summary.md**](profile-summary.md) | Capability snapshot from archived PDF (not HR canonical) |
+| [**profile-summary.md**](profile-summary.md) | Archived LinkedIn-style export (not HR canonical) |
 
 **UCM semester classes** (Madrid) live in sibling folders at repo root; calendar: [`docs/INDEX.md`](../docs/INDEX.md).
 

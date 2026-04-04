@@ -8,7 +8,7 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 |----------------|------|
 | Public profile (voice, badges, contact) | [`README.md`](README.md) |
 | LinkedIn-style capability snapshot (Markdown) | [`profile-summary.md`](profile-summary.md) |
-| **Research arc** (pre-Madrid → Madrid → now) with file links | [`research/README.md`](research/README.md) |
+| **Research arc** (pre-Madrid to Madrid to now) with file links | [`research/README.md`](research/README.md) |
 | **Public web index** (bios and posts; verify) | [`research/public-web-index.md`](research/public-web-index.md) |
 | Senior-year courses and running checklist | [`planning/senior-year-2026-27.md`](planning/senior-year-2026-27.md) |
 | How to publish, build, and run scripts | This file (below) |
@@ -35,7 +35,7 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 | **`site/`** | What you ship to IU Pages, plus root **`index.html`** → **`site/`**. |
 | **`scripts/`** | env, LaTeX, assets, simulations. |
 | **`config/`** | SEO JSON. |
-| **`profile-summary.md`** | Text snapshot from former **`Profile.pdf`** (removed); not a substitute for the résumé. |
+| **`profile-summary.md`** | LinkedIn-style export as Markdown; not a substitute for the résumé. |
 
 ---
 
