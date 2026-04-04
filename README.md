@@ -2,7 +2,9 @@
 
 First-generation student in informatics, photographer, and builder.
 
-This repository is my GitHub profile README and portfolio project space.
+This repository is my GitHub profile README and the source for my portfolio project.
+
+Portfolio: https://jadewowgreen.github.io/jadewowgreen/site/
 
 ## About
 I documented Spring 2026 in Spain through original photography and web storytelling.
