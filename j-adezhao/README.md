@@ -77,7 +77,7 @@ Python, SQL, Tableau, Power BI, agentic AI, LLMs, prompt design, technical progr
 | | |
 |--|--|
 | **Résumé** | [jlzhao.pages.iu.edu/resume.pdf](https://jlzhao.pages.iu.edu/resume.pdf) |
-| **Profile (PDF, 5 pp.)** | [View in repo](Profile.pdf) · [raw on GitHub](https://github.com/jazhao-ucm/jazhao-ucm/raw/main/j-adezhao/Profile.pdf) (after you push) |
+| **Profile (PDF, 5 pp.)** | [In repo](Profile.pdf) · [GitHub raw](https://github.com/jazhao-ucm/jazhao-ucm/raw/main/j-adezhao/Profile.pdf) |
 | **IU email** | [jzhao@iu.edu](mailto:jzhao@iu.edu) |
 | **Personal email** | [jadexzhao@outlook.com](mailto:jadexzhao@outlook.com) |
 | **LinkedIn** | [linkedin.com/in/jadexzhao](https://www.linkedin.com/in/jadexzhao) |
@@ -94,7 +94,7 @@ Python, SQL, Tableau, Power BI, agentic AI, LLMs, prompt design, technical progr
 ---
 
 <details>
-<summary><strong>In this monorepo</strong> (remove if you paste into a profile-only repo)</summary>
+<summary><strong>In SP26</strong> (drop if you paste into a profile-only repo)</summary>
 
 Path: **`j-adezhao/README.md`** in [jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm). **jadexzhao** (Canva, LinkedIn, Instagram, personal email) is the public handle; this folder is where matching copy and IU-facing files live in **SP26**.
 

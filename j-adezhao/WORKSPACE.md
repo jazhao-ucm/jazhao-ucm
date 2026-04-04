@@ -1,6 +1,6 @@
 # j-adezhao — IU lab (SP26 subtree)
 
-This folder is the **IU home base** inside the monorepo: informatics research, résumé sources, notebooks, and the static tree you mirror to **IU Pages**. Madrid-term **coursework** lives in sibling course folders; use repo-root **`docs/INDEX.md`** for weeks and dates.
+This folder is the **IU home base** inside **SP26**: informatics research, résumé sources, notebooks, and the static tree you ship to **IU Pages**. Madrid-term **coursework** lives in sibling course folders; use repo-root **`docs/INDEX.md`** for weeks and dates.
 
 ## Reader map
 
@@ -77,6 +77,7 @@ This folder is the **IU home base** inside the monorepo: informatics research, r
 j-adezhao/
 ├── README.md              ← profile
 ├── WORKSPACE.md           ← this file
+├── Profile.pdf
 ├── index.html
 ├── planning/
 ├── publications/
