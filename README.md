@@ -1,44 +1,43 @@
-# Terracotta Study Abroad Photo Diary
+# Hi, I'm Jade Zhao
 
-A calm, cozy photo diary from my Spring 2026 study abroad semester in Spain.
+first-gen student, photographer, and builder of cozy web experiences.
 
-This site is built around my own images from:
-- Madrid daily life
-- Segovia day trip moments
-- Toledo textures and city views
+I use this repo as my profile README + a home for my film-inspired study abroad photo project.
 
-Main mood: warm terracotta, soft light, chill wander energy.
+## About Me
+- studying computer science and design-adjacent storytelling
+- drawn to warm terracotta palettes, calm layouts, and personal narratives
+- currently documenting spring 2026 in Spain through my own photography
 
-## Live Site
-Open the portfolio at:
-- ./site/
+## Featured Project: Madrid on Film
+A cute, calm photo diary built from moments across Madrid, Segovia, and Toledo.
 
-## Story Direction
-This project focuses on:
-- personal photography over generic travel text
-- little moments between classes and weekend trips
-- a cute, relaxed, film-photo vibe
+### Highlights
+- personal photos only (no stock imagery)
+- episode-based storytelling from arrival to goodbye
+- warm terracotta visual direction with soft motion and reveal interactions
 
-## Episodes
-1. First week in Madrid
-2. Museum walks and rainy streets
-3. Gran Via blue hour
-4. Slow mornings
-5. Sunset city walks
-6. Market runs and food moments
-7. Rainy-day reflections
-8. Night lights
-9. Retiro reset days
-10. Segovia on film
-11. Toledo and final cafe days
+### Live Preview
+- Portfolio: ./site/
+
+### Tech Stack
+- HTML
+- CSS
+- Vanilla JavaScript
 
 ## Project Structure
-- index.html: root redirect page for GitHub Pages
-- site/index.html: main portfolio page
-- site/styles.css: terracotta visual style
-- site/script.js: cursor + reveal interactions
-- images/: all photo assets
+- index.html - root redirect for GitHub Pages
+- site/index.html - portfolio page content
+- site/styles.css - visual system and responsive styles
+- site/script.js - custom cursor and reveal animations
+- images/ - source image assets
+- docs/site/ - GitHub Pages-compatible copy
 
-## Contact
+## Local Development
+1. Clone this repository.
+2. Open the project in VS Code.
+3. Launch index.html (or site/index.html) with Live Server.
+
+## Connect
 - Instagram: @j.adezhao
 - GitHub: @jadewowgreen
