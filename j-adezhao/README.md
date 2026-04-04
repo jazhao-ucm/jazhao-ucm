@@ -82,7 +82,7 @@ Evidence by year, same voice as the site:
 - **Instagram:** [instagram.com/j.adezhao](https://instagram.com/j.adezhao)  
 - **Portfolio (canonical):** [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)  
 
-Open to **full-time roles** after graduation (**Spring 2027**). **Location:** New York, NY.
+Open to **full-time roles** after graduation (**Spring 2027**). **Location:** Bloomington, IN (open to relocation).
 
 ---
 
