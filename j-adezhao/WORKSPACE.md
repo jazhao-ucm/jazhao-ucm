@@ -8,6 +8,7 @@ This folder is the **IU home base** inside the monorepo: informatics research, r
 |----------------|------|
 | Public profile (voice, badges, contact) | [`README.md`](README.md) |
 | **Research arc** (pre-Madrid → Madrid → now) with file links | [`research/README.md`](research/README.md) |
+| **Public web index** (theories, projects, roles found online; verify) | [`research/public-web-index.md`](research/public-web-index.md) |
 | Senior-year courses and running checklist | [`planning/senior-year-2026-27.md`](planning/senior-year-2026-27.md) |
 | How to publish, build, and run scripts | This file (below) |
 
