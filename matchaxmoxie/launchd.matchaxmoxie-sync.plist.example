@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>Label</key>
-	<string>com.user.ucm.matchaxmoxie-sync</string>
+	<string>com.user.sp26.matchaxmoxie-sync</string>
 	<key>ProgramArguments</key>
 	<array>
 		<string>/bin/bash</string>
 		<string>-lc</string>
-		<string>cd 'UCM_ROOT_PLACEHOLDER' &amp;&amp; ./matchaxmoxie/pull-mirror-if-changed.sh</string>
+		<string>cd 'SP26_ROOT_PLACEHOLDER' &amp;&amp; ./matchaxmoxie/pull-mirror-if-changed.sh</string>
 	</array>
 	<key>StartInterval</key>
 	<integer>3600</integer>

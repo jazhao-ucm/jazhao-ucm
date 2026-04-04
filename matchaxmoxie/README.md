@@ -1,6 +1,6 @@
 # matchaxmoxie (informatics portfolio)
 
-**UCM subtree:** this folder lives inside the **[UCM monorepo](../README.md)** at `matchaxmoxie/`. Content is mirrored to [matchaxmoxie/matchaxmoxie](https://github.com/matchaxmoxie/matchaxmoxie) for GitHub Pages.
+**SP26 subtree:** this folder lives inside the **[SP26 repo](../README.md)** at `matchaxmoxie/`. Content is mirrored to [matchaxmoxie/matchaxmoxie](https://github.com/matchaxmoxie/matchaxmoxie) for GitHub Pages.
 
 **Live site:** [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)
 

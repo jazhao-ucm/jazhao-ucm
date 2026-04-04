@@ -1,6 +1,6 @@
-# UCM monorepo
+# SP26
 
-Course notes and materials for **UCM** (Universidad Complutense de Madrid), plus shared docs, scripts, and personal project subtrees in one workspace.
+**SP26** is this workspace and Git repo: spring-term Madrid coursework (**UCM**, Universidad Complutense de Madrid), plus shared docs, scripts, and personal project subtrees in one clone.
 
 ## Start here
 
@@ -8,7 +8,7 @@ Course notes and materials for **UCM** (Universidad Complutense de Madrid), plus
 |------|--------|
 | Week, dates, topics (all courses) | **[`docs/INDEX.md`](docs/INDEX.md)** |
 | Cross-course docs, INDEX context, tooling | **[`docs/README.md`](docs/README.md)** |
-| Cursor agent rules | **[`.cursor/rules/`](.cursor/rules/)** (start with `ucm-course-notes.mdc`) |
+| Cursor agent rules | **[`.cursor/rules/`](.cursor/rules/)** (start with `sp26-course-notes.mdc`) |
 
 ## Courses
 
@@ -36,7 +36,7 @@ Each course **`README.md`** is the inventory and structure for that course.
 |------|---------|
 | [`docs/`](docs/) | Global week index, extra documentation |
 | [`scripts/`](scripts/) | Helpers (e.g. index and week checks) |
-| `ucm-midterm/` *(optional)* | Midterm one-pagers; create this folder when you add combined sheets. |
+| `sp26-midterm/` *(optional)* | Midterm one-pagers; create this folder when you add combined sheets. |
 
 ### Personal subtrees (see each README)
 

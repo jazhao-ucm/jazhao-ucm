@@ -1,6 +1,6 @@
 # jadewowgreen (Madrid portfolio)
 
-**UCM subtree:** this folder lives inside the **[UCM monorepo](../README.md)** at `jadewowgreen/`. Public site is deployed from the **jadewowgreen** GitHub repo and Pages, not from the UCM root.
+**SP26 subtree:** this folder lives inside the **[SP26 repo](../README.md)** at `jadewowgreen/`. Public site is deployed from the **jadewowgreen** GitHub repo and Pages, not from the SP26 root.
 
 **Live site:** [jadewowgreen.github.io/jadewowgreen/site/](https://jadewowgreen.github.io/jadewowgreen/site/)
 

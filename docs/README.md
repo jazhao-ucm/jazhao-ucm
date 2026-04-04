@@ -6,7 +6,7 @@ This folder holds **cross-course** material. The **global week and topic index**
 
 ## Index and calendar
 
-- **[`INDEX.md`](INDEX.md)** — dates and topics by week for each UCM course.
+- **[`INDEX.md`](INDEX.md)** — dates and topics by week for each course (SP26 / UCM).
 - **Spring 2026:** spring break Mar 27 to Apr 6; no class Apr 30; final exams May 18 to May 22.
 
 ## Tooling and repo config

@@ -1,4 +1,4 @@
-# UCM Course Notes Index
+# SP26 course index
 
 Quick reference for all courses and weeks. *Last updated: April 2026*
 

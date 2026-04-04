@@ -1,11 +1,11 @@
 ---
-description: UCM monorepo conventions, workflows, and agent behavior
+description: SP26 monorepo conventions, workflows, and agent behavior
 alwaysApply: true
 ---
 
-# UCM Course Notes
+# SP26 course notes
 
-Course notes and materials for **UCM** (Universidad Complutense de Madrid). Multi-course monorepo.
+**SP26** is this workspace and repo (spring-term Madrid coursework and related material). Course content is for **UCM** (Universidad Complutense de Madrid). Multi-course monorepo.
 
 **Courses:** `product-management`, `introduction-to-eu`, `management-global-markets`, `strategic-management`, `spanish-for-beginners`.
 
@@ -18,7 +18,7 @@ Course notes and materials for **UCM** (Universidad Complutense de Madrid). Mult
 | Root landing | **README.md** (repo overview) |
 | Repo-wide ignores / Markdown lint | Root **`.gitignore`**, **`.markdownlint.yaml`** (do not duplicate inside each course) |
 | Extra docs | **docs/README.md** |
-| Midterm one-pagers (if folder exists) | **ucm-midterm/** |
+| Midterm one-pagers (if folder exists) | **sp26-midterm/** |
 | Cursor rules for the agent | **`.cursor/rules/*.mdc`** (this file is the main always-on rule) |
 
 ## Workflow

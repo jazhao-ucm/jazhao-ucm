@@ -1,6 +1,6 @@
 # Monorepo only: sync from matchaxmoxie/matchaxmoxie
 
-This file is **not** copied from the mirror. `pull-mirror.sh` overwrites `README.md` and `docs/` from the mirror, so long-lived UCM-only notes live here.
+This file is **not** copied from the mirror. `pull-mirror.sh` overwrites `README.md` and `docs/` from the mirror, so long-lived SP26-only notes live here.
 
 ## Scripts
 
@@ -13,9 +13,9 @@ This file is **not** copied from the mirror. `pull-mirror.sh` overwrites `README
 
 GitHub cannot push to your Mac when the mirror changes, so “keep me updated” means **polling** on a schedule (or run `pull-mirror-if-changed.sh` yourself).
 
-1. Copy [`launchd.matchaxmoxie-sync.plist.example`](launchd.matchaxmoxie-sync.plist.example) to `~/Library/LaunchAgents/` and rename (for example `com.yourname.ucm-matchaxmoxie-sync.plist`).
-2. Replace `UCM_ROOT_PLACEHOLDER` with your absolute path to the UCM repo (keep the path inside single quotes in the `cd` string).
-3. Load once: `launchctl load ~/Library/LaunchAgents/com.yourname.ucm-matchaxmoxie-sync.plist`
+1. Copy [`launchd.matchaxmoxie-sync.plist.example`](launchd.matchaxmoxie-sync.plist.example) to `~/Library/LaunchAgents/` and rename (for example `com.yourname.sp26-matchaxmoxie-sync.plist`).
+2. Replace `SP26_ROOT_PLACEHOLDER` with your absolute path to the SP26 repo (keep the path inside single quotes in the `cd` string).
+3. Load once: `launchctl load ~/Library/LaunchAgents/com.yourname.sp26-matchaxmoxie-sync.plist`
 
 The example uses `StartInterval` 3600 (seconds). Adjust or add `StandardOutPath` / `StandardErrorPath` in the plist if you want logs.
 

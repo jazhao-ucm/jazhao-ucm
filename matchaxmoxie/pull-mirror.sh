@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Pull matchaxmoxie/matchaxmoxie into monorepo folders.
-# Mirror and UCM have unrelated subtree history, so use archive sync (not subtree pull).
+# Mirror and SP26 have unrelated subtree history, so use archive sync (not subtree pull).
 set -euo pipefail
 
 ROOT="$(git rev-parse --show-toplevel)"
