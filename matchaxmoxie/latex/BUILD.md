@@ -2,6 +2,8 @@
 
 Sources are in **`latex/docs/`** (`jade-zhao-*.tex`) and shared snippets are in **`latex/shared/`**. Outputs for the live site go in **`../site/`** with the same basename as the HTML download links.
 
+**`jade-zhao-resume.tex`** is a standalone informatics ATS one-pager (no `\input` of `shared/`). Other `jade-zhao-*.tex` files may still use the pink highlight and header partials.
+
 ## Requirements
 
 - `pdflatex` (TeX Live, MacTeX, MiKTeX, etc.)
