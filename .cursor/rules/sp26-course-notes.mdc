@@ -1,11 +1,11 @@
 ---
-description: SP26 monorepo conventions, workflows, and agent behavior
+description: SP26 canonical workspace, UCM notes, workflows, and agent behavior
 alwaysApply: true
 ---
 
 # SP26 course notes
 
-**SP26** is this workspace and repo (spring-term Madrid coursework and related material). Course content is for **UCM** (Universidad Complutense de Madrid). Multi-course monorepo.
+**SP26** is this workspace and repo: **UCM** spring Madrid coursework plus **`docs/`**, **`j-adezhao/`** (IU lab and **jadexzhao**-aligned copy), **`matchaxmoxie/`**, and **`jadewowgreen/`** in one **canonical** clone. Separate GitHub org repos for the portfolios are **deploy mirrors**, not a second editing home.
 
 **Courses:** `product-management`, `introduction-to-eu`, `management-global-markets`, `strategic-management`, `spanish-for-beginners`.
 
@@ -57,7 +57,7 @@ When cleaning notes/tex: **formatting, structure, typos, whitespace, LaTeX typog
 
 ## Default scope (folders)
 
-- **`jadewowgreen/`** and **`matchaxmoxie/`:** do **not** change unless the user clearly asks (skip in bulk “all courses” work). **`matchaxmoxie/`** layout: root **`README.md`** (deploy + inventory); **`site/`** = Pages assets + `LICENSE` / `CONTRIBUTING.md`; **`latex/`** = `jade-zhao-*.tex` + **`BUILD.md`**; **`scripts/`** = e.g. subtree publish script; **`docs/`** = Markdown lint config only.
+- **`jadewowgreen/`** and **`matchaxmoxie/`:** canonical sources live **here** in SP26; still do **not** change these subtrees unless the user clearly asks (skip in bulk “all courses” work). **`matchaxmoxie/`** layout: root **`README.md`** (deploy + inventory); **`site/`** = Pages assets + `LICENSE` / `CONTRIBUTING.md`; **`latex/`** = `jade-zhao-*.tex` + **`BUILD.md`**; **`scripts/`** = e.g. subtree publish script; **`docs/`** = Markdown lint config only.
 - User request for those paths **overrides** this.
 
 ## Naming and placement

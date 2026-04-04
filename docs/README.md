@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This folder holds **cross-course** material. The **global week and topic index** is **[`INDEX.md`](INDEX.md)**. The **repo overview, monorepo map, and GitHub Pages links** for portfolio subtrees are in the root **[`README.md`](../README.md)**.
+This folder holds **cross-course** material. The **global week and topic index** is **[`INDEX.md`](INDEX.md)**. The **repo overview**, **canonical workspace** framing (UCM + portfolios + **`j-adezhao/`** + **jadexzhao** public links in one clone), and **GitHub Pages links** are in the root **[`README.md`](../README.md)**.
 
 ## Index and calendar
 

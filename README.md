@@ -1,6 +1,6 @@
 # SP26
 
-One Git repo for **spring 2026 Madrid-term coursework** at **UCM** (Universidad Complutense de Madrid), plus **shared course docs**, **scripts**, and **portfolio / IU lab** subtrees you keep in the same clone.
+**This repo is the canonical workspace:** **UCM** coursework (spring 2026 Madrid term), **course-wide docs and scripts**, the **IU lab** subtree (**`j-adezhao/`**), both public portfolios (**`matchaxmoxie/`**, **`jadewowgreen/`**), and the **jadexzhao** public layer (Canva site, LinkedIn, Instagram, email) as **documented and linked from here**. Separate GitHub org repos and Pages URLs exist for **deploy and mirrors**, not as a second source of truth.
 
 **Remote:** [github.com/jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm) · **branch:** `main`
 
@@ -12,7 +12,7 @@ One Git repo for **spring 2026 Madrid-term coursework** at **UCM** (Universidad 
 |---------------|--------|
 | **Weeks, dates, topics** (all UCM courses) | **[`docs/INDEX.md`](docs/INDEX.md)** |
 | Cross-course docs and tooling notes | **[`docs/README.md`](docs/README.md)** |
-| **IU lab** (research arc, IU Pages site, senior checklist) | **[`j-adezhao/WORKSPACE.md`](j-adezhao/WORKSPACE.md)** · **[`j-adezhao/research/README.md`](j-adezhao/research/README.md)** · profile **[`j-adezhao/README.md`](j-adezhao/README.md)** |
+| **IU lab** and **jadexzhao** profile copy (research arc, IU Pages, senior checklist) | **[`j-adezhao/WORKSPACE.md`](j-adezhao/WORKSPACE.md)** · **[`j-adezhao/research/README.md`](j-adezhao/research/README.md)** · **[`j-adezhao/README.md`](j-adezhao/README.md)** |
 | Cursor rules for agents | **[`.cursor/rules/`](.cursor/rules/)** (`sp26-course-notes.mdc`) |
 
 Never guess which week a date belongs to: **always open [`docs/INDEX.md`](docs/INDEX.md) first.**
@@ -41,7 +41,7 @@ Each course **`README.md`** lists structure, file types, and inventory.
 
 ---
 
-## What else lives in this clone
+## What lives in this clone
 
 ### Shared (not a single course)
 
@@ -53,13 +53,13 @@ Each course **`README.md`** lists structure, file types, and inventory.
 
 ### Portfolios and IU lab
 
-These are **tracked** in this repo (except paths ignored inside each subtree, such as **`j-adezhao/.venv/`** and generated simulation outputs).
+**Tracked here** (with subtree-specific ignores such as **`j-adezhao/.venv/`** and generated simulation outputs). **`matchaxmoxie/`** and **`jadewowgreen/`** are pushed to their own repos for GitHub Pages using the scripts in each folder; treat **this tree** as where you change them.
 
 | Path | Role |
 |------|------|
 | [`jadewowgreen/`](jadewowgreen/) | Madrid photo portfolio (`site/`, `images/`). Deploy: GitHub Pages. See that **`README.md`**. |
 | [`matchaxmoxie/`](matchaxmoxie/) | Informatics portfolio (HTML, LaTeX, mirror scripts). Live: [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/). See **`README.md`** and [`SYNC-FROM-MIRROR.md`](matchaxmoxie/SYNC-FROM-MIRROR.md). |
-| [`j-adezhao/`](j-adezhao/) | **IU** side: **`planning/`** (senior year), **`research/`** (notes and TeX), **`publications/`** (drafts), **`lab/`** (notebooks), **`site/`** → [IU Pages](https://jlzhao.pages.iu.edu/), **`resume/`**, **`latex/`**, **`media/`**. Entry: **`j-adezhao/WORKSPACE.md`**. |
+| [`j-adezhao/`](j-adezhao/) | **IU** files and **jadexzhao**-aligned copy: **`planning/`**, **`research/`**, **`publications/`**, **`lab/`**, **`site/`** → [IU Pages](https://jlzhao.pages.iu.edu/), **`resume/`**, **`latex/`**, **`media/`**. Entry: **`j-adezhao/WORKSPACE.md`**. |
 
 ### Live sites (quick links)
 
@@ -68,6 +68,7 @@ These are **tracked** in this repo (except paths ignored inside each subtree, su
 | Informatics portfolio | [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/) |
 | Madrid photos | [jadewowgreen.github.io/jadewowgreen/site](https://jadewowgreen.github.io/jadewowgreen/site/) |
 | IU research + résumé (source `j-adezhao/`) | [jlzhao.pages.iu.edu](https://jlzhao.pages.iu.edu/) · [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf) · [/site/](https://jlzhao.pages.iu.edu/site/) |
+| **jadexzhao** (Canva, socials) | [jadexzhao.my.canva.site](https://jadexzhao.my.canva.site/) · [LinkedIn](https://www.linkedin.com/in/jadexzhao) · [Instagram](https://instagram.com/j.adezhao) |
 
 ---
 

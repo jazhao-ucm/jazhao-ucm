@@ -1,6 +1,6 @@
 # matchaxmoxie (informatics portfolio)
 
-**SP26 subtree:** this folder lives inside the **[SP26 repo](../README.md)** at `matchaxmoxie/`. Content is mirrored to [matchaxmoxie/matchaxmoxie](https://github.com/matchaxmoxie/matchaxmoxie) for GitHub Pages.
+**SP26 subtree:** this folder lives inside the **[SP26 repo](../README.md)** at `matchaxmoxie/`. **Edit here**; [matchaxmoxie/matchaxmoxie](https://github.com/matchaxmoxie/matchaxmoxie) is the **mirror** for GitHub Pages only.
 
 **Live site:** [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)
 
@@ -43,14 +43,14 @@ python3 -m http.server 8080
 
 Open `http://127.0.0.1:8080`.
 
-## Mirror sync (from monorepo root)
+## Mirror sync (from SP26 repo root)
 
 - Pull mirror into this subtree: `./matchaxmoxie/pull-mirror.sh`  
 - Push subtree to `matchaxmoxie/matchaxmoxie` main: `./matchaxmoxie/scripts/publish-site.sh`  
 
 More detail: [`SYNC-FROM-MIRROR.md`](SYNC-FROM-MIRROR.md).
 
-## Related in this monorepo
+## Related in SP26
 
 - Photo portfolio: [`../jadewowgreen/README.md`](../jadewowgreen/README.md)  
 - IU research lab (SP26 subtree): [`../j-adezhao/WORKSPACE.md`](../j-adezhao/WORKSPACE.md) · profile-style [`../j-adezhao/README.md`](../j-adezhao/README.md)  

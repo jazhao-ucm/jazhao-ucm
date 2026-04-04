@@ -1,6 +1,6 @@
 # jadewowgreen (Madrid portfolio)
 
-**SP26 subtree:** this folder lives inside the **[SP26 repo](../README.md)** at `jadewowgreen/`. Public site is deployed from the **jadewowgreen** GitHub repo and Pages, not from the SP26 root.
+**SP26 subtree:** this folder lives inside the **[SP26 repo](../README.md)** at `jadewowgreen/`. **Edit and commit here**; the **jadewowgreen** GitHub repo and Pages deploy from that mirror, not from the SP26 root alone.
 
 **Live site:** [jadewowgreen.github.io/jadewowgreen/site/](https://jadewowgreen.github.io/jadewowgreen/site/)
 
@@ -30,7 +30,7 @@ First-generation informatics student portfolio: **Madrid on Film**, Spring 2026 
 - Instagram: [@j.adezhao](https://instagram.com/j.adezhao)  
 - GitHub: [@jadewowgreen](https://github.com/jadewowgreen)  
 
-## Related in this monorepo
+## Related in SP26
 
 - Informatics portfolio: [`../matchaxmoxie/README.md`](../matchaxmoxie/README.md)  
 - IU lab (SP26): [`../j-adezhao/WORKSPACE.md`](../j-adezhao/WORKSPACE.md) · profile copy [`../j-adezhao/README.md`](../j-adezhao/README.md)
