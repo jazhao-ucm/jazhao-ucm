@@ -1,17 +1,21 @@
 # Config
 
+## Files
+
 | File | Role |
 |------|------|
-| [**site.json**](site.json) | **Manifest:** `origin` and optional **`githubPagesExample`** for your notes; path-relative `paths` keys mirror how **`../site/`** HTML is written; identity, external URLs, SEO blurbs. |
+| [**site.json**](site.json) | Manifest: **`origin`**, **`githubPagesExample`**, path-relative **`paths`**, **`identity`**, **`external`**, **`seo`**. |
 
-## Universal host (IU, GitHub Pages, local)
+## GitHub universal (one tree, any host)
 
-HTML under **`../site/`** uses **path-relative** URLs (`./`, `../resume.pdf`, `../assets/...`) so one tree works when:
+Static HTML under **`../site/`** uses **path-relative** URLs only (`./`, `../resume.pdf`, `../assets/...`, depth-correct paths under **`site/research/`**). The same files work when:
 
-- **IU Pages:** you upload the contents of **`j-adezhao/`** so `site/index.html` is served as **`…/site/`** and **`resume.pdf`** sits beside **`site/`**.
-- **GitHub Pages** (repo root): the public URL includes **`…/j-adezhao/`**; links still resolve because they do not start at `/`.
-- **Local file or any static server:** same relative resolution from the current file URL.
+| Where | URL shape | Notes |
+|-------|-----------|--------|
+| **IU Pages** | You upload **`j-adezhao/`** as the site root | `…/site/`, **`resume.pdf`** next to **`site/`** |
+| **GitHub Pages** (source = repo root) | `…/j-adezhao/site/` | No leading **`/`** on internal links |
+| **Local** | `python3 -m http.server` from **`j-adezhao/`** | Same resolution |
 
-Root **`../index.html`** already uses a relative redirect to **`site/`**.
+Root **`../index.html`** redirects with a **relative** target **`site/`** (no domain).
 
-If a crawler insists on **absolute** Open Graph URLs, set **`origin`** (or your GitHub Pages base URL) in **`site.json`** and paste absolutes into the relevant **`<meta property="og:*">`** lines only (search for **`./`** or **`assets/`** in those tags).
+**Optional absolutes:** Some crawlers want full **`https://`** Open Graph URLs. Put your live base in **`site.json`** (`origin` or your GitHub Pages URL) and paste absolutes only into the **`og:*`** (and if needed **`canonical`**) lines in the HTML.

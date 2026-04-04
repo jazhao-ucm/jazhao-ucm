@@ -73,7 +73,7 @@ Python, TypeScript, JavaScript, SQL, React, Node.js, PostgreSQL, Git; HIPAA-awar
 | | |
 |--|--|
 | **Résumé** | [jlzhao.pages.iu.edu/resume.pdf](https://jlzhao.pages.iu.edu/resume.pdf) |
-| **IU email** | [jzhao@iu.edu](mailto:jzhao@iu.edu) |
+| **IU email** | [jlzhao@iu.edu](mailto:jlzhao@iu.edu) |
 | **Personal** | [jadexzhao@outlook.com](mailto:jadexzhao@outlook.com) |
 | **LinkedIn** | [linkedin.com/in/jadexzhao](https://www.linkedin.com/in/jadexzhao) |
 | **GitHub** | [github.com/jazhao-ucm](https://github.com/jazhao-ucm) |
@@ -98,7 +98,8 @@ Optional snapshot (not HR-canonical): [`profile-summary.md`](profile-summary.md)
 
 | Doc | Use |
 |-----|-----|
-| [**WORKSPACE.md**](WORKSPACE.md) | Map, publish steps, commands |
+| [**WORKSPACE.md**](WORKSPACE.md) | Map, hosting (IU + GitHub Pages), commands |
+| [**config/README.md**](config/README.md) | **GitHub universal** static URLs, **`site.json`** |
 | [**research/README.md**](research/README.md) | Research arc |
 | [**planning/senior-year-2026-27.md**](planning/senior-year-2026-27.md) | Senior checklist |
 | [**lab/README.md**](lab/README.md) | Notebooks and simulations |

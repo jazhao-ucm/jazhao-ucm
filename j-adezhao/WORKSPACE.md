@@ -10,7 +10,8 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 | LinkedIn-style capability snapshot (Markdown) | [`profile-summary.md`](profile-summary.md) |
 | **Research arc** (pre-Madrid to Madrid to now) with file links | [`research/README.md`](research/README.md) |
 | **Public web index** (bios and posts; verify) | [`research/public-web-index.md`](research/public-web-index.md) |
-| **Site manifest** (host, paths, copy) | [`config/site.json`](config/site.json) · [`config/README.md`](config/README.md) |
+| **Site manifest** (host, paths, copy) | [`config/site.json`](config/site.json) |
+| **GitHub universal** (path-relative static site, IU + Pages) | [`config/README.md`](config/README.md) |
 | Senior-year courses and running checklist | [`planning/senior-year-2026-27.md`](planning/senior-year-2026-27.md) |
 | How to publish, build, and run scripts | This file (below) |
 
@@ -33,22 +34,28 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 | **`resume/`** | Résumé TeX + PDF. |
 | **`media/images/`** | Source art; **`./scripts/sync-assets.sh`** → **`site/assets/images/`**. |
 | **`lab/`** | Notebooks, **`data/`**, throwaway **`experiments/`**. |
-| **`site/`** | What you ship to IU Pages, plus root **`index.html`** → **`site/`**. |
+| **`site/`** | Static pages for IU Pages; **path-relative** links so **GitHub Pages** under **`…/j-adezhao/`** works too. Root **`index.html`** → **`site/`**. |
 | **`scripts/`** | env, LaTeX, assets, simulations. |
-| **`config/`** | **`site.json`** manifest (origin, GitHub Pages hint, path-relative `paths`, identity, SEO text); see [`config/README.md`](config/README.md). |
+| **`config/`** | **`site.json`** manifest; **[`config/README.md`](config/README.md)** = GitHub universal hosting notes. |
 | **`profile-summary.md`** | LinkedIn-style export as Markdown; not a substitute for the résumé. |
 
 ---
 
-## Publishing (IU Pages)
+## Hosting
+
+Details: [`config/README.md`](config/README.md) (**GitHub universal** table).
+
+### IU Pages
 
 1. **`./scripts/setup-env.sh`** if you need Jupyter; never commit **`.venv/`**.
 2. Export **`resume/resume.pdf`** (or your canonical name) to the host.
 3. **`./scripts/sync-assets.sh`** after changing **`media/images/profile/`**.
 4. Upload **`site/`** and root **`index.html`**.
-5. **`git push`:** no **`git add -f`** on ignored paths; no **`.env`**.
+5. Repo hygiene on push: no **`git add -f`** on ignored paths; no **`.env`**.
 
-**GitHub Pages:** static HTML is **path-relative**, so browsing the repo via Pages (for example under **`…/j-adezhao/`**) keeps working without editing URLs. If you use a **project site** from **`/docs`**, mirror the **`j-adezhao/`** layout under **`docs/`** or adjust paths accordingly.
+### GitHub Pages
+
+No extra build step: open the subtree in the browser at **`…/j-adezhao/site/`** when the repo is published from **root**. If the site is served from **`/docs`**, mirror the **`j-adezhao/`** layout under **`docs/`** or paths will not line up.
 
 ---
 
@@ -93,6 +100,8 @@ j-adezhao/
 ├── site/
 ├── scripts/
 └── config/
+    ├── README.md        ← GitHub universal + site.json
+    └── site.json
 ```
 
 ---

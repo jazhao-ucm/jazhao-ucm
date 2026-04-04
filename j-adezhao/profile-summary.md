@@ -27,7 +27,7 @@ Third-year Informatics student at Indiana University Luddy. Builds scalable, dat
 | Email | jlzhao2023@gmail.com |
 | LinkedIn | linkedin.com/in/jadexzhao |
 
-**IU-facing contact** in this folder: see [`README.md`](README.md) (jzhao@iu.edu, jadexzhao@outlook.com, mail address in [`WORKSPACE.md`](WORKSPACE.md)).
+**IU-facing contact** in this folder: see [`README.md`](README.md) (jlzhao@iu.edu, jadexzhao@outlook.com, mail address in [`WORKSPACE.md`](WORKSPACE.md)).
 
 ---
 
