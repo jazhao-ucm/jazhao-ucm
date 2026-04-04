@@ -18,7 +18,7 @@ This site uses a Greco-Latin plus English content system, explicit AI disclosure
 
 - Fonts: Playfair Display (headings), DM Sans (body).
 - Shared stylesheet: [`styles.css`](styles.css).
-- Favicon and image anchor: [`j.adezhao.jpg`](j.adezhao.jpg).
+- Favicon and image anchor: [`j-adezhao.jpg`](j-adezhao.jpg).
 - Label style: Greco-Latin plus English, for example `Theoria (Learning)`.
 - Icon policy: no emoji icons, only geometric/classical symbols.
 

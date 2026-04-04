@@ -33,7 +33,7 @@ Primary index for week-to-date-to-topic mapping:
 | [`ucm-midterm`](ucm-midterm/) | One-page midterm sheets and combined review files. |
 | [`jadewowgreen`](jadewowgreen/) | Madrid portfolio: `site/`, `docs/` (Pages), episode photos. |
 | [`matchaxmoxie`](matchaxmoxie/) | Portfolio subtree with site, latex, and mirror scripts. Scheduled mirror pull notes: [`matchaxmoxie/SYNC-FROM-MIRROR.md`](matchaxmoxie/SYNC-FROM-MIRROR.md). |
-| [`j.adezhao`](j.adezhao/) | Local-only path, do not commit or push. |
+| [`j-adezhao`](j-adezhao/) | Local-only path, do not commit or push. |
 
 ## Note Format Standard
 

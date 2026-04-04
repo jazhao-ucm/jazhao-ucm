@@ -16,7 +16,7 @@
 *.blg
 
 # Never commit/push this folder
-j.adezhao/
+j-adezhao/
 
 # Saved browser exports (HTML + sibling asset folders); excluded from version control
 product-management/week-14/Google Gemini.html
