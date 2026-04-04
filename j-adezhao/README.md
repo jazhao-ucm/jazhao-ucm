@@ -60,7 +60,7 @@ The long-form story lives on the portfolio. Each year is the same method under n
 
 **FASE:** next step, test, adjust. Clarity over speeches.
 
-**Now:** Member at a **stealth startup**; business-technology and data across research, GTM, and product.
+**Now:** **Software Engineer** at **Matcha Green Consulting** (remote); business-technology and data across research, shipping, and product.
 
 ---
 
