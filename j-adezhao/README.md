@@ -24,13 +24,13 @@
 
 **IU Bloomington**, Class of **2027** · **Business cognate: Business and Society**. I care how systems fail in the wild (health, software, institutions) and treat **precision in instructions**, for people and for machines, as a form of responsibility.
 
-**Luddy Direct Admit** and **Hudson and Holland Scholar** (full-ride merit).
+**Luddy Direct Admit** and **Hudson and Holland Scholar** (full-ride merit scholarship).
 
 ---
 
 ## Ordo (Year-by-year)
 
-Full narrative on the portfolio. Same method, different year.
+The long-form story lives on the portfolio. Each year is the same method under new constraints.
 
 | Year | Span | One line |
 |------|------|----------|
@@ -38,6 +38,8 @@ Full narrative on the portfolio. Same method, different year.
 | [Sophomore](https://matchaxmoxie.github.io/matchaxmoxie/sophomore.html) | 2024 to 2025 | Research deepened. Mentoring became a system. |
 | [Junior](https://matchaxmoxie.github.io/matchaxmoxie/junior.html) | 2025 to 2026 | Madrid. Health informatics. High-stakes clarity. |
 | [Senior](https://matchaxmoxie.github.io/matchaxmoxie/senior.html) | 2026 to 2027 | Capstone focus. Transfer quality. Leave it usable. |
+
+**Research across those years (files in this repo):** [**`research/README.md`**](research/README.md) (pre-Madrid → Madrid → now).
 
 ---
 
@@ -72,13 +74,15 @@ Python, SQL, Tableau, Power BI, agentic AI, LLMs, prompt design, technical progr
 
 *If you are building something carefully and want to think it through together, i am here.*
 
-- **Résumé (PDF):** [jlzhao.pages.iu.edu/resume.pdf](https://jlzhao.pages.iu.edu/resume.pdf)
-- **IU email:** [jzhao@iu.edu](mailto:jzhao@iu.edu)
-- **Personal:** [jadexzhao@outlook.com](mailto:jadexzhao@outlook.com)
-- **LinkedIn:** [linkedin.com/in/jadexzhao](https://www.linkedin.com/in/jadexzhao)
-- **GitHub:** [github.com/jazhao-ucm](https://github.com/jazhao-ucm)
-- **Instagram:** [instagram.com/j.adezhao](https://instagram.com/j.adezhao)
-- **Portfolio:** [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)
+| | |
+|--|--|
+| **Résumé** | [jlzhao.pages.iu.edu/resume.pdf](https://jlzhao.pages.iu.edu/resume.pdf) |
+| **IU email** | [jzhao@iu.edu](mailto:jzhao@iu.edu) |
+| **Personal email** | [jadexzhao@outlook.com](mailto:jadexzhao@outlook.com) |
+| **LinkedIn** | [linkedin.com/in/jadexzhao](https://www.linkedin.com/in/jadexzhao) |
+| **GitHub** | [github.com/jazhao-ucm](https://github.com/jazhao-ucm) |
+| **Instagram** | [instagram.com/j.adezhao](https://instagram.com/j.adezhao) |
+| **Portfolio** | [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/) |
 
 **Open to full-time roles** after **Spring 2027**. **Location:** Bloomington, IN (open to relocation).
 
@@ -89,14 +93,17 @@ Python, SQL, Tableau, Power BI, agentic AI, LLMs, prompt design, technical progr
 ---
 
 <details>
-<summary><strong>Repo</strong> (drop this block if you paste into a profile-only GitHub repo)</summary>
+<summary><strong>In this monorepo</strong> (remove if you paste into a profile-only repo)</summary>
 
-This file is **`j-adezhao/README.md`** in [jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm).
+Path: **`j-adezhao/README.md`** in [jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm).
 
 | Doc | Use |
 |-----|-----|
-| [**WORKSPACE.md**](WORKSPACE.md) | Publish checklist, layout, commands |
-| [**research/README.md**](research/README.md) | Research arc: pre-Madrid, Madrid, now |
+| [**WORKSPACE.md**](WORKSPACE.md) | Reader map, IU Pages publish steps, layout, commands |
+| [**research/README.md**](research/README.md) | Research arc and file index |
 | [**planning/senior-year-2026-27.md**](planning/senior-year-2026-27.md) | Senior-year courses and checklist |
+| [**lab/README.md**](lab/README.md) | Notebooks and simulations |
+
+**UCM semester classes** (Madrid) live in sibling folders at repo root; calendar: [`docs/INDEX.md`](../docs/INDEX.md).
 
 </details>

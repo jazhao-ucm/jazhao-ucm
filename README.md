@@ -1,16 +1,25 @@
 # SP26
 
-**SP26** is this workspace and Git repo: spring-term Madrid coursework (**UCM**, Universidad Complutense de Madrid), plus shared docs, scripts, and personal project subtrees in one clone.
+One Git repo for **spring 2026 Madrid-term coursework** at **UCM** (Universidad Complutense de Madrid), plus **shared course docs**, **scripts**, and **portfolio / IU lab** subtrees you keep in the same clone.
+
+**Remote:** [github.com/jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm) · **branch:** `main`
+
+---
 
 ## Start here
 
-| What | Where |
-|------|--------|
-| Week, dates, topics (all courses) | **[`docs/INDEX.md`](docs/INDEX.md)** |
-| Cross-course docs, INDEX context, tooling | **[`docs/README.md`](docs/README.md)** |
-| Cursor agent rules | **[`.cursor/rules/`](.cursor/rules/)** (start with `sp26-course-notes.mdc`) |
+| What you need | Where |
+|---------------|--------|
+| **Weeks, dates, topics** (all UCM courses) | **[`docs/INDEX.md`](docs/INDEX.md)** |
+| Cross-course docs and tooling notes | **[`docs/README.md`](docs/README.md)** |
+| **IU lab** (research arc, IU Pages site, senior checklist) | **[`j-adezhao/WORKSPACE.md`](j-adezhao/WORKSPACE.md)** · **[`j-adezhao/research/README.md`](j-adezhao/research/README.md)** · profile **[`j-adezhao/README.md`](j-adezhao/README.md)** |
+| Cursor rules for agents | **[`.cursor/rules/`](.cursor/rules/)** (`sp26-course-notes.mdc`) |
 
-## Courses
+Never guess which week a date belongs to: **always open [`docs/INDEX.md`](docs/INDEX.md) first.**
+
+---
+
+## UCM courses (this term)
 
 | Folder | Course |
 |--------|--------|
@@ -20,48 +29,53 @@
 | [`strategic-management/`](strategic-management/) | Strategic Management |
 | [`spanish-for-beginners/`](spanish-for-beginners/) | Spanish for Beginners |
 
-Each course **`README.md`** is the inventory and structure for that course.
+Each course **`README.md`** lists structure, file types, and inventory.
+
+---
 
 ## Spring 2026 calendar
 
-- Spring break: Mar 27 to Apr 6  
-- No class: Apr 30  
-- Final exams: May 18 to May 22  
+- **Spring break:** Mar 27 to Apr 6  
+- **No class:** Apr 30  
+- **Final exams:** May 18 to May 22  
 
-## Monorepo layout
+---
 
-### Shared (courses use these)
+## What else lives in this clone
+
+### Shared (not a single course)
 
 | Path | Purpose |
 |------|---------|
 | [`docs/`](docs/) | Global week index, extra documentation |
-| [`scripts/`](scripts/) | Helpers (e.g. index and week checks) |
-| `sp26-midterm/` *(optional)* | Midterm one-pagers; create this folder when you add combined sheets. |
+| [`scripts/`](scripts/) | Helpers (for example index and week checks) |
+| `sp26-midterm/` *(optional)* | Combined midterm one-pagers when you add them |
 
-### Personal subtrees (see each README)
+### Portfolios and IU lab
 
-These live inside the same clone for convenience. **`jadewowgreen`** and **`matchaxmoxie`** follow their own deploy and mirror workflows; **`j-adezhao`** is tracked in this repo and has its own **`.gitignore`** (venv, local enrollment notes).
+These are **tracked** in this repo (except paths ignored inside each subtree, such as **`j-adezhao/.venv/`** and generated simulation outputs).
 
 | Path | Role |
 |------|------|
-| [`jadewowgreen/`](jadewowgreen/) | Madrid photo portfolio (`site/`, `images/`) |
-| [`matchaxmoxie/`](matchaxmoxie/) | Informatics portfolio site, LaTeX, mirror scripts |
-| [`j-adezhao/`](j-adezhao/) | Senior-year **IU** workspace: [IU Pages](https://jlzhao.pages.iu.edu/), [résumé](https://jlzhao.pages.iu.edu/resume.pdf), research `site/`, TeX, notebooks; see **[`j-adezhao/README.md`](j-adezhao/README.md)** and **[`j-adezhao/WORKSPACE.md`](j-adezhao/WORKSPACE.md)**. Madrid **UCM** courses live in sibling folders. |
+| [`jadewowgreen/`](jadewowgreen/) | Madrid photo portfolio (`site/`, `images/`). Deploy: GitHub Pages. See that **`README.md`**. |
+| [`matchaxmoxie/`](matchaxmoxie/) | Informatics portfolio (HTML, LaTeX, mirror scripts). Live: [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/). See **`README.md`** and [`SYNC-FROM-MIRROR.md`](matchaxmoxie/SYNC-FROM-MIRROR.md). |
+| [`j-adezhao/`](j-adezhao/) | **IU** side: **`planning/`** (senior year), **`research/`** (notes and TeX), **`publications/`** (drafts), **`lab/`** (notebooks), **`site/`** → [IU Pages](https://jlzhao.pages.iu.edu/), **`resume/`**, **`latex/`**, **`media/`**. Entry: **`j-adezhao/WORKSPACE.md`**. |
 
-**GitHub Pages (live sites):**
+### Live sites (quick links)
 
 | Site | URL |
 |------|-----|
-| Informatics portfolio (matchaxmoxie) | [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/) |
-| Madrid photo portfolio (jadewowgreen) | [jadewowgreen.github.io/jadewowgreen/site](https://jadewowgreen.github.io/jadewowgreen/site/) |
-| IU research site + résumé (source in [`j-adezhao/`](j-adezhao/)) | [jlzhao.pages.iu.edu](https://jlzhao.pages.iu.edu/) · [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf) · [research index /site/](https://jlzhao.pages.iu.edu/site/) |
+| Informatics portfolio | [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/) |
+| Madrid photos | [jadewowgreen.github.io/jadewowgreen/site](https://jadewowgreen.github.io/jadewowgreen/site/) |
+| IU research + résumé (source `j-adezhao/`) | [jlzhao.pages.iu.edu](https://jlzhao.pages.iu.edu/) · [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf) · [/site/](https://jlzhao.pages.iu.edu/site/) |
 
-Mirror notes for matchaxmoxie: [`matchaxmoxie/SYNC-FROM-MIRROR.md`](matchaxmoxie/SYNC-FROM-MIRROR.md).
+---
 
 ## Class note format
 
-Formal outline: Roman numerals, capital letters, Arabic numerals, lowercase letters for nesting.  
-Do not guess which week a date belongs to; use **`docs/INDEX.md`**.
+Formal outline: Roman numerals, capital letters, Arabic numerals, lowercase letters for nesting.
+
+---
 
 ## Quick commands
 
@@ -77,10 +91,18 @@ Build LaTeX from the directory that contains the `.tex` file:
 pdflatex filename.tex
 ```
 
+Preview IU lab site locally:
+
+```bash
+cd j-adezhao && python3 -m http.server 8080
+```
+
+---
+
 ## Documentation style (short)
 
-- Prefer plain punctuation and clear labels. Where it helps, headings can use a **Greco-Latin + English** pair (e.g. *Theoria (Learning)*).
+- Plain punctuation, clear labels. Greco-Latin + English headings are fine where they fit (for example *Theoria (Learning)*).
 - Markdown images: descriptive **alt** text; captions separate from alt.
-- HTML or site-adjacent files: keep canonical and social metadata consistent.
+- HTML and site files: keep canonical and social metadata aligned.
 
-For a slightly longer version of the doc-style bullets, see [`docs/README.md`](docs/README.md).
+More detail: [`docs/README.md`](docs/README.md).
