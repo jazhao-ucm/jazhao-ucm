@@ -1,6 +1,0 @@
-Simulation run completed.
-Executed notebooks:
-- data/simulations/executed-notebooks/trust-dynamics.executed.ipynb
-- data/simulations/executed-notebooks/cultural-adaptation.executed.ipynb
-Generated data artifacts may include:
-- data/simulations/cultural-adaptation-sim.csv

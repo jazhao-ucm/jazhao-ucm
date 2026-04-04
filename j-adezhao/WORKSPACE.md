@@ -40,8 +40,8 @@
 | Résumé | [`resume/`](resume/) |
 | Research (markdown + TeX) | [`docs/research/`](docs/research/) (includes `agentic-systems/`, `agentic-theory/`, `ethics-governance/`, `womens-health/`, …) |
 | Papers / drafts | [`docs/papers/`](docs/papers/) |
-| Data and simulations | [`data/`](data/) |
-| Images | [`assets/images/`](assets/images/) |
+| Data and simulations | [`data/`](data/) · outputs under [`data/simulations/`](data/simulations/) are **gitignored** (see that README) |
+| Images | [`assets/images/`](assets/images/) (see [`assets/images/README.md`](assets/images/README.md)) |
 | Notebooks and experiments | [`work/notebooks/`](work/notebooks/), [`work/experiments/`](work/experiments/) |
 | Static site | [`site/`](site/) · root [`index.html`](index.html) → `site/` |
 | Scripts | [`scripts/`](scripts/) |
@@ -64,6 +64,7 @@ j-adezhao/
 │   ├── papers/
 │   └── research/          ← nested areas; see Quick map
 ├── data/
+│   └── simulations/     ← README only in Git; run ./scripts/run-simulations.sh for outputs
 ├── assets/images/
 ├── work/
 │   ├── notebooks/
