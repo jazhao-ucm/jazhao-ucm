@@ -59,7 +59,7 @@ Each course **`README.md`** lists structure, file types, and inventory.
 |------|------|
 | [`jadewowgreen/`](jadewowgreen/) | Madrid photo portfolio (`site/`, `images/`). Deploy: GitHub Pages. See that **`README.md`**. |
 | [`matchaxmoxie/`](matchaxmoxie/) | Informatics portfolio (HTML, LaTeX, mirror scripts). Live: [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/). See **`README.md`** and [`SYNC-FROM-MIRROR.md`](matchaxmoxie/SYNC-FROM-MIRROR.md). |
-| [`j-adezhao/`](j-adezhao/) | **IU** files and **jadexzhao**-aligned copy: **`planning/`**, **`research/`**, **`publications/`**, **`lab/`**, **`site/`** → [IU Pages](https://jlzhao.pages.iu.edu/), **`resume/`**, **`latex/`**, **`media/`**. Entry: **`j-adezhao/WORKSPACE.md`**. |
+| [`j-adezhao/`](j-adezhao/) | **IU layer** of the same workspace as **matchaxmoxie** (voice + arc) and **SP26** (repo): **`planning/`**, **`research/`**, **`publications/`**, **`lab/`**, **`site/`** → [IU Pages](https://jlzhao.pages.iu.edu/), **`resume/`**, **`latex/`**, **`media/`**, **jadexzhao**-aligned profile. Entry: **`j-adezhao/WORKSPACE.md`**. |
 
 ### Live sites (quick links)
 

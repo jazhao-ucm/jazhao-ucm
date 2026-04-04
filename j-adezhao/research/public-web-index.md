@@ -4,7 +4,9 @@
 
 Aggregated **public** mentions: LinkedIn-style bios, resume snippets in search, IU pages, and one **live** ProHealth listing. Search text is **unreliable**; confirm anything important on your own résumé or LinkedIn.
 
-**Narrative and voice:** [matchaxmoxie site](https://matchaxmoxie.github.io/matchaxmoxie/) (year-by-year story, Opus Selectum, PB sandwich, transparency). **Repo hub:** [`README.md`](README.md) (research arc), [`../README.md`](../README.md) (profile, aligned to that site), [`../Profile.pdf`](../Profile.pdf), résumé TeX [`../resume/jade-zhao-resume-ats.tex`](../resume/jade-zhao-resume-ats.tex) and [`../../matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../../matchaxmoxie/latex/docs/jade-zhao-resume.tex).
+**Framing:** **`j-adezhao/`** is the **IU** slice of **[SP26](https://github.com/jazhao-ucm/jazhao-ucm)** and the IU-side counterpart to the [matchaxmoxie site](https://matchaxmoxie.github.io/matchaxmoxie/) (same voice and year arc; here you add research files, IU Pages `site/`, and résumé sources).
+
+**Narrative and voice:** matchaxmoxie (year-by-year story, Opus Selectum, PB sandwich, transparency). **Repo index:** [`README.md`](README.md) (research arc), [`../README.md`](../README.md) (profile), [`../Profile.pdf`](../Profile.pdf), résumé TeX [`../resume/jade-zhao-resume-ats.tex`](../resume/jade-zhao-resume-ats.tex) and [`../../matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../../matchaxmoxie/latex/docs/jade-zhao-resume.tex).
 
 ---
 

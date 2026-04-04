@@ -53,7 +53,7 @@ More detail: [`SYNC-FROM-MIRROR.md`](SYNC-FROM-MIRROR.md).
 ## Related in SP26
 
 - Photo portfolio: [`../jadewowgreen/README.md`](../jadewowgreen/README.md)  
-- IU research lab (SP26 subtree): [`../j-adezhao/WORKSPACE.md`](../j-adezhao/WORKSPACE.md) · profile-style [`../j-adezhao/README.md`](../j-adezhao/README.md)  
+- **IU edition** of this portfolio (research, IU Pages, résumé, lab): [`../j-adezhao/WORKSPACE.md`](../j-adezhao/WORKSPACE.md) · [`../j-adezhao/README.md`](../j-adezhao/README.md)  
 
 ## License
 

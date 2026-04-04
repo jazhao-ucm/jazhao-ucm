@@ -18,6 +18,8 @@
 
 </div>
 
+**`j-adezhao/`** is the **IU** layer of the same story: public voice and year arc track **[matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)**; files live in **[SP26](https://github.com/jazhao-ucm/jazhao-ucm)** with UCM courses and sibling portfolios. Here you get IU Pages (`site/`), research notes, résumé sources, and lab work.
+
 ---
 
 ## Ratio et logos (What holds)
@@ -105,7 +107,7 @@ Same **Technical Skills** block as the résumé PDF and [`resume/jade-zhao-resum
 <details>
 <summary><strong>In SP26</strong> (drop if you paste into a profile-only repo)</summary>
 
-Path: **`j-adezhao/README.md`** in [jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm). Narrative voice and year story track **[matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)**; **jadexzhao** is the public handle (Canva, LinkedIn, Instagram, personal email). This folder holds IU-facing files and research notes.
+Path: **`j-adezhao/README.md`** in [jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm) (**SP26**). This subtree is the **IU edition** of the matchaxmoxie narrative plus IU-only artifacts (Pages site, research corpus, résumé). **jadexzhao** is the public handle (Canva, LinkedIn, Instagram, personal email).
 
 | Doc | Use |
 |-----|-----|

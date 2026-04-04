@@ -1,6 +1,6 @@
 # j-adezhao — IU lab (SP26 subtree)
 
-This folder is the **IU home base** inside **SP26**: informatics research, résumé sources, notebooks, and the static tree you ship to **IU Pages**. **Public voice and year-by-year story** stay aligned with **[matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)**; [`README.md`](README.md) mirrors that site. Madrid-term **coursework** lives in sibling course folders; use repo-root **`docs/INDEX.md`** for weeks and dates.
+Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)** and the **IU wing** of **[SP26](https://github.com/jazhao-ucm/jazhao-ucm)**: same method and voice as the public portfolio site, plus informatics research, résumé sources, notebooks, and the static tree you ship to **IU Pages**. [`README.md`](README.md) mirrors the portfolio; Madrid-term **coursework** lives in sibling course folders; use repo-root **`docs/INDEX.md`** for weeks and dates.
 
 ## Reader map
 
