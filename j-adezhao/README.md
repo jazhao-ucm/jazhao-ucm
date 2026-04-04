@@ -8,7 +8,7 @@
 
 ### Informatics at Indiana University
 
-*i think a lot about how things break. not in a pessimistic way, in a curious one. most problems are just unclear instructions in disguise.*
+*i think a lot about how things break. not in a pessimistic way - in a curious one. most problems are just unclear instructions in disguise.*
 
 [![Informatics portfolio](https://img.shields.io/badge/Informatics_portfolio-D4879C?style=for-the-badge&logo=github&logoColor=white)](https://matchaxmoxie.github.io/matchaxmoxie/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F2C4CE?style=for-the-badge&logo=linkedin&logoColor=3D2B2B)](https://www.linkedin.com/in/jadexzhao)
@@ -22,7 +22,7 @@
 
 ## Ratio et logos (What holds)
 
-**IU Bloomington**, Class of **2027** · **Business cognate: Business and Society**. I care how systems fail in the wild (health, software, institutions) and treat **precision in instructions**, for people and for machines, as a form of responsibility.
+**IU Bloomington**, Class of **2027** · **Business cognate: Business and Society**. Informatics at IU, studying how systems break - and how to build them so they don't. I care how failures show up in the wild (health, software, institutions) and treat **precision in instructions**, for people and for machines, as responsibility.
 
 **Luddy Direct Admit** and **Hudson and Holland Scholar** (full-ride merit scholarship).
 
@@ -30,7 +30,7 @@
 
 ## Ordo (Year-by-year)
 
-The long-form story lives on the portfolio. Each year is the same method under new constraints.
+Same wording as [the portfolio year cards](https://matchaxmoxie.github.io/matchaxmoxie/); the long story lives there.
 
 | Year | Span | One line |
 |------|------|----------|
@@ -39,40 +39,49 @@ The long-form story lives on the portfolio. Each year is the same method under n
 | [Junior](https://matchaxmoxie.github.io/matchaxmoxie/junior.html) | 2025 to 2026 | Madrid. Health informatics. High-stakes clarity. |
 | [Senior](https://matchaxmoxie.github.io/matchaxmoxie/senior.html) | 2026 to 2027 | Capstone focus. Transfer quality. Leave it usable. |
 
-**Research across those years (files in this repo):** [**`research/README.md`**](research/README.md) (pre-Madrid → Madrid → now).
+**Research files in this repo:** [`research/README.md`](research/README.md) (pre-Madrid → Madrid → now).
 
 ---
 
 ## Opus selectum (Selected work)
 
-- **[The Madrid stress test](https://matchaxmoxie.github.io/matchaxmoxie/junior.html#piece-madrid-stress-test):** same method, new country and institutional logic. What held; what had hidden assumptions.
-- **[The mentorship template](https://matchaxmoxie.github.io/matchaxmoxie/sophomore.html#piece-mentorship-template):** repeatable path from confused to clear.
+Same two pieces as [Opus Selectum on the site](https://matchaxmoxie.github.io/matchaxmoxie/): a few things worth looking at; each one is evidence of that year's method.
+
+- **[the madrid stress test](https://matchaxmoxie.github.io/matchaxmoxie/junior.html#piece-madrid-stress-test):** same method. completely different context. here's what held.
+- **[the mentorship template](https://matchaxmoxie.github.io/matchaxmoxie/sophomore.html#piece-mentorship-template):** a repeatable framework for taking someone from confused to clear.
 
 ---
 
 ## Theoria · Praxis
 
-**PB sandwich (short):** systems do what you say, in order, not what you meant. Same bar for AI prompts, CSS, feedback, handoffs. If a reasonable person still has to guess, the spec is not done. [Longer version on the site.](https://matchaxmoxie.github.io/matchaxmoxie/)
+**PB sandwich (short):** Computers do exactly what you tell them, in exactly the order you said it, not what you meant. Same bar for AI prompts, CSS, feedback, handoffs. If someone can't follow your instructions without guessing, the instructions are not done yet. [Full lesson on the site.](https://matchaxmoxie.github.io/matchaxmoxie/)
 
-**ServeIT:** document early, test edges before handoff. Analyst work → owning process and feature-scale work (compliance, data, AI-assisted flows). *Drafting can be assisted; accountability is not.* [Transparency note.](https://matchaxmoxie.github.io/matchaxmoxie/ai-transparency.html)
+**ServeIT:** document early, test edges before handoff. Analyst work → owning process and feature-scale work (compliance, data, AI-assisted flows). *draft generation is AI-assisted. accountability is not.* [Transparency note.](https://matchaxmoxie.github.io/matchaxmoxie/ai-transparency.html)
 
 **Madrid:** study abroad as a stress test; assumptions had to be written, not implied.
 
 **FASE:** next step, test, adjust. Clarity over speeches.
 
-**Now:** **Software Engineer** at **Matcha Green Consulting** (remote); business-technology and data across research, shipping, and product.
+**Now:** **Software Engineer**, **Matcha Green Consulting** (remote, **Jan 2026–present**). Built from the same standard as the portfolio: full-stack TypeScript, React, Node; APIs, accessibility, secure SDLC. Details and bullets: [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf). TeX sources (keep in sync): [`resume/jade-zhao-resume-ats.tex`](resume/jade-zhao-resume-ats.tex) · [`matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../matchaxmoxie/latex/docs/jade-zhao-resume.tex).
 
 ---
 
 ## Tech
 
-Python, SQL, Tableau, Power BI, agentic AI, LLMs, prompt design, technical program management, stakeholder communication, privacy and regulatory compliance.
+Same **Technical Skills** block as the résumé PDF and [`resume/jade-zhao-resume-ats.tex`](resume/jade-zhao-resume-ats.tex) / [`matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../matchaxmoxie/latex/docs/jade-zhao-resume.tex):
+
+- **Technical:** Python, TypeScript, JavaScript, SQL, HTML, CSS, React, Node.js, PostgreSQL, D3.js, Git, GitHub  
+- **Data and systems:** real-time systems, HIPAA compliance, ETL, database design, data governance, statistical analysis  
+- **AI and ethics:** ethical AI, bias detection, human oversight, LLM orchestration, prompt engineering, audit trails, responsible AI frameworks  
+- **Design and accessibility:** WCAG 2.1 AA/AAA, Figma, human-centred design, trauma-informed UX, user research  
+- **Professional:** Agile/Scrum, cross-functional leadership, mixed-methods research, technical writing, code review  
+- **Languages:** English (native) · Mandarin (professional) · Fuzhounese (professional) · Spanish (elementary, improving)
 
 ---
 
 ## Let's connect
 
-*If you are building something carefully and want to think it through together, i am here.*
+*if you're building something carefully and want to think it through together - i'm here.*
 
 | | |
 |--|--|
@@ -89,14 +98,14 @@ Python, SQL, Tableau, Power BI, agentic AI, LLMs, prompt design, technical progr
 
 ---
 
-*ratio. logos. ordo. praxis.*
+*ratio. logos. ordo. praxis.* 🌷
 
 ---
 
 <details>
 <summary><strong>In SP26</strong> (drop if you paste into a profile-only repo)</summary>
 
-Path: **`j-adezhao/README.md`** in [jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm). **jadexzhao** (Canva, LinkedIn, Instagram, personal email) is the public handle; this folder is where matching copy and IU-facing files live in **SP26**.
+Path: **`j-adezhao/README.md`** in [jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm). Narrative voice and year story track **[matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)**; **jadexzhao** is the public handle (Canva, LinkedIn, Instagram, personal email). This folder holds IU-facing files and research notes.
 
 | Doc | Use |
 |-----|-----|

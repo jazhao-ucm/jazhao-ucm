@@ -4,7 +4,7 @@
 
 Aggregated **public** mentions: LinkedIn-style bios, resume snippets in search, IU pages, and one **live** ProHealth listing. Search text is **unreliable**; confirm anything important on your own résumé or LinkedIn.
 
-**Source of truth in repo:** [`README.md`](README.md) (this folder), [`../README.md`](../README.md), [`../Profile.pdf`](../Profile.pdf), [matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/).
+**Narrative and voice:** [matchaxmoxie site](https://matchaxmoxie.github.io/matchaxmoxie/) (year-by-year story, Opus Selectum, PB sandwich, transparency). **Repo hub:** [`README.md`](README.md) (research arc), [`../README.md`](../README.md) (profile, aligned to that site), [`../Profile.pdf`](../Profile.pdf), résumé TeX [`../resume/jade-zhao-resume-ats.tex`](../resume/jade-zhao-resume-ats.tex) and [`../../matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../../matchaxmoxie/latex/docs/jade-zhao-resume.tex).
 
 ---
 
@@ -17,7 +17,7 @@ Aggregated **public** mentions: LinkedIn-style bios, resume snippets in search, 
 | Résumé (IU) | [i101/resume.pdf](https://jlzhao.pages.iu.edu/i101/resume.pdf) · [/resume.pdf](https://jlzhao.pages.iu.edu/resume.pdf) |
 | Portfolio | [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/) |
 | Luddy Zion | [zion.luddy.indiana.edu/portfolio/jlzhao](https://zion.luddy.indiana.edu/portfolio/jlzhao) |
-| This monorepo | [github.com/jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm) |
+| SP26 (this repo) | [github.com/jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm) |
 | Canva | [jadexzhao.my.canva.site](https://jadexzhao.my.canva.site/) |
 
 Other people share the name; **jadexiao** on GitHub is a different person. Canonical IU identity: **jlzhao@iu.edu**, **jadexzhao**.
@@ -58,7 +58,7 @@ Clinic hub: [serveit.luddy.indiana.edu](https://serveit.luddy.indiana.edu/).
 
 ## Roles often listed
 
-AI research assistant (health UX, prototypes, ML collaboration); product designer or developer at Serve IT; peer mentor (STEM); student instructor (business or CS, Hudson and Holland in some copies). **Current role in repo:** Software Engineer at Matcha Green Consulting ([`../README.md`](../README.md), [`../resume/jade-zhao-resume-ats.tex`](../resume/jade-zhao-resume-ats.tex)).
+AI research assistant (health UX, prototypes, ML collaboration); product designer or developer at Serve IT; peer mentor (STEM); student instructor (business or CS, Hudson and Holland in some copies). **Current role (matches portfolio résumé):** Software Engineer, Matcha Green Consulting, remote, Jan 2026–present ([`../README.md`](../README.md), [`../resume/jade-zhao-resume-ats.tex`](../resume/jade-zhao-resume-ats.tex), [`../../matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../../matchaxmoxie/latex/docs/jade-zhao-resume.tex)).
 
 Programs: Hudson and Holland, Luddy Direct Admit, Madrid study abroad (portfolio + SP26).
 
@@ -66,7 +66,7 @@ Programs: Hudson and Holland, Luddy Direct Admit, Madrid study abroad (portfolio
 
 ## Skills in web copy (verify)
 
-Python, SQL, JS, React, Node, Figma, Adobe XD, WordPress, AWS mentions, Tableau or BI. Your README adds Power BI and agentic AI. Treat web lists as **keywords**, not proof.
+Aggregators often list Python, SQL, JS, React, Node, Figma, WordPress, AWS, Tableau, etc. **Canonical list:** Technical Skills on the [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf) and in [`../README.md`](../README.md) (synced to matchaxmoxie résumé TeX). Treat random web lists as **keywords**, not proof.
 
 ---
 
