@@ -1,4 +1,4 @@
-<!-- Tulip palette: #D4879C, #F2C4CE, #FAE8EC, #3D2B2B (matchaxmoxie) -->
+<!-- Tulip palette: #D4879C, #F2C4CE, #FAE8EC, #3D2B2B (matchaxmoxie). GitHub profile + j-adezhao readme. -->
 
 <div align="center">
 
@@ -14,25 +14,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F2C4CE?style=for-the-badge&logo=linkedin&logoColor=3D2B2B)](https://www.linkedin.com/in/jadexzhao)
 [![GitHub](https://img.shields.io/badge/GitHub-FAE8EC?style=for-the-badge&logo=github&logoColor=D4879C)](https://github.com/jazhao-ucm)
 
-[Canva portfolio](https://jadexzhao.my.canva.site/) · [AI transparency](https://matchaxmoxie.github.io/matchaxmoxie/ai-transparency.html) · [IU research site](https://jlzhao.pages.iu.edu/)
+[Portfolio](https://matchaxmoxie.github.io/matchaxmoxie/) · [IU research site](https://jlzhao.pages.iu.edu/) · [Canva](https://jadexzhao.my.canva.site/) · [AI transparency](https://matchaxmoxie.github.io/matchaxmoxie/ai-transparency.html)
 
 </div>
-
-**`j-adezhao/`** is the **IU** layer: same voice and year arc as **[matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)**, same clone as **[SP26](https://github.com/jazhao-ucm/jazhao-ucm)** (UCM courses + portfolios). IU Pages (`site/`), research, résumé TeX, lab.
 
 ---
 
 ## Ratio et logos (What holds)
 
-**IU Bloomington**, Class of **2027** · **Business cognate: Business and Society**. Informatics at IU, studying how systems break - and how to build them so they don't. I care how failures show up in the wild (health, software, institutions) and treat **precision in instructions**, for people and for machines, as responsibility.
+**IU Bloomington**, class of **2027** · **Business cognate: Business and Society**. I study how systems break and how to build them so they do not. **Precision in instructions** (for people and for machines) is how I treat responsibility when health, software, or institutions fail in the wild.
 
-**Luddy Direct Admit** and **Hudson and Holland Scholar** (full-ride merit scholarship).
+**Luddy Direct Admit** · **Hudson and Holland Scholar** (full-ride merit)
 
 ---
 
 ## Ordo (Year-by-year)
-
-Same wording as [the portfolio year cards](https://matchaxmoxie.github.io/matchaxmoxie/); the long story lives there.
 
 | Year | Span | One line |
 |------|------|----------|
@@ -41,43 +37,32 @@ Same wording as [the portfolio year cards](https://matchaxmoxie.github.io/matcha
 | [Junior](https://matchaxmoxie.github.io/matchaxmoxie/junior.html) | 2025 to 2026 | Madrid. Health informatics. High-stakes clarity. |
 | [Senior](https://matchaxmoxie.github.io/matchaxmoxie/senior.html) | 2026 to 2027 | Capstone focus. Transfer quality. Leave it usable. |
 
-**Research files in this repo:** [`research/README.md`](research/README.md) (pre-Madrid to Madrid to now).
+Full year narrative: [matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/). Research files in this repo: [`research/README.md`](research/README.md).
 
 ---
 
 ## Opus selectum (Selected work)
 
-Same two pieces as [Opus Selectum on the site](https://matchaxmoxie.github.io/matchaxmoxie/): a few things worth looking at; each one is evidence of that year's method.
-
 - **[the madrid stress test](https://matchaxmoxie.github.io/matchaxmoxie/junior.html#piece-madrid-stress-test):** same method. completely different context. here's what held.
-- **[the mentorship template](https://matchaxmoxie.github.io/matchaxmoxie/sophomore.html#piece-mentorship-template):** a repeatable framework for taking someone from confused to clear.
+- **[the mentorship template](https://matchaxmoxie.github.io/matchaxmoxie/sophomore.html#piece-mentorship-template):** repeatable path from confused to clear.
 
 ---
 
 ## Theoria · Praxis
 
-**PB sandwich (short):** Computers do exactly what you tell them, in exactly the order you said it, not what you meant. Same bar for AI prompts, CSS, feedback, handoffs. If someone can't follow your instructions without guessing, the instructions are not done yet. [Full lesson on the site.](https://matchaxmoxie.github.io/matchaxmoxie/)
+**PB sandwich:** systems do exactly what you say, in order, not what you meant. Same bar for AI prompts, CSS, feedback, handoffs. [Lesson on the site.](https://matchaxmoxie.github.io/matchaxmoxie/)
 
-**ServeIT:** document early, test edges before handoff. Analyst work → owning process and feature-scale work (compliance, data, AI-assisted flows). *draft generation is AI-assisted. accountability is not.* [Transparency note.](https://matchaxmoxie.github.io/matchaxmoxie/ai-transparency.html)
+**ServeIT:** document early, test edges before handoff; grow from analyst work to feature-scale ownership (compliance, data, AI-assisted flows). *draft generation is AI-assisted. accountability is not.* [Transparency.](https://matchaxmoxie.github.io/matchaxmoxie/ai-transparency.html)
 
-**Madrid:** study abroad as a stress test; assumptions had to be written, not implied.
+**Madrid** was a stress test: write assumptions, do not imply them. **FASE:** next step, test, adjust.
 
-**FASE:** next step, test, adjust. Clarity over speeches.
-
-**Now:** **Software Engineer**, **Matcha Green Consulting** (remote, **Jan 2026 to present**). Built from the same standard as the portfolio: full-stack TypeScript, React, Node; APIs, accessibility, secure SDLC. Details and bullets: [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf). TeX sources (keep in sync): [`resume/jade-zhao-resume-ats.tex`](resume/jade-zhao-resume-ats.tex) · [`matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../matchaxmoxie/latex/docs/jade-zhao-resume.tex).
+**Now:** **Software Engineer**, **Matcha Green Consulting** (remote, Jan 2026 to present). TypeScript, React, Node, APIs, accessibility, secure SDLC. [Résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf) · TeX: [`resume/jade-zhao-resume-ats.tex`](resume/jade-zhao-resume-ats.tex) · [`matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../matchaxmoxie/latex/docs/jade-zhao-resume.tex)
 
 ---
 
-## Tech
+## Tech (snapshot)
 
-Same **Technical Skills** block as the résumé PDF and [`resume/jade-zhao-resume-ats.tex`](resume/jade-zhao-resume-ats.tex) / [`matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../matchaxmoxie/latex/docs/jade-zhao-resume.tex):
-
-- **Technical:** Python, TypeScript, JavaScript, SQL, HTML, CSS, React, Node.js, PostgreSQL, D3.js, Git, GitHub  
-- **Data and systems:** real-time systems, HIPAA compliance, ETL, database design, data governance, statistical analysis  
-- **AI and ethics:** ethical AI, bias detection, human oversight, LLM orchestration, prompt engineering, audit trails, responsible AI frameworks  
-- **Design and accessibility:** WCAG 2.1 AA/AAA, Figma, human-centred design, trauma-informed UX, user research  
-- **Professional:** Agile/Scrum, cross-functional leadership, mixed-methods research, technical writing, code review  
-- **Languages:** English (native) · Mandarin (professional) · Fuzhounese (professional) · Spanish (elementary, improving)
+Python, TypeScript, JavaScript, SQL, React, Node.js, PostgreSQL, Git; HIPAA-aware pipelines and governance; ethical AI, LLM orchestration, bias and oversight; WCAG-minded UX, Figma, mixed-methods research; Agile, technical writing. **Full skill lines:** [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf).
 
 ---
 
@@ -88,15 +73,15 @@ Same **Technical Skills** block as the résumé PDF and [`resume/jade-zhao-resum
 | | |
 |--|--|
 | **Résumé** | [jlzhao.pages.iu.edu/resume.pdf](https://jlzhao.pages.iu.edu/resume.pdf) |
-| **Profile snapshot** | [`profile-summary.md`](profile-summary.md) (LinkedIn-style export; résumé wins for jobs) |
 | **IU email** | [jzhao@iu.edu](mailto:jzhao@iu.edu) |
-| **Personal email** | [jadexzhao@outlook.com](mailto:jadexzhao@outlook.com) |
+| **Personal** | [jadexzhao@outlook.com](mailto:jadexzhao@outlook.com) |
 | **LinkedIn** | [linkedin.com/in/jadexzhao](https://www.linkedin.com/in/jadexzhao) |
 | **GitHub** | [github.com/jazhao-ucm](https://github.com/jazhao-ucm) |
 | **Instagram** | [instagram.com/j.adezhao](https://instagram.com/j.adezhao) |
-| **Portfolio** | [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/) |
 
-**Open to full-time roles** after **Spring 2027**. **Location:** Bloomington, IN (open to relocation).
+**Open to full-time roles** after Spring **2027** · Bloomington, IN (open to relocation)
+
+Optional snapshot (not HR-canonical): [`profile-summary.md`](profile-summary.md)
 
 ---
 
@@ -105,20 +90,20 @@ Same **Technical Skills** block as the résumé PDF and [`resume/jade-zhao-resum
 ---
 
 <details>
-<summary><strong>In SP26</strong> (drop if you paste into a profile-only repo)</summary>
+<summary><strong>Repo</strong> (<code>j-adezhao/</code> in SP26; drop this block if you paste profile-only)</summary>
 
-Path: **`j-adezhao/README.md`** in [jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm) (**SP26**). This subtree is the **IU edition** of the matchaxmoxie narrative plus IU-only artifacts (Pages site, research corpus, résumé). **jadexzhao** is the public handle (Canva, LinkedIn, Instagram, personal email).
+**Folder:** **`j-adezhao/`** in [SP26](https://github.com/jazhao-ucm/jazhao-ucm): **IU** edition of the [matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/) voice and arc, plus IU Pages (`site/`), research corpus, résumé TeX, lab. **jadexzhao** = public handle (Canva, LinkedIn, Instagram).
 
-**Gloss (*ratio. logos. ordo. praxis.*):** **ratio** (Latin), the rationale that holds the work together; **logos** (Greek), stating it clearly so someone else can rely on it without guessing; **ordo** (Latin), order and sequence (for example the year-by-year arc); **praxis** (Greek), what you actually ship and how you act, not only what you believe.
+**Gloss (*ratio. logos. ordo. praxis.*):** **ratio** (Latin), rationale that holds the work together; **logos** (Greek), saying it clearly so others can rely on it; **ordo** (Latin), order and sequence (for example the year-by-year arc); **praxis** (Greek), what you ship and how you act.
 
 | Doc | Use |
 |-----|-----|
-| [**WORKSPACE.md**](WORKSPACE.md) | Reader map, IU Pages publish steps, layout, commands |
-| [**research/README.md**](research/README.md) | Research arc and file index |
-| [**planning/senior-year-2026-27.md**](planning/senior-year-2026-27.md) | Senior-year courses and checklist |
+| [**WORKSPACE.md**](WORKSPACE.md) | Map, publish steps, commands |
+| [**research/README.md**](research/README.md) | Research arc |
+| [**planning/senior-year-2026-27.md**](planning/senior-year-2026-27.md) | Senior checklist |
 | [**lab/README.md**](lab/README.md) | Notebooks and simulations |
-| [**profile-summary.md**](profile-summary.md) | Archived LinkedIn-style export (not HR canonical) |
+| [**profile-summary.md**](profile-summary.md) | Archived LinkedIn-style export |
 
-**UCM semester classes** (Madrid) live in sibling folders at repo root; calendar: [`docs/INDEX.md`](../docs/INDEX.md).
+UCM (Madrid) courses: sibling folders · calendar [`docs/INDEX.md`](../docs/INDEX.md)
 
 </details>
