@@ -18,9 +18,6 @@ __pycache__/
 .env
 .env.*
 
-# Local-only planning (enrollment snapshots; keep on disk, omit from remotes)
-docs/planned-iu-terms-*.md
-
 # Simulation outputs (regenerate with ./scripts/run-simulations.sh)
 data/simulations/executed-notebooks/
 data/simulations/simulation-run-*.txt

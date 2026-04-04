@@ -1,6 +1,8 @@
 # j-adezhao — IU lab (SP26 subtree)
 
-**Purpose:** Senior-year and **IU-side** work in one tree: research markdown and TeX, **`archives.tex`**, **`resume/`**, Jupyter under **`work/`**, static **`site/`** for [IU Pages](https://jlzhao.pages.iu.edu/), and config. Tracked in **[SP26](https://github.com/jazhao-ucm/jazhao-ucm)**; see **[`.gitignore`](.gitignore)** for what never ships (**`.venv/`**, **`docs/planned-iu-terms-*.md`**, secrets, OS junk).
+**Purpose:** Senior-year and **IU-side** work in one tree: research markdown and TeX, **`archives.tex`**, **`resume/`**, Jupyter under **`work/`**, static **`site/`** for [IU Pages](https://jlzhao.pages.iu.edu/), and config. Tracked in **[SP26](https://github.com/jazhao-ucm/jazhao-ucm)**; see **[`.gitignore`](.gitignore)** for what never ships (**`.venv/`**, simulation outputs, secrets, OS junk).
+
+**Senior year plan (courses + checklist):** [`docs/senior-year-2026-27.md`](docs/senior-year-2026-27.md)
 
 **Live site:** [jlzhao.pages.iu.edu](https://jlzhao.pages.iu.edu/) · [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf) · [research /site/](https://jlzhao.pages.iu.edu/site/)
 
@@ -28,14 +30,13 @@
 | **`j-adezhao/`** | IU lab: research, résumé, notebooks, `site/` → IU Pages |
 | **Course folders + `docs/INDEX.md`** | UCM semester materials |
 
-**Enrollment planning (local only):** [`docs/planned-iu-terms-2026-27.md`](docs/planned-iu-terms-2026-27.md) is **gitignored**. Edit on disk; drop the ignore rule in **`.gitignore`** if you want it versioned.
-
 ---
 
 ## Quick map
 
 | Area | Path |
 |------|------|
+| Senior year (IU) | [`docs/senior-year-2026-27.md`](docs/senior-year-2026-27.md) |
 | LaTeX codex | [`archives.tex`](archives.tex) |
 | Résumé | [`resume/`](resume/) |
 | Research (markdown + TeX) | [`docs/research/`](docs/research/) (includes `agentic-systems/`, `agentic-theory/`, `ethics-governance/`, `womens-health/`, …) |
@@ -61,6 +62,7 @@ j-adezhao/
 ├── config/
 ├── resume/
 ├── docs/
+│   ├── senior-year-2026-27.md
 │   ├── papers/
 │   └── research/          ← nested areas; see Quick map
 ├── data/
