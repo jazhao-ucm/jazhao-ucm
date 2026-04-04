@@ -109,6 +109,8 @@ Same **Technical Skills** block as the résumé PDF and [`resume/jade-zhao-resum
 
 Path: **`j-adezhao/README.md`** in [jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm) (**SP26**). This subtree is the **IU edition** of the matchaxmoxie narrative plus IU-only artifacts (Pages site, research corpus, résumé). **jadexzhao** is the public handle (Canva, LinkedIn, Instagram, personal email).
 
+**Gloss (*ratio. logos. ordo. praxis.*):** **ratio** (Latin), the rationale that holds the work together; **logos** (Greek), stating it clearly so someone else can rely on it without guessing; **ordo** (Latin), order and sequence (for example the year-by-year arc); **praxis** (Greek), what you actually ship and how you act, not only what you believe.
+
 | Doc | Use |
 |-----|-----|
 | [**WORKSPACE.md**](WORKSPACE.md) | Reader map, IU Pages publish steps, layout, commands |
