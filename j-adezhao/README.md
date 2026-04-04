@@ -18,7 +18,7 @@
 
 </div>
 
-**`j-adezhao/`** is the **IU** layer of the same story: public voice and year arc track **[matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)**; files live in **[SP26](https://github.com/jazhao-ucm/jazhao-ucm)** with UCM courses and sibling portfolios. Here you get IU Pages (`site/`), research notes, résumé sources, and lab work.
+**`j-adezhao/`** is the **IU** layer: same voice and year arc as **[matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)**, same clone as **[SP26](https://github.com/jazhao-ucm/jazhao-ucm)** (UCM courses + portfolios). IU Pages (`site/`), research, résumé TeX, lab.
 
 ---
 
