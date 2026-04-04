@@ -91,6 +91,6 @@ Open to **full-time roles** after graduation (**Spring 2027**). **Location:** Bl
 <details>
 <summary><strong>SP26 monorepo</strong> (omit this block if you paste into a GitHub profile-only repo)</summary>
 
-This profile text lives at **`j-adezhao/README.md`** inside [github.com/jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm). Lab layout, scripts, `site/`, and IU Pages publish steps: [**WORKSPACE.md**](WORKSPACE.md). **Senior year** courses and checklist: [**`docs/senior-year-2026-27.md`**](docs/senior-year-2026-27.md).
+This profile text lives at **`j-adezhao/README.md`** inside [github.com/jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm). Lab layout, scripts, `site/`, and IU Pages publish steps: [**WORKSPACE.md**](WORKSPACE.md). **Senior year** courses and checklist: [**`planning/senior-year-2026-27.md`**](planning/senior-year-2026-27.md).
 
 </details>

@@ -2,7 +2,7 @@
 set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-SRC_PROFILE="$ROOT_DIR/assets/images/profile"
+SRC_PROFILE="$ROOT_DIR/media/images/profile"
 DST_SITE_IMAGES="$ROOT_DIR/site/assets/images"
 
 mkdir -p "$DST_SITE_IMAGES"

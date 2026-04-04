@@ -33,7 +33,7 @@ alwaysApply: true
 
 1. `git status`
 2. `git add` (relevant paths), `git commit -m "Clear message"`, `git push` to **jazhao-ucm** / **main**.
-3. Respect **`j-adezhao/.gitignore`** (for example **`.venv/`**, simulation outputs under **`data/simulations/`**, **`.env`**). Do not force-add ignored paths.
+3. Respect **`j-adezhao/.gitignore`** (for example **`.venv/`**, simulation outputs under **`lab/data/simulations/`**, **`.env`**). Do not force-add ignored paths.
 4. If clean: say nothing to commit / already up to date.
 
 ## Agent preferences (models and usage)

@@ -19,9 +19,9 @@ __pycache__/
 .env.*
 
 # Simulation outputs (regenerate with ./scripts/run-simulations.sh)
-data/simulations/executed-notebooks/
-data/simulations/simulation-run-*.txt
-data/simulations/*.csv
+lab/data/simulations/executed-notebooks/
+lab/data/simulations/simulation-run-*.txt
+lab/data/simulations/*.csv
 
 # LaTeX build noise (if you compile here)
 *.aux

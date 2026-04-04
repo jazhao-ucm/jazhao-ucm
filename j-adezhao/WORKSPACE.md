@@ -1,16 +1,33 @@
 # j-adezhao — IU lab (SP26 subtree)
 
-**Purpose:** Senior-year and **IU-side** work in one tree: research markdown and TeX, **`archives.tex`**, **`resume/`**, Jupyter under **`work/`**, static **`site/`** for [IU Pages](https://jlzhao.pages.iu.edu/), and config. Tracked in **[SP26](https://github.com/jazhao-ucm/jazhao-ucm)**; see **[`.gitignore`](.gitignore)** for what never ships (**`.venv/`**, simulation outputs, secrets, OS junk).
+**Purpose:** Senior-year and **IU-side** work: **`research/`**, **`publications/`**, **`latex/archives.tex`**, **`resume/`**, **`lab/`** (notebooks, data, scratch experiments), static **`site/`** for [IU Pages](https://jlzhao.pages.iu.edu/), and **`config/`**. Tracked in **[SP26](https://github.com/jazhao-ucm/jazhao-ucm)**; see **[`.gitignore`](.gitignore)** for what never ships (**`.venv/`**, simulation outputs under **`lab/data/simulations/`**, secrets, OS junk).
 
-**Senior year plan (courses + checklist):** [`docs/senior-year-2026-27.md`](docs/senior-year-2026-27.md)
+**Senior year plan:** [`planning/senior-year-2026-27.md`](planning/senior-year-2026-27.md)
 
 **Live site:** [jlzhao.pages.iu.edu](https://jlzhao.pages.iu.edu/) · [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf) · [research /site/](https://jlzhao.pages.iu.edu/site/)
 
-**Public profile README (matchaxmoxie voice):** [`README.md`](README.md)
+**Public profile README:** [`README.md`](README.md)
 
 **IU Bloomington:** 408 N. Union Street, Bloomington, IN 47405.
 
-**Sibling coursework:** **UCM** (Madrid term) lives in other folders in the same monorepo; **`docs/INDEX.md`** at repo root is the course calendar.
+**Sibling coursework:** **UCM** (Madrid term) lives in other folders; repo-root **`docs/INDEX.md`** is the course calendar.
+
+---
+
+## Layout (top level)
+
+| Folder | Role |
+|--------|------|
+| **`planning/`** | Senior-year courses and checklist (IU). |
+| **`publications/`** | Longer-form drafts and papers (Markdown). |
+| **`research/`** | Research notes, audits, theory TeX, priorities. |
+| **`latex/`** | **`archives.tex`** (codex; build with **`scripts/build-archives.sh`**). |
+| **`resume/`** | Résumé TeX and exported PDF. |
+| **`media/images/`** | Source images; **`sync-assets.sh`** feeds **`site/assets/images/`**. |
+| **`lab/`** | Notebooks, **`data/`**, short-lived **`experiments/`**. |
+| **`site/`** | Static IU Pages site (plus root **`index.html`** redirect). |
+| **`scripts/`** | Setup, simulations, asset sync, LaTeX build. |
+| **`config/`** | SEO JSON baseline. |
 
 ---
 
@@ -18,8 +35,9 @@
 
 1. **`./scripts/setup-env.sh`** if you need Jupyter locally; never commit **`.venv/`**.
 2. Build or export from **`resume/`** and publish **`resume.pdf`** to IU Pages if that is your canonical URL.
-3. Sync **`site/`** and root **`index.html`** (redirect) to IU Pages so the live tree matches Git.
-4. Before **`git push`:** no **`git add -f`** on ignored paths; no **`.env`**.
+3. **`./scripts/sync-assets.sh`** after changing profile images.
+4. Sync **`site/`** and root **`index.html`** to IU Pages.
+5. Before **`git push`:** no **`git add -f`** on ignored paths; no **`.env`**.
 
 ---
 
@@ -27,8 +45,8 @@
 
 | Wing | Role |
 |------|------|
-| **`j-adezhao/`** | IU lab: research, résumé, notebooks, `site/` → IU Pages |
-| **Course folders + `docs/INDEX.md`** | UCM semester materials |
+| **`j-adezhao/`** | IU lab → IU Pages |
+| **Course folders + repo `docs/INDEX.md`** | UCM semester materials |
 
 ---
 
@@ -36,17 +54,16 @@
 
 | Area | Path |
 |------|------|
-| Senior year (IU) | [`docs/senior-year-2026-27.md`](docs/senior-year-2026-27.md) |
-| LaTeX codex | [`archives.tex`](archives.tex) |
+| Senior year (IU) | [`planning/senior-year-2026-27.md`](planning/senior-year-2026-27.md) |
+| LaTeX codex | [`latex/archives.tex`](latex/archives.tex) |
 | Résumé | [`resume/`](resume/) |
-| Research (markdown + TeX) | [`docs/research/`](docs/research/) (includes `agentic-systems/`, `agentic-theory/`, `ethics-governance/`, `womens-health/`, …) |
-| Papers / drafts | [`docs/papers/`](docs/papers/) |
-| Data and simulations | [`data/`](data/) · outputs under [`data/simulations/`](data/simulations/) are **gitignored** (see that README) |
-| Images | [`assets/images/`](assets/images/) (see [`assets/images/README.md`](assets/images/README.md)) |
-| Notebooks and experiments | [`work/notebooks/`](work/notebooks/), [`work/experiments/`](work/experiments/) |
-| Static site | [`site/`](site/) · root [`index.html`](index.html) → `site/` |
+| Research | [`research/`](research/) (`agentic-systems/`, `agentic-theory/`, `ethics-governance/`, `womens-health/`, …) |
+| Publications | [`publications/`](publications/) |
+| Lab (notebooks, data) | [`lab/`](lab/) · simulation outputs: [`lab/data/simulations/README.md`](lab/data/simulations/README.md) |
+| Images | [`media/images/`](media/images/) |
+| Static site | [`site/`](site/) · [`index.html`](index.html) |
 | Scripts | [`scripts/`](scripts/) |
-| SEO JSON | [`config/seo-metadata.json`](config/seo-metadata.json) |
+| SEO | [`config/seo-metadata.json`](config/seo-metadata.json) |
 
 ---
 
@@ -54,61 +71,53 @@
 
 ```text
 j-adezhao/
-├── .gitignore
-├── README.md              ← profile / GitHub-facing copy
-├── WORKSPACE.md           ← this file
-├── archives.tex
+├── README.md
+├── WORKSPACE.md
 ├── index.html
-├── config/
+├── planning/
+├── publications/
+├── research/
+├── latex/
+│   └── archives.tex
 ├── resume/
-├── docs/
-│   ├── senior-year-2026-27.md
-│   ├── papers/
-│   └── research/          ← nested areas; see Quick map
-├── data/
-│   └── simulations/     ← README only in Git; run ./scripts/run-simulations.sh for outputs
-├── assets/images/
-├── work/
+├── media/images/
+├── lab/
 │   ├── notebooks/
-│   └── experiments/
+│   ├── experiments/
+│   └── data/
+│       └── simulations/    ← outputs gitignored; see README
+├── site/
 ├── scripts/
-└── site/
-    ├── index.html
-    ├── assets/
-    └── research/
+└── config/
 ```
 
 ---
 
 ## Entry points (content)
 
-- **`archives.tex`:** theory, formulas, architecture notes, question sets.
-- **`docs/research/agentic-systems/ux-audit/le-chat-dossier.md`:** Le Chat dossier.
-- **`docs/research/agentic-systems/ux-audit/agent-trust-matrix.md`:** trust framework.
-- **`docs/research/agentic-systems/formulas/agentic-ai-formula-primer.md`:** formula primer.
-- **`docs/research/agentic-systems/panels/agent-panel-feedback-2026-03-31.md`:** panel archive.
-- **`docs/research/ethics-governance/le-chat-question-bank.md`:** governance questions.
-- **`docs/research/high-impact-research-priorities.md`:** roadmap.
+- **`latex/archives.tex`:** theory, formulas, architecture notes, question sets.
+- **`research/agentic-systems/ux-audit/le-chat-dossier.md`:** Le Chat dossier.
+- **`research/agentic-systems/ux-audit/agent-trust-matrix.md`:** trust framework.
+- **`research/agentic-systems/formulas/agentic-ai-formula-primer.md`:** formula primer.
+- **`research/agentic-systems/panels/agent-panel-feedback-2026-03-31.md`:** panel archive.
+- **`research/ethics-governance/le-chat-question-bank.md`:** governance questions.
+- **`research/high-impact-research-priorities.md`:** roadmap.
 - **`site/index.html`:** local index; **`site/research/`** summaries.
 
 ---
 
 ## Commands
 
-Preview locally:
-
 ```bash
 cd j-adezhao
 python3 -m http.server 8080
 ```
 
-Build and tooling:
-
 ```bash
 cd j-adezhao
 ./scripts/build-archives.sh
 ./scripts/sync-assets.sh
-./scripts/run-simulations.sh   # optional; needs Jupyter (see scripts/setup-env.sh)
+./scripts/run-simulations.sh   # optional; see scripts/setup-env.sh
 ```
 
 ---

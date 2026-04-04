@@ -14,7 +14,7 @@ else
   exit 1
 fi
 
-OUT_DIR="data/simulations"
+OUT_DIR="lab/data/simulations"
 EXEC_DIR="$OUT_DIR/executed-notebooks"
 mkdir -p "$OUT_DIR" "$EXEC_DIR"
 
@@ -30,14 +30,14 @@ run_notebook() {
     --ExecutePreprocessor.timeout=600
 }
 
-run_notebook "work/notebooks/mathematical-models/trust-dynamics.ipynb" "trust-dynamics.executed"
-run_notebook "work/notebooks/mathematical-models/cultural-adaptation.ipynb" "cultural-adaptation.executed"
+run_notebook "lab/notebooks/mathematical-models/trust-dynamics.ipynb" "trust-dynamics.executed"
+run_notebook "lab/notebooks/mathematical-models/cultural-adaptation.ipynb" "cultural-adaptation.executed"
 
 python3 - <<'INNER'
 from pathlib import Path
 import datetime
 
-out = Path("data/simulations")
+out = Path("lab/data/simulations")
 stamp = datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
 report = out / f"simulation-run-{stamp}.txt"
 report.write_text(
@@ -45,10 +45,10 @@ report.write_text(
         [
             "Simulation run completed.",
             "Executed notebooks:",
-            "- data/simulations/executed-notebooks/trust-dynamics.executed.ipynb",
-            "- data/simulations/executed-notebooks/cultural-adaptation.executed.ipynb",
+            "- lab/data/simulations/executed-notebooks/trust-dynamics.executed.ipynb",
+            "- lab/data/simulations/executed-notebooks/cultural-adaptation.executed.ipynb",
             "Generated data artifacts may include:",
-            "- data/simulations/cultural-adaptation-sim.csv",
+            "- lab/data/simulations/cultural-adaptation-sim.csv",
         ]
     )
     + "\n"
