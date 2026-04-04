@@ -46,7 +46,7 @@ These live inside the same clone for convenience. **`jadewowgreen`** and **`matc
 |------|------|
 | [`jadewowgreen/`](jadewowgreen/) | Madrid photo portfolio (`site/`, `images/`) |
 | [`matchaxmoxie/`](matchaxmoxie/) | Informatics portfolio site, LaTeX, mirror scripts |
-| [`j-adezhao/`](j-adezhao/) | **IU / Luddy** research hub (local only, gitignored): agentic-AI lab, résumé source; Madrid **UCM** courses live in sibling folders. See that folder’s README. |
+| [`j-adezhao/`](j-adezhao/) | **Local** IU research hub (gitignored): staging before **global** [IU Pages](https://jlzhao.pages.iu.edu/) + [résumé](https://jlzhao.pages.iu.edu/resume.pdf); Madrid **UCM** courses in sibling folders. See that folder’s README. |
 
 **GitHub Pages (live sites):**
 
