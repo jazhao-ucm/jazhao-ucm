@@ -22,7 +22,7 @@
 
 ## Ratio et logos (What holds)
 
-Informatics student at **IU Bloomington** (Class of **2027**), **Business cognate: Business, Data, and Technology**. I study how systems fail in practice (health, software, institutions) and how **precision in instructions** (human or machine) is a form of responsibility.
+Informatics student at **IU Bloomington** (Class of **2027**), **Business cognate: Business and Society**. I study how systems fail in practice (health, software, institutions) and how **precision in instructions** (human or machine) is a form of responsibility.
 
 **Luddy Direct Admit** · **Hudson and Holland Scholar** (full-ride merit)
 
