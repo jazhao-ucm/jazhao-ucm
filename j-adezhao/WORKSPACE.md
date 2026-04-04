@@ -95,6 +95,7 @@ j-adezhao/
 
 ## Entry points (content)
 
+- **`research/README.md`:** chronological map of research (pre-Madrid, Madrid, now) with file links.
 - **`latex/archives.tex`:** theory, formulas, architecture notes, question sets.
 - **`research/agentic-systems/ux-audit/le-chat-dossier.md`:** Le Chat dossier.
 - **`research/agentic-systems/ux-audit/agent-trust-matrix.md`:** trust framework.
