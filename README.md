@@ -31,7 +31,7 @@ Primary index for week-to-date-to-topic mapping:
 | [`strategic-management`](strategic-management/) | Strategy notes, frameworks, and case material. |
 | [`spanish-for-beginners`](spanish-for-beginners/) | Spanish class notes, PDFs, and scans. |
 | [`ucm-midterm`](ucm-midterm/) | One-page midterm sheets and combined review files. |
-| [`jadewowgreen`](jadewowgreen/) | Madrid photo-log project. |
+| [`jadewowgreen`](jadewowgreen/) | Madrid portfolio: `site/`, `docs/` (Pages), episode photos. |
 | [`matchaxmoxie`](matchaxmoxie/) | Portfolio subtree with site, latex, and mirror scripts. Scheduled mirror pull notes: [`matchaxmoxie/SYNC-FROM-MIRROR.md`](matchaxmoxie/SYNC-FROM-MIRROR.md). |
 | [`j.adezhao`](j.adezhao/) | Local-only path, do not commit or push. |
 
