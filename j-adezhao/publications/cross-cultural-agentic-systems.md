@@ -1,3 +1,5 @@
-# Cross-Cultural Agentic Systems (Paper Draft)
+> **Status: draft shell.** Outline only; not a submitted or finished paper.
 
-Draft outline placeholder for comparative methodology writeup.
+# Cross-Cultural Agentic Systems
+
+Comparative methodology placeholder: connect **Madrid-phase** constraints, **`cultural-adaptation`** simulations, and **`cross-cultural-adaptation.tex`** into a single methods story. Expand when you have empirical or design artifacts you want to cite.

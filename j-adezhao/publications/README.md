@@ -1,3 +1,5 @@
 # Publications (drafts)
 
-Longer-form Markdown drafts and papers. For how these sit in your **pre-Madrid → Madrid → now** arc, start at **`../research/README.md`**.
+Markdown drafts and paper shells. Anything marked **draft shell** is not publication-ready.
+
+**How this folder relates to the arc:** start at [**`../research/README.md`**](../research/README.md) (pre-Madrid → Madrid → now).

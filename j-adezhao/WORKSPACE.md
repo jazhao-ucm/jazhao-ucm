@@ -1,91 +1,87 @@
 # j-adezhao — IU lab (SP26 subtree)
 
-**Purpose:** Senior-year and **IU-side** work: **`research/`**, **`publications/`**, **`latex/archives.tex`**, **`resume/`**, **`lab/`** (notebooks, data, scratch experiments), static **`site/`** for [IU Pages](https://jlzhao.pages.iu.edu/), and **`config/`**. Tracked in **[SP26](https://github.com/jazhao-ucm/jazhao-ucm)**; see **[`.gitignore`](.gitignore)** for what never ships (**`.venv/`**, simulation outputs under **`lab/data/simulations/`**, secrets, OS junk).
+This folder is the **IU home base** inside the monorepo: informatics research, résumé sources, notebooks, and the static tree you mirror to **IU Pages**. Madrid-term **coursework** lives in sibling course folders; use repo-root **`docs/INDEX.md`** for weeks and dates.
 
-**Senior year plan:** [`planning/senior-year-2026-27.md`](planning/senior-year-2026-27.md)
+## Reader map
 
-**Live site:** [jlzhao.pages.iu.edu](https://jlzhao.pages.iu.edu/) · [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf) · [research /site/](https://jlzhao.pages.iu.edu/site/)
+| If you want… | Open |
+|----------------|------|
+| Public profile (voice, badges, contact) | [`README.md`](README.md) |
+| **Research arc** (pre-Madrid → Madrid → now) with file links | [`research/README.md`](research/README.md) |
+| Senior-year courses and running checklist | [`planning/senior-year-2026-27.md`](planning/senior-year-2026-27.md) |
+| How to publish, build, and run scripts | This file (below) |
 
-**Public profile README:** [`README.md`](README.md)
+**Live:** [jlzhao.pages.iu.edu](https://jlzhao.pages.iu.edu/) · [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf) · [site index](https://jlzhao.pages.iu.edu/site/)
 
-**IU Bloomington:** 408 N. Union Street, Bloomington, IN 47405.
+**Git:** [github.com/jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm) (subtree **`j-adezhao/`**). Ignores: **[`.gitignore`](.gitignore)** (**`.venv/`**, **`lab/data/simulations/`** outputs, secrets, OS cruft).
 
-**Sibling coursework:** **UCM** (Madrid term) lives in other folders; repo-root **`docs/INDEX.md`** is the course calendar.
-
----
-
-## Layout (top level)
-
-| Folder | Role |
-|--------|------|
-| **`planning/`** | Senior-year courses and checklist (IU). |
-| **`publications/`** | Longer-form drafts and papers (Markdown). |
-| **`research/`** | Research notes, audits, theory TeX, priorities. |
-| **`latex/`** | **`archives.tex`** (codex; build with **`scripts/build-archives.sh`**). |
-| **`resume/`** | Résumé TeX and exported PDF. |
-| **`media/images/`** | Source images; **`sync-assets.sh`** feeds **`site/assets/images/`**. |
-| **`lab/`** | Notebooks, **`data/`**, short-lived **`experiments/`**. |
-| **`site/`** | Static IU Pages site (plus root **`index.html`** redirect). |
-| **`scripts/`** | Setup, simulations, asset sync, LaTeX build. |
-| **`config/`** | SEO JSON baseline. |
+**Mail:** 408 N. Union Street, Bloomington, IN 47405.
 
 ---
 
-## Publishing checklist (IU Pages)
+## Layout
 
-1. **`./scripts/setup-env.sh`** if you need Jupyter locally; never commit **`.venv/`**.
-2. Build or export from **`resume/`** and publish **`resume.pdf`** to IU Pages if that is your canonical URL.
-3. **`./scripts/sync-assets.sh`** after changing profile images.
-4. Sync **`site/`** and root **`index.html`** to IU Pages.
-5. Before **`git push`:** no **`git add -f`** on ignored paths; no **`.env`**.
+| Path | Role |
+|------|------|
+| **`planning/`** | Senior-year registration snapshot and checklist. |
+| **`research/`** | Notes, audits, theory TeX, priorities; start at **`research/README.md`**. |
+| **`publications/`** | Longer Markdown drafts (some are shells only). |
+| **`latex/`** | **`archives.tex`** — build with **`./scripts/build-archives.sh`**. |
+| **`resume/`** | Résumé TeX + PDF. |
+| **`media/images/`** | Source art; **`./scripts/sync-assets.sh`** → **`site/assets/images/`**. |
+| **`lab/`** | Notebooks, **`data/`**, throwaway **`experiments/`**. |
+| **`site/`** | What you ship to IU Pages, plus root **`index.html`** → **`site/`**. |
+| **`scripts/`** | env, LaTeX, assets, simulations. |
+| **`config/`** | SEO JSON. |
 
 ---
 
-## IU vs UCM in this clone
+## Publishing (IU Pages)
+
+1. **`./scripts/setup-env.sh`** if you need Jupyter; never commit **`.venv/`**.
+2. Export **`resume/resume.pdf`** (or your canonical name) to the host.
+3. **`./scripts/sync-assets.sh`** after changing **`media/images/profile/`**.
+4. Upload **`site/`** and root **`index.html`**.
+5. **`git push`:** no **`git add -f`** on ignored paths; no **`.env`**.
+
+---
+
+## IU vs UCM
 
 | Wing | Role |
 |------|------|
-| **`j-adezhao/`** | IU lab → IU Pages |
-| **Course folders + repo `docs/INDEX.md`** | UCM semester materials |
+| **`j-adezhao/`** | IU lab → IU Pages. |
+| **Course folders + `docs/INDEX.md`** | UCM semester materials. |
 
 ---
 
-## Quick map
+## Quick paths
 
-| Area | Path |
-|------|------|
-| Senior year (IU) | [`planning/senior-year-2026-27.md`](planning/senior-year-2026-27.md) |
-| LaTeX codex | [`latex/archives.tex`](latex/archives.tex) |
+| Topic | Path |
+|-------|------|
+| Research arc | [`research/README.md`](research/README.md) |
+| Senior year | [`planning/senior-year-2026-27.md`](planning/senior-year-2026-27.md) |
+| Codex | [`latex/archives.tex`](latex/archives.tex) |
 | Résumé | [`resume/`](resume/) |
-| Research | [`research/`](research/) (`agentic-systems/`, `agentic-theory/`, `ethics-governance/`, `womens-health/`, …) |
-| Publications | [`publications/`](publications/) |
-| Lab (notebooks, data) | [`lab/`](lab/) · simulation outputs: [`lab/data/simulations/README.md`](lab/data/simulations/README.md) |
-| Images | [`media/images/`](media/images/) |
-| Static site | [`site/`](site/) · [`index.html`](index.html) |
-| Scripts | [`scripts/`](scripts/) |
-| SEO | [`config/seo-metadata.json`](config/seo-metadata.json) |
+| Simulations | [`lab/data/simulations/README.md`](lab/data/simulations/README.md) |
+| Site entry | [`site/index.html`](site/index.html) |
 
 ---
 
-## Tree (abbreviated)
+## Tree (short)
 
 ```text
 j-adezhao/
-├── README.md
-├── WORKSPACE.md
+├── README.md              ← profile
+├── WORKSPACE.md           ← this file
 ├── index.html
 ├── planning/
 ├── publications/
-├── research/
-├── latex/
-│   └── archives.tex
+├── research/              ← README.md = arc index
+├── latex/archives.tex
 ├── resume/
 ├── media/images/
-├── lab/
-│   ├── notebooks/
-│   ├── experiments/
-│   └── data/
-│       └── simulations/    ← outputs gitignored; see README
+├── lab/{notebooks,experiments,data/}
 ├── site/
 ├── scripts/
 └── config/
@@ -93,47 +89,40 @@ j-adezhao/
 
 ---
 
-## Entry points (content)
+## Entry points (deep links)
 
-- **`research/README.md`:** chronological map of research (pre-Madrid, Madrid, now) with file links.
-- **`latex/archives.tex`:** theory, formulas, architecture notes, question sets.
-- **`research/agentic-systems/ux-audit/le-chat-dossier.md`:** Le Chat dossier.
-- **`research/agentic-systems/ux-audit/agent-trust-matrix.md`:** trust framework.
-- **`research/agentic-systems/formulas/agentic-ai-formula-primer.md`:** formula primer.
-- **`research/agentic-systems/panels/agent-panel-feedback-2026-03-31.md`:** panel archive.
-- **`research/ethics-governance/le-chat-question-bank.md`:** governance questions.
-- **`research/high-impact-research-priorities.md`:** roadmap.
-- **`site/index.html`:** local index; **`site/research/`** summaries.
+- [`research/high-impact-research-priorities.md`](research/high-impact-research-priorities.md)
+- [`research/agentic-systems/ux-audit/le-chat-dossier.md`](research/agentic-systems/ux-audit/le-chat-dossier.md)
+- [`research/agentic-systems/ux-audit/agent-trust-matrix.md`](research/agentic-systems/ux-audit/agent-trust-matrix.md)
+- [`research/agentic-systems/formulas/agentic-ai-formula-primer.md`](research/agentic-systems/formulas/agentic-ai-formula-primer.md)
+- [`research/agentic-systems/panels/agent-panel-feedback-2026-03-31.md`](research/agentic-systems/panels/agent-panel-feedback-2026-03-31.md)
+- [`research/ethics-governance/le-chat-question-bank.md`](research/ethics-governance/le-chat-question-bank.md)
 
 ---
 
 ## Commands
 
 ```bash
-cd j-adezhao
-python3 -m http.server 8080
+cd j-adezhao && python3 -m http.server 8080
 ```
 
 ```bash
 cd j-adezhao
 ./scripts/build-archives.sh
 ./scripts/sync-assets.sh
-./scripts/run-simulations.sh   # optional; see scripts/setup-env.sh
+./scripts/run-simulations.sh   # optional
 ```
 
 ---
 
-## Links
+## Elsewhere in SP26
 
-- **IU Pages:** [jlzhao.pages.iu.edu](https://jlzhao.pages.iu.edu/)
-- **Luddy:** [luddy.indiana.edu](https://luddy.indiana.edu/)
-- **Informatics portfolio:** [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)
-- **SP26 repo:** [github.com/jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm)
-- **Local portfolio HTML:** [`../matchaxmoxie/site/`](../matchaxmoxie/site/)
-- **Photo portfolio:** [`../jadewowgreen/README.md`](../jadewowgreen/README.md)
+- Informatics portfolio (GitHub Pages): [`../matchaxmoxie/site/`](../matchaxmoxie/site/)
+- Photo portfolio: [`../jadewowgreen/README.md`](../jadewowgreen/README.md)
+- Luddy: [luddy.indiana.edu](https://luddy.indiana.edu/)
 
 ---
 
-## Style (this folder)
+## House style
 
-Headings may use **Latin + English** where it helps. HTML and metadata use canonical URLs and explicit image **alt** text where applicable.
+Latin + English headings where they help. Canonical URLs and real **alt** text on images. Plain punctuation in Markdown (commas, **to** in ranges).

@@ -1,4 +1,4 @@
-<!-- Tulip palette matches matchaxmoxie/site: #D4879C, #F2C4CE, #FAE8EC, #3D2B2B -->
+<!-- Tulip palette: #D4879C, #F2C4CE, #FAE8EC, #3D2B2B (matchaxmoxie) -->
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F2C4CE?style=for-the-badge&logo=linkedin&logoColor=3D2B2B)](https://www.linkedin.com/in/jadexzhao)
 [![GitHub](https://img.shields.io/badge/GitHub-FAE8EC?style=for-the-badge&logo=github&logoColor=D4879C)](https://github.com/jazhao-ucm)
 
-[Canva portfolio](https://jadexzhao.my.canva.site/) · [AI transparency](https://matchaxmoxie.github.io/matchaxmoxie/ai-transparency.html)
+[Canva portfolio](https://jadexzhao.my.canva.site/) · [AI transparency](https://matchaxmoxie.github.io/matchaxmoxie/ai-transparency.html) · [IU research site](https://jlzhao.pages.iu.edu/)
 
 </div>
 
@@ -22,15 +22,15 @@
 
 ## Ratio et logos (What holds)
 
-Informatics student at **IU Bloomington** (Class of **2027**), **Business cognate: Business and Society**. I study how systems fail in practice (health, software, institutions) and how **precision in instructions** (human or machine) is a form of responsibility.
+**IU Bloomington**, Class of **2027** · **Business cognate: Business and Society**. I care how systems fail in the wild (health, software, institutions) and treat **precision in instructions**, for people and for machines, as a form of responsibility.
 
-**Luddy Direct Admit** and **Hudson and Holland Scholar** (full-ride merit scholarship).
+**Luddy Direct Admit** and **Hudson and Holland Scholar** (full-ride merit).
 
 ---
 
-## Ordo (Year-by-year narrative)
+## Ordo (Year-by-year)
 
-Full narrative on the portfolio. Each year is one chapter of the same method.
+Full narrative on the portfolio. Same method, different year.
 
 | Year | Span | One line |
 |------|------|----------|
@@ -48,21 +48,21 @@ Full narrative on the portfolio. Each year is one chapter of the same method.
 
 ---
 
-## Theoria (Learning) · Praxis (Method in practice)
+## Theoria · Praxis
 
-**PB sandwich lesson (short):** computers do exactly what you say, in order, not what you meant. That standard applies to prompting AI, CSS, feedback, and any handoff. If someone cannot run your instructions without guessing, they are not done yet. [Full version on the portfolio.](https://matchaxmoxie.github.io/matchaxmoxie/)
+**PB sandwich (short):** systems do what you say, in order, not what you meant. Same bar for AI prompts, CSS, feedback, handoffs. If a reasonable person still has to guess, the spec is not done. [Longer version on the site.](https://matchaxmoxie.github.io/matchaxmoxie/)
 
-**ServeIT internship:** document decisions early, check edge cases before handoff. Progression from analyst work to owning more of the process and feature-scale work (compliance, data investigation, AI-assisted workflows). *Drafting can be assisted; accountability is not.* See [AI transparency](https://matchaxmoxie.github.io/matchaxmoxie/ai-transparency.html).
+**ServeIT:** document early, test edges before handoff. Analyst work → owning process and feature-scale work (compliance, data, AI-assisted flows). *Drafting can be assisted; accountability is not.* [Transparency note.](https://matchaxmoxie.github.io/matchaxmoxie/ai-transparency.html)
 
-**Madrid (junior year):** study abroad as a stress test: assumptions had to be written, not implied.
+**Madrid:** study abroad as a stress test; assumptions had to be written, not implied.
 
-**FASE peer mentor:** name the next step, test it, adjust. Clarity over speeches.
+**FASE:** next step, test, adjust. Clarity over speeches.
 
-**Current:** Member at a **stealth startup**; business-technology and data work across research, GTM, and product.
+**Now:** Member at a **stealth startup**; business-technology and data across research, GTM, and product.
 
 ---
 
-## Tech and tools
+## Tech
 
 Python, SQL, Tableau, Power BI, agentic AI, LLMs, prompt design, technical program management, stakeholder communication, privacy and regulatory compliance.
 
@@ -73,14 +73,14 @@ Python, SQL, Tableau, Power BI, agentic AI, LLMs, prompt design, technical progr
 *If you are building something carefully and want to think it through together, i am here.*
 
 - **Résumé (PDF):** [jlzhao.pages.iu.edu/resume.pdf](https://jlzhao.pages.iu.edu/resume.pdf)
-- **Email (IU):** [jzhao@iu.edu](mailto:jzhao@iu.edu)
-- **Email (personal):** [jadexzhao@outlook.com](mailto:jadexzhao@outlook.com)
+- **IU email:** [jzhao@iu.edu](mailto:jzhao@iu.edu)
+- **Personal:** [jadexzhao@outlook.com](mailto:jadexzhao@outlook.com)
 - **LinkedIn:** [linkedin.com/in/jadexzhao](https://www.linkedin.com/in/jadexzhao)
 - **GitHub:** [github.com/jazhao-ucm](https://github.com/jazhao-ucm)
 - **Instagram:** [instagram.com/j.adezhao](https://instagram.com/j.adezhao)
-- **Portfolio (canonical):** [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)
+- **Portfolio:** [matchaxmoxie.github.io/matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)
 
-Open to **full-time roles** after graduation (**Spring 2027**). **Location:** Bloomington, IN (open to relocation).
+**Open to full-time roles** after **Spring 2027**. **Location:** Bloomington, IN (open to relocation).
 
 ---
 
@@ -89,8 +89,14 @@ Open to **full-time roles** after graduation (**Spring 2027**). **Location:** Bl
 ---
 
 <details>
-<summary><strong>SP26 monorepo</strong> (omit this block if you paste into a GitHub profile-only repo)</summary>
+<summary><strong>Repo</strong> (drop this block if you paste into a profile-only GitHub repo)</summary>
 
-This profile text lives at **`j-adezhao/README.md`** inside [github.com/jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm). Lab layout, scripts, `site/`, and IU Pages publish steps: [**WORKSPACE.md**](WORKSPACE.md). **Senior year** courses and checklist: [**`planning/senior-year-2026-27.md`**](planning/senior-year-2026-27.md).
+This file is **`j-adezhao/README.md`** in [jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm).
+
+| Doc | Use |
+|-----|-----|
+| [**WORKSPACE.md**](WORKSPACE.md) | Publish checklist, layout, commands |
+| [**research/README.md**](research/README.md) | Research arc: pre-Madrid, Madrid, now |
+| [**planning/senior-year-2026-27.md**](planning/senior-year-2026-27.md) | Senior-year courses and checklist |
 
 </details>

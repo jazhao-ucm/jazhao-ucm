@@ -1,72 +1,73 @@
-# Research (full arc)
+# Research — one thread, three cities (metaphorically)
 
-This tree is the **IU-side research corpus**: one continuous thread across **Bloomington before Madrid**, **Madrid (junior year abroad)**, and **now** (senior year, capstone, and consolidation). The year-by-year **voice and milestones** live on the portfolio: [Freshman](https://matchaxmoxie.github.io/matchaxmoxie/freshman.html) · [Sophomore](https://matchaxmoxie.github.io/matchaxmoxie/sophomore.html) · [Junior / Madrid](https://matchaxmoxie.github.io/matchaxmoxie/junior.html) · [Senior](https://matchaxmoxie.github.io/matchaxmoxie/senior.html). **UCM semester coursework** (EU, strategy, Spanish, product management, and so on) lives in **sibling folders** in the SP26 repo under **`docs/INDEX.md`**; this **`research/`** folder is where **informatics, agentic systems, and method** accumulate regardless of city.
+**Bloomington → Madrid → back.** This directory is the **informatics and agentic-systems** corpus: what you wrote while the method matured, not the full **UCM course packet** (that stays in sibling folders; calendar at repo **`docs/INDEX.md`**).
 
----
-
-## Pre-Madrid (IU Bloomington, through early 2025 to 2026)
-
-**What this phase was:** first sustained code and research rhythm, **ServeIT**, **FASE** mentoring, interaction design and HCI methods, and learning to make instructions precise (the same standard you later stress-tested abroad).
-
-**Represented here**
-
-- **Trust, UX audit, formulas:** [`agentic-systems/ux-audit/agent-trust-matrix.md`](agentic-systems/ux-audit/agent-trust-matrix.md), [`agentic-systems/formulas/agentic-ai-formula-primer.md`](agentic-systems/formulas/agentic-ai-formula-primer.md), [`agentic-systems/applied-math/trust-scoring.md`](agentic-systems/applied-math/trust-scoring.md), [`agentic-systems/applied-math/bias-audit-formulas.md`](agentic-systems/applied-math/bias-audit-formulas.md).
-- **Governance and evaluation:** [`ethics-governance/le-chat-question-bank.md`](ethics-governance/le-chat-question-bank.md), [`ethics-governance/governance-metrics.tex`](ethics-governance/governance-metrics.tex).
-- **Unified product evaluation thread:** [`agentic-systems/ux-audit/le-chat-dossier.md`](agentic-systems/ux-audit/le-chat-dossier.md) (starts before Madrid and keeps going).
-- **Theory and benchmarks (TeX):** [`agentic-theory/`](agentic-theory/) (architectures, mathematical foundations, benchmarks).
-- **Women’s health track (prototypes):** [`womens-health/agent-prototypes/`](womens-health/agent-prototypes/).
-- **Draft papers (shells):** [`../publications/agentic-ux-math.md`](../publications/agentic-ux-math.md).
-- **Executable models:** [`../lab/notebooks/mathematical-models/trust-dynamics.ipynb`](../lab/notebooks/mathematical-models/trust-dynamics.ipynb) (paired with trust scoring).
-
-**Portfolio anchors:** ServeIT deepening, mentorship as a system, research method as “formulate, observe, test, revise, document.”
+**Portfolio years** (voice and story): [Freshman](https://matchaxmoxie.github.io/matchaxmoxie/freshman.html) · [Sophomore](https://matchaxmoxie.github.io/matchaxmoxie/sophomore.html) · [Junior](https://matchaxmoxie.github.io/matchaxmoxie/junior.html) · [Senior](https://matchaxmoxie.github.io/matchaxmoxie/senior.html).
 
 ---
 
-## Madrid (junior year abroad, 2025 to 2026)
+## I. Pre-Madrid (IU, through early 2026)
 
-**What this phase was:** same method in a **new language, city, and institutional logic**; health and public-health framing raised the cost of vague instructions; cross-cultural norms stopped being optional context.
+**Theme:** rhythm, ServeIT, FASE, HCI and research method, learning that vague instructions are expensive before the cost was literal abroad.
 
-**Represented here**
-
-- **Cross-cultural frame (draft):** [`../publications/cross-cultural-agentic-systems.md`](../publications/cross-cultural-agentic-systems.md).
-- **Adaptation in code and simulation:** [`../lab/notebooks/mathematical-models/cultural-adaptation.ipynb`](../lab/notebooks/mathematical-models/cultural-adaptation.ipynb) (outputs under **`../lab/data/simulations/`** when you run [`../scripts/run-simulations.sh`](../scripts/run-simulations.sh)).
-- **Theory aligned to adaptation:** [`agentic-theory/agent-architectures/cross-cultural-adaptation.tex`](agentic-theory/agent-architectures/cross-cultural-adaptation.tex), related pieces under [`agentic-theory/`](agentic-theory/).
-- **Strategic roadmap (still the spine):** [`high-impact-research-priorities.md`](high-impact-research-priorities.md) (cross-cultural and inclusion threads read differently after Madrid).
-- **Ongoing dossier and panels:** [`le-chat-dossier.md`](agentic-systems/ux-audit/le-chat-dossier.md) and [`agentic-systems/panels/agent-panel-feedback-2026-03-31.md`](agentic-systems/panels/agent-panel-feedback-2026-03-31.md) (dated work that closes the junior-year window into senior year).
-
-**Portfolio anchor:** [The Madrid stress test](https://matchaxmoxie.github.io/matchaxmoxie/junior.html#piece-madrid-stress-test).
-
----
-
-## Now (post-Madrid / senior 2026 to 2027)
-
-**What this phase is:** **capstone and Serve IT**, **INFO-I 390** independent study, graduation trajectory, and **documentation someone else can run** (not only new builds). Checklist and credits: [`../planning/senior-year-2026-27.md`](../planning/senior-year-2026-27.md).
-
-**Represented here**
-
-- **North star map:** [`high-impact-research-priorities.md`](high-impact-research-priorities.md) (reconcile deliverables with what you can finish or hand off).
-- **External critique on record:** [`agentic-systems/panels/agent-panel-feedback-2026-03-31.md`](agentic-systems/panels/agent-panel-feedback-2026-03-31.md).
-- **Codex-style archive:** [`../latex/archives.tex`](../latex/archives.tex) (build via **`../scripts/build-archives.sh`**).
-- **Everything above** that you still revise counts as “now” until you freeze a thesis or capstone snapshot.
-
-**Portfolio anchor:** [Senior year](https://matchaxmoxie.github.io/matchaxmoxie/senior.html) (pass it forward, leave it usable).
+| Track | Files |
+|-------|--------|
+| Trust / UX / math | [`agentic-systems/ux-audit/agent-trust-matrix.md`](agentic-systems/ux-audit/agent-trust-matrix.md), [`agentic-systems/formulas/agentic-ai-formula-primer.md`](agentic-systems/formulas/agentic-ai-formula-primer.md), [`agentic-systems/applied-math/trust-scoring.md`](agentic-systems/applied-math/trust-scoring.md), [`agentic-systems/applied-math/bias-audit-formulas.md`](agentic-systems/applied-math/bias-audit-formulas.md) |
+| Governance | [`ethics-governance/le-chat-question-bank.md`](ethics-governance/le-chat-question-bank.md), [`ethics-governance/governance-metrics.tex`](ethics-governance/governance-metrics.tex) |
+| Running evaluation | [`agentic-systems/ux-audit/le-chat-dossier.md`](agentic-systems/ux-audit/le-chat-dossier.md) (continues in later sections) |
+| Theory (TeX) | [`agentic-theory/`](agentic-theory/) |
+| Health prototypes | [`womens-health/agent-prototypes/`](womens-health/agent-prototypes/) |
+| Draft paper shell | [`../publications/agentic-ux-math.md`](../publications/agentic-ux-math.md) |
+| Notebook | [`../lab/notebooks/mathematical-models/trust-dynamics.ipynb`](../lab/notebooks/mathematical-models/trust-dynamics.ipynb) |
 
 ---
 
-## Folder map (technical)
+## II. Madrid (junior abroad, 2025 to 2026)
 
-| Path | Contents |
-|------|----------|
+**Theme:** same method, new language and bureaucracy; health framing; cross-cultural trust is not optional.
+
+| Track | Files |
+|-------|--------|
+| Draft paper shell | [`../publications/cross-cultural-agentic-systems.md`](../publications/cross-cultural-agentic-systems.md) |
+| Notebook + sims | [`../lab/notebooks/mathematical-models/cultural-adaptation.ipynb`](../lab/notebooks/mathematical-models/cultural-adaptation.ipynb) → outputs via [`../scripts/run-simulations.sh`](../scripts/run-simulations.sh) into **`../lab/data/simulations/`** |
+| Theory | [`agentic-theory/agent-architectures/cross-cultural-adaptation.tex`](agentic-theory/agent-architectures/cross-cultural-adaptation.tex), rest of [`agentic-theory/`](agentic-theory/) |
+| Spine | [`high-impact-research-priorities.md`](high-impact-research-priorities.md) |
+| Bridge to senior | [`agentic-systems/ux-audit/le-chat-dossier.md`](agentic-systems/ux-audit/le-chat-dossier.md), [`agentic-systems/panels/agent-panel-feedback-2026-03-31.md`](agentic-systems/panels/agent-panel-feedback-2026-03-31.md) |
+
+**Piece:** [Madrid stress test](https://matchaxmoxie.github.io/matchaxmoxie/junior.html#piece-madrid-stress-test).
+
+---
+
+## III. Now (senior, 2026 to 2027)
+
+**Theme:** capstone, independent study, graduation, **handoff-quality** docs. Operational checklist: [`../planning/senior-year-2026-27.md`](../planning/senior-year-2026-27.md).
+
+| Track | Files |
+|-------|--------|
+| Priorities vs capacity | [`high-impact-research-priorities.md`](high-impact-research-priorities.md) |
+| External critique | [`agentic-systems/panels/agent-panel-feedback-2026-03-31.md`](agentic-systems/panels/agent-panel-feedback-2026-03-31.md) |
+| Long-form codex | [`../latex/archives.tex`](../latex/archives.tex) |
+
+**Piece:** [Senior year](https://matchaxmoxie.github.io/matchaxmoxie/senior.html).
+
+Anything you still edit lives here until you freeze a capstone or thesis snapshot.
+
+---
+
+## Folder index
+
+| Path | What lives there |
+|------|------------------|
 | [`agentic-systems/`](agentic-systems/) | UX audit, formulas, applied math, panels |
 | [`agentic-theory/`](agentic-theory/) | Architectures, foundations, benchmarks (TeX) |
-| [`ethics-governance/`](ethics-governance/) | Question bank, governance metrics |
-| [`womens-health/`](womens-health/) | Agent prototype notes and TeX |
-| [`high-impact-research-priorities.md`](high-impact-research-priorities.md) | Cross-cutting priorities |
+| [`ethics-governance/`](ethics-governance/) | Questions, metrics |
+| [`womens-health/`](womens-health/) | Prototype notes + TeX |
+| [`high-impact-research-priorities.md`](high-impact-research-priorities.md) | Cross-cutting map |
 
-Shorter paper drafts: **[`../publications/`](../publications/)**. Notebooks and generated simulation artifacts: **[`../lab/`](../lab/)**.
+Drafts in **[`../publications/`](../publications/)**. Notebooks and ignored outputs in **[`../lab/`](../lab/)**.
 
 ---
 
-## How to extend this file
+## Maintenance
 
-When you add a major note or TeX file, add **one line** under the era it primarily belongs to (pre-Madrid, Madrid, now). If it spans all three, put it under **Now** with a short note that it started earlier.
+Add **one line** under the era that best fits when you drop a new file. If it spans everything, file it under **III** and note “started in I or II.”
