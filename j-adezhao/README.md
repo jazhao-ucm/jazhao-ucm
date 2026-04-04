@@ -88,7 +88,7 @@ Same **Technical Skills** block as the résumé PDF and [`resume/jade-zhao-resum
 | | |
 |--|--|
 | **Résumé** | [jlzhao.pages.iu.edu/resume.pdf](https://jlzhao.pages.iu.edu/resume.pdf) |
-| **Profile (PDF, 5 pp.)** | [In repo](Profile.pdf) · [GitHub raw](https://github.com/jazhao-ucm/jazhao-ucm/raw/main/j-adezhao/Profile.pdf) |
+| **Profile snapshot** | [`profile-summary.md`](profile-summary.md) (text from former LinkedIn-style PDF; résumé is canonical for jobs) |
 | **IU email** | [jzhao@iu.edu](mailto:jzhao@iu.edu) |
 | **Personal email** | [jadexzhao@outlook.com](mailto:jadexzhao@outlook.com) |
 | **LinkedIn** | [linkedin.com/in/jadexzhao](https://www.linkedin.com/in/jadexzhao) |
@@ -115,7 +115,7 @@ Path: **`j-adezhao/README.md`** in [jazhao-ucm/jazhao-ucm](https://github.com/ja
 | [**research/README.md**](research/README.md) | Research arc and file index |
 | [**planning/senior-year-2026-27.md**](planning/senior-year-2026-27.md) | Senior-year courses and checklist |
 | [**lab/README.md**](lab/README.md) | Notebooks and simulations |
-| [**Profile.pdf**](Profile.pdf) | Five-page profile PDF (canonical file in this folder) |
+| [**profile-summary.md**](profile-summary.md) | Capability snapshot from archived PDF (not HR canonical) |
 
 **UCM semester classes** (Madrid) live in sibling folders at repo root; calendar: [`docs/INDEX.md`](../docs/INDEX.md).
 

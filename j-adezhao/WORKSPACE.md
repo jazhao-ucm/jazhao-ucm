@@ -7,6 +7,7 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 | If you want… | Open |
 |----------------|------|
 | Public profile (voice, badges, contact) | [`README.md`](README.md) |
+| LinkedIn-style capability snapshot (Markdown) | [`profile-summary.md`](profile-summary.md) |
 | **Research arc** (pre-Madrid → Madrid → now) with file links | [`research/README.md`](research/README.md) |
 | **Public web index** (bios and posts; verify) | [`research/public-web-index.md`](research/public-web-index.md) |
 | Senior-year courses and running checklist | [`planning/senior-year-2026-27.md`](planning/senior-year-2026-27.md) |
@@ -34,7 +35,7 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 | **`site/`** | What you ship to IU Pages, plus root **`index.html`** → **`site/`**. |
 | **`scripts/`** | env, LaTeX, assets, simulations. |
 | **`config/`** | SEO JSON. |
-| **`Profile.pdf`** | Five-page profile PDF (canonical in this folder; link from README and site index). Optional: upload the same file to IU Pages as **`/Profile.pdf`** if you want it on the host. |
+| **`profile-summary.md`** | Text snapshot from former **`Profile.pdf`** (removed); not a substitute for the résumé. |
 
 ---
 
@@ -42,10 +43,9 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 
 1. **`./scripts/setup-env.sh`** if you need Jupyter; never commit **`.venv/`**.
 2. Export **`resume/resume.pdf`** (or your canonical name) to the host.
-3. Optional: upload **`Profile.pdf`** to the IU Pages root as **`Profile.pdf`** if you want it beside **`resume.pdf`** (the research index also links the GitHub copy so it works before you mirror).
-4. **`./scripts/sync-assets.sh`** after changing **`media/images/profile/`**.
-5. Upload **`site/`** and root **`index.html`**.
-6. **`git push`:** no **`git add -f`** on ignored paths; no **`.env`**.
+3. **`./scripts/sync-assets.sh`** after changing **`media/images/profile/`**.
+4. Upload **`site/`** and root **`index.html`**.
+5. **`git push`:** no **`git add -f`** on ignored paths; no **`.env`**.
 
 ---
 
@@ -68,6 +68,7 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 | Résumé | [`resume/`](resume/) |
 | Simulations | [`lab/data/simulations/README.md`](lab/data/simulations/README.md) |
 | Site entry | [`site/index.html`](site/index.html) |
+| Profile snapshot | [`profile-summary.md`](profile-summary.md) |
 
 ---
 
@@ -77,7 +78,7 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 j-adezhao/
 ├── README.md              ← profile
 ├── WORKSPACE.md           ← this file
-├── Profile.pdf
+├── profile-summary.md     ← archived PDF as Markdown
 ├── index.html
 ├── planning/
 ├── publications/
