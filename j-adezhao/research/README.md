@@ -4,7 +4,7 @@
 
 **Portfolio years** (voice and story): [Freshman](https://matchaxmoxie.github.io/matchaxmoxie/freshman.html) · [Sophomore](https://matchaxmoxie.github.io/matchaxmoxie/sophomore.html) · [Junior](https://matchaxmoxie.github.io/matchaxmoxie/junior.html) · [Senior](https://matchaxmoxie.github.io/matchaxmoxie/senior.html).
 
-**Public web snapshot** (bios, posts, IU listings; verify before you rely on it): [`public-web-index.md`](public-web-index.md).
+Public bios and IU listings (verify claims): [`public-web-index.md`](public-web-index.md).
 
 ---
 
@@ -65,7 +65,7 @@ Anything you still edit lives here until you freeze a capstone or thesis snapsho
 | [`ethics-governance/`](ethics-governance/) | Questions, metrics |
 | [`womens-health/`](womens-health/) | Prototype notes + TeX |
 | [`high-impact-research-priorities.md`](high-impact-research-priorities.md) | Cross-cutting map |
-| [`public-web-index.md`](public-web-index.md) | Theories, projects, and roles as they appear on the public web (with disclaimers) |
+| [`public-web-index.md`](public-web-index.md) | Web-aggregated themes, projects, roles (disclaimer at top) |
 
 Drafts in **[`../publications/`](../publications/)**. Notebooks and ignored outputs in **[`../lab/`](../lab/)**.
 
