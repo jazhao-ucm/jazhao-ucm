@@ -35,9 +35,11 @@ if (cursor && ring && !prefersReducedMotion && !coarsePointer) {
   if (ring) ring.style.display = 'none';
 }
 
-// Scroll reveal
+// Scroll reveal (skip observer when reduced motion: CSS already shows content)
 const reveals = document.querySelectorAll('.reveal');
-if ('IntersectionObserver' in window) {
+if (prefersReducedMotion) {
+  reveals.forEach(el => el.classList.add('visible'));
+} else if ('IntersectionObserver' in window) {
   const observer = new IntersectionObserver(entries => {
     entries.forEach((entry, i) => {
       if (entry.isIntersecting) {
@@ -49,6 +51,5 @@ if ('IntersectionObserver' in window) {
 
   reveals.forEach(el => observer.observe(el));
 } else {
-  // Fallback for older browsers.
   reveals.forEach(el => el.classList.add('visible'));
 }
