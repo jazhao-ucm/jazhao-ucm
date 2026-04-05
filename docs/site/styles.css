@@ -1,13 +1,13 @@
 :root {
-  --bg: #f8ede3;
-  --bg-soft: #f2e0d0;
-  --surface: #fff7f1;
-  --ink: #2f1f18;
-  --muted: #7a5a48;
-  --terracotta: #c96f47;
-  --terracotta-dark: #9f4d2f;
-  --line: rgba(95, 56, 37, 0.16);
-  --text-soft: #8a8a88;
+  --bg: #e0f7fa;
+  --bg-soft: #b2ebf2;
+  --surface: #ffffff;
+  --ink: #0d47a1;
+  --muted: #546e7a;
+  --accent: #00bcd4;
+  --accent-dark: #0097a7;
+  --line: rgba(0, 188, 212, 0.16);
+  --text-soft: #78909c;
 }
 
 *, *::before, *::after {
@@ -24,9 +24,9 @@
 
 body {
   background:
-    radial-gradient(circle at 8% 10%, rgba(201, 111, 71, 0.16), transparent 40%),
-    radial-gradient(circle at 90% 0%, rgba(159, 77, 47, 0.12), transparent 34%),
-    linear-gradient(160deg, var(--bg) 0%, #fbeee4 45%, var(--bg-soft) 100%);
+    radial-gradient(circle at 8% 10%, rgba(0, 188, 212, 0.16), transparent 40%),
+    radial-gradient(circle at 90% 0%, rgba(0, 151, 167, 0.12), transparent 34%),
+    linear-gradient(160deg, var(--bg) 0%, #a7ffeb 45%, var(--bg-soft) 100%);
   color: var(--ink);
   font-family: 'DM Sans', sans-serif;
   line-height: 1.7;
@@ -39,7 +39,7 @@ body::before {
   inset: 0;
   pointer-events: none;
   background-image:
-    radial-gradient(rgba(95, 56, 37, 0.06) 0.7px, transparent 0.7px);
+    radial-gradient(rgba(0, 188, 212, 0.06) 0.7px, transparent 0.7px);
   background-size: 3px 3px;
   opacity: 0.3;
   z-index: -1;
@@ -48,7 +48,7 @@ body::before {
 .cursor {
   width: 8px;
   height: 8px;
-  background: var(--terracotta-dark);
+  background: var(--accent-dark);
   border-radius: 50%;
   position: fixed;
   top: 0;
@@ -60,7 +60,7 @@ body::before {
 .cursor-ring {
   width: 32px;
   height: 32px;
-  border: 1px solid var(--terracotta);
+  border: 1px solid var(--accent);
   border-radius: 50%;
   position: fixed;
   top: 0;
@@ -80,7 +80,7 @@ nav {
   gap: 1rem;
   padding: 1rem 2rem;
   border-bottom: 1px solid var(--line);
-  background: rgba(248, 237, 227, 0.96);
+  background: rgba(224, 247, 250, 0.96);
 }
 
 .nav-logo {
@@ -93,7 +93,7 @@ nav {
 }
 
 .nav-logo:focus-visible {
-  outline: 2px solid var(--terracotta);
+  outline: 2px solid var(--accent);
   outline-offset: 4px;
   border-radius: 4px;
 }
@@ -121,14 +121,14 @@ nav {
 }
 
 .nav-links a:focus-visible {
-  outline: 2px solid var(--terracotta);
+  outline: 2px solid var(--accent);
   outline-offset: 3px;
 }
 
 .nav-links a:hover {
-  color: var(--terracotta-dark);
-  border-color: var(--terracotta);
-  background: rgba(201, 111, 71, 0.12);
+  color: var(--accent-dark);
+  border-color: var(--accent);
+  background: rgba(0, 188, 212, 0.12);
 }
 
 .hero {
@@ -151,7 +151,7 @@ nav {
   font-family: 'DM Mono', monospace;
   font-size: 0.72rem;
   letter-spacing: 0.12em;
-  color: var(--terracotta-dark);
+  color: var(--accent-dark);
   text-transform: lowercase;
 }
 
@@ -164,7 +164,7 @@ nav {
 }
 
 .hero-name em {
-  color: var(--terracotta);
+  color: var(--accent);
   font-style: italic;
 }
 
@@ -176,7 +176,7 @@ nav {
 .hero-chinese {
   font-family: 'Cormorant Garamond', serif;
   letter-spacing: 0.18em;
-  color: var(--terracotta-dark);
+  color: var(--accent-dark);
 }
 
 .hero-links {
@@ -189,13 +189,13 @@ nav {
   font-family: 'DM Mono', monospace;
   font-size: 0.68rem;
   color: var(--ink);
-  border-bottom: 1px solid var(--terracotta);
+  border-bottom: 1px solid var(--accent);
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
 
 .hero-link:focus-visible {
-  outline: 2px solid var(--terracotta);
+  outline: 2px solid var(--accent);
   outline-offset: 3px;
 }
 
@@ -204,7 +204,7 @@ nav {
   display: grid;
   place-items: center;
   background:
-    linear-gradient(160deg, rgba(201, 111, 71, 0.2), rgba(255, 255, 255, 0.35)),
+    linear-gradient(160deg, rgba(0, 188, 212, 0.2), rgba(255, 255, 255, 0.35)),
     var(--surface);
 }
 
@@ -212,9 +212,9 @@ nav {
   position: absolute;
   inset: 0;
   background-image:
-    radial-gradient(circle at 20% 25%, rgba(201, 111, 71, 0.4) 1px, transparent 1px),
-    radial-gradient(circle at 60% 55%, rgba(159, 77, 47, 0.28) 1px, transparent 1px),
-    radial-gradient(circle at 80% 20%, rgba(201, 111, 71, 0.28) 1px, transparent 1px);
+    radial-gradient(circle at 20% 25%, rgba(0, 188, 212, 0.4) 1px, transparent 1px),
+    radial-gradient(circle at 60% 55%, rgba(0, 151, 167, 0.28) 1px, transparent 1px),
+    radial-gradient(circle at 80% 20%, rgba(0, 188, 212, 0.28) 1px, transparent 1px);
   background-size: 66px 66px, 44px 44px, 88px 88px;
   opacity: 0.35;
 }
@@ -250,7 +250,7 @@ nav {
 .scroll-line {
   width: 1px;
   height: 32px;
-  background: linear-gradient(to bottom, var(--terracotta), transparent);
+  background: linear-gradient(to bottom, var(--accent), transparent);
 }
 
 section {
@@ -267,7 +267,7 @@ section {
   text-transform: uppercase;
   letter-spacing: 0.16em;
   font-size: 0.62rem;
-  color: var(--terracotta-dark);
+  color: var(--accent-dark);
   margin-bottom: 0.8rem;
 }
 
@@ -281,7 +281,7 @@ section {
 }
 
 .section-title em {
-  color: var(--terracotta);
+  color: var(--accent);
   font-style: italic;
 }
 
@@ -325,19 +325,19 @@ section {
 }
 
 .episode-soundtrack a {
-  color: var(--terracotta-dark);
+  color: var(--accent-dark);
   text-decoration: none;
   border-bottom: 1px solid var(--line);
   transition: color 0.2s ease, border-color 0.2s ease;
 }
 
 .episode-soundtrack a:hover {
-  color: var(--terracotta);
-  border-color: var(--terracotta);
+  color: var(--accent);
+  border-color: var(--accent);
 }
 
 .episode-soundtrack a:focus-visible {
-  outline: 2px solid var(--terracotta);
+  outline: 2px solid var(--accent);
   outline-offset: 3px;
   border-radius: 2px;
 }
@@ -364,7 +364,7 @@ section {
 .episode-pullquote {
   margin: 0 0 1.75rem;
   padding-left: 1rem;
-  border-left: 2px solid var(--terracotta);
+  border-left: 2px solid var(--accent);
   max-width: 520px;
 }
 
@@ -389,9 +389,9 @@ section {
   position: relative;
   overflow: hidden;
   border-radius: 14px;
-  background: #3f2a21;
+  background: #f4e4bc;
   aspect-ratio: 4 / 5;
-  box-shadow: 0 10px 14px rgba(85, 49, 33, 0.1);
+  box-shadow: 0 10px 14px rgba(0, 188, 212, 0.1);
 }
 
 .photo-slot img {
@@ -414,7 +414,7 @@ section {
 }
 
 .photo-slot:hover .photo-slot-inner {
-  border-color: rgba(201, 111, 71, 0.8);
+  border-color: rgba(0, 188, 212, 0.8);
 }
 
 .photo-caption {
@@ -445,7 +445,7 @@ footer {
 }
 
 .footer-chinese {
-  color: var(--terracotta-dark);
+  color: var(--accent-dark);
   letter-spacing: 0.16em;
   font-size: 0.88rem;
 }
