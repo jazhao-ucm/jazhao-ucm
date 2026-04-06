@@ -54,31 +54,79 @@ if (prefersReducedMotion) {
   reveals.forEach(el => el.classList.add('visible'));
 }
 
-// Theme switching on nav click
+// Week-based theming and active nav state.
 const themes = {
   '1': { bg: '#f8ede3', bgSoft: '#f2e0d0', surface: '#fff7f1', ink: '#2f1f18', muted: '#7a5a48', accent: '#c96f47', accentDark: '#9f4d2f', line: 'rgba(95, 56, 37, 0.16)', textSoft: '#8a8a88' },
-  '2': { bg: '#e8f5e8', bgSoft: '#c8e6c9', surface: '#f1f8e9', ink: '#1b5e20', muted: '#4caf50', accent: '#66bb6a', accentDark: '#388e3c', line: 'rgba(76, 175, 80, 0.16)', textSoft: '#81c784' },
-  '3': { bg: '#fce4ec', bgSoft: '#f8bbd9', surface: '#fce4ec', ink: '#880e4f', muted: '#e91e63', accent: '#f06292', accentDark: '#c2185b', line: 'rgba(233, 30, 99, 0.16)', textSoft: '#f48fb1' },
-  '4': { bg: '#e3f2fd', bgSoft: '#bbdefb', surface: '#e3f2fd', ink: '#0d47a1', muted: '#2196f3', accent: '#42a5f5', accentDark: '#1976d2', line: 'rgba(33, 150, 243, 0.16)', textSoft: '#64b5f6' },
-  '5': { bg: '#fff3e0', bgSoft: '#ffe0b2', surface: '#fff3e0', ink: '#e65100', muted: '#ff9800', accent: '#ffb74d', accentDark: '#f57c00', line: 'rgba(255, 152, 0, 0.16)', textSoft: '#ffcc02' },
-  '6': { bg: '#f3e5f5', bgSoft: '#ce93d8', surface: '#f3e5f5', ink: '#4a148c', muted: '#9c27b0', accent: '#ba68c8', accentDark: '#7b1fa2', line: 'rgba(156, 39, 176, 0.16)', textSoft: '#ce93d8' },
-  '7': { bg: '#e0f2f1', bgSoft: '#b2dfdb', surface: '#e0f2f1', ink: '#004d40', muted: '#009688', accent: '#26a69a', accentDark: '#00695c', line: 'rgba(0, 150, 136, 0.16)', textSoft: '#4db6ac' },
-  '8': { bg: '#efebe9', bgSoft: '#d7ccc8', surface: '#efebe9', ink: '#3e2723', muted: '#795548', accent: '#a1887f', accentDark: '#5d4037', line: 'rgba(121, 85, 72, 0.16)', textSoft: '#bcaaa4' },
-  '9': { bg: '#e8eaf6', bgSoft: '#c5cae9', surface: '#e8eaf6', ink: '#1a237e', muted: '#3f51b5', accent: '#7986cb', accentDark: '#303f9f', line: 'rgba(63, 81, 181, 0.16)', textSoft: '#9fa8da' },
-  '10': { bg: '#fce4ec', bgSoft: '#f8bbd9', surface: '#fce4ec', ink: '#880e4f', muted: '#e91e63', accent: '#f06292', accentDark: '#c2185b', line: 'rgba(233, 30, 99, 0.16)', textSoft: '#f48fb1' },
-  '11': { bg: '#f1f8e9', bgSoft: '#dcedc8', surface: '#f1f8e9', ink: '#33691e', muted: '#689f38', accent: '#aed581', accentDark: '#558b2f', line: 'rgba(104, 159, 56, 0.16)', textSoft: '#a4b441' },
-  '12': { bg: '#e0f7fa', bgSoft: '#b2ebf2', surface: '#ffffff', ink: '#0d47a1', muted: '#546e7a', accent: '#00bcd4', accentDark: '#0097a7', line: 'rgba(0, 188, 212, 0.16)', textSoft: '#78909c' }
+  '2': { bg: '#f6efe4', bgSoft: '#efd5bb', surface: '#fff8f0', ink: '#382018', muted: '#88634f', accent: '#d0825b', accentDark: '#ad5f3e', line: 'rgba(130, 86, 58, 0.18)', textSoft: '#9a7a67' },
+  '3': { bg: '#f7ece7', bgSoft: '#e9d2c6', surface: '#fff8f5', ink: '#3c2016', muted: '#8d6656', accent: '#bf7a67', accentDark: '#995843', line: 'rgba(120, 80, 62, 0.18)', textSoft: '#a17d70' },
+  '4': { bg: '#f4efe9', bgSoft: '#dfd0c2', surface: '#fffbf8', ink: '#2f271f', muted: '#7d6a5a', accent: '#b68d6d', accentDark: '#8e664b', line: 'rgba(115, 92, 73, 0.18)', textSoft: '#928170' },
+  '5': { bg: '#f8efe2', bgSoft: '#f1cfab', surface: '#fff8ef', ink: '#3e2416', muted: '#8f6a4f', accent: '#d58a52', accentDark: '#b56633', line: 'rgba(140, 94, 58, 0.18)', textSoft: '#a68266' },
+  '6': { bg: '#f5efe7', bgSoft: '#e5d8c8', surface: '#fffaf3', ink: '#332418', muted: '#7e6650', accent: '#c38e68', accentDark: '#956541', line: 'rgba(125, 93, 65, 0.18)', textSoft: '#967d65' },
+  '7': { bg: '#f3eee7', bgSoft: '#dfd0c7', surface: '#fff9f4', ink: '#2f221c', muted: '#7a665d', accent: '#b48a79', accentDark: '#8f6758', line: 'rgba(110, 89, 80, 0.18)', textSoft: '#918077' },
+  '8': { bg: '#f6efe9', bgSoft: '#e6d5cb', surface: '#fff9f6', ink: '#35241e', muted: '#806860', accent: '#c8907f', accentDark: '#9f6555', line: 'rgba(123, 89, 78, 0.18)', textSoft: '#987971' },
+  '9': { bg: '#f3efe8', bgSoft: '#e0d7ca', surface: '#fffaf4', ink: '#30271f', muted: '#756a5f', accent: '#a8957f', accentDark: '#7c6a56', line: 'rgba(110, 99, 85, 0.18)', textSoft: '#8b8073' },
+  '10': { bg: '#f7ebe9', bgSoft: '#efd1cb', surface: '#fff7f5', ink: '#3a1f1c', muted: '#8a5e58', accent: '#cb7d74', accentDark: '#a4544a', line: 'rgba(130, 82, 73, 0.18)', textSoft: '#9a726b' },
+  '11': { bg: '#f4efe8', bgSoft: '#e0d4c2', surface: '#fffaf2', ink: '#2f271f', muted: '#786b5c', accent: '#b79871', accentDark: '#896f4b', line: 'rgba(114, 97, 74, 0.18)', textSoft: '#8f8271' },
+  '12': { bg: '#efe5db', bgSoft: '#d8c1ab', surface: '#fff6ec', ink: '#2f1d13', muted: '#735643', accent: '#c7784a', accentDark: '#9b5734', line: 'rgba(110, 72, 49, 0.18)', textSoft: '#8c6b59' }
 };
 
-document.querySelectorAll('.nav-links a').forEach(link => {
-  link.addEventListener('click', (e) => {
-    const href = link.getAttribute('href');
-    const ep = href.replace('#episode', '');
-    const theme = themes[ep];
-    if (theme) {
-      for (let prop in theme) {
-        document.documentElement.style.setProperty(`--${prop}`, theme[prop]);
-      }
-    }
+const navLinks = Array.from(document.querySelectorAll('.nav-links a'));
+const sections = Array.from(document.querySelectorAll('main section[id^="episode"]'));
+
+function applyTheme(episodeNumber) {
+  const theme = themes[episodeNumber] || themes['1'];
+  const root = document.documentElement;
+  root.style.setProperty('--bg', theme.bg);
+  root.style.setProperty('--bg-soft', theme.bgSoft);
+  root.style.setProperty('--surface', theme.surface);
+  root.style.setProperty('--ink', theme.ink);
+  root.style.setProperty('--muted', theme.muted);
+  root.style.setProperty('--accent', theme.accent);
+  root.style.setProperty('--accent-dark', theme.accentDark);
+  root.style.setProperty('--line', theme.line);
+  root.style.setProperty('--text-soft', theme.textSoft);
+}
+
+function setActiveNav(episodeId) {
+  navLinks.forEach(link => {
+    const isActive = link.getAttribute('href') === `#${episodeId}`;
+    link.classList.toggle('active', isActive);
+  });
+}
+
+function activateEpisode(episodeId) {
+  const episodeNumber = episodeId.replace('episode', '');
+  applyTheme(episodeNumber);
+  setActiveNav(episodeId);
+}
+
+navLinks.forEach(link => {
+  link.addEventListener('click', () => {
+    const episodeId = link.getAttribute('href').replace('#', '');
+    activateEpisode(episodeId);
   });
 });
+
+if ('IntersectionObserver' in window && sections.length > 0) {
+  const activeObserver = new IntersectionObserver(entries => {
+    const visible = entries
+      .filter(entry => entry.isIntersecting)
+      .sort((a, b) => b.intersectionRatio - a.intersectionRatio);
+
+    if (visible.length > 0) {
+      activateEpisode(visible[0].target.id);
+    }
+  }, {
+    threshold: [0.4, 0.6],
+    rootMargin: '-20% 0px -35% 0px'
+  });
+
+  sections.forEach(section => activeObserver.observe(section));
+}
+
+const initialFromHash = window.location.hash.replace('#', '');
+if (initialFromHash && initialFromHash.startsWith('episode')) {
+  activateEpisode(initialFromHash);
+} else {
+  activateEpisode('episode1');
+}
