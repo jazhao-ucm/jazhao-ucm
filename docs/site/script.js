@@ -1,35 +1,6 @@
-// Custom cursor
-const cursor = document.getElementById('cursor');
-const ring = document.getElementById('cursorRing');
-let mx = 0, my = 0, rx = 0, ry = 0;
-let rafId = null;
 let activeEpisodeId = '';
 
 const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-const coarsePointer = window.matchMedia('(pointer: coarse)').matches;
-
-if (cursor && ring && !prefersReducedMotion && !coarsePointer) {
-  document.addEventListener('mousemove', e => {
-    mx = e.clientX;
-    my = e.clientY;
-
-    if (rafId !== null) return;
-
-    rafId = requestAnimationFrame(() => {
-      cursor.style.transform = `translate(${mx - 4}px, ${my - 4}px)`;
-      // Move ring in the same frame to avoid a continuous RAF loop.
-      rx += (mx - rx) * 0.14;
-      ry += (my - ry) * 0.14;
-      ring.style.transform = `translate(${rx - 16}px, ${ry - 16}px)`;
-      rafId = null;
-    });
-  }, { passive: true });
-} else {
-  // Avoid extra animation work when unsupported or unnecessary.
-  document.body.style.cursor = 'auto';
-  if (cursor) cursor.style.display = 'none';
-  if (ring) ring.style.display = 'none';
-}
 
 // Scroll reveal (skip observer when reduced motion: CSS already shows content)
 const reveals = document.querySelectorAll('.reveal');
@@ -86,6 +57,9 @@ ensureHoverCaptions();
 
 const navLinks = Array.from(document.querySelectorAll('.nav-links a'));
 const sections = Array.from(document.querySelectorAll('main section[id^="episode"]'));
+const sectionById = new Map(sections.map(section => [section.id, section]));
+
+let scrollRafId = null;
 
 function setActiveNav(episodeId) {
   navLinks.forEach(link => {
@@ -103,31 +77,52 @@ function activateEpisode(episodeId) {
 }
 
 navLinks.forEach(link => {
-  link.addEventListener('click', () => {
+  link.addEventListener('click', event => {
+    event.preventDefault();
     const episodeId = link.getAttribute('href').replace('#', '');
+    const section = sectionById.get(episodeId);
+    if (section) {
+      section.scrollIntoView({
+        behavior: prefersReducedMotion ? 'auto' : 'smooth',
+        block: 'start'
+      });
+    }
+    history.replaceState(null, '', `#${episodeId}`);
     activateEpisode(episodeId);
   });
 });
 
-if ('IntersectionObserver' in window && sections.length > 0) {
-  const activeObserver = new IntersectionObserver(entries => {
-    let topEntry = null;
-    entries.forEach(entry => {
-      if (!entry.isIntersecting) return;
-      if (!topEntry || entry.intersectionRatio > topEntry.intersectionRatio) {
-        topEntry = entry;
-      }
-    });
+function updateActiveFromScroll() {
+  scrollRafId = null;
+  if (sections.length === 0) return;
 
-    if (topEntry) {
-      activateEpisode(topEntry.target.id);
+  const targetY = window.innerHeight * 0.38;
+  let bestSection = sections[0];
+  let bestDistance = Number.POSITIVE_INFINITY;
+
+  sections.forEach(section => {
+    const rect = section.getBoundingClientRect();
+    // Skip sections that are fully above the viewport.
+    if (rect.bottom <= 0) return;
+
+    const distance = Math.abs(rect.top - targetY);
+    if (distance < bestDistance) {
+      bestDistance = distance;
+      bestSection = section;
     }
-  }, {
-    threshold: 0.55,
-    rootMargin: '-20% 0px -35% 0px'
   });
 
-  sections.forEach(section => activeObserver.observe(section));
+  activateEpisode(bestSection.id);
+}
+
+function queueScrollUpdate() {
+  if (scrollRafId !== null) return;
+  scrollRafId = requestAnimationFrame(updateActiveFromScroll);
+}
+
+if (sections.length > 0) {
+  window.addEventListener('scroll', queueScrollUpdate, { passive: true });
+  window.addEventListener('resize', queueScrollUpdate, { passive: true });
 }
 
 const initialFromHash = window.location.hash.replace('#', '');
@@ -136,3 +131,12 @@ if (initialFromHash && initialFromHash.startsWith('episode')) {
 } else {
   activateEpisode('episode1');
 }
+
+queueScrollUpdate();
+
+window.addEventListener('hashchange', () => {
+  const episodeId = window.location.hash.replace('#', '');
+  if (sectionById.has(episodeId)) {
+    activateEpisode(episodeId);
+  }
+});
