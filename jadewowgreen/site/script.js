@@ -38,48 +38,7 @@ function ensureHoverCaptions() {
   });
 }
 
-function renderComingSoonPlaceholders() {
-  const grid = document.getElementById('coming-grid');
-  const summary = document.getElementById('coming-summary');
-  if (!grid || !summary) return;
-
-  const currentWeek = 12;
-  const now = new Date();
-  const target = new Date('2026-05-29T23:59:59');
-  const msPerWeek = 7 * 24 * 60 * 60 * 1000;
-  const diff = target.getTime() - now.getTime();
-
-  if (diff <= 0) {
-    summary.textContent = 'may 29 has arrived. this space is ready for the next drop.';
-    grid.innerHTML = `
-      <article class="work-card coming-card">
-        <h3>out now</h3>
-        <p>new work can go live any time.</p>
-      </article>
-    `;
-    return;
-  }
-
-  const weeksLeft = Math.max(1, Math.ceil(diff / msPerWeek));
-  const startWeek = currentWeek + 1;
-  const endingWeek = currentWeek + weeksLeft;
-  summary.textContent = `${weeksLeft} week${weeksLeft === 1 ? '' : 's'} until may 29 (week ${startWeek} to week ${endingWeek}).`;
-
-  const cards = Array.from({ length: weeksLeft }, (_, i) => {
-    const weekNumber = startWeek + i;
-    return `
-      <article class="work-card coming-card">
-        <h3>week ${weekNumber}</h3>
-        <p>coming soon</p>
-      </article>
-    `;
-  });
-
-  grid.innerHTML = cards.join('');
-}
-
 ensureHoverCaptions();
-renderComingSoonPlaceholders();
 
 const initial = window.location.hash.replace('#', '');
 setActiveNav(initial && navLinks.some(link => link.getAttribute('href') === `#${initial}`) ? initial : 'home');
