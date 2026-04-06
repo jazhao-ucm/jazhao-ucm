@@ -225,6 +225,15 @@ nav {
   text-transform: uppercase;
 }
 
+.hero-handle[href] {
+  text-decoration: none;
+}
+
+.hero-handle[href]:focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: 3px;
+}
+
 .hero-link:focus-visible {
   outline: var(--focus-ring);
   outline-offset: 3px;
