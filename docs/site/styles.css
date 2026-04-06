@@ -417,6 +417,27 @@ section {
   border-color: rgba(0, 188, 212, 0.8);
 }
 
+.photo-hover-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 0.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  font-size: 0.75rem;
+  text-align: center;
+  font-style: italic;
+  font-family: 'DM Sans', sans-serif;
+  line-height: 1.4;
+}
+
+.photo-slot:hover .photo-hover-caption {
+  opacity: 1;
+}
+
 .photo-caption {
   margin-top: 1rem;
   color: var(--muted);
