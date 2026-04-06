@@ -56,18 +56,18 @@ if (prefersReducedMotion) {
 
 // Week-based theming and active nav state.
 const themes = {
-  '1': { bg: '#1C1F3B', bgSoft: '#8B8FA8', bgMid: '#2E3153', surface: '#252948', ink: '#E8E4D9', muted: '#5C6070', accent: '#8B8FA8', accentDark: '#E8E4D9', line: 'rgba(92, 96, 112, 0.42)', textSoft: '#5C6070' },
-  '2': { bg: '#2C3A47', bgSoft: '#95A5A6', bgMid: '#3D4B57', surface: '#364450', ink: '#E8E4D9', muted: '#8A9BA8', accent: '#95A5A6', accentDark: '#E8E4D9', line: 'rgba(138, 155, 168, 0.4)', textSoft: '#8A9BA8' },
-  '3': { bg: '#1a1a2e', bgSoft: '#4A90D9', bgMid: '#16213e', surface: '#212744', ink: '#E8E4D9', muted: '#3A4A6B', accent: '#4A90D9', accentDark: '#E8E4D9', line: 'rgba(58, 74, 107, 0.42)', textSoft: '#3A4A6B' },
-  '4': { bg: '#2C1810', bgSoft: '#E8A87C', bgMid: '#4B2A1A', surface: '#362016', ink: '#E8E4D9', muted: '#8B5A3A', accent: '#E8A87C', accentDark: '#D4752A', line: 'rgba(139, 90, 58, 0.42)', textSoft: '#8B5A3A' },
-  '5': { bg: '#2A1F0E', bgSoft: '#C4A265', bgMid: '#3D2B13', surface: '#332615', ink: '#E8E4D9', muted: '#8B7355', accent: '#C4A265', accentDark: '#4A7C59', line: 'rgba(139, 115, 85, 0.42)', textSoft: '#8B7355' },
-  '6': { bg: '#1B2A4A', bgSoft: '#FF6B35', bgMid: '#243966', surface: '#233355', ink: '#E8E4D9', muted: '#4A5A7A', accent: '#FF6B35', accentDark: '#F7C59F', line: 'rgba(74, 90, 122, 0.42)', textSoft: '#4A5A7A' },
-  '7': { bg: '#1C3329', bgSoft: '#B8962E', bgMid: '#274739', surface: '#223C30', ink: '#E8E4D9', muted: '#3A5C4A', accent: '#B8962E', accentDark: '#E8E4D9', line: 'rgba(58, 92, 74, 0.42)', textSoft: '#3A5C4A' },
-  '8': { bg: '#1C1C1C', bgSoft: '#F4B942', bgMid: '#2A2A2A', surface: '#252525', ink: '#E8E8E8', muted: '#4A4A4A', accent: '#F4B942', accentDark: '#E8E8E8', line: 'rgba(74, 74, 74, 0.45)', textSoft: '#4A4A4A' },
-  '9': { bg: '#2A1A16', bgSoft: '#C4856A', bgMid: '#3A241F', surface: '#35221D', ink: '#E8DDD5', muted: '#6B4A42', accent: '#C4856A', accentDark: '#8C5E52', line: 'rgba(107, 74, 66, 0.42)', textSoft: '#6B4A42' },
-  '10': { bg: '#2A2420', bgSoft: '#C4A882', bgMid: '#3A332D', surface: '#342D28', ink: '#E8E4D9', muted: '#8B7355', accent: '#C4A882', accentDark: '#7A8FA6', line: 'rgba(139, 115, 85, 0.42)', textSoft: '#8B7355' },
-  '11': { bg: '#1C1408', bgSoft: '#D4A017', bgMid: '#2D210E', surface: '#261C0C', ink: '#E8E4D9', muted: '#6B5A2A', accent: '#D4A017', accentDark: '#C4856A', line: 'rgba(107, 90, 42, 0.42)', textSoft: '#6B5A2A' },
-  '12': { bg: '#0A1628', bgSoft: '#006994', bgMid: '#132538', surface: '#122033', ink: '#E8E4D9', muted: '#1A3A4A', accent: '#006994', accentDark: '#2D4A22', line: 'rgba(26, 58, 74, 0.42)', textSoft: '#1A3A4A' }
+  '1': { bg: '#f8ede3', bgSoft: '#f2dfce', bgMid: '#f4dcbf', surface: '#fff7f1', ink: '#2f1f18', muted: '#7a5a48', accent: '#c96f47', accentDark: '#9f4d2f', line: 'rgba(95, 56, 37, 0.16)', textSoft: '#8a8a88' },
+  '2': { bg: '#fdf2e8', bgSoft: '#f8d8b8', bgMid: '#ffd0a8', surface: '#fff6ee', ink: '#3b2417', muted: '#8e6045', accent: '#e28155', accentDark: '#b95c36', line: 'rgba(125, 77, 51, 0.2)', textSoft: '#996f56' },
+  '3': { bg: '#f8eef3', bgSoft: '#ecc6da', bgMid: '#e4b2d0', surface: '#fff6fb', ink: '#3a1f31', muted: '#8a5f7d', accent: '#c06fa0', accentDark: '#8f4f77', line: 'rgba(108, 72, 96, 0.2)', textSoft: '#9b748e' },
+  '4': { bg: '#eff4fb', bgSoft: '#c9dff8', bgMid: '#b1d1f7', surface: '#f8fbff', ink: '#1f2f3f', muted: '#60758d', accent: '#6e9fda', accentDark: '#4f79ab', line: 'rgba(72, 108, 143, 0.2)', textSoft: '#758ea8' },
+  '5': { bg: '#fff4e7', bgSoft: '#f9d8b1', bgMid: '#f3c38e', surface: '#fff9f1', ink: '#3a2715', muted: '#8a6642', accent: '#cf8b44', accentDark: '#9f6129', line: 'rgba(118, 83, 44, 0.2)', textSoft: '#9a7651' },
+  '6': { bg: '#eef7ef', bgSoft: '#cce7cf', bgMid: '#b7debe', surface: '#f7fcf8', ink: '#1f3323', muted: '#56755b', accent: '#6ea676', accentDark: '#487d50', line: 'rgba(66, 102, 73, 0.2)', textSoft: '#6a8e70' },
+  '7': { bg: '#f1f0fb', bgSoft: '#d2cff3', bgMid: '#bdb7ee', surface: '#f9f8ff', ink: '#26243a', muted: '#666285', accent: '#8077d0', accentDark: '#5f56aa', line: 'rgba(87, 78, 139, 0.2)', textSoft: '#7773a0' },
+  '8': { bg: '#fdeef0', bgSoft: '#f7c9d3', bgMid: '#f3b0c0', surface: '#fff7f9', ink: '#3b2028', muted: '#8d5b6a', accent: '#d67893', accentDark: '#a54f6d', line: 'rgba(123, 74, 92, 0.2)', textSoft: '#9f6d7c' },
+  '9': { bg: '#edf5f3', bgSoft: '#c9e3db', bgMid: '#acd8ca', surface: '#f6fcfa', ink: '#1f322d', muted: '#5b7f74', accent: '#67a998', accentDark: '#437d6f', line: 'rgba(66, 103, 93, 0.2)', textSoft: '#6f9086' },
+  '10': { bg: '#f8eef1', bgSoft: '#ecc7ce', bgMid: '#e2afb9', surface: '#fff7f9', ink: '#372027', muted: '#855965', accent: '#bf6f83', accentDark: '#8f4a5d', line: 'rgba(112, 71, 83, 0.2)', textSoft: '#956a76' },
+  '11': { bg: '#f2f2ea', bgSoft: '#dddac4', bgMid: '#cfc9ab', surface: '#faf9f3', ink: '#2f2b1f', muted: '#756f57', accent: '#a79b6b', accentDark: '#7c724b', line: 'rgba(99, 92, 64, 0.2)', textSoft: '#878066' },
+  '12': { bg: '#efe5db', bgSoft: '#d8c1ab', bgMid: '#e5d2bf', surface: '#fff6ec', ink: '#2f1d13', muted: '#735643', accent: '#c7784a', accentDark: '#9b5734', line: 'rgba(110, 72, 49, 0.18)', textSoft: '#8c6b59' }
 };
 
 function ensureHoverCaptions() {
@@ -82,8 +82,7 @@ function ensureHoverCaptions() {
 
     if (slot.querySelector('.photo-hover-caption')) return;
 
-    const normalizedCaption = captionRaw.replace(/&#10;/g, '\n');
-    const lines = normalizedCaption.split('\n').map(line => line.trim()).filter(Boolean);
+    const lines = captionRaw.split('\n').map(line => line.trim()).filter(Boolean);
     const caption = document.createElement('div');
     caption.className = 'photo-hover-caption';
 
