@@ -1,7 +1,4 @@
 const navLinks = Array.from(document.querySelectorAll('.nav-links a[href^="#"]'));
-const trackedSections = navLinks
-  .map(link => document.querySelector(link.getAttribute('href')))
-  .filter(Boolean);
 
 function setActiveNav(sectionId) {
   navLinks.forEach(link => {
@@ -41,40 +38,7 @@ function ensureHoverCaptions() {
   });
 }
 
-function initActiveSectionTracking() {
-  if (!('IntersectionObserver' in window) || trackedSections.length === 0) {
-    setActiveNav('home');
-    return;
-  }
-
-  const observer = new IntersectionObserver(
-    entries => {
-      let best = null;
-      entries.forEach(entry => {
-        if (!entry.isIntersecting) return;
-        if (!best || entry.intersectionRatio > best.intersectionRatio) {
-          best = entry;
-        }
-      });
-      if (best) {
-        setActiveNav(best.target.id);
-      }
-    },
-    {
-      threshold: [0.2, 0.45, 0.7],
-      rootMargin: '-15% 0px -45% 0px'
-    }
-  );
-
-  trackedSections.forEach(section => observer.observe(section));
-
-  const initial = window.location.hash.replace('#', '');
-  if (initial && trackedSections.some(section => section.id === initial)) {
-    setActiveNav(initial);
-  } else {
-    setActiveNav('home');
-  }
-}
-
 ensureHoverCaptions();
-initActiveSectionTracking();
+
+const initial = window.location.hash.replace('#', '');
+setActiveNav(initial && navLinks.some(link => link.getAttribute('href') === `#${initial}`) ? initial : 'home');
