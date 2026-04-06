@@ -1,0 +1,22 @@
+---
+description: jadewowgreen portfolio editorial arc and SP26 vs mirror workflow
+globs: jadewowgreen/**
+alwaysApply: false
+---
+
+# jadewowgreen portfolio
+
+## Editorial
+
+- Episodes are **ordered on purpose**. **Ep 12** is a deliberate **exhale** after the heavy **9–11** run; keep that contrast.
+- **Sound per episode** supports a **sequenced** (season-like) archive, not a loose collection.
+
+## Deploy and source of truth
+
+- **Canonical in SP26:** `jadewowgreen/` on **`jazhao-ucm`**. **Mirror:** **`jadewowgreen/jadewowgreen`** for Pages.
+- At any time, **one** side is the active edit source; then **sync** the other. Otherwise **asset/path drift** returns (missing files on Pages, mismatched `docs/` vs root).
+- Human-readable detail: **`jadewowgreen/PROJECT-NOTE.md`**.
+
+## Scope
+
+Do **not** change this subtree unless the user asks (same as global SP26 rule for portfolios).

@@ -8,6 +8,8 @@
 
 First-generation informatics student portfolio: **Madrid on Film**, Spring 2026 in Spain (Madrid, Segovia, Toledo, Tenerife). Episode-based narrative, personal photos only, a **sounds like** line per episode (links open Spotify search for that track), tropical island art direction inspired by Weezer's "Island in the Sun", light vanilla JS.
 
+**Editorial arc, sound pairing, and SP26 ↔ mirror workflow:** see **[`PROJECT-NOTE.md`](PROJECT-NOTE.md)**.
+
 ## Repository layout
 
 | Path | Role |
