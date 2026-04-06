@@ -1,12 +1,14 @@
 # jadewowgreen (Madrid portfolio)
 
-**SP26 subtree:** this folder lives inside the **[SP26 repo](../README.md)** at `jadewowgreen/`. **Edit and commit here first** (`jazhao-ucm` is the source of truth). The **`jadewowgreen/jadewowgreen`** repo is a **deploy mirror**: sync to it only when you want **GitHub Pages** updated. The mirror publishes from the **repository root**.
+**SP26 subtree:** this folder lives inside the **[SP26 repo](../README.md)** at `jadewowgreen/`. **Edit and commit here first** (`jazhao-ucm` is the source of truth). The **`jadewowgreen/jadewowgreen`** repo is a **deploy mirror**: sync to it only when you want **GitHub Pages** updated. The mirror publishes from the **repository root** (`main`, folder **`/`**).
 
 **Live site:** [jadewowgreen.github.io/jadewowgreen/](https://jadewowgreen.github.io/jadewowgreen/)
 
 ## What this is
 
 First-generation informatics student portfolio: **Madrid on Film**, Spring 2026 in Spain (Madrid, Segovia, Toledo, Tenerife). Episode-based narrative, personal photos only, a **sounds like** line per episode (links open Spotify search for that track), tropical island art direction inspired by Weezer's "Island in the Sun", light vanilla JS.
+
+Episode captions are intentionally short and single-line so the text stays calm beside the photo grid.
 
 **Editorial arc, sound pairing, and SP26 ↔ mirror workflow:** see **[`PROJECT-NOTE.md`](PROJECT-NOTE.md)**.
 
@@ -24,6 +26,7 @@ First-generation informatics student portfolio: **Madrid on Film**, Spring 2026 
 
 1. Open the repo in your editor.
 2. Serve from repo root (`index.html`) or open `index.html` (e.g. Live Server, or `python3 -m http.server`).
+3. On the **mirror** repo, Pages should use branch **`main`** and folder **`/ (root)`**.
 
 ## Connect
 
