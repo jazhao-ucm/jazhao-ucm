@@ -192,6 +192,15 @@ nav {
   text-transform: uppercase;
 }
 
+.hero-handle {
+  font-family: 'DM Mono', monospace;
+  font-size: 0.68rem;
+  color: var(--muted);
+  border-bottom: 1px solid var(--line);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 .hero-link:focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 3px;
@@ -301,6 +310,7 @@ section {
 
 section[id^="episode"] > .container {
   display: block;
+  width: min(1360px, 100% - 2.2rem);
 }
 
 .container {
@@ -544,7 +554,8 @@ footer {
   }
 
   .photo-grid {
-    gap: 0.6rem;
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
   }
 
   footer {

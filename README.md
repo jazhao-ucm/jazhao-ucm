@@ -48,7 +48,8 @@ Canonical source of truth stays **`site/`** and **`images/`**; `docs/` is a depl
 
 ## Connect
 
-- Instagram: [@j.adezhao](https://instagram.com/j.adezhao)
+- WeChat: `jadewowgreen`
+- Goodreads: `jadewowgreen`
 - GitHub: [@jadewowgreen](https://github.com/jadewowgreen)
 
 ## Related in SP26
@@ -63,7 +64,8 @@ Canonical source of truth stays **`site/`** and **`images/`**; `docs/` is a depl
 
 ## Connect
 
-- Instagram: [@j.adezhao](https://instagram.com/j.adezhao)
+- WeChat: `jadewowgreen`
+- Goodreads: `jadewowgreen`
 - GitHub: [@jadewowgreen](https://github.com/jadewowgreen)
 
 ## Related in SP26
