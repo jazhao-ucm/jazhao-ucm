@@ -44,13 +44,11 @@ function renderComingSoonPlaceholders() {
   if (!grid || !summary) return;
 
   const currentWeek = 12;
-  const now = new Date();
-  const target = new Date('2026-05-29T23:59:59');
-  const msPerWeek = 7 * 24 * 60 * 60 * 1000;
-  const diff = target.getTime() - now.getTime();
+  const totalWeeks = 20;
+  const weeksLeft = Math.max(0, totalWeeks - currentWeek);
 
-  if (diff <= 0) {
-    summary.textContent = 'may 29 has arrived. this space is ready for the next drop.';
+  if (weeksLeft <= 0) {
+    summary.textContent = `this is week ${currentWeek}/${totalWeeks}. complete.`;
     grid.innerHTML = `
       <article class="work-card coming-card">
         <h3>out now</h3>
@@ -60,13 +58,10 @@ function renderComingSoonPlaceholders() {
     return;
   }
 
-  const weeksLeft = Math.max(1, Math.ceil(diff / msPerWeek));
-  const startWeek = currentWeek + 1;
-  const endingWeek = currentWeek + weeksLeft;
-  summary.textContent = `${weeksLeft} week${weeksLeft === 1 ? '' : 's'} until may 29 (week ${startWeek} to week ${endingWeek}).`;
+  summary.textContent = `this is week ${currentWeek}/${totalWeeks}.`;
 
   const cards = Array.from({ length: weeksLeft }, (_, i) => {
-    const weekNumber = startWeek + i;
+    const weekNumber = currentWeek + i + 1;
     return `
       <article class="work-card coming-card">
         <h3>week ${weekNumber}</h3>
