@@ -1,8 +1,8 @@
-<!-- Tulip palette: #D4879C, #F2C4CE, #FAE8EC, #3D2B2B (matchaxmoxie). GitHub profile + j-adezhao readme. -->
+<!-- Tulip palette: #D4879C, #F2C4CE, #FAE8EC, #3D2B2B (matchaxmoxie). Hero image: j-adezhao/site/assets/images/avatar.jpg (synced from media/images/profile). -->
 
 <div align="center">
 
-<img src="https://matchaxmoxie.github.io/matchaxmoxie/j-adezhao.jpg" width="200" alt="Jade Zhao standing by a sunlit window in Madrid, holding a bouquet of pink lilies and white baby's breath wrapped in brown paper, wearing a black top and pearl necklace, smiling softly at the camera." />
+<img src="site/assets/images/avatar.jpg" width="200" alt="Jade Zhao standing by a sunlit window in Madrid, holding a bouquet of pink lilies and white baby's breath wrapped in brown paper, wearing a black top and pearl necklace, smiling softly at the camera." />
 
 # Jade Zhao
 
@@ -92,7 +92,7 @@ Optional snapshot (not HR-canonical): [`profile-summary.md`](profile-summary.md)
 <details>
 <summary><strong>Repo</strong> (<code>j-adezhao/</code> in SP26; drop this block if you paste profile-only)</summary>
 
-**Folder:** **`j-adezhao/`** in [SP26](https://github.com/jazhao-ucm/jazhao-ucm): **IU** edition of the [matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/) voice and arc, plus IU Pages (`site/`), research corpus, résumé TeX, lab. **jadexzhao** = public handle (Canva, LinkedIn, Instagram).
+**Folder:** **`j-adezhao/`** in [SP26](https://github.com/jazhao-ucm/jazhao-ucm): **IU** edition of the [matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/) voice and arc, plus IU Pages (`site/`), research corpus, résumé TeX, lab. **jadexzhao** = public handle (Canva, LinkedIn, Instagram). **IU GitHub** (**github.iu.edu**) often holds this subtree; **jlzhao.pages.iu.edu** is updated by **manual upload**, not by `git push`.
 
 **Gloss (*ratio. logos. ordo. praxis.*):** **ratio** (Latin), rationale that holds the work together; **logos** (Greek), saying it clearly so others can rely on it; **ordo** (Latin), order and sequence (for example the year-by-year arc); **praxis** (Greek), what you ship and how you act.
 

@@ -12,7 +12,7 @@ Static HTML under **`../site/`** uses **path-relative** URLs only (`./`, `../res
 
 | Where | URL shape | Notes |
 |-------|-----------|--------|
-| **IU Pages** | You upload **`j-adezhao/`** as the site root | `…/site/`, **`resume.pdf`** next to **`site/`** |
+| **IU Pages** | **Manual upload** of **`j-adezhao/`** (not tied to `git push`) as the site root | `…/site/`, **`resume.pdf`** next to **`site/`**; source repo is often on **github.iu.edu** |
 | **GitHub Pages** (source = repo root) | `…/j-adezhao/site/` | No leading **`/`** on internal links |
 | **Local** | `python3 -m http.server` from **`j-adezhao/`** | Same resolution |
 

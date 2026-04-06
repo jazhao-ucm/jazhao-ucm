@@ -5,7 +5,7 @@
     "site": "./",
     "resumeFromSiteIndex": "../resume.pdf",
     "ogImageFromSiteIndex": "assets/images/preview.jpg",
-    "notes": "HTML uses path-relative URLs (./, ../) so the same files work on IU Pages (upload j-adezhao/ as web root) and on GitHub Pages when the repo is served from its root (URLs include /j-adezhao/site/)."
+    "notes": "HTML uses path-relative URLs (./, ../) so the same files work on IU Pages (manually upload j-adezhao/ as web root; deploy is not automatic from git) and on GitHub.com Pages when the repo is served from its root (URLs include /j-adezhao/site/). IU GitHub: github.iu.edu often holds this subtree."
   },
   "identity": {
     "displayName": "Jade Zhao",

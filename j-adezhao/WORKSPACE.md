@@ -17,7 +17,7 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 
 **Live:** [jlzhao.pages.iu.edu](https://jlzhao.pages.iu.edu/) · [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf) · [site index](https://jlzhao.pages.iu.edu/site/)
 
-**Git:** [github.com/jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm) (subtree **`j-adezhao/`**). Ignores: **[`.gitignore`](.gitignore)** (**`.venv/`**, **`lab/data/simulations/`** outputs, secrets, OS cruft).
+**Git:** [github.com/jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm) (subtree **`j-adezhao/`**). Your IU copy often lives on **IU GitHub** (**github.iu.edu**); that is separate from the public mirror. Ignores: **[`.gitignore`](.gitignore)** (**`.venv/`**, **`lab/data/simulations/`** outputs, secrets, OS cruft).
 
 **Mail:** 408 N. Union Street, Bloomington, IN 47405.
 
@@ -47,10 +47,12 @@ Details: [`config/README.md`](config/README.md) (**GitHub universal** table).
 
 ### IU Pages
 
+**Deploy is manual:** pushing to **github.iu.edu** or **github.com** does **not** update **jlzhao.pages.iu.edu**. After you build assets and the résumé PDF, **upload** the **`j-adezhao/`** tree (at least **`site/`**, root **`index.html`**, **`resume.pdf`** beside **`site/`**) through whatever IU Pages upload flow you use.
+
 1. **`./scripts/setup-env.sh`** if you need Jupyter; never commit **`.venv/`**.
 2. Export **`resume/resume.pdf`** (or your canonical name) to the host.
 3. **`./scripts/sync-assets.sh`** after changing **`media/images/profile/`**.
-4. Upload **`site/`** and root **`index.html`**.
+4. Upload **`site/`** and root **`index.html`** (and the PDF) as above.
 5. Repo hygiene on push: no **`git add -f`** on ignored paths; no **`.env`**.
 
 ### GitHub Pages
