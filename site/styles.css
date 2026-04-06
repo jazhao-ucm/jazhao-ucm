@@ -35,6 +35,11 @@ body {
   transition: background 0.55s ease, color 0.35s ease;
 }
 
+/* Override hardcoded inline paragraph colors so weekly theme text colors always apply. */
+.container > p.reveal[style] {
+  color: var(--text-soft) !important;
+}
+
 body::before {
   content: '';
   position: fixed;
@@ -128,13 +133,13 @@ nav {
 }
 
 .nav-links a:hover {
-  color: var(--accent-dark);
+  color: var(--ink);
   border-color: var(--accent);
   background: color-mix(in srgb, var(--accent) 18%, transparent);
 }
 
 .nav-links a.active {
-  color: #ffffff;
+  color: var(--bg);
   border-color: var(--accent-dark);
   background: linear-gradient(135deg, var(--accent-dark), var(--accent));
 }
@@ -470,7 +475,7 @@ nav {
   font-family: 'DM Mono', monospace;
   font-size: 0.64rem;
   letter-spacing: 0.07em;
-  color: color-mix(in srgb, white 82%, var(--accent) 18%);
+  color: color-mix(in srgb, var(--surface) 78%, var(--accent) 22%);
 }
 
 .photo-caption {
