@@ -19,12 +19,6 @@ First-generation informatics student portfolio: **Madrid on Film**, Spring 2026 
 | [`images/`](images/) | Photo assets (referenced from `site/` as `../images/`) |
 | [`docs/`](docs/) | Copy of `site/`, `images/`, and root `index.html` for Pages **only if** the GitHub repo publishes from the **`/docs`** folder |
 
-## Universal Style + Skeleton Quote
-
-> "universal stylesheet + universal skeleton layout, remixed with jade zhao episode energy."
-
-This project now uses a reusable portfolio skeleton (`home`, `about`, `work`, `journey`, `contact`) with a consistent stylesheet system so future projects can drop in without reworking the structure.
-
 ### GitHub Pages: root vs docs
 
 If **Settings → Pages → Build and deployment** uses **Folder: `/docs`**, GitHub serves **`docs/site/index.html`** at `…/jadewowgreen/site/`, **not** the root `site/` folder. That is why new episodes can disappear: **`docs/` was out of date.**
