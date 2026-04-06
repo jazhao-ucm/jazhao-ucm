@@ -1,55 +1,80 @@
-// Custom cursor
-const cursor = document.getElementById('cursor');
-const ring = document.getElementById('cursorRing');
-let mx = 0, my = 0, rx = 0, ry = 0;
-let rafId = null;
+const navLinks = Array.from(document.querySelectorAll('.nav-links a[href^="#"]'));
+const trackedSections = navLinks
+  .map(link => document.querySelector(link.getAttribute('href')))
+  .filter(Boolean);
 
-const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-const coarsePointer = window.matchMedia('(pointer: coarse)').matches;
-
-if (cursor && ring && !prefersReducedMotion && !coarsePointer) {
-  document.addEventListener('mousemove', e => {
-    mx = e.clientX;
-    my = e.clientY;
-
-    if (rafId !== null) return;
-
-    rafId = requestAnimationFrame(() => {
-      cursor.style.transform = `translate(${mx - 4}px, ${my - 4}px)`;
-      rafId = null;
-    });
+function setActiveNav(sectionId) {
+  navLinks.forEach(link => {
+    const href = link.getAttribute('href');
+    link.classList.toggle('active', href === `#${sectionId}`);
   });
+}
 
-  function animateRing() {
-    rx += (mx - rx) * 0.12;
-    ry += (my - ry) * 0.12;
-    ring.style.transform = `translate(${rx - 16}px, ${ry - 16}px)`;
-    requestAnimationFrame(animateRing);
+function ensureHoverCaptions() {
+  const slots = document.querySelectorAll('.photo-slot');
+  slots.forEach(slot => {
+    const img = slot.querySelector('img');
+    if (!img || slot.querySelector('.photo-hover-caption')) return;
+
+    const raw = img.getAttribute('title');
+    if (!raw) return;
+
+    const lines = raw
+      .replace(/&#10;/g, '\n')
+      .split('\n')
+      .map(line => line.trim())
+      .filter(Boolean);
+
+    const caption = document.createElement('div');
+    caption.className = 'photo-hover-caption';
+
+    const main = document.createElement('p');
+    main.className = 'photo-hover-line-main';
+    main.textContent = lines[0] || '';
+
+    const meta = document.createElement('p');
+    meta.className = 'photo-hover-line-meta';
+    meta.textContent = lines[1] || '';
+
+    caption.append(main, meta);
+    slot.appendChild(caption);
+  });
+}
+
+function initActiveSectionTracking() {
+  if (!('IntersectionObserver' in window) || trackedSections.length === 0) {
+    setActiveNav('home');
+    return;
   }
 
-  animateRing();
-} else {
-  // Avoid extra animation work when unsupported or unnecessary.
-  document.body.style.cursor = 'auto';
-  if (cursor) cursor.style.display = 'none';
-  if (ring) ring.style.display = 'none';
-}
-
-// Scroll reveal (skip observer when reduced motion: CSS already shows content)
-const reveals = document.querySelectorAll('.reveal');
-if (prefersReducedMotion) {
-  reveals.forEach(el => el.classList.add('visible'));
-} else if ('IntersectionObserver' in window) {
-  const observer = new IntersectionObserver(entries => {
-    entries.forEach((entry, i) => {
-      if (entry.isIntersecting) {
-        setTimeout(() => entry.target.classList.add('visible'), i * 60);
-        observer.unobserve(entry.target);
+  const observer = new IntersectionObserver(
+    entries => {
+      let best = null;
+      entries.forEach(entry => {
+        if (!entry.isIntersecting) return;
+        if (!best || entry.intersectionRatio > best.intersectionRatio) {
+          best = entry;
+        }
+      });
+      if (best) {
+        setActiveNav(best.target.id);
       }
-    });
-  }, { threshold: 0.1 });
+    },
+    {
+      threshold: [0.2, 0.45, 0.7],
+      rootMargin: '-15% 0px -45% 0px'
+    }
+  );
 
-  reveals.forEach(el => observer.observe(el));
-} else {
-  reveals.forEach(el => el.classList.add('visible'));
+  trackedSections.forEach(section => observer.observe(section));
+
+  const initial = window.location.hash.replace('#', '');
+  if (initial && trackedSections.some(section => section.id === initial)) {
+    setActiveNav(initial);
+  } else {
+    setActiveNav('home');
+  }
 }
+
+ensureHoverCaptions();
+initActiveSectionTracking();
