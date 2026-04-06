@@ -1,6 +1,6 @@
 # jadewowgreen (Madrid portfolio)
 
-**SP26 subtree:** this folder lives inside the **[SP26 repo](../README.md)** at `jadewowgreen/`. **Edit and commit here**; this repo now publishes from the root only.
+**SP26 subtree:** this folder lives inside the **[SP26 repo](../README.md)** at `jadewowgreen/`. **Edit and commit here first** (`jazhao-ucm` is the source of truth). The **`jadewowgreen/jadewowgreen`** repo is a **deploy mirror**: sync to it only when you want **GitHub Pages** updated. The mirror publishes from the **repository root**.
 
 **Live site:** [jadewowgreen.github.io/jadewowgreen/](https://jadewowgreen.github.io/jadewowgreen/)
 

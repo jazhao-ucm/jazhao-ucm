@@ -13,9 +13,9 @@ alwaysApply: false
 
 ## Deploy and source of truth
 
-- **Canonical in SP26:** `jadewowgreen/` on **`jazhao-ucm`**. **Mirror:** **`jadewowgreen/jadewowgreen`** for Pages.
-- At any time, **one** side is the active edit source; then **sync** the other. Otherwise **asset/path drift** returns (missing files on Pages, mismatched `docs/` vs root).
-- Human-readable detail: **`jadewowgreen/PROJECT-NOTE.md`**.
+- **Default:** edit **`jadewowgreen/`** in **SP26**, commit, push **`jazhao-ucm`**. **Mirror** **`jadewowgreen/jadewowgreen`** is a **deploy snapshot only**: update it when you want **Pages** live, not as a parallel editing home.
+- If you hotfix on the mirror, **pull back into SP26** soon so canonical history stays true. Otherwise **asset/path drift** returns.
+- Detail: **`jadewowgreen/PROJECT-NOTE.md`**.
 
 ## Scope
 

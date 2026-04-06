@@ -57,7 +57,7 @@ When cleaning notes/tex: **formatting, structure, typos, whitespace, LaTeX typog
 
 ## Default scope (folders)
 
-- **`jadewowgreen/`:** canonical source lives **here** in SP26; do **not** change unless the user clearly asks. Editorial arc, sound pairing, and mirror workflow: **`jadewowgreen/PROJECT-NOTE.md`**; agent rule **`jadewowgreen-portfolio.mdc`**.
+- **`jadewowgreen/`:** canonical source lives **here** in SP26 (edit and commit **`jazhao-ucm`** first; mirror **`jadewowgreen/jadewowgreen`** is deploy-only). Do **not** change unless the user clearly asks. **`jadewowgreen/PROJECT-NOTE.md`** · **`jadewowgreen-portfolio.mdc`**.
 - **`matchaxmoxie/`:** canonical source lives **here** in SP26; same “do not change unless asked” as above. Layout: root **`README.md`** (deploy + inventory); **`site/`** = Pages assets + `LICENSE` / `CONTRIBUTING.md`; **`latex/`** = `jade-zhao-*.tex` + **`BUILD.md`**; **`scripts/`** = e.g. subtree publish script; **`docs/`** = Markdown lint config only.
 - User request for those paths **overrides** this.
 
