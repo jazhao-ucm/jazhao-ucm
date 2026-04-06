@@ -10,6 +10,8 @@ First-generation informatics student portfolio: **Madrid on Film**, Spring 2026 
 
 The episode captions are intentionally short and single-line so the text stays calm beside the photo grid.
 
+There is also a dynamic **Coming Soon** section that auto-generates one placeholder card per week remaining until **May 29, 2026**.
+
 ## Repository layout
 
 | Path | Role |
@@ -17,7 +19,7 @@ The episode captions are intentionally short and single-line so the text stays c
 | [`index.html`](index.html) | Root entry for GitHub Pages |
 | [`site/index.html`](site/index.html) | Main portfolio page |
 | [`site/styles.css`](site/styles.css) | Layout and design system |
-| [`site/script.js`](site/script.js) | Lightweight navigation + hover caption behavior |
+| [`site/script.js`](site/script.js) | Lightweight navigation, hover caption behavior, and coming-soon placeholder generation |
 | [`images/`](images/) | Photo assets (referenced from `site/` as `../images/`) |
 
 ## Local preview
