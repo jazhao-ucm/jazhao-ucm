@@ -63,7 +63,7 @@ Academic calendar updates (Spring 2026): spring break Mar 27 to Apr 6, no class 
 - `week-7/` - Mar 9 and 10: class notes, manufacturing, piano memo; `manufacturing-piano-memo.tex`
 - `week-8/` - Mar 16 and 17: midterm prep and customer interviews project (meeting new people); `midterm-print-all.tex` (all-in-one: exam day, cheat sheet §1 to 18, key cases, model answers from PDFs), `2026-03-17-class-notes.md` (interview brief and analysis framework), `customer-interviews-synthesis.tex` (rewritten interview Q\&A format for Karol, Aina, Laura, Mimi, plus cross-interview pattern snapshot), finals tiles moved from root: `finals-1.JPG`, `finals-2.JPG`, `finals-3.JPG`, `finals-19.JPG`, `finals-20.JPG`. Compile: `pdflatex midterm-print-all.tex` or `pdflatex customer-interviews-synthesis.tex`
 - `week-9/` - Mar 23 and 24: Mar 23: social/dating app concept (gamification, shared interests, quality over quantity); Mar 24: service internationalization and operations setup; `2026-03-23-class-notes.md`, `2026-03-24-class-notes.md`, `loveable-mvp-helper.tex`, `scan-2026-03-23.jpeg`
-- `week-10/` - Apr 6 and 7: Apr 6 NO CLASS (Semana); Apr 7 class session (TBD topic)
+- `week-10/` - Apr 6 and 7: Apr 6 NO CLASS (Semana); Apr 7 AI prototyping workflow (prompting -> Lovable -> Figma -> user validation); `2026-04-07-class-notes.md`
 - `week-11/` - Apr 13 and 14: class sessions (TBD topics)
 - `week-12/` - Apr 20 and 21: class sessions (TBD topics)
 - `week-13/` - Apr 27 and 28: class sessions (TBD topics)
