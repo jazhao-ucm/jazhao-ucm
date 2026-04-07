@@ -44,7 +44,7 @@ Quick reference for all courses and weeks. *Last updated: April 2026*
 | 7 | Mar 9 to 10 | EU institutions, exam prep (text analysis), Ribera/von der Leyen, Costa, Duff/twin executive |
 | 8 | Mar 16 | Midterm prep (day before exam), institutions recap |
 | 9 | Mar 23 to 24 | Mar 23 EU institutions by session + housing crisis workshop (Europarl search, group debate); Mar 24 CJEU/ECJ role, integration through law (Davies), primacy tensions, and rule-of-law backsliding debate (Hungary/Poland) |
-| 10 | Apr 6 to 7 | Apr 6 NO CLASS (Semana); Apr 7 class session (TBD topic) |
+| 10 | Apr 6 to 7 | Apr 6 NO CLASS (Semana); Apr 7 housing crisis positions by EU party families plus institutions recap (European Council, ECB, agencies) |
 | 11 | Apr 13 to 14 | Class sessions (TBD topics) |
 | 12 | Apr 20 to 21 | Class sessions (TBD topics) |
 | 13 | Apr 27 to 28 | Class sessions (TBD topics) |

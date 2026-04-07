@@ -73,7 +73,7 @@ Academic calendar updates (Spring 2026): spring break Mar 27 to Apr 6, no class 
 - `week-7/` - Mar 9 and 10: class notes, Twin Executive readings, exam format (text analysis), Ribera vs von der Leyen, Costa/multilateralism, Duff/Commission vs Council; `eu-institutions.tex`
 - `week-8/` - Mar 16: class notes, midterm prep (day before exam).
 - `week-9/` - Mar 23 and 24: Mar 23: EU Parliament sessions + housing crisis workshop; Mar 24: CJEU/ECJ, integration through law, primacy, rule-of-law backsliding; `2026-03-23-class-notes.md`, `2026-03-24-class-notes.md`, `eu-housing-crisis-workshop.tex`, `2026-03-23-zachs-notes.tex`, `7a-Parlamentary-Europe-reading-summary.tex`, `7b-Olsen-European-Parliament-reading-summary.tex`, `European-Parliament-reading-summary.tex`, `8a-Court-of-justice-reading-summary.tex`, `8b-The-Judiciary-reading-summary.tex`, `Some-remarks-rule-of-law-Poland-Hungary-reading-summary.tex`
-- `week-10/` - Apr 6 and 7: Apr 6 NO CLASS (Semana); Apr 7 class session (TBD topic)
+- `week-10/` - Apr 6 and 7: Apr 6 NO CLASS (Semana); Apr 7 housing crisis debate across EU party families plus institutions recap (European Council, ECB, agencies); `2026-04-07-class-notes.md`
 - `week-11/` - Apr 13 and 14: class sessions (TBD topics)
 - `week-12/` - Apr 20 and 21: class sessions (TBD topics)
 - `week-13/` - Apr 27 and 28: class sessions (TBD topics)
