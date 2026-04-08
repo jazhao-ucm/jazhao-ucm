@@ -70,7 +70,7 @@ Academic calendar updates (Spring 2026): spring break Mar 27 to Apr 6, no class 
 - `week-7/` - Mar 9 and 10: class notes (Mar 9 = business plan intro, CaféOlé; Mar 10 = work time on project); `business-plan.tex`, `business-plan-guide.tex`, `business-plan-tierra-bar.tex`
 - `week-8/` - Mar 16: class notes (midterm prep: complexity, skills, training, economic blocks); `midterm-closed-notes.tex`; `mercosur-markets-integration-areas-2019-20-midterm-export.pdf`; `lc0036-b2b-sales-process.pptx` (source deck; week-9 has PDF export)
 - `week-9/` - Mar 23 and 24: Mar 23: internationalization Part 2/3, Mercosur/integration areas, LC0036 B2B sales; Mar 24: change scenarios, financial levers, integration ladder, ICP/persona in B2B; guest discussion (trust vs uncertainty in entry, stage logic, role clarity, PM fit/authority); `doing-business-europe-part-2.pdf`, `doing-business-europe-part-3.pdf`, `mercosur-markets-integration-areas-2019-20.pdf`, `lc0036-b2b-sales-process.pdf`
-- `week-10/` - Apr 6 and 7: Apr 6 NO CLASS (Semana); Apr 7 class session (TBD topic)
+- `week-10/` - Apr 6 and 7: Apr 6 NO CLASS (Semana); Apr 7 international management execution, SWOT order, country risk, demand before facility, action plans and accountability; `2026-04-07-class-notes.md`
 - `week-11/` - Apr 13 and 14: class sessions (TBD topics)
 - `week-12/` - Apr 20 and 21: class sessions (TBD topics)
 - `week-13/` - Apr 27 and 28: class sessions (TBD topics)

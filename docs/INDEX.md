@@ -65,7 +65,7 @@ Quick reference for all courses and weeks. *Last updated: April 2026*
 | 7 | Mar 9 to 10 | Global Management Project, Business Plan (CaféOlé, Tierra Bar), work time |
 | 8 | Mar 16 | Midterm prep: complexity, skills, training, economic blocks, economic integration |
 | 9 | Mar 23 to 24 | Internationalization (Part 2/Part 3), Mercosur and integration areas, LC0036 B2B sales process, cross-file synthesis; Mar 24 execution focus: change scenarios, financial levers, integration ladder, ICP/persona application; guest discussion (trust/pace, stage logic, PM selection, earned authority) |
-| 10 | Apr 6 to 7 | Apr 6 NO CLASS (Semana); Apr 7 class session (TBD topic) |
+| 10 | Apr 6 to 7 | Apr 6 NO CLASS (Semana); Apr 7 international execution, SWOT order, country risk, customers before facility, action ownership |
 | 11 | Apr 13 to 14 | Class sessions (TBD topics) |
 | 12 | Apr 20 to 21 | Class sessions (TBD topics) |
 | 13 | Apr 27 to 28 | Class sessions (TBD topics) |
