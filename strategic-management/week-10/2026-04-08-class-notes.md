@@ -91,3 +91,39 @@ VIII. International growth pathways (closing reminder)
 - Core theme: corporate growth choices through diversification, portfolio management, and restructuring.
 - Decision lens: related versus unrelated diversification, and integration versus outsourcing.
 - Managerial message: move capital toward strategic fit and future advantage, not legacy attachment.
+
+---
+
+## Reconstructed class questions and answers
+
+I. Why do society and public opinion care about mergers and acquisitions?
+   A. Employment and local impact
+      1. M and A can change jobs, wages, and regional activity quickly.
+      2. Plant closures or relocations create concentrated social costs.
+   B. Competition and consumer welfare
+      1. High concentration can reduce choice and raise prices.
+      2. Market power shifts can affect suppliers and smaller firms.
+   C. Strategic sectors
+      1. In health, energy, defense, or infrastructure, ownership changes carry public-interest risk.
+
+II. Why do public administrations intervene, approve, or condition M and A?
+   A. Competition policy duty
+      1. Authorities review deals to prevent monopoly abuse.
+      2. Remedies may be required, such as divestitures or conduct limits.
+   B. Protection of taxpayers and public value
+      1. When subsidies, grants, or public contracts are involved, governments impose conditions.
+      2. They seek accountability for jobs, investment, and continuity.
+   C. National and strategic resilience
+      1. States may screen foreign control in critical assets.
+      2. Goal is stability, security, and long-run capability preservation.
+
+III. Why can administrations support private restructuring at all?
+   A. Spillover effects justify action
+      1. Large restructurings affect unemployment, supply chains, and local demand.
+      2. Public cost of collapse can exceed targeted intervention cost.
+   B. Support is usually conditional
+      1. Typical conditions include governance reform, investment plans, and compliance milestones.
+      2. Objective is viability, not unconditional rescue.
+   C. Strategic management link
+      1. Firms still must choose coherent portfolio logic, resource fit, and execution discipline.
+      2. Public support cannot replace sound strategy.
