@@ -86,7 +86,7 @@ Quick reference for all courses and weeks. *Last updated: April 2026*
 | 7 | Mar 12 | Competitive Strategy (cost leadership, differentiation, focus, strategy clock) |
 | 8 | Mar 18 to 19 | Exam prep overview (Units 1 to 4); external vs. internal analysis; deliberate vs. emergent strategy; Unit 6 Corporate Strategy Development (firm scope, specialization vs. diversification, vertical integration, reestructuring); finals tile set added in course week-8 folder |
 | 9 | Mar 25-26 | Starbucks strategy case discussion (success factors + growth maintenance), continued follow-up sessions |
-| 10 | Apr 8 to 9 | Apr 8 class session (TBD topic); Apr 9 class session (TBD topic) |
+| 10 | Apr 8 to 9 | Apr 8 corporate growth and diversification (related vs unrelated), BCG portfolio logic, vertical integration, restructuring; Apr 9 class session (TBD topic) |
 | 11 | Apr 15 to 16 | Class sessions (TBD topics) |
 | 12 | Apr 22 to 23 | Class sessions (TBD topics) |
 | 13 | Apr 29 to 30 | Apr 29 class session (TBD topic); Apr 30 NO CLASS |
