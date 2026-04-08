@@ -107,7 +107,7 @@ Quick reference for all courses and weeks. *Last updated: April 2026*
 | 7 | Mar 12 | Unit 4: `tener`/`tener que`, `preferir`, `ir` (planes), objetos con `de` |
 | 8 | Mar 19 | Unit 4: ropa (`es/es de`), colores, combinaciones; finals tile set added in course week-8 folder |
 | 9 | Mar 26 | No class / transition into spring break week |
-| 10 | Apr 8 to 9 | Apr 8 class session (TBD topic); Apr 9 class session (TBD topic) |
+| 10 | Apr 8 to 9 | Apr 8 handwritten notebook scans and study extract in `week-10/` (`notebook-p01` through `p08`, `2026-04-08-handwritten-notebook-study-notes.md`); Apr 9 class session (TBD topic) |
 | 11 | Apr 15 to 16 | Class sessions (TBD topics) |
 | 12 | Apr 22 to 23 | Class sessions (TBD topics) |
 | 13 | Apr 29 to 30 | Apr 29 class session (TBD topic); Apr 30 NO CLASS |
