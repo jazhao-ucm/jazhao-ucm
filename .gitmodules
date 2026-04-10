@@ -1,0 +1,3 @@
+[submodule "j-adezhao/effective-disco"]
+	path = j-adezhao/effective-disco
+	url = git@github.com:jazhao-ucm/effective-disco.git

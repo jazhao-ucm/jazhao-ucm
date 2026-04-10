@@ -32,11 +32,13 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 | **`publications/`** | Longer Markdown drafts (some are shells only). |
 | **`latex/`** | **`archives.tex`** — build with **`./scripts/build-archives.sh`**. |
 | **`resume/`** | Résumé TeX + PDF. |
+| **`docs/employment/`** | IU position description PDFs (e.g. FASE MAP Coordinator); see **`docs/employment/README.md`**. |
 | **`media/images/`** | Source art; **`./scripts/sync-assets.sh`** → **`site/assets/images/`**. |
 | **`lab/`** | Notebooks, **`data/`**, throwaway **`experiments/`**. |
 | **`site/`** | Static pages for IU Pages; **path-relative** links so **GitHub Pages** under **`…/j-adezhao/`** works too. Root **`index.html`** → **`site/`**. |
 | **`scripts/`** | env, LaTeX, assets, simulations. |
 | **`config/`** | **`site.json`** manifest; **[`config/README.md`](config/README.md)** = GitHub universal hosting notes. |
+| **`effective-disco/`** | Git submodule: **[jazhao-ucm/effective-disco](https://github.com/jazhao-ucm/effective-disco)** (vanilla JS Space Jump). After cloning SP26, run **`git submodule update --init j-adezhao/effective-disco`** (or **`--recursive`** from repo root) so the folder is populated. |
 | **`profile-summary.md`** | LinkedIn-style export as Markdown; not a substitute for the résumé. |
 
 ---
@@ -78,6 +80,7 @@ No extra build step: open the subtree in the browser at **`…/j-adezhao/site/`*
 | Senior year | [`planning/senior-year-2026-27.md`](planning/senior-year-2026-27.md) |
 | Codex | [`latex/archives.tex`](latex/archives.tex) |
 | Résumé | [`resume/`](resume/) |
+| IU job descriptions | [`docs/employment/`](docs/employment/) |
 | Simulations | [`lab/data/simulations/README.md`](lab/data/simulations/README.md) |
 | Site entry | [`site/index.html`](site/index.html) |
 | Profile snapshot | [`profile-summary.md`](profile-summary.md) |
@@ -93,6 +96,8 @@ j-adezhao/
 ├── profile-summary.md     ← archived PDF as Markdown
 ├── index.html
 ├── planning/
+├── docs/
+│   └── employment/        ← IU position PDFs + README
 ├── publications/
 ├── research/              ← README.md = arc index
 ├── latex/archives.tex
