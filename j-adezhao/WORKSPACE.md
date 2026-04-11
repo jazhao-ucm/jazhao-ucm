@@ -27,11 +27,11 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 
 | Path | Role |
 |------|------|
-| **`planning/`** | Senior-year registration snapshot and checklist. |
+| **`planning/`** | Senior-year registration snapshot and checklist; misc planning PDFs (e.g. **`request.pdf`**) when present. |
 | **`research/`** | Notes, audits, theory TeX, priorities; start at **`research/README.md`**. |
 | **`publications/`** | Longer Markdown drafts (some are shells only). |
 | **`latex/`** | **`archives.tex`** — build with **`./scripts/build-archives.sh`**. |
-| **`resume/`** | Résumé TeX + PDF. |
+| **`resume/`** | Résumé TeX (`jade-zhao-resume-ats.tex`) and PDF exports (e.g. **`jade-zhao-resume-fa26.pdf`**). |
 | **`docs/employment/`** | IU position description PDFs (e.g. FASE MAP Coordinator); see **`docs/employment/README.md`**. |
 | **`media/images/`** | Source art; **`./scripts/sync-assets.sh`** → **`site/assets/images/`**. |
 | **`lab/`** | Notebooks, **`data/`**, throwaway **`experiments/`**. |

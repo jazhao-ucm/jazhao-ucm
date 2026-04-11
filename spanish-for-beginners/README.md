@@ -76,7 +76,7 @@ Academic calendar updates (Spring 2026): spring break Mar 27 to Apr 6, no class 
 - `week-7/` - Mar 12: Unit 4 grammar (`tener`, `tener que`, `preferir`, `ir` + planes; objetos con `de`). `2026-03-12-class-notes.md`
 - `week-8/` - Mar 19: Unit 4 vocab/practice (ropa `es/es de`, colores, combinaciones). `2026-03-19-class-notes.md`; finals tiles moved from root: `finals-4.JPG`, `finals-5.JPG`, `finals-7.JPG`, `finals-8.JPG`, `finals-9.JPG`, `finals-10.JPG`, `finals-11.JPG`, `finals-12.JPG`, `finals-13.JPG`, `finals-21.JPG`, `finals-22.JPG`, `finals-23.JPG`, `finals-24.JPG`, `finals-25.JPG`
 - `week-9/` - Mar 26: no class / transition into spring break week.
-- `week-10/` - Apr 8 and 9: handwritten notebook scans (`notebook-p01-*.jpg` … `notebook-p08-*.jpg`) and `2026-04-08-handwritten-notebook-study-notes.md` (formal outline extract)
+- `week-10/` - Apr 8 and 9: handwritten notebook scans (`notebook-p01-*.jpg` … `notebook-p08-*.jpg`) and `2026-04-08-handwritten-notebook-study-notes.md` (formal outline extract); Apr 9 class-related scans `scan-2026-04-09-01.JPG` through `scan-2026-04-09-06.JPG`
 - `week-11/` - Apr 15 and 16: class sessions (TBD topics)
 - `week-12/` - Apr 22 and 23: class sessions (TBD topics)
 - `week-13/` - Apr 29 and 30: Apr 29 class session (TBD topic); Apr 30 NO CLASS

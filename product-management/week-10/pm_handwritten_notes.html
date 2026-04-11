@@ -1,0 +1,498 @@
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&family=Caveat+Brush&display=swap');
+
+  :root {
+    --ink: #1a1a2e;
+    --ink-faded: #3a3a5c;
+    --ink-light: #6b6b9b;
+    --pink-hi: #f2c4ce;
+    --pink-mid: #e8a0b0;
+    --yellow-hi: #fff3b0;
+    --blue-hi: #b8d4f0;
+    --green-hi: #b8e8c8;
+    --rule: #c8c8e8;
+    --page: transparent;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  .notebook {
+    font-family: 'Caveat', cursive;
+    color: var(--ink);
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 2rem;
+  }
+
+  .page {
+    background: transparent;
+    padding: 1.5rem 2rem 2rem 4rem;
+    position: relative;
+  }
+
+  .page::before {
+    content: '';
+    position: absolute;
+    left: 2.8rem;
+    top: 0;
+    bottom: 0;
+    width: 1.5px;
+    background: var(--pink-mid);
+    opacity: 0.5;
+  }
+
+  .page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1.2rem;
+    border-bottom: 2px solid var(--rule);
+    padding-bottom: 0.6rem;
+  }
+
+  .class-title {
+    font-family: 'Caveat Brush', cursive;
+    font-size: 24px;
+    color: var(--ink);
+    line-height: 1;
+  }
+
+  .class-date {
+    font-size: 14px;
+    color: var(--ink-light);
+    text-align: right;
+    line-height: 1.4;
+  }
+
+  .topic-banner {
+    background: var(--pink-hi);
+    border-radius: 6px;
+    padding: 5px 12px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #7a3040;
+    display: inline-block;
+    margin-bottom: 1.2rem;
+    transform: rotate(-0.3deg);
+  }
+
+  .section {
+    margin-bottom: 1.4rem;
+  }
+
+  .section-head {
+    font-family: 'Caveat Brush', cursive;
+    font-size: 19px;
+    color: var(--ink);
+    margin-bottom: 0.3rem;
+    position: relative;
+    display: inline-block;
+  }
+
+  .underline-pink { border-bottom: 2.5px solid var(--pink-mid); }
+  .underline-blue { border-bottom: 2.5px solid #7aabda; }
+  .underline-green { border-bottom: 2.5px solid #6bbf88; }
+
+  .bullets {
+    padding-left: 0.6rem;
+    list-style: none;
+  }
+
+  .bullets li {
+    font-size: 15.5px;
+    line-height: 1.65;
+    color: var(--ink-faded);
+    position: relative;
+    padding-left: 1.2rem;
+  }
+
+  .bullets li::before {
+    content: '—';
+    position: absolute;
+    left: 0;
+    color: var(--pink-mid);
+  }
+
+  .sub-bullets {
+    list-style: none;
+    padding-left: 1.4rem;
+    margin-top: 0.1rem;
+  }
+
+  .sub-bullets li {
+    font-size: 14.5px;
+    line-height: 1.6;
+    color: var(--ink-light);
+    position: relative;
+    padding-left: 1rem;
+  }
+
+  .sub-bullets li::before {
+    content: '·';
+    position: absolute;
+    left: 0.1rem;
+    color: #9b8fb8;
+  }
+
+  .highlight-box {
+    border-left: 3px solid var(--pink-mid);
+    padding: 6px 10px 6px 12px;
+    background: rgba(242, 196, 206, 0.15);
+    border-radius: 0 6px 6px 0;
+    margin: 0.5rem 0 0.8rem;
+    font-size: 15px;
+    color: var(--ink);
+  }
+
+  .highlight-yellow {
+    background: rgba(255, 243, 176, 0.4);
+    border-left-color: #e0c030;
+  }
+
+  .highlight-blue {
+    background: rgba(184, 212, 240, 0.3);
+    border-left-color: #5590c8;
+  }
+
+  .formula-box {
+    font-size: 15px;
+    background: rgba(255,243,176,0.5);
+    border: 1.5px dashed #d4b020;
+    border-radius: 8px;
+    padding: 8px 14px;
+    display: inline-block;
+    margin: 0.4rem 0;
+    color: var(--ink);
+    transform: rotate(0.2deg);
+  }
+
+  .divider {
+    border: none;
+    border-top: 1px dashed var(--rule);
+    margin: 1.2rem 0;
+  }
+
+  .two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.8rem 1.2rem;
+    margin-top: 0.3rem;
+  }
+
+  .col-card {
+    background: rgba(184, 212, 240, 0.15);
+    border-radius: 8px;
+    border: 1px solid rgba(184,212,240,0.5);
+    padding: 8px 10px;
+  }
+
+  .col-card.green { background: rgba(184, 232, 200, 0.15); border-color: rgba(107, 191, 136, 0.4); }
+  .col-card.pink  { background: rgba(242, 196, 206, 0.15); border-color: rgba(232,160,176,0.4); }
+
+  .col-title {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--ink);
+    margin-bottom: 3px;
+  }
+
+  .speaking-frame {
+    background: rgba(242,196,206,0.2);
+    border: 1.5px solid var(--pink-mid);
+    border-radius: 10px;
+    padding: 10px 14px;
+    margin-top: 0.5rem;
+  }
+
+  .frame-label {
+    font-size: 12px;
+    font-weight: 700;
+    color: #9b5060;
+    letter-spacing: 0.05em;
+    margin-bottom: 4px;
+  }
+
+  .frame-row {
+    font-size: 14.5px;
+    color: var(--ink-faded);
+    padding: 2px 0;
+  }
+
+  .frame-row span {
+    font-weight: 600;
+    color: var(--ink);
+  }
+
+  .star {
+    color: #d4507a;
+    font-size: 13px;
+  }
+
+  .tag {
+    display: inline-block;
+    font-size: 12px;
+    padding: 1px 8px;
+    border-radius: 20px;
+    background: var(--pink-hi);
+    color: #7a3040;
+    margin-left: 6px;
+    font-weight: 600;
+    vertical-align: middle;
+  }
+
+  .section-num {
+    font-size: 12px;
+    color: var(--ink-light);
+    margin-right: 4px;
+  }
+
+  .page-break {
+    margin: 2rem 0 0;
+    border-top: 3px double var(--rule);
+    padding-top: 1.5rem;
+  }
+
+  .tape {
+    background: rgba(242,196,206,0.55);
+    height: 18px;
+    width: 60px;
+    border-radius: 2px;
+    display: block;
+    margin: 0 auto -9px;
+    transform: rotate(-1.5deg);
+    opacity: 0.8;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ink: #e8e4f0;
+      --ink-faded: #c0b8d8;
+      --ink-light: #8880a8;
+      --rule: #44405a;
+      --pink-mid: #c07888;
+    }
+    .topic-banner { color: #f4d0d8; }
+  }
+</style>
+
+<div class="notebook">
+
+  <!-- PAGE 1: Feb 9 -->
+  <div class="page">
+    <div class="page-header">
+      <div class="class-title">Product Management</div>
+      <div class="class-date">Feb 9, 2026<br><span style="font-size:12px;opacity:0.7">Week 3</span></div>
+    </div>
+    <div class="topic-banner">★ Cost vs. Price · Fixed/Variable Costs · Economies of Scale</div>
+
+    <div class="section">
+      <div class="section-head underline-pink"><span class="section-num">I.</span> Cost vs. Price</div>
+      <ul class="bullets">
+        <li><b>Cost</b> = what you spend to produce &nbsp;<b>Price</b> = what you charge
+          <ul class="sub-bullets">
+            <li>low cost ≠ low price — it's a strategic choice</li>
+            <li>low cost → higher margins <i>or</i> lower price for market share</li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <div class="section-head underline-pink"><span class="section-num">II.</span> Fixed vs. Variable Costs</div>
+      <div class="two-col">
+        <div class="col-card pink">
+          <div class="col-title">Fixed</div>
+          <ul class="sub-bullets" style="padding-left:0.5rem;">
+            <li>don't change w/ volume</li>
+            <li>building, insurance, salaries</li>
+            <li>pay even at zero output</li>
+          </ul>
+        </div>
+        <div class="col-card green">
+          <div class="col-title">Variable</div>
+          <ul class="sub-bullets" style="padding-left:0.5rem;">
+            <li>change w/ volume</li>
+            <li>raw materials, packaging</li>
+            <li>more output = more cost</li>
+          </ul>
+        </div>
+      </div>
+      <div class="highlight-box" style="margin-top:0.7rem">
+        <span class="star">★</span> high fixed costs → need high volume to spread them out
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-head underline-blue"><span class="section-num">III.</span> Economies of Scale</div>
+      <ul class="bullets">
+        <li>bigger production = cheaper per unit</li>
+        <li>sources: spread fixed costs · labor specialization · bulk purchasing · learning effects</li>
+        <li>limits: diseconomies at very large scale — harder to coordinate, less flex</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <div class="section-head underline-blue"><span class="section-num">IV–V.</span> Mass Production &amp; Low-Cost Strategy</div>
+      <ul class="bullets">
+        <li>requires: high volume + standardization + efficient processes</li>
+        <li>benefits: lower unit cost, consistent quality</li>
+        <li>risks: race to bottom · thin margins · quality suffers</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <div class="section-head underline-green"><span class="section-num">VI.</span> Differentiation Strategy</div>
+      <ul class="bullets">
+        <li>compete on uniqueness, not price → premium pricing</li>
+        <li>examples: Apple · Mercedes · Starbucks</li>
+        <li>smaller market, higher margins, less price-sensitive customers</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <div class="section-head underline-green"><span class="section-num">VII–VIII.</span> Cost Structure &amp; Break-Even</div>
+      <ul class="bullets">
+        <li>components: direct materials · direct labor · overhead · admin</li>
+        <li>ask: which costs are fixed vs variable? where can we cut?</li>
+      </ul>
+      <div class="formula-box">
+        Break-even units = Fixed Costs ÷ (Price − Variable Cost/unit)
+      </div>
+      <ul class="bullets" style="margin-top:0.4rem">
+        <li>below break-even = loss &nbsp;/&nbsp; above = profit</li>
+        <li>use for: pricing decisions, volume targets, investment calls</li>
+      </ul>
+    </div>
+
+    <hr class="divider">
+
+    <div class="section">
+      <div class="section-head" style="font-size:16px;"><span class="star">★</span> Speaking Frames</div>
+      <div class="speaking-frame">
+        <div class="frame-label">30-SEC COLD CALL</div>
+        <div class="frame-row"><span>Topic:</span> state the core question in one line</div>
+        <div class="frame-row"><span>Logic:</span> 2 drivers / factors that explain the answer</div>
+        <div class="frame-row"><span>Action:</span> one decision or implication to close</div>
+        <div class="frame-row" style="margin-top:4px;font-size:13px;color:var(--ink-light)">25–30 sec max · no background · claim → evidence → close</div>
+      </div>
+      <div class="speaking-frame" style="margin-top:0.6rem;">
+        <div class="frame-label">60–90 SEC CLASS ANSWER</div>
+        <div class="frame-row"><span>Open:</span> core question + main claim / thesis</div>
+        <div class="frame-row"><span>Logic:</span> 2–3 factors · each linked cause → effect</div>
+        <div class="frame-row"><span>Close:</span> one decision or consequence — nothing new</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- PAGE 2: Feb 10 -->
+  <div class="page page-break">
+    <div class="page-header">
+      <div class="class-title">Product Management</div>
+      <div class="class-date">Feb 10, 2026<br><span style="font-size:12px;opacity:0.7">Week 3</span></div>
+    </div>
+    <div class="topic-banner">★ Car Industry · McDonald's Case · Speed vs. Customization</div>
+
+    <div class="section">
+      <div class="section-head underline-pink"><span class="section-num">I.</span> Car Industry Efficiency</div>
+      <ul class="bullets">
+        <li>many brands competing on efficiency as advantage</li>
+        <li>some brands = divisions of parent co. (Lexus = Toyota)</li>
+        <li><span class="star">★</span> look at parent co. performance, not just brand market share</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <div class="section-head underline-pink"><span class="section-num">II.</span> Case: McDonald's Production Systems</div>
+      <div class="two-col">
+        <div class="col-card pink">
+          <div class="col-title">Old System (forecast-based)</div>
+          <ul class="sub-bullets" style="padding-left:0.5rem;">
+            <li>predict demand → pre-prepare</li>
+            <li>problem: waste, cold food</li>
+            <li>limited menu flex</li>
+          </ul>
+        </div>
+        <div class="col-card green">
+          <div class="col-title">New: "Made for You"</div>
+          <ul class="sub-bullets" style="padding-left:0.5rem;">
+            <li>produce when ordered</li>
+            <li>customization possible</li>
+            <li>fresher food, less waste</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-head underline-blue"><span class="section-num">III–IV.</span> Forecast vs. Responsive Production</div>
+      <div class="highlight-box highlight-yellow">
+        core trade-off: <b>Speed vs. Flexibility</b> &nbsp;/&nbsp; <b>Cost vs. Customization</b>
+      </div>
+      <ul class="bullets">
+        <li>forecast-based → fast delivery but risk of waste / stockouts</li>
+        <li>make-to-order → no waste, slower delivery, customization ✓</li>
+        <li>which to choose depends on your target customer</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <div class="section-head underline-blue"><span class="section-num">V.</span> No One-Size-Fits-All</div>
+      <ul class="bullets">
+        <li>McDonald's → balance speed + customization</li>
+        <li>Subway → high customization, slower</li>
+        <li>Toyota → efficiency · BMW → performance/luxury · Tesla → innovation</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <div class="section-head underline-green"><span class="section-num">VI.</span> Production Strategy Options</div>
+      <div class="two-col">
+        <div class="col-card" style="background:rgba(184,212,240,0.12);border-color:rgba(184,212,240,0.4);">
+          <div class="col-title">Make-to-Stock</div>
+          <ul class="sub-bullets" style="padding-left:0.5rem;">
+            <li>produce in advance</li>
+            <li>immediate delivery</li>
+            <li>risk of obsolescence</li>
+          </ul>
+        </div>
+        <div class="col-card green">
+          <div class="col-title">Make-to-Order</div>
+          <ul class="sub-bullets" style="padding-left:0.5rem;">
+            <li>produce when ordered</li>
+            <li>no finished goods inventory</li>
+            <li>lead time required</li>
+          </ul>
+        </div>
+      </div>
+      <div class="highlight-box highlight-blue" style="margin-top:0.6rem">
+        <b>Assemble-to-Order</b> = pre-make components, assemble on demand → best of both (ex: Dell)
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-head underline-green"><span class="section-num">VII.</span> Inventory Trade-Offs</div>
+      <ul class="bullets">
+        <li>high inventory → fast delivery but carrying costs + waste risk</li>
+        <li>low inventory → less cost but longer lead times + stockout risk</li>
+        <li><b>JIT (Just-in-Time)</b> → minimize inventory, receive materials when needed · requires reliable suppliers (Toyota Production System)</li>
+      </ul>
+    </div>
+
+    <hr class="divider">
+
+    <div class="section">
+      <div class="section-head" style="font-size:16px;"><span class="star">★</span> Speaking Frames (same as 2/9)</div>
+      <div class="speaking-frame">
+        <div class="frame-label">30-SEC COLD CALL</div>
+        <div class="frame-row"><span>Topic → Logic → Action</span> &nbsp;· 25–30 sec · claim + evidence + close</div>
+      </div>
+      <div class="speaking-frame" style="margin-top:0.5rem;">
+        <div class="frame-label">60–90 SEC CLASS ANSWER</div>
+        <div class="frame-row"><span>Open</span> (claim) → <span>Logic</span> (2–3 cause→effect) → <span>Close</span> (1 implication)</div>
+      </div>
+    </div>
+
+  </div>
+
+</div>

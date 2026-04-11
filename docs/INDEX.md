@@ -86,7 +86,7 @@ Quick reference for all courses and weeks. *Last updated: April 2026*
 | 7 | Mar 12 | Competitive Strategy (cost leadership, differentiation, focus, strategy clock) |
 | 8 | Mar 18 to 19 | Exam prep overview (Units 1 to 4); external vs. internal analysis; deliberate vs. emergent strategy; Unit 6 Corporate Strategy Development (firm scope, specialization vs. diversification, vertical integration, reestructuring); finals tile set added in course week-8 folder |
 | 9 | Mar 25-26 | Starbucks strategy case discussion (success factors + growth maintenance), continued follow-up sessions |
-| 10 | Apr 8 to 9 | Apr 8 corporate growth and diversification (related vs unrelated), BCG portfolio logic, vertical integration, restructuring; Apr 9 concentration effects, public administration intervention logic, domestic champions vs open competition, and case-method resource analysis |
+| 10 | Apr 8 to 9 | Apr 8 corporate growth and diversification (related vs unrelated), BCG portfolio logic, vertical integration, restructuring; Apr 9 concentration effects, public administration intervention logic, domestic champions vs open competition, and case-method resource analysis; slide PDFs `sm-week-10-slides-1.pdf` through `sm-week-10-slides-6.pdf` in `week-10/` |
 | 11 | Apr 15 to 16 | Class sessions (TBD topics) |
 | 12 | Apr 22 to 23 | Class sessions (TBD topics) |
 | 13 | Apr 29 to 30 | Apr 29 class session (TBD topic); Apr 30 NO CLASS |
@@ -107,7 +107,7 @@ Quick reference for all courses and weeks. *Last updated: April 2026*
 | 7 | Mar 12 | Unit 4: `tener`/`tener que`, `preferir`, `ir` (planes), objetos con `de` |
 | 8 | Mar 19 | Unit 4: ropa (`es/es de`), colores, combinaciones; finals tile set added in course week-8 folder |
 | 9 | Mar 26 | No class / transition into spring break week |
-| 10 | Apr 8 to 9 | Apr 8 handwritten notebook scans and study extract in `week-10/` (`notebook-p01` through `p08`, `2026-04-08-handwritten-notebook-study-notes.md`); Apr 9 class session (TBD topic) |
+| 10 | Apr 8 to 9 | Apr 8 handwritten notebook scans and study extract in `week-10/` (`notebook-p01` through `p08`, `2026-04-08-handwritten-notebook-study-notes.md`); Apr 9 class session (TBD topic); Apr 9 scans `scan-2026-04-09-01.JPG` through `06.JPG` in `week-10/` |
 | 11 | Apr 15 to 16 | Class sessions (TBD topics) |
 | 12 | Apr 22 to 23 | Class sessions (TBD topics) |
 | 13 | Apr 29 to 30 | Apr 29 class session (TBD topic); Apr 30 NO CLASS |
