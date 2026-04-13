@@ -1,0 +1,63 @@
+EU Agencies: a literature review
+Juan Carlos Trivino and Jacint Jordana
+Institut Barcelona d’Estudis Internacionals (IBEI), Barcelona, April 2016
+
+Clean text extract notes
+
+1) Core framing
+- EU agencies emerge as part of the EU as a regulatory state.
+- Agencies are specialized, non-majoritarian bodies designed to add technical and administrative capacity.
+- The literature focuses on creation/design logics, autonomy/independence, and accountability.
+
+2) Main concepts in the review
+- Agencification: formalization of stable organizations with specific mandates.
+- Networkation: formalization of looser regulatory networks.
+- Governancing: decentralization of power through governance systems.
+- Single European Regulatory Space (SERS): shaped by these three parallel processes.
+
+3) Why agencies were created
+- Functional reasons: expertise, efficiency, harmonization, crisis response.
+- Political reasons: institutional bargaining among Commission, Council, Parliament, and member states.
+- Agencies can be compromise outcomes between supranational and intergovernmental interests.
+
+4) Networks vs agencies
+- Early EU regulation used many networks.
+- Over time, agencies often replaced or absorbed networks because agencies were more adaptable and durable.
+- Networks still matter for cooperation and diffusion of soft rules.
+
+5) Typologies of agency functions
+- Information providers.
+- Managerial or executive agencies.
+- Operational/cooperative bodies.
+- Decision-making or quasi-regulatory agencies.
+- Agencies vary by power and by whether they can issue binding decisions.
+
+6) Independence and autonomy debates
+- De jure independence (formal legal design) is not equal to de facto autonomy (real behavior).
+- Multi-principal control (Commission, Council, Parliament, member states) can weaken practical independence.
+- Agencies may show high formal autonomy but low practical room for maneuver, or the reverse.
+
+7) Accountability findings
+- Management boards are central to accountability in practice.
+- Board composition and information asymmetries can reduce effective oversight.
+- Vertical accountability is often weaker than expected.
+- Horizontal/peer accountability can be stronger, frequently with national orientation.
+
+8) Commission’s role
+- Commission often remains highly influential in agency operation, including via boards and informal rules.
+- Agencies can support an executive-center dynamic at EU level, even when formally decentralized.
+
+9) Main conclusion of the review
+- Literature is strong on institutional design and principal-agent logic.
+- Gaps remain on outcomes: whether agencies actually improve harmonization, efficiency, and policy impact.
+- More research is needed on:
+  - Coordination performance during EU-wide crises.
+  - Informal decision dynamics.
+  - Influence of non-institutional stakeholders.
+  - Multi-level governance effects beyond formal legal design.
+
+10) Study-use takeaway
+- For class/exam analysis, compare:
+  - Functional justification vs political bargaining.
+  - Formal independence vs practical autonomy.
+  - Designed accountability vs real accountability behavior.
