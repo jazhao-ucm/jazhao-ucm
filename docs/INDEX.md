@@ -24,7 +24,7 @@ Quick reference for all courses and weeks. *Last updated: April 2026*
 | 8 | Mar 16 to 17 | Midterm prep (Mar 16), all-in-one midterm-print-all.tex, customer interview project (meeting new people), finals tile set added in course week-8 folder |
 | 9 | Mar 23 to 24 | Mar 23 social app/dating app concept (gamification + common interests + quality over quantity); Mar 24 service internationalization and service operations setup |
 | 10 | Apr 6 to 7 | Apr 6 NO CLASS (Semana); Apr 7 AI prototyping workflow (prompting, Lovable, Figma, and user validation) |
-| 11 | Apr 13 to 14 | Class sessions (TBD topics) |
+| 11 | Apr 13 to 14 | Apr 13 cumulative course synthesis (Weeks 1 to 10): value creation/capture, BMC, design thinking, process/internationalization, AI prototyping, final answer structure; Apr 14 class session (TBD topic) |
 | 12 | Apr 20 to 21 | Class sessions (TBD topics) |
 | 13 | Apr 27 to 28 | Class sessions (TBD topics) |
 | 14 | May 18 to 22 | Final exams |
