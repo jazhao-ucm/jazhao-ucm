@@ -56,7 +56,7 @@ Full year narrative: [matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/
 
 **Madrid** was a stress test: write assumptions, do not imply them. **FASE:** next step, test, adjust.
 
-**Now:** **Software Engineer**, **Matcha Green Consulting** (remote, Jan 2026 to present). TypeScript, React, Node, APIs, accessibility, secure SDLC. [Résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf) · TeX: [`resume/jade-zhao-resume-ats.tex`](resume/jade-zhao-resume-ats.tex) · [`matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../matchaxmoxie/latex/docs/jade-zhao-resume.tex)
+**Matcha Green Consulting:** **Software Engineer**, remote (**Jan--May 2026**); focus **GitHub Education** and **Cursor Enterprise**. **Clinic and OMSLD (MAP, Serve IT web lead):** see [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf) · TeX: [`resume/jade-zhao-resume-ats.tex`](resume/jade-zhao-resume-ats.tex) · [`matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../matchaxmoxie/latex/docs/jade-zhao-resume.tex)
 
 ---
 
@@ -104,6 +104,7 @@ Optional snapshot (not HR-canonical): [`profile-summary.md`](profile-summary.md)
 | [**planning/senior-year-2026-27.md**](planning/senior-year-2026-27.md) | Senior checklist |
 | [**lab/README.md**](lab/README.md) | Notebooks and simulations |
 | [**profile-summary.md**](profile-summary.md) | Archived LinkedIn-style export |
+| [**docs/employment/README.md**](docs/employment/README.md) | IU position descriptions (e.g. FASE MAP Coordinator PDF) |
 
 UCM (Madrid) courses: sibling folders · calendar [`docs/INDEX.md`](../docs/INDEX.md)
 

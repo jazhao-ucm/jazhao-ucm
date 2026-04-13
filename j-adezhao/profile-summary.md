@@ -2,7 +2,7 @@
 
 **Source:** text extracted from **`Profile.pdf`** (removed from the repo). Use this as a **capability and narrative snapshot**, not a legal or HR record.
 
-**Canonical now:** employment, contact, and skills for applications live in [`README.md`](README.md) and [`resume/jade-zhao-resume-ats.tex`](resume/jade-zhao-resume-ats.tex). The PDF listed **Founder** at **Jade** (Jan 2026 to present); the résumé uses **Software Engineer** at **Matcha Green Consulting**. Treat the résumé as authoritative for current work.
+**Canonical now:** employment, contact, and skills for applications live in [`README.md`](README.md) and [`resume/jade-zhao-resume-ats.tex`](resume/jade-zhao-resume-ats.tex). The PDF listed **Founder** at **Jade** (Jan 2026 to present); the résumé uses **Software Engineer** at **Matcha Green Consulting** **Jan to May 2026** with focus on **GitHub Education** and **Cursor Enterprise**. Treat the résumé as authoritative for employment dates.
 
 ---
 
@@ -52,44 +52,47 @@ English (native or bilingual), Spanish (elementary), Fuzhounese (professional wo
 
 ## Experience (bullets condensed from PDF)
 
-### Jan 2026 to present (PDF: Founder, Jade)
+### Aug 2026 to present - Website Team Lead, Laurie Burns McRobbie Serve IT Clinic, IU Luddy
 
-- Scalable software, modular architecture, maintainable code.
-- Cross-functional work with product, design, engineering; requirements to user-centered features.
-- Legacy modernization, design patterns, performance and maintainability.
-- Testing, debugging, monitoring, reliability.
-- Secure coding and accessibility through the lifecycle.
-- APIs and backend services for front-end and data processing.
-- Code review and QA, engineering practice.
+- Website team lead (Aug 2026 onward); prior ML Researcher stint at same clinic (Jan 2024 to Dec 2025).
+- Nonprofit website work: scope, accessibility-minded delivery, handoffs, clinic and partner coordination.
+- **Capstone:** INFO-I489 after I389; team-led sites, databases, accessibility, security, digital literacy for local nonprofits. See [Informatics Capstone / Serve IT](https://informatics.indiana.edu/capstone/serve-it.html).
+
+### May 2026 to present - Undergraduate Research Assistant, IU Luddy (Bloomington) — fraudulent participant validation
+
+- Project **Automated Detecting of Fraudulent Participants** from May 2026; confirm Fall 2026 or AY 2026 to 2027 with lab.
+- Analyze fraudulent versus genuine survey responses in a real medical research case; identify signal patterns beyond standard checks (consent, IP, answer depth) toward automated participant validation.
+- Contribute to researcher-facing guidance and methods to detect coordinated or bot-like fraud in online qualitative studies, aligned with CHI fraud-prevention literature (mentors Katie Siek, Janet Panoch).
+
+### May 2026 to present - MAP Coordinator, IU Office of Student Life (Mentoring and Leadership)
+
+- Separate stint from Peer Mentor & Teaching Assistant (Aug 2023 to Dec 2025). MAP job description: [`docs/employment/`](docs/employment/). [MAP overview](https://studentlife.indiana.edu/mentoring/map/index.html).
+- **FASE Mentor Apprenticeship Program** (OMSLD): plan and coordinate bi-monthly and monthly virtual and in-person group trainings on organizational leadership and mentoring for first-year IUB students (six weeks fall, six weeks spring).
+- Maintain MAP Canvas; bi-weekly updates and session summaries to FASE director; document hours in Kuali; Ad Rx and SAS for protégé scheduling and documentation.
+- Recruit MAP protégés; assess learning and development through MAP surveys and Canvas-based tools; advise FASE director and peer mentors on programming; coordinate with Senior Peer Consultants, front office, and Graduate Mentor Coordinator.
+
+### Jan 2026 to May 2026 (PDF: Founder, Jade; résumé: Matcha Green Consulting)
+
+- Primary focus: **GitHub Education** and **Cursor Enterprise** (developer education, platform practice, and enterprise-oriented engineering).
+- Shipped TypeScript, React, and Node.js features with API validation, secure SDLC, and accessibility checks where applicable.
 
 ### May 2024 to Dec 2025 - Undergraduate Research Assistant, IU Luddy (Bloomington)
 
-- Proactive health informatics research; digital health tools for underserved populations.
-- Health data analysis with faculty; findings to product requirements and interventions.
-- Inclusive design, health equity, accessibility; social and structural determinants of care.
-- Mixed methods: surveys, interviews, analytics, statistics; iterative design.
-- Prototypes, wireframes, design systems; usability and workflow.
-- Privacy, security, ethical AI and data governance; HIPAA-aligned handling.
-- Stakeholder communication across clinical, research, and operations.
+- HIPAA-aligned Python and SQL pipelines; about 30% fewer data entry errors.
+- Real-time monitoring and anomaly detection; estimated 25 to 40% clinical workload reduction; audit trails, bias checks, oversight.
+- Mixed-methods findings to design specs for underserved patients; briefings for clinical, research, and operations.
 
 ### Jan 2024 to Dec 2025 - Machine Learning Researcher, Laurie Burns McRobbie Serve IT Clinic, IU Luddy
 
-- AI engagement solutions; personalized flows and adaptive content (+25% participation cited).
-- Outreach and partnerships; network growth (+40% in six months cited).
-- ML collaboration; model accuracy (+15% cited).
-- AI literacy workshops; 200+ non-technical participants cited.
-- Analytics, cohort and behavioral analysis; feature alignment.
-- Dashboards for engagement, retention, impact.
-- Translation of technical work for non-technical stakeholders.
+- Five-person Agile team: adaptive learning for ELL and learning disabilities; live nonprofit deploys; about +45% engagement cited.
+- Engagement features (+25% participation cited); bias checks, transparent decisions, educator oversight.
+- AI literacy workshops (200+ users cited); engagement, retention, and impact dashboards.
 
-### Aug 2023 to Dec 2025 - Undergraduate Teaching Assistant, IU Office of Student Life
+### Aug 2023 to Dec 2025 - Peer Mentor & Teaching Assistant, IU Office of Student Life (Mentoring and Leadership)
 
-- Course delivery support, grading, inclusive classrooms.
-- 15+ students mentored; workshops and one-on-one coaching.
-- Clear explanations and interventions; retention outcomes.
-- Faculty-student coordination.
-- Peer learning culture; materials and study resources.
-- Underrepresented student retention (+20% cited).
+- Course support, grading, inclusive classrooms; 15+ students mentored; workshops and one-on-one coaching.
+- Campus resource tools and automated advisor workflows; retention lift among underrepresented groups (about 20% cited).
+- International and study-away application support.
 
 ### Jan 2018 to Aug 2023 - Web Designer, Girls Who Code (Indianapolis)
 

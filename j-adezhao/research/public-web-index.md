@@ -48,7 +48,7 @@ Other people share the name; **jadexiao** on GitHub is a different person. Canon
 |------|-------------|
 | Health-management prototype (multi-domain flows, usability) | Bio / aggregator |
 | Middle Way House site (WordPress, Figma, a11y) | Post summaries |
-| Serve IT: web team, nonprofit AI training, accessibility audits | Bio, clinic context |
+| Serve IT: website team lead (Aug 2026 onward on résumé), prior ML researcher stint (through Dec 2025), nonprofit training, accessibility | Bio, clinic context |
 | Kelley MSIS 3+1 case competition | Post |
 | IU Student Leadership Conference | Snippets |
 | Family restaurant ordering / e-commerce | Old bio copy |
@@ -60,9 +60,9 @@ Clinic hub: [serveit.luddy.indiana.edu](https://serveit.luddy.indiana.edu/).
 
 ## Roles often listed
 
-AI research assistant (health UX, prototypes, ML collaboration); product designer or developer at Serve IT; peer mentor (STEM); student instructor (business or CS, Hudson and Holland in some copies). **Current role (matches portfolio résumé):** Software Engineer, Matcha Green Consulting, remote, Jan 2026 to present ([`../README.md`](../README.md), [`../resume/jade-zhao-resume-ats.tex`](../resume/jade-zhao-resume-ats.tex), [`../../matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../../matchaxmoxie/latex/docs/jade-zhao-resume.tex)).
+AI research assistant (health UX, prototypes, ML collaboration); product designer or developer at Serve IT; peer mentor (STEM); student instructor (business or CS, Hudson and Holland in some copies). **Roles on IU résumé (canonical):** Software Engineer, Matcha Green Consulting, remote, **Jan--May 2026** (GitHub Education, Cursor Enterprise); Serve IT **Website Team Lead** from **Aug 2026**; OMSLD **MAP Coordinator** from **May 2026**; see [`../README.md`](../README.md), [`../resume/jade-zhao-resume-ats.tex`](../resume/jade-zhao-resume-ats.tex), [`../../matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../../matchaxmoxie/latex/docs/jade-zhao-resume.tex).
 
-Programs: Hudson and Holland, Luddy Direct Admit, Madrid study abroad (portfolio + SP26).
+Programs: Hudson and Holland, Luddy Direct Admit, Madrid term (portfolio + SP26).
 
 ---
 
