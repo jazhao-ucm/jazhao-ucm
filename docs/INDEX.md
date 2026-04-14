@@ -45,7 +45,7 @@ Quick reference for all courses and weeks. *Last updated: April 2026*
 | 8 | Mar 16 | Midterm prep (day before exam), institutions recap |
 | 9 | Mar 23 to 24 | Mar 23 EU institutions by session + housing crisis workshop (Europarl search, group debate); Mar 24 CJEU/ECJ role, integration through law (Davies), primacy tensions, and rule-of-law backsliding debate (Hungary/Poland) |
 | 10 | Apr 6 to 7 | Apr 6 NO CLASS (Semana); Apr 7 housing crisis positions by EU party families plus institutions recap (European Council, ECB, agencies) |
-| 11 | Apr 13 to 14 | Apr 13 institutions and agencies synthesis from Session 9 readings: European Council strategic role, ECB crisis-era expansion, ECA oversight, and EU agency autonomy/accountability; Apr 14 class session (TBD topic) |
+| 11 | Apr 13 to 14 | Apr 13 institutions and agencies synthesis from Session 9 readings: European Council strategic role, ECB crisis-era expansion, ECA oversight, and EU agency autonomy/accountability; Apr 14 final-exam framing plus student presentations on gendered EMU history and monetary integration trajectory |
 | 12 | Apr 20 to 21 | Class sessions (TBD topics) |
 | 13 | Apr 27 to 28 | Class sessions (TBD topics) |
 | 14 | May 18 to 22 | Final exams |
