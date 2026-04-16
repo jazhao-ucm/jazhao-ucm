@@ -631,3 +631,189 @@ X. Deep practice routine for 3 to 4 weeks.
       1. Use printed notes only.
       2. Simulate two short business cases back to back.
       3. Grade yourself on argument strength, not just terminology.
+
+---
+
+## Ultra-detailed ESL pages (very simple language)
+
+Use this section if you want more details in easier English.
+You can copy each page by hand exactly.
+
+I. Unit 1 page, strategy basics in very simple words.
+   A. What is strategy.
+      1. Strategy means big plan for long time.
+      2. Strategy means choosing what to do first.
+      3. Strategy means saying no to some options.
+   B. Why companies need strategy.
+      1. Market changes.
+      2. Customers change.
+      3. Competitors copy fast.
+      4. Money and people are limited.
+   C. Easy example.
+      1. If one company wants to be premium, it cannot also act like low-cost discount in every product.
+      2. If it tries both at same time with no clear system, customers get confused.
+   D. What to write in exam.
+      1. Start with clear label.
+      2. Explain long-term goal.
+      3. Explain tradeoff.
+      4. Explain why this choice fits market.
+
+II. Unit 2 page, mission, vision, objectives, and governance.
+   A. Mission and vision in simple words.
+      1. Mission = who we are now.
+      2. Vision = where we want to be later.
+   B. Objective in simple words.
+      1. Objective must be measurable.
+      2. Objective must have time.
+      3. Objective must have owner.
+   C. Agency problem in simple words.
+      1. Owners want return.
+      2. Managers sometimes want power, size, and prestige.
+      3. So company needs control system.
+   D. Good governance tools.
+      1. Board checks decisions.
+      2. Incentives match long-term value.
+      3. Reports make actions visible.
+   E. What to write in exam.
+      1. Show conflict.
+      2. Show governance response.
+      3. Show expected effect on strategy quality.
+
+III. Unit 3 page, external analysis in clear steps.
+   A. PESTEL writing template.
+      1. Name factor.
+      2. Say if opportunity or threat.
+      3. Explain business effect.
+      4. Give action.
+   B. Five Forces writing template.
+      1. Rivalry, how hard is competition now.
+      2. Entrants, how easy new firms can enter.
+      3. Substitutes, other products solving same need.
+      4. Buyer power, can customers push price down.
+      5. Supplier power, can suppliers push cost up.
+   C. Easy memory line.
+      1. External analysis asks, what outside pressure changes profit and survival.
+   D. What to write in exam.
+      1. Do not only list theory words.
+      2. Connect each force to profit impact.
+      3. End with strategic response.
+
+IV. Unit 4 page, internal analysis in easy language.
+   A. Value chain meaning.
+      1. Value chain shows where company creates value.
+      2. Value chain shows where company loses efficiency.
+   B. RBV meaning.
+      1. RBV says firms are different because resources are different.
+      2. Some resources are normal, some are strategic.
+   C. VRIO in simple words.
+      1. Valuable = helps money or protection.
+      2. Rare = not many competitors have it.
+      3. Inimitable = hard to copy fast.
+      4. Organized = company can use it well.
+   D. Common mistake.
+      1. Students list resources but do not explain outcomes.
+      2. Better way, resource -> capability -> market effect.
+   E. What to write in exam.
+      1. Name resource.
+      2. Test with VRIO.
+      3. Explain why this creates advantage.
+
+V. Unit 5 page, competitive strategy in easy language.
+   A. Cost leadership.
+      1. Goal is lower cost system, not lower quality only.
+      2. Need efficient process and scale.
+   B. Differentiation.
+      1. Goal is better perceived value.
+      2. Customers must feel the difference.
+   C. Focus strategy.
+      1. Choose one segment.
+      2. Serve that segment better than broad rivals.
+   D. Strategy clock in simple words.
+      1. Position 1-2 low price.
+      2. Position 3 hybrid value-for-money.
+      3. Position 4-5 differentiation and premium focus.
+      4. Position 6-8 risky because price is high but value is weak.
+   E. What to write in exam.
+      1. Say current position.
+      2. Use evidence for price and value.
+      3. Explain if position is stable or risky.
+
+VI. Unit 6 page, corporate strategy and growth options.
+   A. Main scope options.
+      1. Specialization.
+      2. Related diversification.
+      3. Unrelated diversification.
+      4. Vertical integration.
+      5. Internationalization.
+   B. M and A in simple words.
+      1. M and A gives speed.
+      2. M and A also gives high risk.
+   C. Main M and A risks.
+      1. Overpaying.
+      2. Culture conflict.
+      3. Systems not matching.
+      4. Leadership conflict.
+   D. What to write in exam.
+      1. Explain motive first.
+      2. Explain expected value.
+      3. Explain top risks.
+      4. Give mitigation plan.
+
+VII. Internationalization page, easy exam logic.
+   A. Entry methods.
+      1. Internal build.
+      2. Alliance.
+      3. Acquisition.
+   B. Why choose acquisition.
+      1. Faster market access.
+      2. Local partner assets.
+      3. Existing channels and licenses.
+   C. Why acquisition can fail.
+      1. Integration takes too long.
+      2. Local market misunderstood.
+      3. Headquarters and local team conflict.
+   D. What to write in exam.
+      1. State entry mode.
+      2. Explain why this mode fits.
+      3. Explain top 3 risks.
+      4. Explain controls for each risk.
+
+VIII. Case-answer page, exact writing flow.
+   A. Paragraph 1, label and proof.
+      1. This company follows [label].
+      2. Fact 1 and Fact 2 prove this.
+   B. Paragraph 2, external analysis.
+      1. PESTEL and Five Forces effects.
+      2. Direct effect on price, cost, demand, risk.
+   C. Paragraph 3, internal analysis.
+      1. Value chain strength and weakness.
+      2. Resource and capability test with VRIO.
+   D. Paragraph 4, recommendation.
+      1. Action.
+      2. Why action fits.
+      3. Risk and mitigation.
+   E. Final sentence.
+      1. Strategy works if assumptions hold and execution milestones are met.
+
+IX. Recession scenario page, very practical.
+   A. Situation.
+      1. Company is premium differentiation.
+      2. Recession reduces customer spending power.
+   B. Strategic response.
+      1. Move toward hybrid.
+      2. Keep core quality signals.
+      3. Lower price carefully.
+   C. Risks of wrong response.
+      1. If price cut is too deep, brand damage.
+      2. If no adaptation, volume collapse.
+   D. What to write in exam.
+      1. Show demand mechanism.
+      2. Show tradeoff.
+      3. Show balanced recommendation.
+
+X. Long answer phrase bank, ESL version.
+   A. This strategy is [label] because the company commits resources to [fact], which creates [mechanism].
+   B. The main external pressure is [force], and it changes [price/cost/demand/risk] through [mechanism].
+   C. The key internal strength is [resource/capability], and it is strategic because [VRIO reason].
+   D. The main risk is [risk], so management should [mitigation action] with [timeline].
+   E. Therefore, the recommendation is [action], valid if [condition 1] and [condition 2] hold.
