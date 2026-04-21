@@ -7,7 +7,7 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 | If you want… | Open |
 |----------------|------|
 | Public profile (voice, badges, contact) | [`README.md`](README.md) |
-| Clean checkpoint snapshot (this cycle) | [`CHECKPOINT-2026-04-21.md`](CHECKPOINT-2026-04-21.md) |
+| Four flagship projects | `projects/madrid-stress-test.md`, `projects/mentorship-template.md`, `projects/agentic-ai-healthcare.md`, `projects/agentic-ai-education.md` |
 | LinkedIn-style capability snapshot (Markdown) | [`profile-summary.md`](profile-summary.md) |
 | **Research arc** (pre-Madrid to Madrid to now) with file links | [`research/README.md`](research/README.md) |
 | **Public web index** (bios and posts; verify) | [`research/public-web-index.md`](research/public-web-index.md) |
@@ -15,8 +15,6 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 | **GitHub universal** (path-relative static site, IU + Pages) | [`config/README.md`](config/README.md) |
 | Senior-year courses and running checklist | [`planning/senior-year-2026-27.md`](planning/senior-year-2026-27.md) |
 | How to publish, build, and run scripts | This file (below) |
-
-**Checkpoint rule:** for IU upload, treat the dated checkpoint file as the current release note for this subtree.
 
 **Live:** [jlzhao.pages.iu.edu](https://jlzhao.pages.iu.edu/) · [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf) · [site index](https://jlzhao.pages.iu.edu/site/)
 
@@ -31,6 +29,7 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 | Path | Role |
 |------|------|
 | **`planning/`** | Senior-year registration snapshot and checklist; misc planning PDFs (e.g. **`request.pdf`**) when present. |
+| **`projects/`** | Four flagship project summaries (Madrid, mentorship, agentic AI in healthcare, agentic AI in education). |
 | **`research/`** | Notes, audits, theory TeX, priorities; start at **`research/README.md`**. |
 | **`publications/`** | Longer Markdown drafts (some are shells only). |
 | **`latex/`** | **`archives.tex`** — build with **`./scripts/build-archives.sh`**. |
@@ -80,6 +79,7 @@ No extra build step: open the subtree in the browser at **`…/j-adezhao/site/`*
 | Topic | Path |
 |-------|------|
 | Research arc | [`research/README.md`](research/README.md) |
+| Four project files | `projects/madrid-stress-test.md`, `projects/mentorship-template.md`, `projects/agentic-ai-healthcare.md`, `projects/agentic-ai-education.md` |
 | Senior year | [`planning/senior-year-2026-27.md`](planning/senior-year-2026-27.md) |
 | Codex | [`latex/archives.tex`](latex/archives.tex) |
 | Résumé | [`resume/`](resume/) |
@@ -96,6 +96,7 @@ No extra build step: open the subtree in the browser at **`…/j-adezhao/site/`*
 j-adezhao/
 ├── README.md              ← profile
 ├── WORKSPACE.md           ← this file
+├── projects/              ← four flagship project files
 ├── profile-summary.md     ← archived PDF as Markdown
 ├── index.html
 ├── planning/

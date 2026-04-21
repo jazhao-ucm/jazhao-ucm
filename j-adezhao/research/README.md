@@ -6,6 +6,13 @@
 
 Public bios (verify): [`public-web-index.md`](public-web-index.md).
 
+Flagship project files:
+
+- `../projects/madrid-stress-test.md`
+- `../projects/mentorship-template.md`
+- `../projects/agentic-ai-healthcare.md`
+- `../projects/agentic-ai-education.md`
+
 ---
 
 ## I. Pre-Madrid (IU, through early 2026)
