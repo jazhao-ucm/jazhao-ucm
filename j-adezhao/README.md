@@ -1,49 +1,36 @@
-# Jade Zhao
+# Jade Zhao - IU Capstone and Thesis Workspace
 
-Informatics at Indiana University. This folder is my IU project and research layer inside SP26.
+I am an Informatics student at Indiana University. This folder is my first-person academic workspace for capstone and thesis development in SP26. I use it to maintain a coherent research narrative, track methods, and preserve evidence for writing, evaluation, and handoff.
 
-## Start here
+## Research purpose
 
-| Need | Open |
-|------|------|
-| Four focus projects | `projects/` files below |
-| Research map and references | [`research/README.md`](research/README.md) |
-| Workspace and deploy flow | [`WORKSPACE.md`](WORKSPACE.md) |
-| Resume source of truth | [`resume/jade-zhao-resume-ats.tex`](resume/jade-zhao-resume-ats.tex) |
+My central question is how to design agentic systems that remain trustworthy across high-stakes domains and real institutional constraints. I focus on governance, explainability, and measurable outcomes in both healthcare and education contexts.
 
-## Four focus projects
+## Core portfolio for capstone and thesis
 
-1. **Madrid stress test**  
-   Same method in a different institutional and cultural context.  
-   Portfolio: [Madrid piece](https://matchaxmoxie.github.io/matchaxmoxie/junior.html#piece-madrid-stress-test)  
+1. **Madrid Stress Test** - cross-cultural transfer of method under institutional variation  
    File: [`projects/madrid-stress-test.md`](projects/madrid-stress-test.md)
-
-2. **Mentorship template**  
-   Repeatable path from confused to clear for student support systems.  
-   Portfolio: [Mentorship piece](https://matchaxmoxie.github.io/matchaxmoxie/sophomore.html#piece-mentorship-template)  
+2. **Mentorship Template** - reproducible mentoring framework for equitable student support  
    File: [`projects/mentorship-template.md`](projects/mentorship-template.md)
-
-3. **Agentic AI in healthcare**  
-   Trustworthy and auditable workflows for health research and sensitive contexts.  
+3. **Agentic AI in Healthcare** - auditable and safety-aware workflows for health research contexts  
    File: [`projects/agentic-ai-healthcare.md`](projects/agentic-ai-healthcare.md)
-
-4. **Agentic AI in education**  
-   Adaptive learning systems with transparency, accessibility, and educator oversight.  
+4. **Agentic AI in Education** - adaptive and transparent learning support with educator oversight  
    File: [`projects/agentic-ai-education.md`](projects/agentic-ai-education.md)
 
-## Links
+## Document hierarchy (source of truth)
 
-- Portfolio: [matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)
+1. Resume and role timeline: [`resume/jade-zhao-resume-ats.tex`](resume/jade-zhao-resume-ats.tex)
+2. Workspace methods and publishing flow: [`WORKSPACE.md`](WORKSPACE.md)
+3. Research map and references: [`research/README.md`](research/README.md)
+4. Public web aggregation (secondary, verify): [`research/public-web-index.md`](research/public-web-index.md)
+
+## Academic links
+
 - IU site: [jlzhao.pages.iu.edu](https://jlzhao.pages.iu.edu/)
 - Resume PDF: [jlzhao.pages.iu.edu/resume.pdf](https://jlzhao.pages.iu.edu/resume.pdf)
-- LinkedIn: [linkedin.com/in/jadexzhao](https://www.linkedin.com/in/jadexzhao)
-- GitHub: [github.com/jazhao-ucm](https://github.com/jazhao-ucm)
+- Portfolio narrative: [matchaxmoxie](https://matchaxmoxie.github.io/matchaxmoxie/)
 
 ## Contact
 
-- IU: [jlzhao@iu.edu](mailto:jlzhao@iu.edu)
-- Personal: [jadexzhao@outlook.com](mailto:jadexzhao@outlook.com)
-
----
-
-Canonical order when in doubt: resume TeX -> `README.md` and `WORKSPACE.md` -> research indexes -> public web aggregation.
+- IU email: [jlzhao@iu.edu](mailto:jlzhao@iu.edu)
+- Secondary email: [jadexzhao@outlook.com](mailto:jadexzhao@outlook.com)

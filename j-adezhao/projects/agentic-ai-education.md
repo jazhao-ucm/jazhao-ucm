@@ -1,26 +1,26 @@
 # Project 4 - Agentic AI in Education
 
-## Why this project matters
+## Research objective
 
-Education tools should support learning progress without sacrificing accessibility, transparency, or educator control.
+I evaluate how agentic systems can support learning outcomes while preserving accessibility, transparency, and educator governance.
 
-## Problem
+## Problem statement
 
-Many AI learning tools optimize for novelty rather than measurable, inclusive learning outcomes.
+Educational AI is frequently optimized for novelty and engagement metrics without sufficient attention to inclusion, interpretability, or instructional accountability.
 
-## Approach
+## Method
 
-- Design adaptive and explainable learning interactions for diverse learners.
-- Pair engagement goals with bias checks and educator oversight.
-- Measure outcomes in participation, retention, and usability, not only model output quality.
+- I design adaptive, explainable interactions for diverse learner profiles.
+- I pair engagement targets with bias checks and educator-in-the-loop oversight.
+- I evaluate outcomes with participation, retention, and usability metrics rather than model output quality alone.
 
-## Evidence in this repo
+## Evidence in this repository
 
 - `../research/agentic-systems/panels/agent-panel-feedback-2026-03-31.md`
 - `../research/agentic-systems/formulas/agentic-ai-formula-primer.md`
 - `../publications/agentic-ux-math.md`
 - `../research/high-impact-research-priorities.md`
 
-## Current status
+## Status for capstone and thesis
 
-Active direction tied to prior Serve IT and learning-platform work; expanding toward a clearer evaluation spec.
+This direction extends my prior learning-platform and community-facing work. The next step is a formal evaluation specification with benchmark tasks and release criteria.

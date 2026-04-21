@@ -1,26 +1,26 @@
 # Project 3 - Agentic AI in Healthcare
 
-## Why this project matters
+## Research objective
 
-Healthcare-facing systems must be useful, safe, and auditable under sensitive conditions.
+I study how to design and evaluate agentic workflows for healthcare and health research settings that require safety, traceability, and methodological rigor.
 
-## Problem
+## Problem statement
 
-Clinical and research workflows need trustworthy automation, but weak governance or poor validation can create real harm.
+Healthcare workflows can benefit from automation, but weak governance, poor validation, or opaque decision paths can introduce unacceptable risk.
 
-## Approach
+## Method
 
-- Build and evaluate agentic workflows with explicit checkpoints and audit trails.
-- Prioritize survey-integrity and participant-validation methods for research quality.
-- Connect privacy-aware design decisions with practical screening guidance.
+- I design workflows with explicit checkpoints, approvals, and audit trails.
+- I prioritize survey-integrity and participant-validation methods to protect research quality.
+- I align privacy-aware system behavior with practical screening and escalation guidance.
 
-## Evidence in this repo
+## Evidence in this repository
 
 - `../research/agentic-systems/ux-audit/le-chat-dossier.md`
 - `../research/ethics-governance/le-chat-question-bank.md`
 - `../research/high-impact-research-priorities.md`
 - `../research/womens-health/agent-prototypes/README.md`
 
-## Current status
+## Status for capstone and thesis
 
-Active core focus for 2026 research work, with documentation structured for handoff and publication development.
+This is my primary 2026 thesis track. The documentation is organized for evidence synthesis, defensible methodology, and publication-oriented writing.

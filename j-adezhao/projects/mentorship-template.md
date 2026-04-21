@@ -1,25 +1,25 @@
 # Project 2 - Mentorship Template
 
-## Why this project matters
+## Research objective
 
-Mentoring should be repeatable and fair, not dependent on luck, personality fit, or informal access.
+I design a reproducible mentoring framework that improves consistency, equity, and actionability for students navigating academic and professional transitions.
 
-## Problem
+## Problem statement
 
-Students often receive inconsistent guidance and unclear next steps, especially in high-transition periods.
+Mentorship quality is often uneven because support depends on informal access, mentor style, and undocumented practices.
 
-## Approach
+## Method
 
-- Build a repeatable mentoring loop: clarify goals, define next action, check outcomes, adjust.
-- Translate support into templates that peers and program leads can reuse.
-- Emphasize inclusion for first-generation and low-income students.
+- I use a repeatable cycle: clarify goals, define immediate actions, review outcomes, and revise interventions.
+- I convert mentoring practices into reusable templates that peer mentors and program leads can adopt.
+- I center inclusion for first-generation and low-income students in process design and evaluation.
 
-## Evidence in this repo
+## Evidence in this repository
 
 - `../planning/linkedin-and-resume-experience.md`
 - `../docs/employment/README.md`
 - `../research/public-web-index.md`
 
-## Current status
+## Status for capstone and thesis
 
-Operational and continuously refined through MAP and peer mentorship responsibilities.
+The framework is operational through MAP and peer mentorship practice. The next step is formal evaluation and documentation suitable for a methods appendix.

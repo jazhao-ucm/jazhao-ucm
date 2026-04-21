@@ -1,12 +1,12 @@
-# Research: one thread, three cities (metaphorically)
+# Research Corpus (Capstone and Thesis)
 
-**Bloomington to Madrid to back.** This directory is the **informatics and agentic-systems** corpus: what you wrote while the method matured, not the full **UCM course packet** (that stays in sibling folders; calendar at repo **`docs/INDEX.md`**).
+I use this directory as my primary academic corpus for capstone and thesis development. It contains theory notes, evaluation assets, applied methods, and supporting artifacts for the four core projects.
 
-**Portfolio years** (voice and story): [Freshman](https://matchaxmoxie.github.io/matchaxmoxie/freshman.html) · [Sophomore](https://matchaxmoxie.github.io/matchaxmoxie/sophomore.html) · [Junior](https://matchaxmoxie.github.io/matchaxmoxie/junior.html) · [Senior](https://matchaxmoxie.github.io/matchaxmoxie/senior.html).
+Portfolio context: [Freshman](https://matchaxmoxie.github.io/matchaxmoxie/freshman.html) · [Sophomore](https://matchaxmoxie.github.io/matchaxmoxie/sophomore.html) · [Junior](https://matchaxmoxie.github.io/matchaxmoxie/junior.html) · [Senior](https://matchaxmoxie.github.io/matchaxmoxie/senior.html).
 
-Public bios (verify): [`public-web-index.md`](public-web-index.md).
+Public web aggregation (secondary, verify): [`public-web-index.md`](public-web-index.md).
 
-Flagship project files:
+Core project files:
 
 - `../projects/madrid-stress-test.md`
 - `../projects/mentorship-template.md`
@@ -15,15 +15,15 @@ Flagship project files:
 
 ---
 
-## I. Pre-Madrid (IU, through early 2026)
+## I. Foundations (pre-Madrid, IU)
 
-**Theme:** rhythm, ServeIT, FASE, HCI and research method, learning that vague instructions are expensive before the cost was literal abroad.
+**Research theme:** methodological discipline in HCI and agentic systems before cross-cultural transfer.
 
 | Track | Files |
 |-------|--------|
 | Trust / UX / math | [`agentic-systems/ux-audit/agent-trust-matrix.md`](agentic-systems/ux-audit/agent-trust-matrix.md), [`agentic-systems/formulas/agentic-ai-formula-primer.md`](agentic-systems/formulas/agentic-ai-formula-primer.md), [`agentic-systems/applied-math/trust-scoring.md`](agentic-systems/applied-math/trust-scoring.md), [`agentic-systems/applied-math/bias-audit-formulas.md`](agentic-systems/applied-math/bias-audit-formulas.md) |
 | Governance | [`ethics-governance/le-chat-question-bank.md`](ethics-governance/le-chat-question-bank.md), [`ethics-governance/governance-metrics.tex`](ethics-governance/governance-metrics.tex) |
-| Running evaluation | [`agentic-systems/ux-audit/le-chat-dossier.md`](agentic-systems/ux-audit/le-chat-dossier.md) (continues in later sections) |
+| Running evaluation | [`agentic-systems/ux-audit/le-chat-dossier.md`](agentic-systems/ux-audit/le-chat-dossier.md) |
 | Theory (TeX) | [`agentic-theory/`](agentic-theory/) |
 | Health prototypes | [`womens-health/agent-prototypes/`](womens-health/agent-prototypes/) |
 | Draft paper shell | [`../publications/agentic-ux-math.md`](../publications/agentic-ux-math.md) |
@@ -31,9 +31,9 @@ Flagship project files:
 
 ---
 
-## II. Madrid (junior abroad, 2025 to 2026)
+## II. Cross-cultural transfer (Madrid, 2025 to 2026)
 
-**Theme:** same method, new language and bureaucracy; health framing; cross-cultural trust is not optional.
+**Research theme:** transferability of method under language, bureaucracy, and institutional variation.
 
 | Track | Files |
 |-------|--------|
@@ -41,15 +41,15 @@ Flagship project files:
 | Notebook + sims | [`cultural-adaptation.ipynb`](../lab/notebooks/mathematical-models/cultural-adaptation.ipynb); outputs via [`run-simulations.sh`](../scripts/run-simulations.sh) into **`../lab/data/simulations/`** |
 | Theory | [`agentic-theory/agent-architectures/cross-cultural-adaptation.tex`](agentic-theory/agent-architectures/cross-cultural-adaptation.tex), rest of [`agentic-theory/`](agentic-theory/) |
 | Spine | [`high-impact-research-priorities.md`](high-impact-research-priorities.md) |
-| Bridge to senior | [`agentic-systems/ux-audit/le-chat-dossier.md`](agentic-systems/ux-audit/le-chat-dossier.md), [`agentic-systems/panels/agent-panel-feedback-2026-03-31.md`](agentic-systems/panels/agent-panel-feedback-2026-03-31.md) |
+| Bridge to senior work | [`agentic-systems/ux-audit/le-chat-dossier.md`](agentic-systems/ux-audit/le-chat-dossier.md), [`agentic-systems/panels/agent-panel-feedback-2026-03-31.md`](agentic-systems/panels/agent-panel-feedback-2026-03-31.md) |
 
-**Piece:** [Madrid stress test](https://matchaxmoxie.github.io/matchaxmoxie/junior.html#piece-madrid-stress-test).
+Related project narrative: [Madrid stress test](https://matchaxmoxie.github.io/matchaxmoxie/junior.html#piece-madrid-stress-test).
 
 ---
 
-## III. Now (senior, 2026 to 2027)
+## III. Senior phase (2026 to 2027)
 
-**Theme:** capstone, independent study, graduation, and **handoff-quality** docs. Operational checklist: [`../planning/senior-year-2026-27.md`](../planning/senior-year-2026-27.md).
+**Research theme:** capstone execution, thesis readiness, and handoff-quality documentation. Operational checklist: [`../planning/senior-year-2026-27.md`](../planning/senior-year-2026-27.md).
 
 | Track | Files |
 |-------|--------|
@@ -58,21 +58,21 @@ Flagship project files:
 | Long-form codex | [`../latex/archives.tex`](../latex/archives.tex) |
 | Survey integrity / fraud validation | [`agentic-systems/ux-audit/le-chat-dossier.md`](agentic-systems/ux-audit/le-chat-dossier.md), [`ethics-governance/le-chat-question-bank.md`](ethics-governance/le-chat-question-bank.md) |
 
-**Piece:** [Senior year](https://matchaxmoxie.github.io/matchaxmoxie/senior.html).
+Related project narrative: [Senior year](https://matchaxmoxie.github.io/matchaxmoxie/senior.html).
 
-Anything you still edit lives here until you freeze a capstone or thesis snapshot.
+All in-progress research artifacts remain here until I freeze final capstone and thesis snapshots.
 
 ---
 
-## IV. Active research thread (2026)
+## IV. Active thesis threads (2026)
 
-Current throughline across this folder:
+Current throughlines across this corpus:
 
 - **Agentic trust and governance:** measurable checkpoints, auditability, and reliability under uncertainty.
 - **Cross-cultural adaptation:** explainability and tone calibrated to language, context, and institutional norms.
 - **Survey integrity in health research:** fraudulent-versus-authentic response analysis and practical screening guidance.
 
-Use this as the default framing for new notes, experiments, and publication drafts.
+I use these threads as the default framing for new notes, experiments, and publication drafts.
 
 ---
 
@@ -85,12 +85,12 @@ Use this as the default framing for new notes, experiments, and publication draf
 | [`ethics-governance/`](ethics-governance/) | Questions, metrics |
 | [`womens-health/`](womens-health/) | Prototype notes + TeX |
 | [`high-impact-research-priorities.md`](high-impact-research-priorities.md) | Cross-cutting map |
-| [`public-web-index.md`](public-web-index.md) | Web-aggregated themes, projects, roles (disclaimer at top) |
+| [`public-web-index.md`](public-web-index.md) | Web-aggregated themes, projects, and roles (verification required) |
 
-Drafts in **[`../publications/`](../publications/)**. Notebooks and ignored outputs in **[`../lab/`](../lab/)**.
+Draft manuscripts are in **[`../publications/`](../publications/)**. Notebooks and ignored outputs are in **[`../lab/`](../lab/)**.
 
 ---
 
-## Maintenance
+## Maintenance rule
 
-Add **one line** under the era that best fits when you drop a new file. If it spans everything, file it under **III** and note “started in I or II.”
+When I add a new file, I place it in the most relevant phase section above. If it spans multiple phases, I place it in section III and note where it originated.

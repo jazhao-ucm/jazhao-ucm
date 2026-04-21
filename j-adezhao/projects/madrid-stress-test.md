@@ -1,25 +1,25 @@
 # Project 1 - Madrid Stress Test
 
-## Why this project matters
+## Research objective
 
-I took the same design and research method into a different institutional and cultural context to test what still works under pressure.
+I investigate whether a design and research method developed at IU remains reliable when transferred into a different linguistic, bureaucratic, and institutional environment.
 
-## Problem
+## Problem statement
 
-Processes that feel clear in one context often fail when language, policy, and expectations shift.
+Procedures that appear clear in one context often lose fidelity across cultures, especially when assumptions are implicit rather than documented.
 
-## Approach
+## Method
 
-- Document assumptions before execution.
-- Write instruction pathways with explicit constraints and handoff points.
-- Compare communication outcomes across contexts instead of assuming transferability.
+- I externalize assumptions before execution.
+- I formalize instruction pathways with explicit constraints, decision points, and handoff checkpoints.
+- I compare process outcomes across settings rather than assuming direct transferability.
 
-## Evidence in this repo
+## Evidence in this repository
 
 - `../publications/cross-cultural-agentic-systems.md`
 - `../research/agentic-theory/agent-architectures/cross-cultural-adaptation.tex`
 - `../lab/notebooks/mathematical-models/cultural-adaptation.ipynb`
 
-## Current status
+## Status for capstone and thesis
 
-Active, with methods and framing in place. Expanding with stronger comparative artifacts.
+The conceptual and methodological framing is established. My next step is to consolidate comparative evidence into publication-grade tables and discussion sections.

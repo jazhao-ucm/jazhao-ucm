@@ -44,10 +44,12 @@
     </script>
     <title>Jade Zhao | IU research index</title>
     <link rel="stylesheet" href="assets/css/style.css" />
+    <script defer src="assets/js/index.js"></script>
   </head>
   <body>
     <main>
       <h1>Archivum AI (AI Research Archive)</h1>
+      <p class="subtitle">IU capstone and thesis index for research, methods, and evidence.</p>
       <p class="meta-line">
         <strong>Jade Zhao</strong> · informatics at IU · same voice and method as
         <a href="https://matchaxmoxie.github.io/matchaxmoxie/">matchaxmoxie</a>,
@@ -62,12 +64,22 @@
       <p>
         Index of structured notes: AI fundamentals, agentic systems, Le Chat evaluation. Greco-Latin + English labels match the portfolio habit.
       </p>
-      <p><small>Press <kbd>Ctrl+F</kbd> to search.</small></p>
+      <p class="meta-line"><small>Press <kbd>Ctrl+F</kbd> to search, or use quick filters below.</small></p>
 
-      <div class="panel">
+      <div class="controls panel panel-soft" data-panel-category="core research profile">
+        <strong>Quick filter</strong>
+        <div class="chips" role="group" aria-label="Filter link groups">
+          <button type="button" class="chip is-active" data-filter="all" aria-pressed="true">All</button>
+          <button type="button" class="chip" data-filter="core" aria-pressed="false">Core</button>
+          <button type="button" class="chip" data-filter="research" aria-pressed="false">Research</button>
+          <button type="button" class="chip" data-filter="profile" aria-pressed="false">Profile</button>
+        </div>
+      </div>
+
+      <div class="panel" data-panel-category="core research">
         <strong>Index</strong>
         <p class="group-label">Core</p>
-        <ul>
+        <ul data-list-category="core">
           <li><a href="../archives.tex" title="LaTeX research archive">`archives.tex`</a></li>
           <li><a href="../projects/madrid-stress-test.md" title="Four flagship projects">Projects (4 flagship)</a></li>
           <li><a href="../research/agentic-systems/ux-audit/le-chat-dossier.md" title="Le Chat dossier">Le Chat dossier</a></li>
@@ -75,7 +87,7 @@
           <li><a href="../research/high-impact-research-priorities.md" title="Research priorities">High-impact research priorities</a></li>
         </ul>
         <p class="group-label">More</p>
-        <ul>
+        <ul data-list-category="research profile">
           <li><a href="../README.md" title="Profile and repo readme">Profile / repo README</a></li>
           <li><a href="research/index.html" title="Research summaries">Research summaries page</a></li>
           <li><a href="../research/agentic-systems/panels/agent-panel-feedback-2026-03-31.md" title="Agent panel">Agent panel findings</a></li>
@@ -85,7 +97,7 @@
         </ul>
       </div>
 
-      <div class="panel">
+      <div class="panel" data-panel-category="profile">
         <strong>Host and contact</strong>
         <ul>
           <li><a href="../">Site root</a> (this host)</li>
@@ -95,7 +107,7 @@
         </ul>
       </div>
 
-      <div class="panel">
+      <div class="panel" data-panel-category="profile">
         <strong>Workspace</strong>
         <ul>
           <li><a href="../../README.md">SP26 README</a> (Madrid courses, <code>docs/INDEX.md</code>)</li>
