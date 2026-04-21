@@ -83,6 +83,10 @@ Python, TypeScript, JavaScript, SQL, React, Node.js, PostgreSQL, Git; HIPAA-awar
 
 Optional snapshot (not HR-canonical): [`profile-summary.md`](profile-summary.md)
 
+Working checkpoint for this update cycle: [`CHECKPOINT-2026-04-21.md`](CHECKPOINT-2026-04-21.md)
+
+Canonical order when in doubt: résumé TeX -> `README.md`/`WORKSPACE.md` -> research indexes -> public web aggregation.
+
 ---
 
 *ratio. logos. ordo. praxis.* 🌷

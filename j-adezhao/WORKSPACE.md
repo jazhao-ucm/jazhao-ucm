@@ -7,6 +7,7 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 | If you want… | Open |
 |----------------|------|
 | Public profile (voice, badges, contact) | [`README.md`](README.md) |
+| Clean checkpoint snapshot (this cycle) | [`CHECKPOINT-2026-04-21.md`](CHECKPOINT-2026-04-21.md) |
 | LinkedIn-style capability snapshot (Markdown) | [`profile-summary.md`](profile-summary.md) |
 | **Research arc** (pre-Madrid to Madrid to now) with file links | [`research/README.md`](research/README.md) |
 | **Public web index** (bios and posts; verify) | [`research/public-web-index.md`](research/public-web-index.md) |
@@ -14,6 +15,8 @@ Treat this folder as the **IU version** of **[matchaxmoxie](https://matchaxmoxie
 | **GitHub universal** (path-relative static site, IU + Pages) | [`config/README.md`](config/README.md) |
 | Senior-year courses and running checklist | [`planning/senior-year-2026-27.md`](planning/senior-year-2026-27.md) |
 | How to publish, build, and run scripts | This file (below) |
+
+**Checkpoint rule:** for IU upload, treat the dated checkpoint file as the current release note for this subtree.
 
 **Live:** [jlzhao.pages.iu.edu](https://jlzhao.pages.iu.edu/) · [résumé PDF](https://jlzhao.pages.iu.edu/resume.pdf) · [site index](https://jlzhao.pages.iu.edu/site/)
 
