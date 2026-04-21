@@ -1,5 +1,0 @@
-# Experiments: API tests
-
-Ephemeral response captures and quick integration checks.
-
-Promote useful outputs into `research/` before cleaning this folder.
