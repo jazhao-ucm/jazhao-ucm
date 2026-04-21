@@ -1,6 +1,6 @@
 # Public web index (Jade Zhao, IU)
 
-**Updated:** 2026-04-06.
+**Updated:** 2026-04-21.
 
 Aggregated **public** mentions (LinkedIn-style bios, search snippets, IU pages, ProHealth listing). **Unreliable** until you confirm on your own résumé or LinkedIn.
 
@@ -22,23 +22,31 @@ Aggregated **public** mentions (LinkedIn-style bios, search snippets, IU pages, 
 | SP26 (this repo) | [github.com/jazhao-ucm/jazhao-ucm](https://github.com/jazhao-ucm/jazhao-ucm) |
 | Canva | [jadexzhao.my.canva.site](https://jadexzhao.my.canva.site/) |
 
-Other people share the name; **jadexiao** on GitHub is a different person. Canonical IU identity: **jlzhao@iu.edu**, **jadexzhao**.
+Other people share the name; **jadexiao** on GitHub is a different person. Canonical IU identity: **`jlzhao@iu.edu`**, **jadexzhao**.
 
 ---
 
 ## ProHealth (verified listing)
 
-[Jade Zhao](https://prohealth.luddy.indiana.edu/) appears under **Our Students** as undergraduate, **jlzhao@iu.edu** (page checked 2026-04-06).
+[Jade Zhao](https://prohealth.luddy.indiana.edu/) appears under **Our Students** as undergraduate, **`jlzhao@iu.edu`** (page checked 2026-04-06).
 
 ---
 
-## Themes common in bios
+## Fresh web sweep (2026-04-21)
 
-- Women’s / reproductive health, product and UX, ServeAI-style framing.
+- LinkedIn post confirms Serve IT web design contribution on Middle Way House redesign and accessibility-focused workflow: [Jade Zhao's post](https://www.linkedin.com/posts/jadexzhao_grateful-for-another-incredible-semester-activity-7273421360364699649-JHty).
+- IU Zion profile is also discoverable at the webapps host (in addition to Luddy Zion path): [zion-zion.webapps.iu.edu/portfolio/jlzhao](https://zion-zion.webapps.iu.edu/portfolio/jlzhao).
+
+---
+
+## Themes common in bios and current research
+
+- Women’s and reproductive health, product and UX, applied informatics framing.
 - Algorithmic bias, LLMs or recommenders, fairness tooling (repo overlap: [`agentic-systems/applied-math/bias-audit-formulas.md`](agentic-systems/applied-math/bias-audit-formulas.md)).
 - Accessibility, instructions, clarity (matches portfolio voice).
 - Agentic systems, trust, governance (more in repo than on generic bios).
 - Madrid / cross-cultural thread: portfolio junior year; UCM courses in SP26 sibling folders.
+- Survey integrity and participant-validation research (fraudulent vs authentic response analysis) is an active 2026 line and should be treated as current.
 
 ---
 
@@ -60,7 +68,7 @@ Clinic hub: [serveit.luddy.indiana.edu](https://serveit.luddy.indiana.edu/).
 
 ## Roles often listed
 
-AI research assistant (health UX, prototypes, ML collaboration); product designer or developer at Serve IT; peer mentor (STEM); student instructor (business or CS, Hudson and Holland in some copies). **Roles on IU résumé (canonical):** Software Engineer, Matcha Green Consulting, remote, **Jan--May 2026** (GitHub Education, Cursor Enterprise); Serve IT **Website Team Lead** from **Aug 2026**; OMSLD **MAP Coordinator** from **May 2026**; see [`../README.md`](../README.md), [`../resume/jade-zhao-resume-ats.tex`](../resume/jade-zhao-resume-ats.tex), [`../../matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../../matchaxmoxie/latex/docs/jade-zhao-resume.tex).
+AI research assistant (health UX, prototypes, ML collaboration); product designer or developer at Serve IT; peer mentor (STEM); student instructor (business or CS, Hudson and Holland in some copies). **Roles on IU résumé (canonical):** Software Engineer, Matcha Green Consulting, remote, **Jan--May 2026** (GitHub Education, Cursor Enterprise); Proactive Health Informatics Lab research assistant (including survey-integrity work) from **May 2026**; Serve IT **Website Team Lead** from **Aug 2026** after prior ML researcher stint; OMSLD **MAP Coordinator** from **May 2026**; see [`../README.md`](../README.md), [`../resume/jade-zhao-resume-ats.tex`](../resume/jade-zhao-resume-ats.tex), [`../../matchaxmoxie/latex/docs/jade-zhao-resume.tex`](../../matchaxmoxie/latex/docs/jade-zhao-resume.tex).
 
 Programs: Hudson and Holland, Luddy Direct Admit, Madrid term (portfolio + SP26).
 

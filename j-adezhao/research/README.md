@@ -42,17 +42,30 @@ Public bios (verify): [`public-web-index.md`](public-web-index.md).
 
 ## III. Now (senior, 2026 to 2027)
 
-**Theme:** capstone, independent study, graduation, **handoff-quality** docs. Operational checklist: [`../planning/senior-year-2026-27.md`](../planning/senior-year-2026-27.md).
+**Theme:** capstone, independent study, graduation, and **handoff-quality** docs. Operational checklist: [`../planning/senior-year-2026-27.md`](../planning/senior-year-2026-27.md).
 
 | Track | Files |
 |-------|--------|
 | Priorities vs capacity | [`high-impact-research-priorities.md`](high-impact-research-priorities.md) |
 | External critique | [`agentic-systems/panels/agent-panel-feedback-2026-03-31.md`](agentic-systems/panels/agent-panel-feedback-2026-03-31.md) |
 | Long-form codex | [`../latex/archives.tex`](../latex/archives.tex) |
+| Survey integrity / fraud validation | [`agentic-systems/ux-audit/le-chat-dossier.md`](agentic-systems/ux-audit/le-chat-dossier.md), [`ethics-governance/le-chat-question-bank.md`](ethics-governance/le-chat-question-bank.md) |
 
 **Piece:** [Senior year](https://matchaxmoxie.github.io/matchaxmoxie/senior.html).
 
 Anything you still edit lives here until you freeze a capstone or thesis snapshot.
+
+---
+
+## IV. Active research thread (2026)
+
+Current throughline across this folder:
+
+- **Agentic trust and governance:** measurable checkpoints, auditability, and reliability under uncertainty.
+- **Cross-cultural adaptation:** explainability and tone calibrated to language, context, and institutional norms.
+- **Survey integrity in health research:** fraudulent-versus-authentic response analysis and practical screening guidance.
+
+Use this as the default framing for new notes, experiments, and publication drafts.
 
 ---
 

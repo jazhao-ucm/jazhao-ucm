@@ -103,7 +103,28 @@ Strategic research focus map aligned to your UX, AI, cross-cultural, and inclusi
 - Bias mitigation checklist and test protocol
 - Participatory design facilitation guide
 
-## VI. Ordo Prioritatis (Priority Matrix)
+## VI. Integritas Instrumentorum (Survey Integrity and Participant Validation)
+
+**Why this is high-impact**
+
+- Directly aligned with ongoing 2026 health-informatics research work.
+- Addresses a high-cost failure point in online qualitative and mixed-methods studies.
+
+**Focus areas**
+
+- Fraudulent-response detection in sensitive domains
+  - Core question: which weak signals separate coordinated or bot-like submissions from authentic participants?
+  - Method: compare consent patterning, IP and timing traces, response depth, and cross-item consistency.
+- Practical screening guidance for research teams
+  - Core question: how can non-specialist teams apply defensible fraud screening without over-filtering valid participants?
+  - Method: produce decision rules, documentation templates, and escalation criteria.
+
+**Deliverables**
+
+- Participant-validation screening rubric
+- Fraud-signal documentation template for reproducible review
+
+## VII. Ordo Prioritatis (Priority Matrix)
 
 | Aspect | Effort | Impact | Alignment |
 | :--- | :--- | :--- | :--- |
@@ -112,18 +133,19 @@ Strategic research focus map aligned to your UX, AI, cross-cultural, and inclusi
 | Women’s health agents | High | Transformative | Health informatics and inclusion |
 | Cross-cultural agents | Medium | High | Madrid context and multilingual lens |
 | Ethical governance | Low to Medium | High | Existing audit and validation practice |
+| Survey integrity methods | Medium | High | Current PHI lab research and methods translation |
 
-## VII. Victoriae Celeres (Quick Wins This Week)
+## VIII. Victoriae Celeres (Quick Wins This Week)
 
 1. Run a mini explainability audit across three agent tools using your question bank.
-2. Conduct a small cultural probe interview set and tag trust signals.
+2. Conduct one fraud-signal coding pass on a small anonymized response batch and document inclusion or exclusion rationale.
 3. Build one Figma concept showing culturally adaptive response behavior.
 
-## VIII. Mantra Investigationis (Research Mantra)
+## IX. Mantra Investigationis (Research Mantra)
 
 Design for the margins, and the center will follow.
 
-## IX. Proximi Gradus (Next Step Options)
+## X. Proximi Gradus (Next Step Options)
 
 - Build a 12-week execution roadmap for one priority track.
 - Create an evaluation rubric per priority area.

@@ -5,6 +5,7 @@ Single source for Le Chat research, including question bank, captured responses,
 ## I. Propositum (Purpose)
 
 This dossier merges prior Le Chat files into one universal research document for faster iteration and fewer moving parts.
+It also supports the 2026 survey-integrity track by standardizing question prompts, evidence capture, and validation steps.
 
 ## II. Quaestiones (Question Bank)
 
