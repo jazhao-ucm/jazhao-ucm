@@ -25,4 +25,7 @@
   chips.forEach((chip) => {
     chip.addEventListener("click", () => applyFilter(chip.dataset.filter || "all"));
   });
+
+  // PBJ default: show everything, minimal assumptions.
+  applyFilter("all");
 })();
