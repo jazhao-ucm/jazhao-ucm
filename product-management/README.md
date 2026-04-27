@@ -66,7 +66,7 @@ Academic calendar updates (Spring 2026): spring break Mar 27 to Apr 6, no class 
 - `week-10/` - Apr 6 and 7: Apr 6 NO CLASS (Semana); Apr 7 AI prototyping workflow (prompting -> Lovable -> Figma -> user validation); `2026-04-07-class-notes.md`, `pm_handwritten_notes.html` (handwritten notes export)
 - `week-11/` - Apr 13 and 14: Apr 13 cumulative course synthesis (Weeks 1 to 10), strategy to execution integration, and final prep structure; Apr 14 YIAMI iteration workshop (North Star metric, feature-to-metric alignment, freemium/pricing, acquisition/retention, internationalization review); `2026-04-13-class-notes.md`, `2026-04-14-class-notes.md`
 - `week-12/` - Apr 20 and 21: class sessions (TBD topics)
-- `week-13/` - Apr 27 and 28: class sessions (TBD topics)
+- `week-13/` - Apr 27 and 28: Apr 27 prototype feedback synthesis for social matching app (non-negotiables framing, safety and verification, online versus in-person mode, and match-percentage clarity); `2026-04-27-class-notes.md`
 - `week-14/` - May 18 to 22: final exams; `product-management-vocabulary-a-z-mon-tue-spring2026.md` (A to Z terms aligned with final master notes), `product-management-final-cornell-master-notes-mon-tue-spring2026.tex` (typical class days Mon/Tue Spring 2026; `pdflatex product-management-final-cornell-master-notes-mon-tue-spring2026.tex`)
 
 ## Aesthetica Bilinguis (Greco-Latin + English Pattern)

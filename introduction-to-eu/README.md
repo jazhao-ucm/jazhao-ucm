@@ -76,7 +76,7 @@ Academic calendar updates (Spring 2026): spring break Mar 27 to Apr 6, no class 
 - `week-10/` - Apr 6 and 7: Apr 6 NO CLASS (Semana); Apr 7 housing crisis debate across EU party families plus institutions recap (European Council, ECB, agencies); `2026-04-07-class-notes.md`
 - `week-11/` - Apr 13 and 14: Apr 13 institutions and agencies synthesis from Session 9 readings (European Council, ECB, ECA, agency autonomy and accountability); Apr 14 final-exam framing plus student presentations on gendered EMU history and monetary integration trajectory; `2026-04-13-class-notes.md`, `2026-04-14-class-notes.md`, `session-9-reading-synthesis.md`, `9a EU-Agencies-A-Literature-Review.pdf`, `9b central bank and others.pdf`, `9a EU-Agencies-A-Literature-Review.txt`, `9b central bank and others.txt`
 - `week-12/` - Apr 20 and 21: class sessions (TBD topics)
-- `week-13/` - Apr 27 and 28: class sessions (TBD topics)
+- `week-13/` - Apr 27 and 28: Apr 27 CEAS and New Pact on Migration and Asylum synthesis (Dublin burden allocation, solidarity mechanisms, externalization, Frontex role, security-rights tradeoffs, and EU-US enforcement comparison); `2026-04-27-class-notes.md`
 - `week-14/` - May 18 to 22: final exams; `introduction-to-eu-vocabulary-a-z-mon-tue-spring2026.md` (A to Z terms aligned with the final master notes, plus IB cross-walk from `management-global-markets/week-14/management-global-markets-final-cornell-master-notes-mon-tue-spring2026.tex` for integration economics and EU legal-order toolbox), `introduction-to-eu-final-cornell-master-notes-mon-tue-spring2026.tex` (typical class days Mon/Tue Spring 2026; `pdflatex introduction-to-eu-final-cornell-master-notes-mon-tue-spring2026.tex`)
 
 ## Aesthetica Bilinguis (Greco-Latin + English Pattern)

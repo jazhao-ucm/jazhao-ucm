@@ -26,7 +26,7 @@ Quick reference for all courses and weeks. *Last updated: April 2026*
 | 10 | Apr 6 to 7 | Apr 6 NO CLASS (Semana); Apr 7 AI prototyping workflow (prompting, Lovable, Figma, and user validation) |
 | 11 | Apr 13 to 14 | Apr 13 cumulative course synthesis (Weeks 1 to 10): value creation/capture, BMC, design thinking, process/internationalization, AI prototyping, final answer structure; Apr 14 YIAMI iteration workshop: user feedback loop, North Star metric design, feature-to-metric alignment, freemium/pricing and retention logic |
 | 12 | Apr 20 to 21 | Class sessions (TBD topics) |
-| 13 | Apr 27 to 28 | Class sessions (TBD topics) |
+| 13 | Apr 27 to 28 | Apr 27 prototype feedback synthesis for social matching app: non-negotiables framing (prompt versus filter), safety and selfie verification, online versus in-person or hybrid interaction, onboarding friction, and match-percentage explainability |
 | 14 | May 18 to 22 | Final exams |
 
 ---
@@ -47,7 +47,7 @@ Quick reference for all courses and weeks. *Last updated: April 2026*
 | 10 | Apr 6 to 7 | Apr 6 NO CLASS (Semana); Apr 7 housing crisis positions by EU party families plus institutions recap (European Council, ECB, agencies) |
 | 11 | Apr 13 to 14 | Apr 13 institutions and agencies synthesis from Session 9 readings: European Council strategic role, ECB crisis-era expansion, ECA oversight, and EU agency autonomy/accountability; Apr 14 final-exam framing plus student presentations on gendered EMU history and monetary integration trajectory |
 | 12 | Apr 20 to 21 | Class sessions (TBD topics) |
-| 13 | Apr 27 to 28 | Class sessions (TBD topics) |
+| 13 | Apr 27 to 28 | Apr 27 CEAS and New Pact migration-policy synthesis: Dublin first-entry logic, frontline-state pressure, solidarity and relocation versus financial contribution, externalization and Frontex, security-rights tensions, and EU-US enforcement comparison |
 | 14 | May 18 to 22 | Final exams |
 
 ---
