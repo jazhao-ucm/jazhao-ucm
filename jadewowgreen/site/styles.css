@@ -1,14 +1,16 @@
 :root {
-  --bg: #f8ede3;
-  --bg-soft: #f2dfce;
-  --bg-mid: #f4dcbf;
-  --surface: #fff7f1;
-  --ink: #2f1f18;
-  --muted: #7a5a48;
-  --accent: #c96f47;
-  --accent-dark: #9f4d2f;
-  --line: rgba(95, 56, 37, 0.16);
-  --text-soft: #8a8a88;
+  --bg: #f5f0e8;
+  --bg-soft: #efe7dc;
+  --bg-mid: #e5d9cb;
+  --surface: #fbf7f1;
+  --ink: #2e2924;
+  --muted: #6c6258;
+  --accent: #6f8392;
+  --accent-dark: #465565;
+  --accent-light: #a5b19a;
+  --accent-warm: #d6c0a5;
+  --line: rgba(70, 85, 101, 0.14);
+  --text-soft: #7c746b;
   --page-gutter: 2.4rem;
   --page-gutter-mobile: 1.2rem;
   --content-width: 1180px;
@@ -21,8 +23,8 @@
   --hero-copy-width: 56ch;
   --radius-panel: 14px;
   --radius-card: 12px;
-  --shadow-soft: 0 8px 11px color-mix(in srgb, var(--accent) 13%, transparent);
-  --shadow-embed: 0 6px 12px color-mix(in srgb, var(--accent) 8%, transparent);
+  --shadow-soft: 0 8px 11px color-mix(in srgb, var(--accent) 10%, transparent);
+  --shadow-embed: 0 6px 12px color-mix(in srgb, var(--accent) 6%, transparent);
   --focus-ring: 2px solid var(--accent);
   --transition-fast: 0.2s ease;
 }
@@ -49,7 +51,8 @@
 body {
   background: var(--bg);
   color: var(--ink);
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
   line-height: 1.65;
 }
 
@@ -69,7 +72,7 @@ nav {
 .nav-logo {
   text-decoration: none;
   color: var(--ink);
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 1.35rem;
   font-weight: 600;
   letter-spacing: 0.04em;
@@ -147,7 +150,7 @@ nav {
 }
 
 .hero-name {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: clamp(3rem, 9vw, 6.5rem);
   line-height: 0.98;
   font-weight: 500;
@@ -194,7 +197,7 @@ nav {
 }
 
 .hero-chinese {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   letter-spacing: 0.18em;
   color: var(--accent-dark);
   margin-top: 0.1rem;
@@ -284,6 +287,23 @@ section {
   align-items: start;
 }
 
+.about-portrait {
+  width: min(100%, 340px);
+  margin: 1.5rem 0 0;
+}
+
+.about-portrait img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center top;
+  border: 0;
+  box-shadow: none;
+  border-radius: 0;
+  background: var(--bg-mid);
+}
+
 .work-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -299,7 +319,7 @@ section {
 
 .work-card h3 {
   margin: 0 0 0.45rem;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 1.35rem;
 }
 
@@ -338,7 +358,7 @@ section[id^="episode"] > .container {
 }
 
 .section-title {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: clamp(2.1rem, 5vw, 4rem);
   line-height: 1.04;
   font-weight: 500;
@@ -403,7 +423,7 @@ section[id^="episode"] > .container {
 
 .episode-pullquote p {
   margin: 0;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: clamp(1.05rem, 2.2vw, 1.35rem);
   font-style: italic;
   font-weight: 500;
@@ -451,7 +471,7 @@ section[id^="episode"] > .container {
   transition: opacity var(--transition-fast), transform var(--transition-fast);
   font-size: 0.75rem;
   text-align: left;
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Inter', sans-serif;
   line-height: 1.4;
   pointer-events: none;
 }
@@ -483,7 +503,8 @@ section[id^="episode"] > .container {
 .photo-caption {
   margin: 0.8rem auto 0;
   color: var(--muted);
-  font-family: 'DM Mono', monospace;
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
   font-size: 0.72rem;
   line-height: 1.6;
   letter-spacing: 0.08em;
@@ -513,7 +534,8 @@ footer {
 }
 
 .footer-name {
-  font-family: 'DM Mono', monospace;
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
   font-size: 0.68rem;
   color: var(--muted);
   letter-spacing: 0.08em;
