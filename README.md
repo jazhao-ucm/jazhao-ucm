@@ -50,6 +50,7 @@ Each course **`README.md`**: structure, file types, inventory.
 | [`docs/`](docs/) | Week index, cross-course docs |
 | [`scripts/`](scripts/) | Helpers (index and week checks, etc.) |
 | `sp26-midterm/` *(optional)* | Combined midterm one-pagers |
+| [`sp26-finals/`](sp26-finals/) | May 18 to 22 final exam study guides (HTML) and course materials by exam day |
 
 ### Portfolios and IU
 

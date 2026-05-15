@@ -1,0 +1,875 @@
+\documentclass[7.6pt,letterpaper]{article}
+
+\usepackage[margin=0.28in,top=0.24in,bottom=0.24in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{palatino}
+\usepackage[scaled=0.88]{helvet}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{colortbl}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{microtype}
+% Printer-friendly option: set to true to force black/white, compact print layout.
+\newif\ifprinterfriendly
+\printerfriendlytrue % change to \printerfriendlyfalse to keep original colors/decoration
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.9pt} % tighten spacing for denser print
+\setlength{\columnsep}{7pt} % narrower column gap to reduce white space
+\setlength{\columnseprule}{0.3pt}
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{1.0}
+\setlist[itemize]{leftmargin=8pt,itemsep=0pt,topsep=1pt,parsep=0pt,label={\color{mid}$\cdot$}}
+\setlist[enumerate]{leftmargin=10pt,itemsep=0pt,topsep=1pt,parsep=0pt}
+
+% ── Colours ──────────────────────────────────────────────────
+% When printing, force greyscale / high-contrast colours and simplify decorations.
+\ifprinterfriendly
+  \definecolor{ink}{RGB}{0,0,0}
+  \definecolor{navy}{RGB}{0,0,0}
+  \definecolor{steel}{RGB}{0,0,0}
+  \definecolor{mid}{RGB}{0,0,0}
+  \definecolor{pale}{RGB}{255,255,255}
+  \definecolor{strip}{RGB}{230,230,230}
+  \definecolor{rule}{RGB}{0,0,0}
+  \definecolor{gold}{RGB}{0,0,0}
+  \definecolor{sage}{RGB}{0,0,0}
+  \definecolor{rust}{RGB}{0,0,0}
+\else
+  \definecolor{ink}{RGB}{20,30,45}
+  \definecolor{navy}{RGB}{28,52,90}
+  \definecolor{steel}{RGB}{55,87,135}
+  \definecolor{mid}{RGB}{110,125,148}
+  \definecolor{pale}{RGB}{232,239,250}
+  \definecolor{strip}{RGB}{218,229,245}
+  \definecolor{rule}{RGB}{175,192,215}
+  \definecolor{gold}{RGB}{178,135,38}
+  \definecolor{sage}{RGB}{52,105,72}
+  \definecolor{rust}{RGB}{160,65,38}
+\fi
+
+% ── Section headings ─────────────────────────────────────────
+\titleformat{\section}
+  {\fontsize{6.8pt}{7.5pt}\sffamily\bfseries\color{white}}
+  {}{0pt}{}
+\titlespacing{\section}{0pt}{3pt}{1pt}
+
+\ifprinterfriendly
+  \newcommand{\secbar}[1]{%
+    \vspace{2pt}\noindent\textbf{#1}\par\vspace{1pt}\hrule\vspace{2pt}%
+  }
+\else
+  \newcommand{\secbar}[1]{%
+    \vspace{3pt}%
+    \noindent\colorbox{navy}{\parbox{\dimexpr\linewidth-2\fboxsep}{%
+      \fontsize{6.8pt}{8pt}\sffamily\bfseries\color{white}\strut\ #1\strut}}%
+    \vspace{1pt}\par%
+  }
+\fi
+
+\titleformat{\subsection}
+  {\fontsize{7pt}{8pt}\bfseries\color{navy}}
+  {}{0pt}{}
+  [{\color{rule}\vspace{0.5pt}\hrule height 0.3pt\vspace{1pt}}]
+\titlespacing{\subsection}{0pt}{3.5pt}{0.5pt}
+
+% ── Helpers ──────────────────────────────────────────────────
+\newcommand{\T}[1]{\textbf{\color{navy}#1}}
+\newcommand{\kk}[2]{\noindent\T{#1}\ #2\par}
+\newcommand{\bul}[1]{\noindent{\color{mid}$\triangleright$}\ #1\par}
+\newcommand{\eg}[1]{\textit{\color{mid}#1}}
+\newcommand{\good}[1]{\textcolor{sage}{\textbf{#1}}}
+\newcommand{\bad}[1]{\textcolor{rust}{\textbf{#1}}}
+\newcommand{\note}[1]{\textcolor{gold}{\textbf{#1}}}
+
+% shaded row helper
+\newcommand{\sh}{\rowcolor{strip}}
+
+% compact table
+\newcommand{\ctab}[1]{{\fontsize{6.2pt}{7pt}\selectfont\setlength{\tabcolsep}{2.5pt}#1}}
+
+\color{ink}
+
+% ─────────────────────────────────────────────────────────────
+\begin{document}
+\fontsize{7.6pt}{8.8pt}\selectfont
+
+% ── Masthead ─────────────────────────────────────────────────
+\ifprinterfriendly
+  \noindent\begin{center}
+    {\fontsize{9pt}{10pt}\sffamily\bfseries Strategic Management — Premium Exam Reference}\\[2pt]
+    {\fontsize{6pt}{7pt}\sffamily UCM-integrated $\cdot$ all 59 frameworks $\cdot$ exam patterns, evidence, implications, recommendations}
+  \end{center}
+  \vspace{2pt}
+\else
+  \noindent\colorbox{navy}{\parbox{\dimexpr\linewidth-2\fboxsep}{%
+    \centering\vspace{1.5pt}
+    {\fontsize{11pt}{13pt}\sffamily\bfseries\color{white}
+     Strategic Management — Premium Exam Reference}\\[1pt]
+    {\fontsize{6.2pt}{8pt}\sffamily\color{pale}
+     UCM-integrated $\cdot$ all 59 frameworks $\cdot$ exam patterns, evidence, implications, recommendations $\cdot$ printer-friendly}
+    \vspace{1.5pt}}}
+  \vspace{3pt}
+\fi
+
+\begin{multicols}{3}
+
+\secbar{Strategic Management Study Guide — UCM-integrated \textbullet{} Thursday 21st \textbullet{} printer-friendly compact version}
+{\fontsize{6.0pt}{7pt}\selectfont
+Use this as an exam cram sheet: framework, evidence, implication, recommendation
+\par
+\textbf{Exam pattern}
+The fastest way to build a solid answer is to use one framework, apply it to the case, and finish with a recommendation. A good structure is: name the issue, choose the framework, give two or three evidence points, and close with the strategic implication. The exam rewards clear reasoning more than decorative formatting.
+\par
+\textbf{Master pattern:} From a [framework] perspective, [force or concept] is high or low because [reason], which makes the industry attractive or unattractive for [who]; therefore [strategic implication].
+\par
+\textbf{Stock openers:} This is about industry attractiveness. This is about internal advantage. The key issue is whether the strategy is coherent.
+\par
+\textbf{How to score well:} Use the class vocabulary, name the framework explicitly, avoid generic statements, and always end with what the firm should do next.
+\par
+\textbf{1. Strategy fundamentals}
+Strategy is the integrated set of actions a firm uses to exploit its competencies and create advantage. The strategic job is not just to decide what to do, but to make sure the choice fits the firm, the market, and available resources. Three levels: corporate (where to compete), business (how to compete), functional (how to execute). Planning hierarchy: mission/vision -> objectives -> strategy -> tactics -> operations. Mission = current purpose; Vision = future aspiration; Values = guiding principles.
+\par
+\textbf{2. External analysis}
+PESTEL = Political, Economic, Social, Technological, Environmental, Legal. Use it to spot rule-changes that alter demand, costs, regulation, or tech adoption. Porter's Five Forces measures industry attractiveness — push past naming: say why each force is strong, give evidence, and state the implication for margins/entry/growth. SWOT -> TOWS: convert points into strategic actions.
+\par
+\textbf{3. Internal analysis and advantage}
+RBV & VRIO: test resources for Valuable, Rare, Inimitable, Organized. Value chain: find primary/support activities where value is created. Generic strategies: cost leadership, differentiation, focus. Avoid being stuck in the middle. Use Strategy Clock to map price vs perceived value.
+\par
+\textbf{4. Growth and corporate strategy}
+Ansoff: penetration, product dev, market dev, diversification (risk rises). Vertical integration: backward/forward to control inputs/distribution when transaction costs, supplier/buyer power or reliability matter. M&A/horizontal integration: synergies vs integration risk. Related vs unrelated diversification: related easier to justify.
+\par
+\textbf{5. Implementation and control}
+Balanced Scorecard: financial, customer, internal process, learning \\& growth. Execution fails when structure, incentives, resources, or monitoring don't align. Control loop: set targets, measure, compare, correct.
+\par
+\textbf{6. UCM case template}
+Define goal -> environment (PESTEL/Five Forces/SWOT) -> resources (VRIO/value chain) -> growth options -> implementation fit. Compare at least two options and end with implementation risk.
+\par
+\textbf{7. High-yield reminders}
+If industry unattractive + strong VRIO -> differentiate/focus/protected niche. If industry attractive + weak resources -> build/partner/enter small. Always mention one downside of your recommendation and one implementation risk.
+\par
+\textbf{Last-minute checklist}
+Name the framework, use evidence, link evidence to implication, give recommendation, and add feasibility.
+}
+
+
+% ═════════════════════════════════════════════════════════════
+\secbar{Exam Pattern \& Writing Strategy}
+% ═════════════════════════════════════════════════════════════
+
+The exam rewards clear reasoning over volume. Every strong answer has four moves: name the issue, choose the framework, give two or three evidence points, and close with a strategic implication.
+
+\T{Master pattern:} From a [framework] perspective, [force/concept] is [high/low] because [reason], which makes the industry [attractive/unattractive] for [who]; therefore [strategic implication].
+
+\T{Score well by:} using class vocabulary, naming the framework explicitly, avoiding generic statements, always finishing with what the firm should do next, and mentioning one downside of your own recommendation.
+
+\T{If you freeze:} define the issue $\to$ pick the framework $\to$ strongest point $\to$ second point $\to$ recommendation. Never list definitions without interpretation.
+
+% ═════════════════════════════════════════════════════════════
+\secbar{1. Foundations — What Is Strategy?}
+% ═════════════════════════════════════════════════════════════
+
+Strategy is the integrated set of goal-directed actions a firm takes to gain and sustain superior performance relative to competitors. It is not a plan --- it is a coherent set of choices that reinforce each other.
+
+\kk{Three levels:}{Corporate (where to compete), Business (how to compete), Functional (how to execute in marketing, ops, finance, HR).}
+
+\kk{Planning hierarchy:}{Mission/Vision $\to$ Strategic objectives $\to$ Strategy $\to$ Tactics $\to$ Operations.}
+
+\kk{Mission vs.\ Vision:}{Mission = current purpose and what the firm does now. Vision = desired future state. Values = guiding principles for behavior during execution.}
+
+\kk{Competitive advantage:}{Always relative, never absolute. Benchmark against the industry average or specific rivals. A 15\% ROIC is a disadvantage in consulting (avg 20\%+) but an advantage in a declining industry averaging $-$10\%. Context is everything.}
+
+% ═════════════════════════════════════════════════════════════
+\secbar{2. External Analysis}
+% ═════════════════════════════════════════════════════════════
+
+\subsection{PESTLE}
+
+Macro scan of forces changing the rules of the game. Use it to spot environmental shifts before they become obvious problems. In an exam, macro trends matter when they alter demand, costs, regulation, or technology adoption.
+
+\ctab{\begin{tabular}{@{}p{1.0cm}p{4.8cm}@{}}
+\toprule
+\sh \T{Factor} & \T{What to watch} \\
+\midrule
+Political & Trade policy, tariffs, lobbying, protectionism \eg{(US-China trade war: raised costs, cut margins across hundreds of firms)} \\
+Economic & Growth rates, employment, interest rates (low $\to$ cheap capital), inflation, FX rates \\
+Socio-cult. & Demographics, values, norms \eg{(US Hispanic pop.\ 18.7\%: McDonald's, AT\&T shifted to Spanish-language campaigns)} \\
+Techno. & AI, IoT, blockchain, EVs, gene sequencing --- create opportunities and threats simultaneously \\
+Legal & Regulation, court rulings \eg{(EU taxing US tech giants; forcing operating model changes, not just fines)} \\
+Environ. & Sustainability, carbon, circular economy \eg{(BP Gulf spill: \$50B + half market cap destroyed)} \\
+\bottomrule
+\end{tabular}}
+
+\subsection{Porter's Five Forces}
+
+Measures industry profit potential. \T{Strong forces reduce margins; weak forces make earnings easier to sustain.} Push past naming the forces --- explain why each is strong or weak, give evidence, and state the strategic implication.
+
+\ctab{\begin{tabular}{@{}p{1.4cm}p{2cm}p{2.2cm}@{}}
+\toprule
+\sh \T{Force} & \T{Strong when\dots} & \T{Strategic response} \\
+\midrule
+New Entrants & Low barriers: scale, network effects, switching costs, capital all low & Raise barriers; build switching costs \\
+Supplier Power & Concentrated, differentiated, credible forward integration threat \eg{(Boeing + Airbus vs.\ hundreds of airlines)} & Diversify suppliers; backward integrate \\
+Buyer Power & Few large buyers, commoditised product, low switching costs \eg{(Costco forces price cuts on suppliers)} & Differentiate; create switching costs \\
+Substitutes & Close alternatives from other industries \eg{(streaming $\to$ DVD rental; Uber $\to$ taxis)} & Innovate; widen the value gap \\
+Rivalry & Slow growth, high exit barriers, strategic commitments \eg{(Airbus + Boeing: neither exits even at zero profit)} & Differentiate; avoid price wars \\
+\bottomrule
+\end{tabular}}
+
+\kk{Industry structures:}{}
+\ctab{\begin{tabular}{@{}p{2.2cm}p{5.0cm}@{}}
+\toprule
+\sh \T{Structure} & \T{Typical features} \\
+\midrule
+Perfect competition & Many small firms; no pricing power; homogeneous product. \\
+Monopolistic competition & Many firms with differentiated products; some pricing power. \\
+Oligopoly & Few large firms (e.g., Coke, Pepsi); interdependent behaviour; strategic barriers. \\
+Monopoly & Single firm; maximum pricing power; high barriers to entry. \\
+\bottomrule
+\end{tabular}}
+
+\kk{Oligopoly features:}{High concentration, firm interdependence, high entry/exit barriers, non-price competition, price rigidity. \eg{Semiconductors: Intel, Samsung, TSMC. Social media: network effects prevent entry. Pharma: patents = temporary monopoly.}}
+
+\subsection{SWOT \& TOWS}
+
+S and W are internal; O and T are external. The list is useless --- the \T{TOWS} action is what matters.
+
+\ctab{\begin{tabular}{@{}p{1.0cm}p{2.0cm}p{2.6cm}@{}}
+\toprule
+\sh & \T{Opportunities} & \T{Threats} \\
+\midrule
+\T{Strengths} & S$\to$O: use strengths to seize opportunities & S$\to$T: use strengths to neutralise threats \\
+\T{Weaknesses} & W$\to$O: fix weaknesses blocking opportunities & W$\to$T: defend against threats exploiting weaknesses \\
+\bottomrule
+\end{tabular}}
+
+\eg{Apple SWOT: S = \#1 brand (\$408B), R\&D (\$21.9B/yr). W = premium pricing excludes low-income consumers. O = wearables, self-driving software. T = Android at 72\% global share.}
+
+% ═════════════════════════════════════════════════════════════
+\secbar{3. Internal Analysis \& Competitive Advantage}
+% ═════════════════════════════════════════════════════════════
+
+\subsection{VRIO \& Resource-Based View (RBV)}
+
+RBV: a firm's internal resources are the primary driver of competitive advantage --- not industry position alone. VRIO is the clean test.
+
+\ctab{\begin{tabular}{@{}p{0.5cm}p{1.5cm}p{3.6cm}@{}}
+\toprule
+\sh \T{} & \T{Criterion} & \T{What to ask} \\
+\midrule
+V & Valuable & Does it help exploit an opportunity or offset a threat? \\
+R & Rare & Do only one or very few firms hold it? \\
+I & Inimitable & Is it costly or impossible to copy or substitute? \\
+O & Organized & Is the firm structured to capture the value? \\
+\bottomrule
+\end{tabular}}
+
+All four $\Rightarrow$ \T{sustained competitive advantage.} Fewer $\Rightarrow$ parity or disadvantage. The test is not to recite the letters --- it is to apply them to the case.
+
+\kk{VRIN (RBV variant):}{Adds Non-substitutable explicitly. A resource is N if no equivalent alternative can replace its benefit. \eg{Google's innovation culture: can't be purchased or replicated.}}
+
+\kk{Imitation routes:}{Direct copying \eg{(Amazon Echo 2015 $\to$ Google Home 2016 $\to$ Apple HomePod 2017)} or substitution \eg{(Amazon replaced physical bookstores with an entirely different model)}.}
+
+\kk{Real examples:}{\eg{Beats headphones: \$15 production cost, retail \$150--\$450+. Valuable + organized = astronomical margins. Google search: 90\%+ market share for years = V+R+I+O. Walmart supply chain: RFID, VMI, cross-docking = hard to imitate system.}}
+
+\subsection{Value Chain}
+
+Find where value is actually created --- and where a competitor cannot easily match you. Primary activities: inbound logistics, operations, outbound logistics, marketing \& sales, service. Support activities: infrastructure, HR, technology, procurement. Cost leadership, differentiation, and bottlenecks all show up here.
+
+\subsection{Generic Competitive Strategies}
+
+\ctab{\begin{tabular}{@{}p{1.8cm}p{3.8cm}@{}}
+\toprule
+\sh \T{Strategy} & \T{Logic + evidence} \\
+\midrule
+Cost leadership & Lowest cost producer via scale, process discipline, supply chain. \eg{Walmart, Southwest Airlines.} Risk: someone undercuts on cost. \\
+Differentiation & Unique value customers will pay a premium for: brand, design, tech, service. \eg{Apple, Ferrari.} Risk: imitation or premium fatigue. \\
+Focus (cost) & Cost leadership in a narrow segment. Risk: segment too small or eroded by broad players. \\
+Focus (diff.) & Differentiation in a narrow segment. \eg{Ferrari.} Risk: segment shrinks or broad differentiator moves in. \\
+Stuck in middle & Neither cheapest nor most distinctive $\Rightarrow$ no sustainable advantage. Worst outcome. \\
+\bottomrule
+\end{tabular}}
+
+\kk{Strategy Clock:}{Maps price against perceived value. Low-price end = efficiency and volume story. High-value end = brand, uniqueness, willingness-to-pay story. Useful for showing where a repositioning move takes the firm.}
+
+\subsection{Core Competencies}
+
+Essential capabilities not easily replicated; central to long-term competitive success. Four steps: \T{(1)} competency audit --- identify what you do best. \T{(2)} align to customer needs. \T{(3)} invest continuously (R\&D, training). \T{(4)} leverage for growth.
+
+\eg{P\&G: brand management. Amazon: logistics $\to$ expanded to AWS, Prime Video, Whole Foods. Toyota: lean manufacturing $\to$ Prius hybrid engine from motorcycle roots.}
+
+\subsection{Dynamic Capabilities}
+
+Ability to \T{sense} (monitor market shifts), \T{seize} (allocate resources quickly), and \T{transform} (reconfigure the organization). Unlike ordinary capabilities which run operations, dynamic capabilities reshape them.
+
+\eg{Netflix: sensed DVD $\to$ streaming shift early. Xiaomi: seized smartphone market via online-only model. Microsoft under Nadella: transformed from Windows/Office to Azure + M365.}
+
+\bul{\good{Benefit:} sustained advantage through continuous adaptation (Zoom: 10M $\to$ 300M daily users in months). \bad{Challenge:} Kodak invented digital photography but couldn't cannibalize its own film business.}
+
+% ═════════════════════════════════════════════════════════════
+\secbar{4. Growth \& Corporate Strategy}
+% ═════════════════════════════════════════════════════════════
+
+\subsection{Ansoff Growth Matrix}
+
+Risk rises as both product and market become unfamiliar. Use Ansoff to explain the direction of growth, not just category labels.
+
+\ctab{\begin{tabular}{@{}r|cc@{}}
+\sh & \T{Existing market} & \T{New market} \\
+\hline
+\T{Existing product} & Market Penetration & Market Development \\
+\T{New product} & Product Development & Diversification \\
+\end{tabular}}
+
+\eg{Penetration: Coca-Cola promotions. Market dev: Spotify $\to$ India. Product dev: Google $\to$ Gmail, Maps, Assistant. Diversification: Virgin Group across airlines, mobile, space.}
+
+\subsection{Diversification}
+
+\kk{Related:}{Shares core competency. \eg{Honda: engine expertise $\to$ motorcycles $\to$ cars $\to$ ATVs $\to$ lawnmowers.} Related consistently outperforms unrelated because the firm already understands the adjacent space.}
+\kk{Unrelated:}{Portfolio logic; spreads risk but weakens focus. \eg{Harley-Davidson bottled water, Starbucks furniture --- both failed. Brand resources did not transfer.}}
+\kk{Geographic:}{Same model, new regions. \eg{Starbucks, KFC internationally.} Synergies from consolidated HR, legal, procurement.}
+
+\subsection{Vertical Integration}
+
+Moving toward inputs (backward) or toward consumers (forward) to control more of the value chain.
+
+\kk{Backward:}{\eg{IKEA bought Romanian forests (2015) + Alabama forests (2018); owns forest $\to$ factory $\to$ retail. Amazon: bookseller $\to$ publisher $\to$ Amazon Basics.}}
+\kk{Forward:}{\eg{Apple opened retail stores (2001) after poor third-party experiences. McDonald's acquired Dynamic Yield (AI menu tech, 2019).}}
+\kk{Pros:}{Reliability, supplier/buyer power, Zara-speed flexibility, scale economies passed to consumers.}
+\kk{Cons:}{High integration cost, different mgmt skills required, loss of focus, reduced pivot flexibility.}
+
+\subsection{M\&A}
+
+\kk{Merger:}{Two roughly equal firms $\to$ new entity. \eg{Dell + EMC $\to$ Dell Technologies (\$67B).}}
+\kk{Acquisition:}{One buys another. \eg{Facebook + WhatsApp (\$19B).}}
+\kk{Benefits:}{Market expansion, synergies, diversification, new tech, capital access.}
+\kk{Failure rate:}{Up to 70\% (HBR). Causes: cultural clash, poor due diligence, overpayment, integration failure, strategic misalignment.}
+
+\ctab{\begin{tabular}{@{}p{2.2cm}p{1.3cm}p{2.1cm}@{}}
+\toprule
+\sh \T{Deal} & \T{Result} & \T{Why} \\
+\midrule
+Disney + Pixar '06 & \good{Success} & Animation synergy; Toy Story 3, Finding Dory \\
+Exxon + Mobil '99 & \good{Success} & Scale; cost efficiency; reserve access \\
+Daimler + Chrysler '98 & \bad{Failed} & Cultural clash; leadership gaps; sold 2007 \\
+Microsoft + Nokia '14 & \bad{Failed} & Hardware/software integration; mobile declined \\
+\bottomrule
+\end{tabular}}
+
+\subsection{Strategic Alliances \& Joint Ventures}
+
+\T{Why firms form alliances:} strengthen competitive position, enter new markets, hedge uncertainty, access complementary assets, learn new capabilities. When partners are also competitors: \T{co-opetition} (cooperate to grow pie; compete on division).
+
+\ctab{\begin{tabular}{@{}p{1.5cm}p{1.4cm}p{1.2cm}p{1.4cm}@{}}
+\toprule
+\sh \T{Type} & \T{Ownership} & \T{Knowledge} & \T{Flexibility} \\
+\midrule
+Non-equity & None & Explicit & Highest \\
+Equity & Partial & Explicit + tacit & Medium \\
+Joint venture & Shared entity & Both & Lowest \\
+\bottomrule
+\end{tabular}}
+
+\kk{70\% of alliances fail.}{McKinsey keys: clear foundation, nurture relationship, accountability metrics, plan for evolution. \eg{BMW + Louis Vuitton (shared luxury audience). Red Bull + GoPro (extreme adventure DNA). Starbucks + Target (same shopper, since 1999).}}
+
+\subsection{International Strategies}
+
+Two pressures: \T{cost reduction} (standardize, centralize, scale) vs.\ \T{local responsiveness} (customize per market). They conflict.
+
+\ctab{\begin{tabular}{@{}p{1.8cm}ccp{2.0cm}@{}}
+\toprule
+\sh \T{Strategy} & \T{Cost} & \T{Local} & \T{Example} \\
+\midrule
+Global Std. & High & Low & Intel, Texas Instruments \\
+Localization & Low & High & Nestlé \\
+Transnational & High & High & Caterpillar \\
+International & Low & Low & P\&G, Microsoft (hist.) \\
+\bottomrule
+\end{tabular}}
+
+\kk{Warning:}{International strategy is vulnerable --- efficient global competitors eventually emerge. Firms must proactively shift.}
+
+\subsection{Blue Ocean Strategy}
+
+Kim \& Mauborgne. Create uncontested market space instead of fighting in saturated markets (red oceans). \T{Value innovation:} pursue differentiation AND low cost simultaneously.
+
+\kk{ERRC Grid:}{Eliminate factors below industry standard, Reduce, Raise, Create factors the industry has never offered.}
+
+\eg{Southwest: eliminated meals/assigned seats, raised friendliness/speed, created point-to-point routes $\to$ lower fares + higher satisfaction. Netflix: streaming made DVD rental irrelevant; Blockbuster bankrupt 2010 after dismissing Netflix in 2008.}
+
+\subsection{BCG Matrix}
+
+Portfolio resource allocation tool.
+
+\ctab{\begin{tabular}{@{}p{1.5cm}p{4.1cm}@{}}
+\toprule
+\sh \T{Quadrant} & \T{Strategy} \\
+\midrule
+Stars & High share, high growth. Invest heavily; protect position. \\
+Cash Cows & High share, low growth. Harvest; fund Stars and Question Marks. \\
+Question Marks & Low share, high growth. Selective investment or exit. \\
+Dogs & Low share, low growth. Divest unless serving a strategic purpose. \\
+\bottomrule
+\end{tabular}}
+
+\subsection{Exit Strategies}
+
+\ctab{\begin{tabular}{@{}p{1.4cm}p{4.2cm}@{}}
+\toprule
+\sh \T{Type} & \T{Logic + example} \\
+\midrule
+Acquisition & Immediate payout; loss of control. \eg{Instagram $\to$ Facebook \$1B, 2012.} \\
+IPO & Capital + liquidity; regulatory exposure. \eg{Spotify: direct listing, 2018.} \\
+MBO & Team stays intact; financing challenge. \eg{Dell: Michael Dell buyout, 2013.} \\
+Family succession & Legacy; leadership readiness risk. \eg{Ford family, generations.} \\
+Liquidation & Last resort; assets sold; business closed. \\
+\bottomrule
+\end{tabular}}
+
+% ═════════════════════════════════════════════════════════════
+\secbar{5. Innovation, Markets \& Technology}
+% ═════════════════════════════════════════════════════════════
+
+\subsection{Types of Innovation (2×2 matrix)}
+
+\ctab{\begin{tabular}{@{}r|cc@{}}
+\sh & \T{Existing market} & \T{New market} \\
+\hline
+\T{Existing tech} & Incremental & Architectural \\
+\T{New tech} & Disruptive & Radical \\
+\end{tabular}}
+
+\kk{Incremental:}{Most common. Lower risk. \eg{iPhone upgrades, Gillette razors.} Risk: misses paradigm shifts.}
+\kk{Disruptive:}{New tech, existing market. \eg{Netflix vs.\ Blockbuster; Uber vs.\ taxis.}}
+\kk{Architectural:}{Existing tech reconfigured. \eg{Smartwatch = phone tech in watch form; desktop printer = office copier miniaturized.}}
+\kk{Radical:}{New tech + new market. \eg{Internet, AI, genome sequencing.} Usually from new entrants (economic incentives, incumbent inertia, ecosystem lock-in).}
+
+\subsection{Technology Adoption Life Cycle \& The Chasm}
+
+Rogers (1962) + Moore's chasm extension. The chasm = the gap between Early Adopters and Early Majority. Most tech products die here.
+
+\ctab{\begin{tabular}{@{}p{1.6cm}cp{3.8cm}@{}}
+\toprule
+\sh \T{Group} & \T{\%} & \T{Profile + marketing need} \\
+\midrule
+Innovators & 2.5 & Engineering mindset; bug-finders; communicate specs \\
+Early Adopters & 13.5 & Vision-driven; see potential; show applications \\
+Early Majority & 34 & Pragmatists; need endorsements + reference customers \\
+Late Majority & 34 & Conservatives; adopt standards; want big-vendor backing \\
+Laggards & 16 & Skeptics; buy only when embedded in another product \\
+\bottomrule
+\end{tabular}}
+
+\kk{Cross the chasm (Moore):}{\T{(1)} Target one specific niche in early majority (big fish, small pond). \T{(2)} Offer a complete solution --- no rough edges. \T{(3)} Build word-of-mouth so early adopters evangelize to the early majority.}
+
+\eg{Fisker: sold 1,800 Karmas to innovators; fell into chasm; bankrupt 2013. Tesla: Roadster (innovators) $\to$ Model S + Motor Trend Car of the Year (early adopters, crossed chasm) $\to$ Model 3/Y (early majority).}
+
+\subsection{Product Life Cycle}
+
+\ctab{\begin{tabular}{@{}p{1.5cm}p{4.1cm}@{}}
+\toprule
+\sh \T{Stage} & \T{Dynamics + strategy} \\
+\midrule
+Introduction & Slow sales; demand creation; most products fail here \\
+Growth & Sharp upturn; competitors enter; brand + pricing critical \\
+Maturity & Growth slows; saturated; differentiation and cost efficiency key \\
+Decline & Competition or disruption; most firms exit \\
+\bottomrule
+\end{tabular}}
+
+\kk{Extend maturity:}{Track industry evolution; monitor generational consumer shifts; integrate new technology; rebrand around evolving values (sustainability).}
+
+\subsection{Business Models}
+
+\ctab{\begin{tabular}{@{}p{1.5cm}p{4.1cm}@{}}
+\toprule
+\sh \T{Model} & \T{Logic + example} \\
+\midrule
+Razor-blade & Loss-leader core; profit from consumables. \eg{Printers + ink; consoles + games.} \\
+Subscription & Recurring fee for access. \eg{Netflix, Salesforce, Amazon Prime.} \\
+Pay-as-you-go & Charge per usage. \eg{AWS, Uber, utilities.} \\
+Freemium & Free basic; upsell premium. \eg{Spotify, Dropbox.} \\
+Wholesale & Bulk B2B; lower unit price. Consumer goods, food supply chains. \\
+Agency & Commission-based. \eg{Real estate, insurance, talent.} \\
+Bundling & Multiple products at consolidated price. \eg{Cable, fast food combos.} \\
+\bottomrule
+\end{tabular}}
+
+\subsection{Business Model Canvas (9 Blocks)}
+
+\ctab{\begin{tabular}{@{}p{1.8cm}p{3.8cm}@{}}
+\toprule
+\sh \T{Block} & \T{Question it answers (\eg{Netflix})} \\
+\midrule
+Customer Segments & Who do we serve? \eg{Consumers + B2B education} \\
+Value Propositions & What value? \eg{Vast on-demand entertainment} \\
+Channels & How does value reach them? \eg{App, website, smart TVs} \\
+Customer Relationships & How do we interact? \eg{Personalized recommendations} \\
+Revenue Streams & How do we earn? \eg{Monthly subscriptions} \\
+Key Resources & What assets? \eg{Content library, algorithm} \\
+Key Activities & What must we do? \eg{Acquire + produce content} \\
+Key Partnerships & Who do we need? \eg{ISPs, device makers, studios} \\
+Cost Structure & What are the costs? \eg{Content production + licensing} \\
+\bottomrule
+\end{tabular}}
+
+% ═════════════════════════════════════════════════════════════
+\secbar{6. People, Culture \& Governance}
+% ═════════════════════════════════════════════════════════════
+
+\subsection{Organizational Culture}
+
+Shared values and norms learned through socialization. \T{Sources:} founders (Walt Disney's values still dominate the corporation; Ben \& Jerry's social mission built in from 1978) and industry norms (pharma = strict compliance culture; tech = creative/fluid).
+
+\kk{6 Benefits:}{Recruitment of talent, employee loyalty, job satisfaction, collaboration, productivity, reduced stress.}
+\kk{Key stat:}{86\% of employees in strong-culture orgs feel senior management listens. In weak-culture orgs, 70\% report the opposite.}
+\kk{Monkey experiment:}{New monkeys pulled away from the ladder even though none of them had experienced the cold water spray. Culture perpetuates itself through socialization without anyone remembering why the norm exists.}
+
+\subsection{Strategic Leadership}
+
+\kk{Definition:}{Ability to influence others to voluntarily make day-to-day decisions that enhance long-term viability while maintaining short-term stability.}
+\kk{vs.\ Operational:}{Operational = solve today's problems. Strategic = shape tomorrow's direction and capability.}
+\kk{8 core skills:}{Vision, goal-setting, comfort with change, communication (the why), collaboration, influence without authority, execution, optimism.}
+\kk{CEO time:}{67\% meetings, 13\% alone, 7\% email, 6\% calls, 5\% meals, 2\% public events. Prefer face-to-face: richer non-verbal cues.}
+
+\eg{Bezos: founded Amazon on 2,300\%/yr internet growth stat $\to$ books $\to$ everything. Musk: EV vision 2006; simultaneously disrupting energy + space. Jobs: returned 1996; iPod, iPhone, iPad within 10 years. Nadella: pivoted Microsoft from Windows dependence to Azure + M365 cloud-first.}
+
+\subsection{Agency Theory \& CEO Compensation}
+
+\kk{Agency theory:}{Conflicts between principals (owners) and agents (managers). Two assumptions: both are self-interested; agents have superior information. Managers may take more risk than shareholders prefer because stock options rise with volatility.}
+
+\eg{Enron: management hid losses via accounting tricks; stock \$90 $\to$ \$1 $\to$ bankruptcy Dec 2001. Madoff: \$65B Ponzi scheme; 150-year sentence; died in prison 2021.}
+
+\kk{5 mitigations:}{Detailed contracts, agent authority restrictions, periodic evaluations, performance-aligned bonuses, radical transparency.}
+
+\kk{CEO pay components:}{Base salary, short-term bonuses, stock options/RSUs, long-term incentive plans, perquisites. \eg{Musk: 12-tranche milestone plan. Zuckerberg: \$1/yr salary + equity. Cook: \$3M base + RSUs.}}
+
+\subsection{Board of Directors}
+
+Elected by shareholders to oversee activities and protect shareholder interests. Key roles: Chairperson (sets agenda; links board to management), Executive Directors (hold mgmt positions; bridge ops + strategy), Non-Executive Directors (independent oversight; external perspective), Independent Directors (no material ties; audit/compensation/risk), Committee Chairs (audit, compensation, nominating), Corporate Secretary (records, compliance, governance).
+
+\kk{Decision process:}{Agenda $\to$ materials distributed $\to$ board meeting + committee review $\to$ deliberation $\to$ vote (majority; major decisions may need supermajority) $\to$ document $\to$ follow-up.}
+
+\subsection{Organizational Structures}
+
+\ctab{\begin{tabular}{@{}p{1.3cm}p{2.3cm}p{2.0cm}@{}}
+\toprule
+\sh \T{Structure} & \T{Best for} & \T{Main risk} \\
+\midrule
+Hierarchical & Large traditional orgs & Slow decisions; overhead \\
+Functional & Specialist efficiency & Silos; narrow scope \\
+Divisional & Multinationals & Duplicated resources \\
+Flat & Startups/innovation & Confusion at scale \\
+Matrix & Complex projects & Dual authority; overload \\
+Network & Core-competency firms & Loss of control \\
+\bottomrule
+\end{tabular}}
+
+\kk{McKinsey 7S:}{Strategy, Structure, Systems (hard, manageable); Skills, Staff, Style, Shared Values (soft, cultural). Shared Values sit at the center --- changing them creates a domino effect through all other elements.}
+
+% ═════════════════════════════════════════════════════════════
+\secbar{7. Performance, Ethics \& Sustainability}
+% ═════════════════════════════════════════════════════════════
+
+\subsection{Balanced Scorecard}
+
+Kaplan \& Norton. Translates strategy into four measurement lenses.
+
+\ctab{\begin{tabular}{@{}p{1.5cm}p{4.1cm}@{}}
+\toprule
+\sh \T{Perspective} & \T{Measures} \\
+\midrule
+Financial & Revenue, margin, ROI, ROIC \\
+Customer & NPS, retention, CLTV, satisfaction scores \\
+Internal processes & Efficiency, quality, cycle time, defect rate \\
+Learning \& growth & Training hours, retention, R\&D ratio \\
+\bottomrule
+\end{tabular}}
+
+\kk{5 development steps:}{Vision $\to$ strategic objectives (SWOT) $\to$ critical success factors $\to$ KPIs $\to$ targets + initiatives. Advantage: stops managers fixating on short-term financial metrics alone.}
+
+\subsection{Key KPI Formulas}
+
+\ctab{\begin{tabular}{@{}p{1.4cm}p{2.7cm}p{1.5cm}@{}}
+\toprule
+\sh \T{KPI} & \T{Formula} & \T{Example} \\
+\midrule
+Gross Margin & (Rev$-$COGS)/Rev & (50k$-$25k)/50k=50\% \\
+CAC & Marketing cost/New customers & \$50k/100=\$500 \\
+CLTV & Sale$\times$Trans/yr$\times$Ret. yrs & \$100$\times$3$\times$3=\$900 \\
+NPS & \%Promoters$-$\%Detractors & 50\%$-$20\%=30 \\
+Inv.\ Turnover & COGS/Avg inventory & \$100k/\$25k=4$\times$ \\
+Turnover rate & Left/Total$\times$100 & 10/100$\times$100=10\% \\
+\bottomrule
+\end{tabular}}
+
+\subsection{Triple Bottom Line \& Green Strategies}
+
+\kk{TBL (Elkington):}{Profit + People + Planet. Profit = ethical income + fair taxes + community investment. People = fair wages + diverse suppliers + equitable customer access. Planet = GHG reduction, waste, energy, circular economy.}
+
+\eg{DHL: 62\% renewable electricity; bicycles in Europe; 152 metric tons CO$_2$ saved. Ben \& Jerry's: B-Corp 2012. North Face: 100\% sustainable fabrics. Nestlé: net zero by 2050.}
+
+\kk{Green strategy types:}{Sustainable resource mgmt (IKEA: 100\% sustainable wood), energy efficiency (Google: wind for data centers), waste reduction (Patagonia takeback), green product design (Tesla), sustainable supply chain.}
+
+\subsection{Business Ethics}
+
+Common dilemmas: conflict of interest, whistleblowing, fair treatment of employees, environmental responsibility, product safety and transparency.
+
+\eg{Volkswagen 2015: emissions-cheating software; market share over honesty $\to$ massive penalties + reputational damage. Facebook/Cambridge Analytica: user data without consent $\to$ global data ethics regulation. Nike 1990s: poor overseas labor conditions $\to$ later reforms + supply chain transparency.}
+
+\kk{5 resolution strategies:}{Apply ethical model (utilitarian/deontological), transparent communication, written code of ethics, involve diverse stakeholders, build ethical culture through training and psychological safety.}
+
+\subsection{Risk Management}
+
+Identify, assess, and mitigate risks impacting strategic objectives.
+
+\ctab{\begin{tabular}{@{}p{1.4cm}p{4.2cm}@{}}
+\toprule
+\sh \T{Category} & \T{Description + example} \\
+\midrule
+Financial & FX, interest rate, credit. \eg{High debt + rising rates = lower profit.} \\
+Operational & Equipment, supply chain. \eg{Single-supplier dependency + natural disaster.} \\
+Legal/Reg. & Law changes, compliance. \eg{New healthcare regulations raise costs.} \\
+Reputational & Media, recalls, data breaches. \eg{Contamination recall $\to$ extended trust collapse.} \\
+Strategic & New market, M\&A, product failure. \eg{Heavy R\&D on product market misses.} \\
+Cyber & Hacking, phishing, malware. \eg{Equifax: inadequate protection $\to$ breach + penalties.} \\
+\bottomrule
+\end{tabular}}
+
+\kk{7-step process:}{Identify $\to$ assess (likelihood $\times$ impact) $\to$ prioritize $\to$ develop strategies $\to$ implement $\to$ monitor $\to$ communicate.}
+
+% ═════════════════════════════════════════════════════════════
+\secbar{8. Decision Science \& Operational Frameworks}
+% ═════════════════════════════════════════════════════════════
+
+\subsection{Game Theory}
+
+Studies decisions when outcomes depend on others' actions.
+
+\kk{Prisoner's Dilemma:}{Both confess (Nash equilibrium) despite mutual silence being optimal. Self-interest leads to a collectively worse outcome. Illustrates why firms in oligopolies sometimes collude tacitly even without explicit coordination.}
+\kk{Key strategies:}{Dominant strategy (optimal regardless of rivals), Nash equilibrium (no unilateral improvement), Tit-for-Tat (cooperate first; mirror opponent), Grim Trigger (cooperate until defection; then permanently defect), Randomization (remain unpredictable).}
+\kk{Business uses:}{Pricing, advertising ROI, alliance evaluation, M\&A modeling, competitive analysis.}
+\kk{Contributors:}{Von Neumann, Morgenstern; Nash (Nobel 1994); Shapley (2012); Aumann (2005).}
+
+\subsection{Rational Model vs.\ Bounded Rationality}
+
+\kk{Rational model:}{7-step ideal (identify $\to$ gather $\to$ alternatives $\to$ evaluate $\to$ choose $\to$ implement $\to$ evaluate). Assumes perfect information and unlimited time. Idealistic.}
+\kk{Bounded rationality:}{Herbert Simon. Managers satisfice --- choose the first ``good enough'' option. Limited time, incomplete data, cognitive constraints. Realistic.}
+
+\ctab{\begin{tabular}{@{}p{1.8cm}p{1.7cm}p{2.1cm}@{}}
+\toprule
+\sh & \T{Rational} & \T{Bounded} \\
+\midrule
+Goal & Optimal & Satisfactory \\
+Assumes & Perfect info & Constraints \\
+Best for & Major decisions & Everyday choices \\
+\bottomrule
+\end{tabular}}
+
+\subsection{Transaction Cost Economics}
+
+Coase (1937, Nobel) + Williamson. Make-or-buy framework: when transaction costs (search, negotiation, monitoring) are high, internalize. When low, outsource.
+
+\kk{Key factors:}{Asset specificity (high = in-house), uncertainty (high = integrate), frequency (high = in-house). \eg{TechWare: data centers --- high specificity + high uncertainty + continuous need $\to$ build in-house despite higher upfront cost.}}
+
+\subsection{Eisenhower Matrix}
+
+\textit{``What is important is seldom urgent, and what is urgent is seldom important.''}
+
+\ctab{\begin{tabular}{@{}p{0.8cm}p{1.5cm}p{2.9cm}@{}}
+\toprule
+\sh \T{Q} & \T{Label} & \T{Action} \\
+\midrule
+Q1 & Urgent+Important & Do first (crises, deadlines) \\
+Q2 & Import, not urgent & Schedule --- highest value, most neglected \\
+Q3 & Urgent, not import & Delegate (interruptions, routine) \\
+Q4 & Neither & Eliminate (social media scrolling, busywork) \\
+\bottomrule
+\end{tabular}}
+
+\kk{Key insight:}{Q2 is where strategic leadership lives. Consistently investing here prevents Q1 crises from accumulating.}
+
+\subsection{Six Sigma}
+
+Data-driven quality methodology. Goal: 3.4 defects per million. Motorola (1980s); GE under Welch (1990s).
+
+\kk{DMAIC (improve existing):}{Define $\to$ Measure $\to$ Analyze $\to$ Improve $\to$ Control. \eg{Ford: define bottleneck $\to$ measure delays $\to$ find machinery cause $\to$ automate $\to$ sustain via dashboards.}}
+\kk{DMADV (design new):}{Define $\to$ Measure $\to$ Analyze $\to$ Design $\to$ Verify. \eg{Samsung smartphone: customer needs $\to$ benchmarks $\to$ design options $\to$ prototype $\to$ full test before launch.}}
+
+\subsection{Systems Theory}
+
+Organization = open system. Inputs (materials, capital, people, information) $\to$ Processes (operations, decisions) $\to$ Outputs (products, services) $\to$ Feedback (data that loops back to improve the system).
+
+\eg{Starbucks: beans + baristas + app $\to$ standardized drink preparation $\to$ consistent global experience $\to$ survey data + sales $\to$ new products + layout changes. One supply chain disruption (oat milk) ripples across logistics, marketing, and customer communication simultaneously.}
+
+\kk{Why it matters:}{Holistic thinking (one decision ripples everywhere), adaptability (feedback enables fast pivots), integration (breaks down silos), continuous improvement.}
+
+\subsection{Wooden Barrel Theory}
+
+A system is only as strong as its weakest element. A barrel holds water up to the height of its shortest plank, not its tallest.
+
+\eg{Produce 1,000 units/day; ship only 600 $\to$ adding production capacity does nothing; fix shipping. Brilliant creative team with no analytics $\to$ can't measure ROI; hire the analyst.}
+
+\kk{4 steps:}{Identify the weakest plank $\to$ develop targeted strategy $\to$ measure improvement $\to$ repeat (a new shortest plank always emerges).}
+
+\subsection{Contingency Theory}
+
+No single best management approach --- effectiveness depends on context (Fiedler, 1960s). Dynamic environment $\to$ flexible management. Stable environment $\to$ consistent structure. Crisis $\to$ directive leadership. Creative task $\to$ participative leadership. Large org $\to$ formalized hierarchy. Startup $\to$ flat and fast.
+
+% ═════════════════════════════════════════════════════════════
+\secbar{9. UCM Case Template \& High-Yield Reminders}
+% ═════════════════════════════════════════════════════════════
+
+\T{Case sequence:} Define the goal $\to$ scan environment (PESTLE, Five Forces, SWOT) $\to$ test resources (VRIO, value chain, core competencies) $\to$ evaluate growth options (Ansoff, vertical integration, M\&A, alliances) $\to$ check implementation and structure.
+
+\T{Always compare at least two options.} Then choose the one that fits the firm's capabilities and the industry situation.
+
+\T{For TechCore pivot cases:} Should the firm evolve, acquire, or pivot? Does the move fit the market? Do the firm's resources support it? What is the cost of execution vs.\ the cost of inaction?
+
+\T{If the industry is unattractive but the firm has strong VRIO resources:} differentiation, focus, or a protected niche is usually the answer.
+
+\T{If the industry is attractive but the firm lacks resources:} build capabilities first, partner, or make a smaller entry rather than going all in.
+
+\T{Clusters matter} because geography, suppliers, institutions, and knowledge spillovers improve productivity and innovation. Use when explaining why some firms outperform others even in the same industry.
+
+\T{Always end with one sentence on implementation risk.} That keeps the answer strategic rather than purely analytical. Examples: weak leadership, resistance to change, insufficient resources, poorly designed KPIs.
+
+\vspace{3pt}
+{\color{rule}\hrule height 0.4pt}
+\vspace{2pt}
+
+\T{Rapid revision table:}
+
+\ctab{\begin{tabular}{@{}p{1.4cm}p{4.2cm}@{}}
+\toprule
+\sh \T{Framework} & \T{Memory hook} \\
+\midrule
+Five Forces & Profit comes from the weakest force. Strong forces squeeze margins. \\
+VRIO & Advantage needs all four. Missing one = temporary or no advantage. \\
+Ansoff & New product + new market = highest risk. Always explain the direction. \\
+BCG & Fund Stars and promising Question Marks with Cash Cow profits. \\
+Blue Ocean & Create demand; don't fight for it. ERRC is the tool. \\
+BSC & What gets measured gets managed. Balance is the whole point. \\
+Chasm & Early Adopters $\ne$ Early Majority. Complete solution + niche first. \\
+TCE & High asset specificity + high uncertainty + high frequency $\to$ internalize. \\
+Eisenhower & Q2 is where strategy lives. Urgency is not importance. \\
+TBL & Profit + People + Planet. Measurement is the hard part. \\
+\bottomrule
+\end{tabular}}
+
+\vspace{2pt}
+
+\section*{Extra strategic management drills}
+\T{Industry attractiveness drill:} If you get a case on airlines, retail, telecoms, or semiconductors, start with Five Forces, then ask where the firm has a VRIO resource that can offset pressure. The best answers do not stop at describing the industry; they explain where profit is captured, who has bargaining power, and what the firm can do to improve its position.
+
+\T{Growth choice drill:} If the firm wants growth, use Ansoff first, then test whether the move is related to the current capability base. Market penetration is safest, product development is next, market development adds geography or segment risk, and diversification is only strong if the firm has clear transferable capabilities or a strong financial reason.
+
+\T{Execution drill:} If the recommendation is sound but implementation looks weak, say so directly. Check whether the structure, people, incentives, and KPIs support the strategy. A strategy can look attractive on paper and still fail because the organization cannot coordinate, measure, or sustain it.
+
+\T{Case language from class:} Use phrases like industry structure, entry barriers, switching costs, bargaining power, complementors, core competencies, dynamic capabilities, value creation, value capture, strategic fit, and implementation gap. These phrases signal that your answer is grounded in the course material rather than generic business language.
+
+\T{TechCore-style pivot logic:} A legacy firm facing disruption usually has three choices: defend the core, evolve the model, or pivot to a new growth engine. A good answer weighs the attractiveness of the new space, the speed of disruption, the firm's VRIO strengths, and the cost of not changing.
+
+\T{One-line summary of the whole course:} Strategy is about choosing where to play, how to win, and how to make the organization capable of delivering that choice repeatedly over time.
+
+\vspace{2pt}
+\T{Stock exam phrases:}
+The industry appears unattractive because the forces are strong and margins are under pressure.
+The firm appears advantaged because its resources are valuable, rare, and hard to imitate.
+The strategy is coherent only if the environment, the resources, and the implementation all fit together.
+The best growth option is the one that uses existing capabilities while creating a realistic path to scale.
+Before committing to this recommendation, the firm must address [implementation risk] or the strategy will fail in execution.
+
+\vspace{2pt}
+{\color{rule}\hrule height 0.4pt}
+\vspace{2pt}
+{\fontsize{5.8pt}{7pt}\sffamily\color{mid}
+\T{Index:} 1 Strategy fundamentals $\cdot$ 2 PESTLE $\cdot$ 3 Five Forces $\cdot$ 4 SWOT/TOWS $\cdot$ 5 VRIO/RBV $\cdot$ 6 Value chain $\cdot$ 7 Generic strategies $\cdot$ 8 Core competencies $\cdot$ 9 Dynamic capabilities $\cdot$ 10 Ansoff $\cdot$ 11 Diversification $\cdot$ 12 Vertical integration $\cdot$ 13 M\&A $\cdot$ 14 Alliances/JVs $\cdot$ 15 International strategies $\cdot$ 16 Blue Ocean $\cdot$ 17 BCG matrix $\cdot$ 18 Exit strategies $\cdot$ 19 Innovation types $\cdot$ 20 Tech adoption/chasm $\cdot$ 21 PLC $\cdot$ 22 Business models $\cdot$ 23 BMC $\cdot$ 24 Org culture $\cdot$ 25 Strategic leadership $\cdot$ 26 Agency theory $\cdot$ 27 CEO compensation $\cdot$ 28 Board of directors $\cdot$ 29 Org structures $\cdot$ 30 McKinsey 7S $\cdot$ 31 BSC $\cdot$ 32 KPIs $\cdot$ 33 TBL/green strategies $\cdot$ 34 Ethics $\cdot$ 35 Risk management $\cdot$ 36 Game theory $\cdot$ 37 Rational/bounded rationality $\cdot$ 38 TCE $\cdot$ 39 Eisenhower matrix $\cdot$ 40 Six Sigma $\cdot$ 41 Systems theory $\cdot$ 42 Wooden barrel theory $\cdot$ 43 Contingency theory}
+
+% ---------------------- Extra printer-friendly page fillers ----------------------
+\secbar{Exam One-Page Checklist}
+\bul{Read the question twice: identify objective, scope and time horizon.}
+\bul{Pick one framework explicitly (Five Forces, VRIO, Ansoff etc.).}
+\bul{State your conclusion in the first sentence (thesis first).}
+\bul{Give 2–3 evidence points with quick metrics or examples.}
+\bul{Offer one clear recommendation and one implementation risk.}
+\bul{Finish with a one-line KPI to measure success.}
+
+\secbar{30‑Second Answer Template}
+\begin{enumerate}
+  \item Thesis: one clear sentence answering the prompt.\
+  \item Framework: name and 1-line reason for choice.\
+  \item Evidence: two bullet points (data or fact + implication).\
+  \item Recommendation: single action + why it fits (capability/industry).\
+  \item Risk & Mitigation: one-line risk + mitigant.\
+\end{enumerate}
+
+\secbar{High-Yield Example Phrases}
+\bul{"Industry unattractive because forces are strong and margins compressed."}
+\bul{"Firm advantaged: resource X is valuable, rare and hard to imitate."}
+\bul{"Recommended: focus/differentiate in niche Y while building capability Z."}
+\bul{"Implementation risk: leadership bandwidth and weak KPIs."}
+
+\secbar{Common Mistakes \& Quick Fixes}
+\bul{Mistake: Listing frameworks without applying them. \quad Fix: Answer "so what?" for each point.}
+\bul{Mistake: No implementation step. \quad Fix: Add one KPI and a simple first 90-day action.}
+\bul{Mistake: Over-general recommendations. \quad Fix: Tie recommendation to a VRIO test.}
+\bul{Mistake: Ignoring ecosystem/complementors. \quad Fix: Add one sentence on partners or substitutes.}
+
+\secbar{Rapid Revision Drill (last-minute)}
+\bul{1 min: Read prompt + pick framework.}
+\bul{4 min: Draft thesis + two evidence points.}
+\bul{4 min: Recommendation, risk, KPI.}
+\bul{1 min: Quick edit for clarity and keywords from class.}
+\vspace{2pt}
+\secbar{Exam Time Allocation (suggested)}
+\bul{Quick scan & plan: 1--2 min.}
+\bul{External/internal scan (PESTLE/VRIO): 6--8 min.}
+\bul{Write thesis + evidence: 8--10 min.}
+\bul{Recommendation + implementation: 3--4 min.}
+\bul{Proofread, keywords, final polish: 1--2 min.}
+
+\secbar{Framework One‑Liners}
+\bul{Five Forces: industry profit = weakest force; identify where profit is captured.}
+\bul{VRIO: resource = advantage if Valuable + Rare + Inimitable + Organized.}
+\bul{Ansoff: safer = penetration; riskiest = diversification.}
+\bul{BCG: use Cash Cows to fund Stars; divest Dogs.}
+\bul{Blue Ocean: reduce/raise/create/eliminate to find new demand.}
+
+\secbar{Quick Metrics & Benchmarks}
+\ctab{\begin{tabular}{@{}p{2.0cm}p{4.4cm}@{}}\toprule
+\sh \T{Metric} & \T{Rule of thumb} \\\midrule
+Gross margin & >40\% healthy for premium; <20\% signals cost pressure \\
+CAC : LTV & Target LTV/CAC \textgreater{}= 3:1 for sustainable growth \\
+NPS & >30 = good; >50 = excellent \\
+Inv. turnover & Higher = leaner inventory; benchmark by sector \\
+ROIC & Compare to industry average; aim above cost of capital \\
+\bottomrule
+\end{tabular}}
+
+\secbar{Sample 120‑Word Answer (model)}
+From a Five Forces perspective the industry is unattractive because entry barriers are low (digital distribution), buyer power is high (few large enterprise customers) and rivalry is intense, compressing margins. The firm nevertheless has a valuable and rare data-analytics capability (VRIO test: V+R+I) that can be packaged as a premium service. Recommendation: pursue a focused differentiation strategy selling analytics plus implementation services to a narrow vertical (healthcare) where switching costs are higher and regulation raises barriers. Implementation risk: sales capacity and partner integration — mitigate by piloting with two reference customers and hiring a senior industry BD lead. KPI: ARR from vertical customers and gross margin on professional services.
+
+\secbar{Memory Mnemonics}
+\bul{PESTLE = Policy, Economy, Social, Tech, Legal, Environment.}
+\bul{VRIO = Value, Rarity, Imitability, Organization.}
+\bul{ERRC (Blue Ocean) = Eliminate, Reduce, Raise, Create.}
+
+\secbar{Print Tips / Consejos de impresión}
+\bul{Print double-sided to save paper and keep topics together.}
+\bul{Use grayscale or B\&W mode (the file is printer-friendly by default).}
+\bul{Scale to fit page (95--100\%) if margins clip on some printers.}
+\bul{Use `two-up' printing (2 pages per sheet) for a pocket cram-sheet.}
+\bul{Imprima a doble cara para ahorrar papel y mantener los temas juntos.}
+\bul{Use escala de grises o modo B\&N (el archivo es apto para impresión por defecto).}
+\bul{Ajuste al tamaño de página (95--100\%) si los márgenes se recortan en algunas impresoras.}
+\bul{Use impresión "two-up" (2 páginas por hoja) para una hoja de resumen de bolsillo.}
+
+\end{multicols}
+\end{document}

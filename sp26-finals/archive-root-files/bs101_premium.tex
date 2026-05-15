@@ -1,0 +1,678 @@
+\documentclass[7.5pt, letterpaper]{article}
+
+\usepackage[margin=0.35in, top=0.3in, bottom=0.3in]{geometry}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{parskip}
+\usepackage[T1]{fontenc}
+\usepackage{times}
+\usepackage{hyperref}
+\usepackage{tabularx}
+
+\setlength{\parskip}{1.2pt}
+\setlength{\parindent}{0pt}
+\setlength{\columnsep}{8pt}
+\setlength{\columnseprule}{0.3pt}
+
+\definecolor{accent}{RGB}{55, 85, 125}
+\definecolor{lightgray}{RGB}{242, 242, 242}
+\definecolor{ruled}{RGB}{180,180,180}
+\definecolor{darkgray}{RGB}{80,80,80}
+
+\hypersetup{colorlinks=true,linkcolor=accent,urlcolor=accent}
+
+\newcommand{\concept}[1]{%
+  \vspace{2.5pt}%
+  \noindent\colorbox{accent}{\parbox{\dimexpr\linewidth-2\fboxsep}{\fontsize{6.8pt}{7.5pt}\selectfont\bfseries\color{white}\strut #1\strut}}%
+  \vspace{1pt}\par%
+}
+
+\newcommand{\kv}[2]{\noindent\textbf{#1:} #2\par}
+\newcommand{\bul}[1]{\noindent$\triangleright$\ #1\par}
+
+\newcommand{\minitab}[1]{%
+  \begingroup
+  \fontsize{6.2pt}{7pt}\selectfont
+  \setlength{\tabcolsep}{2pt}
+  #1
+  \endgroup
+}
+
+\setlist[itemize]{leftmargin=7pt, itemsep=0pt, topsep=0pt, parsep=0pt, label=\tiny$\bullet$}
+\setlist[enumerate]{leftmargin=9pt, itemsep=0pt, topsep=0pt, parsep=0pt}
+
+\begin{document}
+
+\begin{center}
+{\fontsize{11pt}{13pt}\bfseries\color{accent} Business School 101 --- Complete Reference Guide}\\[1pt]
+{\fontsize{6.5pt}{8pt}\selectfont 59 Frameworks \& Concepts $\cdot$ Strategic Management}
+\end{center}
+\vspace{-2pt}
+{\color{ruled}\hrule}
+\vspace{2pt}
+
+\begin{multicols}{3}
+
+\concept{1. Strategic Management}
+Planned use of resources to reach goals; ongoing evaluation of internal processes and external factors.\\
+\kv{Benefits}{Competitive advantage, goal clarity, sustainable growth, org. cohesion, managerial awareness}
+\kv{5 Steps}{(1) Identify direction (2) Analyze resources (3) Frame strategies (4) Implement (5) Evaluate effectiveness}
+
+\concept{2. Vision / Mission / Values}
+\kv{Vision}{Future-oriented; what the firm aspires to be. \textit{Nike: ``Bring inspiration to every athlete.''}}
+\kv{Mission}{Purpose and reason for being; guides daily ops. \textit{Tesla: ``Accelerate the world's transition to sustainable energy.''}}
+\kv{Values}{Core principles shaping culture and decisions. \textit{Disney: openness, integrity, courage, diversity.}}
+Tips for vision: concise, ambitious, realistic, one sentence, unique.
+
+\concept{3. VRIO Framework}
+Internal resource analysis for sustained competitive advantage (Jay Barney, 1991).\\
+\minitab{\begin{tabular}{@{}ll@{}}
+\textbf{V} & Resource exploits opportunity or offsets threat\\
+\textbf{R} & Possessed by only one or very few firms\\
+\textbf{I} & Costly or difficult to imitate/substitute\\
+\textbf{O} & Firm organized to capture the value\\
+\end{tabular}}\\
+All four $\rightarrow$ sustained competitive advantage. Limitation: internal only; pair with PESTLE.
+
+\concept{4. PESTLE Analysis}
+External macro-environment scan. Run at least every 6 months; essential for new markets.\\
+\minitab{\begin{tabular}{@{}ll@{}}
+P & Political: govt policy, trade, lobbying\\
+E & Economic: growth, employment, interest rates, FX\\
+S & Socio-cultural: demographics, norms, values\\
+T & Technological: innovation, disruption\\
+L & Legal: regulations, court rulings\\
+E & Environmental: sustainability, natural resources\\
+\end{tabular}}
+
+\concept{5. Porter's Five Forces}
+Industry profit-potential analysis. Weaker forces = greater competitive advantage.\\
+\minitab{\begin{tabular}{@{}ll@{}}
+1 & Threat of Entry (scale, network effects, switching costs)\\
+2 & Supplier Power (concentration, differentiation)\\
+3 & Buyer Power (volume, price sensitivity)\\
+4 & Threat of Substitutes (other industries' products)\\
+5 & Rivalry (structure, growth rate, exit barriers)\\
+\end{tabular}}\\
+Structures: perfect competition $\to$ monopolistic $\to$ oligopoly $\to$ monopoly.
+
+\concept{6. SWOT Analysis}
+Situational analysis (Albert Humphrey, 1960s). Use 2x2 grid.\\
+\minitab{\begin{tabular}{@{}ll@{}}
+\textbf{S} (internal+) & Strengths: competitive capabilities\\
+\textbf{W} (internal--) & Weaknesses: underperforming areas\\
+\textbf{O} (external+) & Opportunities: favorable external factors\\
+\textbf{T} (external--) & Threats: factors that could harm the firm\\
+\end{tabular}}\\
+Tips: identify goals first; conduct brainstorming; analyze competitors regularly. Apple ex: Brand (S), premium pricing (W), wearables (O), Android dominance (T).
+
+\concept{7. Resource-Based View (RBV)}
+Internal resources are the primary driver of competitive advantage (Jay Barney, 1991).\\
+\kv{VRIN}{Valuable, Rare, Inimitable, Non-substitutable}
+Steps: (1) internal audit (2) assess VRIN (3) build strategy (4) sustain and invest.\\
+\bul{Nike: brand equity (R+I); Coca-Cola: secret formula (I); Google: culture of innovation (N)}
+
+\concept{8. Competitive Advantage Types}
+\minitab{\begin{tabular}{@{}lll@{}}
+\textbf{Type} & \textbf{How} & \textbf{Example}\\
+Cost & Lowest cost producer & Walmart, Southwest\\
+Differentiation & Unique, premium value & Apple, Ferrari\\
+Network & Connections \& partnerships & Alibaba, Mastercard\\
+\end{tabular}}\\
+\kv{Importance}{Profitability, sustainable growth, market share, bargaining power}
+\kv{5 Strategies}{Innovation, cost leadership, differentiation, customer service, branding}
+Nike: combines differentiation + branding for market leadership.
+
+\concept{9. Strategy \& Competitive Advantage}
+\kv{Strategy}{Goal-directed actions to gain and sustain superior performance vs. competitors}
+\kv{Competitive Advantage}{Always relative --- compare to industry average (e.g., 15\% ROIC is weak if industry avg is 20\%)}
+\kv{Why Strategy Matters}{Direction, efficiency, productivity, durability, leadership development}
+\kv{6-Step Formulation}{(1) Understand goals (2) Understand industry (3) Plan rational steps (4) Discuss \& critique (5) Implement (6) Evaluate \& modify quarterly/annually}
+
+\concept{10. Blue Ocean Strategy}
+Kim \& Mauborgne. Create uncontested market space rather than competing in existing markets.\\
+\minitab{\begin{tabular}{@{}ll@{}}
+Red Ocean & Compete for existing demand; price wars\\
+Blue Ocean & Create new demand; avoid competition\\
+\end{tabular}}\\
+\kv{6 Principles}{(1) Value Innovation (2) ERRC Grid: Eliminate-Reduce-Raise-Create (3) Reconstruct market boundaries (4) Reach non-customers (5) Overcome org. hurdles (6) Build execution into strategy}
+\bul{Ex: Netflix (streaming), Tesla (premium EV), Southwest (low-cost+friendly service)}
+
+\concept{11. Ansoff's Growth Matrix}
+Igor Ansoff (1957). Four growth paths by product/market combination.\\
+\minitab{\begin{tabular}{@{}lll@{}}
+ & Existing Mkt & New Mkt\\
+Existing Product & Market Penetration & Market Development\\
+New Product & Product Development & Diversification\\
+\end{tabular}}\\
+\bul{Penetration: Coca-Cola promotions; Development: Spotify $\to$ India; Product Dev: Google $\to$ Gmail; Diversification: Virgin Group}
+Risk increases moving right and down. Apply in 7 steps: assess $\to$ objectives $\to$ evaluate $\to$ feasibility $\to$ select $\to$ plan $\to$ execute.
+
+\concept{12. Diversification Strategy}
+Expand market share or enter new markets via new products.\\
+\kv{3 Reasons}{(1) Mitigate risk (2) Competitive defense (3) Increase profits}
+\minitab{\begin{tabular}{@{}ll@{}}
+Related & Shares core competency (Honda: engines $\to$ cars, ATVs, boats)\\
+Unrelated & Portfolio approach---often fails (Harley water, Starbucks furniture)\\
+Geographic & Same model, new regions (Starbucks, KFC internationally)\\
+\end{tabular}}\\
+Related diversification outperforms unrelated; strengthens brand + leverages competency.
+
+\concept{13. Vertical Integration}
+Own more stages of the value chain rather than outsourcing.\\
+\kv{Backward}{Move toward inputs --- IKEA buys forests; Amazon becomes publisher}
+\kv{Forward}{Move toward consumers --- Apple opens retail stores; McDonald's buys Dynamic Yield}
+\minitab{\begin{tabular}{@{}ll@{}}
+\textbf{Pros} & Reliability, power over suppliers/buyers, flexibility, lower prices\\
+\textbf{Cons} & High cost, management difficulty, loss of focus, reduced flexibility\\
+\end{tabular}}
+
+\concept{14. Mergers \& Acquisitions (M\&A)}
+\kv{Merger}{Two equal firms combine (Dell + EMC $\to$ Dell Technologies)}
+\kv{Acquisition}{One buys another (Facebook buys WhatsApp \$19B)}
+\kv{Benefits}{Market expansion, synergies, diversification, new tech/capabilities, financial gains}
+\kv{Failure rate}{Up to 70\% (HBR): cultural clash, poor due diligence, overpayment, integration failure}
+Success: Disney+Pixar, ExxonMobil. \textbf{Failed}: Daimler-Chrysler, Microsoft-Nokia.\\
+\kv{Key steps}{Strategy $\to$ due diligence $\to$ financing $\to$ integration plan $\to$ communicate $\to$ legal advice}
+
+\concept{15. Strategic Alliances}
+Voluntary arrangements to share knowledge, resources, capabilities.\\
+\minitab{\begin{tabular}{@{}lll@{}}
+\textbf{Type} & \textbf{Ownership} & \textbf{Knowledge Shared}\\
+Non-equity & None (contract) & Explicit only\\
+Equity & Partial stake & Explicit + tacit\\
+Joint Venture & Shared entity & Explicit + tacit\\
+\end{tabular}}\\
+\kv{Why}{Competitive position, new markets, hedge uncertainty, complementary assets, learn capabilities}
+\kv{Co-opetition}{Cooperate to grow pie; compete on how to divide it}
+70\% of alliances fail. McKinsey: clear foundation, nurture relationship, accountability metrics, dynamic partnership. Ex: BMW+Louis Vuitton, Red Bull+GoPro, Starbucks+Target.
+
+\concept{16. Joint Ventures}
+Standalone entity jointly owned by two+ parent companies. Most formal alliance type.\\
+\kv{Equity JV}{Capital for equity shares; share profit/loss (GM+SAIC in China)}
+\kv{Contractual JV}{Collaborate via contract only, no new entity (NASA+SpaceX)}
+\kv{7 Steps}{Purpose $\to$ structure $\to$ resources $\to$ governance $\to$ financials $\to$ risk/exit $\to$ monitor}
+\kv{Benefits}{New markets, shared costs/risk, combined expertise}
+\kv{Challenges}{Conflicts of interest, cultural differences, shared control delays}
+
+\concept{17. Offshoring}
+Relocate business processes to another country; own subsidiary or local partner.\\
+\kv{vs. Outsourcing}{Offshoring = different country; Outsourcing = external party}
+\kv{5 Steps}{Identify activities $\to$ select location $\to$ establish ops $\to$ integrate $\to$ monitor}
+\kv{Ex}{GE offshored back-office to India via GE Capital International Services (Genpact)}
+\minitab{\begin{tabular}{@{}ll@{}}
+\textbf{Pros} & Cost savings, global talent, market access, scalability, core focus\\
+\textbf{Cons} & Quality control, political risk, communication, IP risk, domestic job loss\\
+\end{tabular}}
+
+\concept{18. Outsourcing}
+Hire external organizations for tasks typically done in-house.\\
+\kv{5 Steps}{Core vs. non-core $\to$ select partner $\to$ SLAs $\to$ monitor $\to$ evaluate}
+\kv{Ex}{Nike: outsources manufacturing; retains design \& marketing. Dell: outsourced components $\to$ just-in-time dominance in PCs.}
+\minitab{\begin{tabular}{@{}ll@{}}
+\textbf{Pros} & Cost savings, core focus, expertise, scalability, risk mitigation\\
+\textbf{Cons} & Loss of control, communication barriers, hidden costs, security risks\\
+\end{tabular}}
+
+\concept{19. Transaction Cost Economics (TCE)}
+Coase (1937) + Williamson. Minimize hidden exchange costs to decide make vs. buy.\\
+\minitab{\begin{tabular}{@{}ll@{}}
+Transaction costs & Search, negotiation, monitoring/enforcement\\
+Asset specificity & High specificity $\to$ keep in-house\\
+Uncertainty & High uncertainty $\to$ vertical integration\\
+Frequency & High frequency $\to$ in-house investment\\
+\end{tabular}}\\
+\kv{Benefits}{Reduces opportunism, cost efficiency, greater control, better long-term decisions}
+\kv{Limits}{Risk of over-integration; hard to measure costs precisely; reduces flexibility}
+
+\concept{20. International Strategies}
+Two pressures: cost reduction vs. local responsiveness $\to$ four strategies.\\
+\minitab{\begin{tabular}{@{}llll@{}}
+\textbf{Strategy} & \textbf{Cost} & \textbf{Local} & \textbf{Example}\\
+Global Std. & High & Low & Intel, Texas Instruments\\
+Localization & Low & High & Nestl\'{e}\\
+Transnational & High & High & Caterpillar\\
+International & Low & Low & P\&G, Microsoft (hist.)\\
+\end{tabular}}\\
+International strategy vulnerable to efficient global competitors over time.
+
+\concept{21. Exit Strategies}
+Plan for how stakeholders leave or divest from a business.\\
+\minitab{\begin{tabular}{@{}ll@{}}
+Acquisition & Sell to larger firm; immediate payout (Instagram $\to$ Facebook \$1B)\\
+IPO & Go public; retain partial ownership (Spotify 2018 direct listing)\\
+MBO & Management buys out owners (Dell 2013)\\
+Family Succession & Pass to next generation (Ford family)\\
+Liquidation & Sell assets \& close; last resort\\
+\end{tabular}}\\
+\kv{Factors}{Business goals, market conditions, financial health, stakeholder objectives}
+\kv{Benefits}{Clarity, maximized value, risk management, flexibility}
+
+\concept{22. Agency Theory}
+Explains conflicts between principals (owners) and agents (managers).\\
+\kv{Assumptions}{(1) Both parties act in self-interest; (2) Agents have more information (asymmetry)}
+\kv{Types}{Shareholders vs. management; investors vs. fund managers}
+\kv{Examples}{Enron: management hid losses $\to$ bankruptcy 2001; Madoff Ponzi: \$65B fraud}
+\kv{5 Mitigations}{Contracts, restrictions, periodic evaluations, aligned bonuses, transparency}
+
+\concept{23. CEO Compensation}
+\kv{5 Components}{(1) Base salary (2) Bonuses (3) Stock options/grants (4) Long-term incentive plans (5) Perquisites}
+\kv{Key Factors}{Company size/performance, industry norms, CEO track record, governance, regulation}
+\bul{Musk: 12-tranche milestone plan tied to market cap. Zuckerberg: \$1/yr salary + equity stake. Cook: \$3M base + RSUs + performance incentives}
+\kv{Purpose}{Attract talent, motivate performance, align with shareholders, mitigate agency problems}
+
+\concept{24. Board of Directors}
+Group elected by shareholders to oversee activities and protect shareholder interests.\\
+\minitab{\begin{tabular}{@{}ll@{}}
+Chairperson & Sets agenda; links board to management\\
+Exec. Directors & Hold mgmt positions (CEO/CFO); bridge ops + strategy\\
+Non-Exec. Directors & Independent oversight; external perspective\\
+Independent Directors & No material ties; unbiased (audit, compensation)\\
+Lead Indep. Director & When CEO + chairperson roles are combined\\
+Committee Chairs & Lead audit, compensation, nominating committees\\
+Corporate Secretary & Records, compliance, governance facilitation\\
+\end{tabular}}\\
+\kv{Decision Process}{Set agenda $\to$ distribute materials $\to$ meetings $\to$ committee review $\to$ deliberate $\to$ vote $\to$ document $\to$ follow-up}
+
+\concept{25. McKinsey 7S Framework}
+Seven interdependent elements; shared values sit at the center.\\
+\kv{Hard elements}{Strategy, Structure, Systems (directly manageable)}
+\kv{Soft elements}{Skills, Staff, Style, Shared Values (cultural; equally critical)}
+Changing one element creates a domino effect through all others.\\
+\kv{5 Steps}{Assess current state $\to$ define gaps $\to$ action plans $\to$ implement with communication $\to$ evaluate \& iterate}
+\minitab{\begin{tabular}{@{}ll@{}}
+\textbf{Benefits} & Holistic view, alignment, powerful diagnostic tool\\
+\textbf{Limits} & Oversimplifies, static, ignores external environment\\
+\end{tabular}}
+
+\concept{26. Organizational Culture}
+Shared values and norms; learned through socialization in day-to-day operations.\\
+\kv{6 Benefits}{Recruitment, loyalty, job satisfaction, collaboration, work performance, less stress}
+\kv{Sources}{Founders (Walt Disney, Ben \& Jerry's) and Industry norms (pharma vs. tech)}
+\kv{6 Building Tips}{Employee wellness, grow from current culture, hire for fit, encourage positivity, foster relationships, listen more}
+\bul{86\% in strong cultures feel heard by leadership; 70\% in weak cultures do not}
+
+\concept{27. Organizational Structures}
+\minitab{\begin{tabular}{@{}lll@{}}
+\textbf{Type} & \textbf{Best For} & \textbf{Main Risk}\\
+Hierarchical & Large traditional orgs & Slow decisions, high cost\\
+Functional & Specialized efficiency & Silos, narrow scope\\
+Divisional & Large multinationals & Duplicated resources\\
+Flat & Startups, innovation & Confusion at scale\\
+Matrix & Complex projects & Dual authority, overload\\
+Network & Core-competency focus & Loss of control, secrecy\\
+\end{tabular}}\\
+No single best structure --- match to strategy, size, and industry.
+
+\concept{28. Organizational Design}
+Arranging people, resources, processes to achieve goals efficiently.\\
+\kv{5 Principles}{(1) Clarity of roles (2) Align with strategy (3) Coordination \& communication (4) Flexibility (5) Balance of authority (centralized vs. decentralized)}
+Design follows strategy. A tech company may use functional, divisional, and matrix simultaneously at different levels.
+
+\concept{29. Balanced Scorecard (BSC)}
+Kaplan \& Norton. Measure organizational performance beyond financial metrics.\\
+\minitab{\begin{tabular}{@{}ll@{}}
+Financial & Revenue, profit margin, ROI\\
+Customer & Satisfaction, retention, NPS\\
+Internal Processes & Efficiency, quality, cycle time\\
+Learning \& Growth & Training, retention, R\&D ratio\\
+\end{tabular}}\\
+\kv{5 Dev. Steps}{Vision $\to$ strategic objectives $\to$ critical success factors $\to$ KPIs $\to$ targets/initiatives}
+\minitab{\begin{tabular}{@{}ll@{}}
+\textbf{Pros} & Better communication, alignment, keeps strategy active\\
+\textbf{Cons} & Requires customization, leadership buy-in, data-intensive\\
+\end{tabular}}
+
+\concept{30. KPIs (Key Performance Indicators)}
+Quantifiable measures of long-term performance. Characteristics: relevant, measurable, specific, time-bound, actionable, appropriate.\\
+\minitab{\begin{tabular}{@{}lll@{}}
+\textbf{KPI} & \textbf{Formula} & \textbf{Example}\\
+Revenue & Price $\times$ Qty & \$50$\times$1000=\$50k\\
+Gross Margin & (Rev$-$COGS)/Rev & (50k$-$25k)/50k=50\%\\
+CAC & Mktg cost/New customers & \$50k/100=\$500\\
+CLTV & Sale$\times$Trans/yr$\times$Retention & \$100$\times$3$\times$3=\$900\\
+NPS & \%Promoters$-$\%Detractors & 50\%$-$20\%=30\\
+Turnover & Left/Total$\times$100 & 10/100$\times$100=10\%\\
+Inventory T/O & COGS/Avg inventory & \$100k/\$25k=4\\
+\end{tabular}}
+
+\concept{31. Triple Bottom Line (TBL)}
+Elkington. Companies commit to Profit + People + Planet simultaneously.\\
+\minitab{\begin{tabular}{@{}ll@{}}
+Profit & Ethical income; fair taxes; community investment\\
+People & Fair wages, diverse suppliers, equitable customer access\\
+Planet & GHG reduction, waste, energy, circular economy\\
+\end{tabular}}\\
+\kv{Examples}{DHL: 62\% renewable electricity; Ben \& Jerry's: B-Corp certified; North Face: 100\% sustainable fabrics}
+\minitab{\begin{tabular}{@{}ll@{}}
+\textbf{Benefits} & Brand reputation, retention, cost savings, transparency\\
+\textbf{Limits} & Vague; no global standard; greenwashing risk\\
+\end{tabular}}
+
+\concept{32. Risk Management}
+Process of identifying, assessing, and mitigating risks impacting strategic objectives.\\
+\minitab{\begin{tabular}{@{}ll@{}}
+Financial & Interest rates, currency, credit defaults\\
+Operational & Equipment failure, supply chain disruptions\\
+Legal/Regulatory & Law changes, compliance costs\\
+Reputational & Media, recalls, data breaches\\
+Strategic & New markets, M\&A failure, product flop\\
+Cybersecurity & Hacking, phishing, malware\\
+\end{tabular}}\\
+\kv{7 Steps}{Identify $\to$ assess $\to$ prioritize $\to$ develop strategies $\to$ implement $\to$ monitor $\to$ communicate}
+Ex: Zoom scaled + secured during COVID; Ford prioritized F-150/Mach-E during chip shortage.
+
+\concept{33. Game Theory}
+Studies strategic decisions when outcomes depend on others' actions.\\
+\kv{Prisoner's Dilemma}{Both confess (Nash equilibrium) despite mutual silence being optimal --- self-interest vs. collective good}
+\kv{Key Strategies}{Dominant strategy, Nash equilibrium, Tit-for-Tat, Grim Trigger, Randomization}
+\kv{Business Uses}{Pricing, advertising, alliances, competitive analysis, M\&A modeling}
+\kv{Contributors}{Von Neumann, Morgenstern, Nash (Nobel 1994), Shapley (2012), Aumann (2005)}
+\kv{Limits}{Assumes rationality; simplifies reality; hard to apply in practice}
+
+\concept{34. Strategic Leadership}
+Ability to influence others to make day-to-day decisions enhancing long-term viability.\\
+\kv{vs. Operational}{Operational = day-to-day problems; Strategic = big picture, long-term vision}
+\kv{8 Core Skills}{Vision, goal-setting, comfort with change, communication, collaboration, influence, execution, optimism}
+\kv{CEO Time Use}{Meetings 67\%, alone 13\%, email 7\%, calls 6\%, meals 5\%, public events 2\%}
+Archetypes: Bezos (e-commerce vision), Musk (EV + space), Jobs (consumer-first product innovation).
+
+\concept{35. Strategic Decision-Making}
+Selecting the best course of action aligned with long-term organizational goals.\\
+\kv{5 Steps}{(1) Identify problem/opportunity (2) Gather info \& analyze (3) Develop \& evaluate alternatives (4) Make the decision (5) Implement \& monitor}
+\bul{Netflix: recognized streaming opportunity early $\to$ DVD $\to$ streaming $\to$ original content}
+\bul{Apple: Jobs entered mobile after research on consumer needs $\to$ iPhone (2007)}
+\bul{Toyota Prius: evaluated fuel-efficiency alternatives in 1990s $\to$ chose hybrid}
+\bul{Amazon AWS: bold cloud entry despite risk $\to$ now most profitable segment}
+\bul{Nadella: pivoted Microsoft to cloud-first (Azure, M365)}
+
+\concept{36. Product Life Cycle (PLC)}
+\minitab{\begin{tabular}{@{}ll@{}}
+Introduction & Slow sales; demand creation; \textit{most products fail here}\\
+Growth & Sharp upturn; competitors enter; branding critical\\
+Maturity & Growth slows; saturated market; differentiation key\\
+Decline & Competition/disruption; many firms exit\\
+\end{tabular}}\\
+\kv{Extend Maturity}{Track industry evolution, monitor consumer shifts, adopt innovative tech, rebrand to align with values}
+\bul{Typewriters (late decline), VCRs (obsolete), EVs (growth), AI products (introduction)}
+
+\concept{37. Types of Innovation}
+Two dimensions: technology (existing/new) $\times$ market (existing/new).\\
+\minitab{\begin{tabular}{@{}lll@{}}
+ & \textbf{Existing Market} & \textbf{New Market}\\
+\textbf{Existing Tech} & Incremental & Architectural\\
+\textbf{New Tech} & Disruptive & Radical\\
+\end{tabular}}\\
+\kv{Incremental}{Improve existing; most common; lower risk. \textit{iPhone upgrades, Gillette razors}}
+\kv{Disruptive}{New tech for existing market. \textit{Netflix vs. Blockbuster; Uber vs. taxis}}
+\kv{Architectural}{Existing tech reconfigured for new markets. \textit{Smartwatch, desktop printer}}
+\kv{Radical}{New tech + new market; rare; usually from new entrants. \textit{Internet, AI, genome sequencing}}
+Radical innovation from new entrants: economic incentives, organizational inertia, ecosystem lock-in.
+
+\concept{38. Technology Adoption Life Cycle \& The Chasm}
+Rogers (1962). Five adopter groups by psychographic profile.\\
+\minitab{\begin{tabular}{@{}lll@{}}
+\textbf{Group} & \textbf{\%} & \textbf{Profile}\\
+Innovators & 2.5 & Engineering mindset; find bugs\\
+Early Adopters & 13.5 & Imagination-driven; see potential\\
+Early Majority & 34 & Pragmatists; want proven utility\\
+Late Majority & 34 & Conservatives; adopt standards\\
+Laggards & 16 & Skeptics; buy only if embedded\\
+\end{tabular}}\\
+\kv{The Chasm}{Gap between Early Adopters and Early Majority --- hardest transition in any new tech}
+\kv{Cross It}{(1) Target niche in early majority (big fish, small pond) (2) Offer complete solution (3) Build word-of-mouth}
+\bul{Fisker: fell in (bankruptcy 2013). Tesla: Roadster $\to$ Model S $\to$ Model 3 crossed successfully}
+
+\concept{39. Business Models}
+How a company creates, delivers, and captures value.\\
+\minitab{\begin{tabular}{@{}ll@{}}
+Razor-Blade & Low core product; profit from consumables (printers + ink)\\
+Subscription & Recurring fee for access (Netflix, Amazon Prime)\\
+Pay-as-you-go & Charge per usage (AWS, Uber, utilities)\\
+Freemium & Free basic; upsell premium (Spotify, Dropbox)\\
+Wholesale & Bulk B2B sales at lower unit price\\
+Agency & Commission-based representation (real estate, insurance)\\
+Bundling & Multiple products as one package (cable, fast food combos)\\
+\end{tabular}}
+
+\concept{40. Business Model Canvas (BMC)}
+Osterwalder. 9 building blocks visualizing how a business creates, delivers, and captures value on one page.\\
+\minitab{\begin{tabular}{@{}ll@{}}
+Customer Segments & Who the firm serves\\
+Value Propositions & What value is delivered\\
+Channels & How value reaches customers\\
+Customer Relationships & How the firm interacts\\
+Revenue Streams & How the firm earns money\\
+Key Resources & Assets needed to deliver value\\
+Key Activities & Critical actions for the model to work\\
+Key Partnerships & External collaborators\\
+Cost Structure & All operating expenses\\
+\end{tabular}}\\
+\kv{Benefits}{Clarity, flexibility, collaboration, value-creation focus}
+\kv{Limits}{Oversimplifies; lacks detailed financials; limited long-term view}
+
+\concept{41. Customer Relationship Management (CRM)}
+Strategies, tools, and tech to manage customer interactions throughout the lifecycle.\\
+\kv{4 Components}{Customer data mgmt, sales/marketing automation, customer service support, analytics \& reporting}
+\kv{How It Works}{Centralize data $\to$ automate follow-ups $\to$ personalize comms $\to$ track interactions $\to$ real-time insights $\to$ cross-team collaboration}
+\minitab{\begin{tabular}{@{}ll@{}}
+\textbf{Benefits} & Satisfaction, sales, marketing ROI, decisions, collaboration\\
+\textbf{Challenges} & Cost/complexity, user adoption resistance, data quality\\
+\end{tabular}}
+
+\concept{42. Dynamic Capabilities}
+Ability to integrate, build, and reconfigure competencies to respond to change rapidly.\\
+\minitab{\begin{tabular}{@{}ll@{}}
+\textbf{Sense} & Monitor environment; market research; data analytics\\
+\textbf{Seize} & Act quickly; allocate resources; M\&A, partnerships, R\&D\\
+\textbf{Transform} & Reconfigure resources, processes, and strategy\\
+\end{tabular}}\\
+\bul{Netflix sensed streaming shift; Xiaomi seized smartphone market; Microsoft transformed to cloud}
+\minitab{\begin{tabular}{@{}ll@{}}
+\textbf{Benefits} & Adaptability (Zoom 2020), sustained advantage, resilience\\
+\textbf{Challenges} & High R\&D cost, cultural resistance (Kodak), stability vs. flexibility\\
+\end{tabular}}
+
+\concept{43. Green Strategies}
+Sustainable practices to reduce environmental impact while creating business value.\\
+\minitab{\begin{tabular}{@{}ll@{}}
+Sustainable resource mgmt & Responsible sourcing (IKEA: 100\% sustainable wood)\\
+Energy efficiency & Renewables (Google: wind for data centers)\\
+Waste reduction & Takeback programs (Patagonia), zero-waste ops\\
+Green product design & EVs, recyclable materials (Tesla)\\
+Sustainable supply chain & All-supplier environmental standards\\
+\end{tabular}}\\
+\kv{Benefits}{Brand loyalty, long-term cost savings, regulatory compliance}
+\kv{Challenges}{High upfront cost, consumer intention-action gap, supply chain complexity}
+
+\concept{44. Digital Transformation}
+Integrating digital tech into all business areas --- shifts in mindset, culture, and business models.\\
+\kv{4 Components}{Digital tools/tech (AI, cloud), Data \& analytics, Customer-centric focus, Agility \& innovation}
+\kv{5 Steps}{Assess current state $\to$ develop digital strategy $\to$ implement solutions $\to$ cultural shift + training $\to$ monitor \& improve continuously}
+\kv{Benefits}{Efficiency (Toyota automation), customer experience (Zappos), new revenue streams (Apple ecosystem)}
+\kv{Challenges}{High implementation cost, cultural resistance, cybersecurity exposure}
+
+\concept{45. Future Trends in Strategic Management}
+\minitab{\begin{tabular}{@{}ll@{}}
+1 & Digital Transformation (Siemens: MindSphere IoT)\\
+2 & Sustainability \& CSR (Nestl\'{e}: net zero by 2050)\\
+3 & Data-Driven Decisions (Tesco: supply chain 2022)\\
+4 & Agile Strategies (Zoom: 10M$\to$300M users, months)\\
+5 & Globalization (TCS: EU innovation hubs 2023)\\
+6 & Human Capital \& Culture (Unilever: flexible work 2020)\\
+7 & Disruptive Tech (BYD: driverless taxi, Beijing 2023)\\
+8 & Ethical Leadership (Starbucks: \$1B employee benefits 2023)\\
+\end{tabular}}
+
+\concept{46. Data Analytics in Management}
+Systematic collection, processing, and analysis of data to enhance organizational decisions.\\
+\minitab{\begin{tabular}{@{}lll@{}}
+\textbf{Type} & \textbf{Question} & \textbf{Example}\\
+Descriptive & What happened? & Monthly sales report\\
+Diagnostic & Why? & Competitor $\to$ sales drop\\
+Predictive & What will happen? & Sales forecast\\
+Prescriptive & What to do? & Optimize delivery routes\\
+\end{tabular}}\\
+\kv{Applications}{Strategic planning (Amazon), demand (Walmart), CRM (Netflix), ops (UPS), fraud (JPMorgan)}
+\kv{4 Implementation Steps}{Define objectives $\to$ collect data $\to$ right tools $\to$ interpret \& act}
+
+\concept{47. Core Competencies}
+Essential capabilities not easily replicated; drive long-term competitive success.\\
+\kv{Why}{Strategic direction, competitive advantage, resource allocation}
+\kv{4 Steps}{(1) Competency audit (2) Align with customer needs (3) Invest to strengthen (4) Leverage for growth}
+\bul{Walmart: supply chain (RFID, VMI, cross-docking) $\to$ consistent low prices}
+\bul{P\&G: brand management (Tide, Pampers, Gillette) $\to$ premium pricing via consumer insights}
+\bul{Amazon: logistics mastery $\to$ expanded to AWS, Prime Video, Whole Foods}
+
+\concept{48. Eisenhower Matrix}
+Time management tool. Eisenhower: \textit{``What is important is seldom urgent.''}\\
+\minitab{\begin{tabular}{@{}lll@{}}
+\textbf{Q} & \textbf{Label} & \textbf{Action}\\
+Q1 & Urgent + Important & Do first (emergencies, deadlines)\\
+Q2 & Important, not urgent & Schedule (strategy, training, planning)\\
+Q3 & Urgent, not important & Delegate (routine emails, approvals)\\
+Q4 & Neither & Eliminate (social media, busy work)\\
+\end{tabular}}\\
+Q2 is highest-value and most neglected. Investing here prevents Q1 crises.
+
+\concept{49. Systems Theory of Management}
+Organization = open system of interrelated parts working toward a common purpose.\\
+\minitab{\begin{tabular}{@{}ll@{}}
+Inputs & Materials, capital, people, information\\
+Processes & Transformation: operations, decisions, service\\
+Outputs & Products, services, outcomes\\
+Feedback & Performance data flowing back $\to$ adjustments\\
+\end{tabular}}\\
+\kv{Importance}{Holistic thinking, adaptability, integration (no silos), continuous improvement}
+\bul{Starbucks: beans + baristas + app $\to$ consistent global experience $\to$ feedback $\to$ new products}
+
+\concept{50. Bureaucracy in Management}
+Formal system for efficiency, consistency, fairness. Max Weber.\\
+\kv{5 Features}{Division of labor, hierarchy of authority, formal rules, impersonality, merit-based employment}
+\minitab{\begin{tabular}{@{}ll@{}}
+\textbf{Benefits} & Efficiency, consistency, accountability, scalability, professionalism\\
+\textbf{Weaknesses} & Rigidity, slow decisions, impersonal, rules over results\\
+\end{tabular}}\\
+\bul{McDonald's: defined roles, manuals, merit promotions $\to$ consistent experience across 100+ countries}
+
+\concept{51. Rational Model vs. Bounded Rationality}
+\kv{Rational Model}{7-step logical process with perfect information: identify $\to$ gather $\to$ develop $\to$ evaluate $\to$ choose $\to$ implement $\to$ evaluate. \textit{Idealistic.}}
+\kv{Bounded Rationality}{Herbert Simon. Managers work under constraints; \textbf{satisfice} = first ``good enough'' option. Limited info, time pressure, cognitive limits. \textit{Realistic.}}
+\minitab{\begin{tabular}{@{}lll@{}}
+ & \textbf{Rational} & \textbf{Bounded}\\
+Goal & Optimal & Satisfactory\\
+Assumes & Perfect info & Constraints\\
+Best for & Major decisions & Everyday choices\\
+\end{tabular}}
+
+\concept{52. Contingency Theory}
+No single best management approach --- optimal practice depends on context (Fiedler, 1960s).\\
+\minitab{\begin{tabular}{@{}ll@{}}
+Environmental context & Dynamic = flexible; stable = consistent\\
+Org. structure & Align to strategy, size, task type\\
+Leadership style & Autocratic in crisis; participative for creativity\\
+Task characteristics & Simple = directive; complex = adaptive\\
+Technology & Advanced = formal; simple = flexible\\
+Org. size & Large = formalized; small = flexible \& fast\\
+\end{tabular}}\\
+\kv{Limits}{Complex to apply; reactive not proactive; lacks specific actionable guidance}
+
+\concept{53. What Is Management?}
+Process of planning, organizing, leading, and controlling resources to achieve goals efficiently and effectively.\\
+\minitab{\begin{tabular}{@{}ll@{}}
+Planning & Set objectives and determine actions\\
+Organizing & Arrange resources; assign responsibilities\\
+Leading & Motivate and guide people\\
+Controlling & Monitor; compare to goals; correct deviations\\
+\end{tabular}}\\
+\kv{Importance}{Goal achievement, efficiency, adaptability, motivation, sustainability}
+
+\concept{54. Fayol's 14 Principles}
+Henri Fayol, ``father of modern management.'' First universal management framework.\\
+\minitab{\begin{tabular}{@{}ll@{}}
+1. Division of Work & Specialize for efficiency\\
+2. Authority+Responsibility & Power with accountability\\
+3. Discipline & Respect rules and agreements\\
+4. Unity of Command & One manager per employee\\
+5. Unity of Direction & One plan per objective\\
+6. Subordination & Org over individual interest\\
+7. Remuneration & Fair and transparent pay\\
+8. Centralization & Balance authority appropriately\\
+9. Scalar Chain & Clear top-to-bottom authority line\\
+10. Order & Right person/material, right place/time\\
+11. Equity & Fair and respectful treatment\\
+12. Stability of Tenure & Reduce costly turnover\\
+13. Initiative & Encourage ideas (Google 20\% time $\to$ Gmail)\\
+14. Esprit de Corps & Teamwork and organizational harmony\\
+\end{tabular}}\\
+Foundation of modern management education; still embedded in every MBA curriculum.
+
+\concept{55. Oligopoly}
+Market with a few large firms controlling the majority of market share.\\
+\kv{Features}{High concentration, interdependence, high entry barriers, non-price competition, price rigidity}
+\minitab{\begin{tabular}{@{}ll@{}}
+Semiconductors & Intel, Samsung, TSMC\\
+Social media & Facebook, Instagram, Twitter, LinkedIn\\
+Pharmaceuticals & Pfizer, J\&J, Merck\\
+Beverages & Coca-Cola, Pepsi\\
+\end{tabular}}\\
+\minitab{\begin{tabular}{@{}ll@{}}
+\textbf{Benefits} & Economies of scale, R\&D capacity, price stability\\
+\textbf{Costs} & Higher prices, limited choice, collusion risk\\
+\end{tabular}}
+
+\concept{56. Employment vs. Entrepreneurship}
+\minitab{\begin{tabular}{@{}lll@{}}
+\textbf{Dim.} & \textbf{Employee} & \textbf{Entrepreneur}\\
+Comp. & Fixed salary & Tied to profit\\
+Security & Stable & Performance-dependent\\
+Schedule & Employer-set & Self-determined\\
+Benefits & Often provided & Self-funded\\
+Decisions & Hierarchical & Full autonomy\\
+Responsibility & Job-specific & Comprehensive\\
+\end{tabular}}\\
+\kv{Failure rates}{20\% yr 1; 45\% yr 5; 65\% yr 10; only 25\% reach yr 15}
+\kv{6 Self-Test Qs}{OK with failing? Comfortable with uncertainty? Passion? Team player? Disciplined? Healthy?}
+
+\concept{57. Six Sigma}
+Data-driven quality methodology. Goal: 3.4 defects per million opportunities. Motorola (1980s); GE (1990s).\\
+\kv{DMAIC (improve existing)}{Define $\to$ Measure $\to$ Analyze $\to$ Improve $\to$ Control}
+\kv{DMADV (design new)}{Define $\to$ Measure $\to$ Analyze $\to$ Design $\to$ Verify}
+\bul{DMAIC ex: Ford reducing assembly line bottlenecks; DMADV ex: Samsung smartphone design}
+\minitab{\begin{tabular}{@{}ll@{}}
+\textbf{Benefits} & Quality, cost savings, customer satisfaction, efficiency\\
+\textbf{Challenges} & Complexity, cultural resistance, resource-intensive\\
+\end{tabular}}
+
+\concept{58. Business Ethics \& Ethical Dilemmas}
+Moral principles guiding decisions in business. Dilemmas arise from competing values: profit, fairness, legality, social responsibility.\\
+\kv{5 Common Dilemmas}{Conflict of interest, whistleblowing, fair treatment, environmental responsibility, product safety \& transparency}
+\bul{VW emissions scandal (2015): software to cheat tests $\to$ legal penalties + reputation damage}
+\bul{Facebook/Cambridge Analytica: data shared without consent $\to$ global privacy debate}
+\bul{Nike labor practices (1990s): poor overseas conditions $\to$ later reforms + transparency}
+\kv{5 Resolution Strategies}{Apply ethical models (utilitarian/deontological), transparent communication, code of ethics, involve stakeholders, foster ethical culture}
+\kv{Benefits of ethical mgmt}{Trust, employee morale/retention, legal stability, sustainable competitive advantage}
+
+\concept{59. Wooden Barrel Theory}
+A system is only as strong as its weakest element. Performance is capped by the shortest plank.\\
+\bul{Business: production 1000 units/day but shipping only 600 $\to$ limit is 600; fix shipping first}
+\bul{Personal: exceptional closer who struggles with time mgmt; fix time mgmt for greater impact}
+\bul{Economics: booming tourism + poor transport infrastructure = unrealized potential}
+\kv{4 Steps}{(1) Identify the weakest plank (2) Develop improvement strategy (3) Measure progress (4) Repeat --- a new bottleneck always emerges}
+
+\end{multicols}
+
+\vspace{2pt}
+{\color{ruled}\hrule}
+\vspace{2pt}
+\begin{center}
+{\fontsize{5.8pt}{7pt}\selectfont\color{darkgray}
+\textbf{Index:} 1 Strategic Mgmt $\cdot$ 2 Vision/Mission/Values $\cdot$ 3 VRIO $\cdot$ 4 PESTLE $\cdot$ 5 Porter's Five Forces $\cdot$ 6 SWOT $\cdot$ 7 RBV $\cdot$ 8 Competitive Advantage Types $\cdot$ 9 Strategy $\cdot$ 10 Blue Ocean $\cdot$ 11 Ansoff Matrix $\cdot$ 12 Diversification $\cdot$ 13 Vertical Integration $\cdot$ 14 M\&A $\cdot$ 15 Strategic Alliances $\cdot$ 16 Joint Ventures $\cdot$ 17 Offshoring $\cdot$ 18 Outsourcing $\cdot$ 19 TCE $\cdot$ 20 International Strategies $\cdot$ 21 Exit Strategies $\cdot$ 22 Agency Theory $\cdot$ 23 CEO Compensation $\cdot$ 24 Board of Directors $\cdot$ 25 McKinsey 7S $\cdot$ 26 Org. Culture $\cdot$ 27 Org. Structures $\cdot$ 28 Org. Design $\cdot$ 29 Balanced Scorecard $\cdot$ 30 KPIs $\cdot$ 31 Triple Bottom Line $\cdot$ 32 Risk Management $\cdot$ 33 Game Theory $\cdot$ 34 Strategic Leadership $\cdot$ 35 Strategic Decision-Making $\cdot$ 36 Product Life Cycle $\cdot$ 37 Innovation Types $\cdot$ 38 Technology Adoption/Chasm $\cdot$ 39 Business Models $\cdot$ 40 BMC $\cdot$ 41 CRM $\cdot$ 42 Dynamic Capabilities $\cdot$ 43 Green Strategies $\cdot$ 44 Digital Transformation $\cdot$ 45 Future Trends $\cdot$ 46 Data Analytics $\cdot$ 47 Core Competencies $\cdot$ 48 Eisenhower Matrix $\cdot$ 49 Systems Theory $\cdot$ 50 Bureaucracy $\cdot$ 51 Rational/Bounded Rationality $\cdot$ 52 Contingency Theory $\cdot$ 53 Management Functions $\cdot$ 54 Fayol's 14 Principles $\cdot$ 55 Oligopoly $\cdot$ 56 Employment vs. Entrepreneurship $\cdot$ 57 Six Sigma $\cdot$ 58 Business Ethics $\cdot$ 59 Wooden Barrel Theory
+}
+\end{center}
+
+\end{document}
